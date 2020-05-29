@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: TopWalkingToursPortugal
-site_url: https://competent-panini-ec510a.netlify.com/
+site_url: https://fervent-ramanujan-c2f1f3.netlify.com/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
