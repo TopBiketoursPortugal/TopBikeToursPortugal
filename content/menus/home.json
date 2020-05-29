@@ -1,0 +1,129 @@
+{
+  "title": "Home",
+  "en": {
+    "links": [
+      {
+        "display": "Home",
+        "link": "/",
+        "description": "Go to homepage",
+        "enabled": false,
+        "isHome": true,
+        "order": 1
+      },
+      {
+        "display": "Bike Tours",
+        "link": "/bike-tours-in-portugal/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Day Tours",
+        "link": "/bike-tours-porto-portugal/",
+        "description": "Ver oferta cicloturismo",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Calendar",
+        "link": "/guided-bike-tours-calendar-portugal/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Bicycles",
+        "link": "/rent-bike-porto-portugal/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Blog",
+        "link": "/blog/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Contacts",
+        "link": "/contacts/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "About",
+        "link": "/about-us-biking-travel/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      }
+    ]
+  },
+  "pt": {
+    "links": [
+      {
+        "display": "Home",
+        "link": "/pt/",
+        "description": "Ir para a homepage",
+        "enabled": true,
+        "isHome": true,
+        "order": 1
+      },
+      {
+        "display": "Férias em Bicicleta",
+        "link": "/passeios-de-bicicleta-portugal/",
+        "description": "Ver oferta cicloturismo",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Tours Diárias",
+        "link": "/passeios-bicicleta-porto/",
+        "description": "Ver oferta cicloturismo",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Calendário",
+        "link": "/pt/calendario-tours/",
+        "description": "Ver oferta cicloturismo",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Bicicletas",
+        "link": "/pt/bicicletas/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Blog",
+        "link": "/pt/blog/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Contactos",
+        "link": "/pt/contactos/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      },
+      {
+        "display": "Sobre nós",
+        "link": "/pt/sobre-nos/",
+        "enabled": true,
+        "isHome": false,
+        "order": 1
+      }
+    ]
+  }
+}
