@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: TopWalkingToursPortugal
+  branch: TopBikeToursPortugal
 site_url: https://competent-panini-ec510a.netlify.com/
 # publish_mode: editorial_workflow
 media_folder: static/img
