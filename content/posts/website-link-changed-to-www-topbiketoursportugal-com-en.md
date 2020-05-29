@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/update-website-new-link-top-bike-tours-in-portugal/
-title: Website link changed to topbiketoursportugal.com
+title: Website link changed to topwalkingtoursportugal.com
 language: en
 date: 2017-10-17T23:00:00.000Z
 featuredImage: /img/top-bike-tours-portugal-logo.png
@@ -20,7 +20,7 @@ languagePages: []
 ---
 # News
 
-Fold n´Visit as changed the old website link www.foldnvisit.com to a new one www.topbiketoursportugal.com
+Fold n´Visit as changed the old website link www.foldnvisit.com to a new one www.topwalkingtoursportugal.com
 
 This improvement was decided to make us more clear in what we do.
 

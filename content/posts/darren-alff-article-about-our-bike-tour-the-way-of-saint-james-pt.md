@@ -36,11 +36,11 @@ Também os videos disponiveis no youtube:
 
 Não se esqueça também de espreitar os vídeos disponíveis no youtube:
 
-"[O Caminho de Santiago](https://topbiketoursportugal.com/santiago-compostela-pela-costa/) é uma rede de percursos com destino ao túmulo do apóstolo Santiago, situado na catedral de Santiago de Compostela.
+"[O Caminho de Santiago](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/) é uma rede de percursos com destino ao túmulo do apóstolo Santiago, situado na catedral de Santiago de Compostela.
 
 Pessoas de todo o mundo viajam até Portugal e Espanha, de modo a percorrerem a pé ou de bicicleta, uma das muitas rotas que os levará a este destino. Enquanto uns iniciam esta jornada com um objectivo espiritual, outros fazem-no como forma de lazer.
 
-Apesar de ser possível percorrer todo este caminho sozinho, muitos optam por participar em [passeios de bicicleta, guiados ou auto-guiados,](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) visto que este meio de transporte oferece uma das formas mais fáceis de se alcançar a catedral de Santiago de Compostela.
+Apesar de ser possível percorrer todo este caminho sozinho, muitos optam por participar em [passeios de bicicleta, guiados ou auto-guiados,](https://topwalkingtoursportugal.com/passeios-de-bicicleta-portugal/) visto que este meio de transporte oferece uma das formas mais fáceis de se alcançar a catedral de Santiago de Compostela.
 
 Para aqueles que desejam percorrer o caminho de bicicleta, um dos melhores percursos tem início no Porto. Daí percorrerá a costa em direcção ao Norte, aproximadamente durante 278 km. Após alcançar o seu objectivo, volte ao Porto, voltando a casa a partir daqui.
 

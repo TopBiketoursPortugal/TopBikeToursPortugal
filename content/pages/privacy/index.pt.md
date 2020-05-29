@@ -8,7 +8,7 @@ meta:
 ---
 # **Política de Privacidade**
 
-Fold n´Visit – Rent a bike, Unip, Lda (referida aqui como ”Top Bike Tours Portugal") respeita a privacidade da sua informação pessoal e compromete-se a proteger todos e quaisquer dados que partilhe connosco. Ao usar o site www.topbiketoursportugal.com você está de acordo com os nossos termos de Política de Privacidade. À empresa é reservado o direito de adicionar, remover ou modificar estes termos a qualquer altura. Incentivamos a que verifique esta página periodicamente para estar a par de qualquer alteração.
+Fold n´Visit – Rent a bike, Unip, Lda (referida aqui como ”Top Bike Tours Portugal") respeita a privacidade da sua informação pessoal e compromete-se a proteger todos e quaisquer dados que partilhe connosco. Ao usar o site www.topwalkingtoursportugal.com você está de acordo com os nossos termos de Política de Privacidade. À empresa é reservado o direito de adicionar, remover ou modificar estes termos a qualquer altura. Incentivamos a que verifique esta página periodicamente para estar a par de qualquer alteração.
 
 **Informação Pessoal**
 
@@ -18,7 +18,7 @@ Sempre que navegar neste site sem se ter registado para qualquer serviço, com a
 
 **Recolha e Utilização de Dados Pessoais**
 
-A Top Biketours Portugal rastreia automaticamente certas informações enquanto usa o nosso site, incluindo, mas não limitado a, URL da qual você provém antes de www.topbiketoursportugal.com, a URL que você visita depois de www.topbiketoursportugal.com e o seu endereço IP. Poderemos ainda gravar dados sobre que páginas visita no nosso site e quanto tempo permanece em cada página.
+A Top Biketours Portugal rastreia automaticamente certas informações enquanto usa o nosso site, incluindo, mas não limitado a, URL da qual você provém antes de www.topwalkingtoursportugal.com, a URL que você visita depois de www.topwalkingtoursportugal.com e o seu endereço IP. Poderemos ainda gravar dados sobre que páginas visita no nosso site e quanto tempo permanece em cada página.
 
 A Top Biketours Portugal pode ainda colectar informações agregadas de uso, por forma a gerar relatórios de pesquisa. Dados demográficos, como a idade, sexo e interesses fornecidos pela Google, são colectados e usados para analisar o nosso site, através do Google Analytics Demographics e Interest Reporting. Anúncios de remarketing da Google são publicitados no site a usuários que visitem páginas específicas no site.
 
@@ -28,7 +28,7 @@ O site Top Biketours Portugal faz uso de cookies, pequenos arquivos de dados que
 
 **Links para outros sites**
 
-Este site contém links para outros sites fora do nosso domínio e, portanto, www.topbiketoursportugal.com não se pode responsabilizar pelas práticas de privacidade de tais sites externos. Incentivamos os nossos usuários a permanecerem atentos quando visitam esses mesmos sites e a lerem as suas declarações de privacidade, no que à colecta de informações pessoais ou de cartão de crédito diz respeito. Esses cuidados devem estar presentes, mesmo em sites afiliados que exibam o logo da Top Biketours Portugal.
+Este site contém links para outros sites fora do nosso domínio e, portanto, www.topwalkingtoursportugal.com não se pode responsabilizar pelas práticas de privacidade de tais sites externos. Incentivamos os nossos usuários a permanecerem atentos quando visitam esses mesmos sites e a lerem as suas declarações de privacidade, no que à colecta de informações pessoais ou de cartão de crédito diz respeito. Esses cuidados devem estar presentes, mesmo em sites afiliados que exibam o logo da Top Biketours Portugal.
 
 **Compromisso de Privacidade**
 
@@ -40,4 +40,4 @@ Os clientes da Top Biketours Portugal podem, a qualquer momento, requisitar info
 
 **Segurança**
 
-www.topbiketoursportugal.com encontra-se protegido com encriptação SSL, por forma a prevenir a perda, abuso e alteração da informação sob nosso controlo. Embora nenhuns dados na internet sejam completamente seguros, todos os pagamentos por cartão de crédito via www.topbiketoursportugal.com são encriptados automaticamente. Se o seu browser não suportar encriptação SSL, receberá imediatamente uma notificação. A Top Biketours Portugal não usa cartões de crédito para nenhum outro propósito que não o de pagamento de serviços.
+www.topwalkingtoursportugal.com encontra-se protegido com encriptação SSL, por forma a prevenir a perda, abuso e alteração da informação sob nosso controlo. Embora nenhuns dados na internet sejam completamente seguros, todos os pagamentos por cartão de crédito via www.topwalkingtoursportugal.com são encriptados automaticamente. Se o seu browser não suportar encriptação SSL, receberá imediatamente uma notificação. A Top Biketours Portugal não usa cartões de crédito para nenhum outro propósito que não o de pagamento de serviços.

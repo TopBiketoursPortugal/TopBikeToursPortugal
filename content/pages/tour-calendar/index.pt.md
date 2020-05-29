@@ -21,41 +21,41 @@ dates:
   - body: >-
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2020-10-10T23:00:00.000Z
     type: Date
   - body: >-
       [Costa da Prata - Porto a Coimbra Guided Bike tour
-      Plus](https://topbiketoursportugal.com/costa-da-prata-rota-1/)
+      Plus](https://topwalkingtoursportugal.com/costa-da-prata-rota-1/)
     date: 2020-10-02T23:00:00.000Z
     type: Date
   - body: >-
       [Costa da Prata - Porto a Coimbra Guided Bike
-      tour](https://topbiketoursportugal.com/costa-da-prata-rota-1/)
+      tour](https://topwalkingtoursportugal.com/costa-da-prata-rota-1/)
     date: 2020-09-19T23:00:00.000Z
     type: Date
   - body: >-
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2020-09-05T23:00:00.000Z
     type: Date
   - body: >-
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2020-06-06T23:00:00.000Z
     type: Date
   - body: >-
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2020-05-08T23:00:00.000Z
     type: Date
   - body: >-
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2021-06-29T11:52:25.780Z
     type: Date
   - body: >-
@@ -64,7 +64,7 @@ dates:
 
       [Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)
+      tour](https://topwalkingtoursportugal.com/santiago-compostela-pela-costa/)
     date: 2020-05-23T11:29:06.166Z
     type: Date
 ---

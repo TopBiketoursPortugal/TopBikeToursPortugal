@@ -28,7 +28,7 @@ languagePages:
 
 As we explained to all our customers, our way in the first 3 days touches 70% the original route of the coast. We've changed the original coast path so it's easy for most people.
 
-However, this couple from Brazil took the liberty of following the [Camino to Santiago the coast path ](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tour/)by following the arrows and pedaling through more complicated rails, making this adventure even more unforgettable.
+However, this couple from Brazil took the liberty of following the [Camino to Santiago the coast path ](https://topwalkingtoursportugal.com/porto-santiago-compostela-bike-tour/)by following the arrows and pedaling through more complicated rails, making this adventure even more unforgettable.
 
 Thanks for the photos Carmen and Fernando
 

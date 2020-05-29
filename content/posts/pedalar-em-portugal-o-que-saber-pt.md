@@ -40,6 +40,6 @@ Uma das maiores preocupações da maioria dos ciclistas é o tráfego. Garantimo
 
 Ao participar num dos nossos bike tours, apenas necessita de vontade para aproveitar e desfrutar da melhor maneira possível, sabendo que tudo foi organizado para si.
 
-Créditos: [**Henrique Vareta**](https://topbiketoursportugal.com/about-us-biking-travel/)
+Créditos: [**Henrique Vareta**](https://topwalkingtoursportugal.com/about-us-biking-travel/)
 
 ![guia turístico em bicicleta Henrique Vareta](/img/henrique-1-.jpg "guia turístico em bicicleta Henrique Vareta")

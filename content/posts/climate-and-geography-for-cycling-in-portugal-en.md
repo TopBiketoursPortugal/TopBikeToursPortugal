@@ -50,6 +50,6 @@ In the South of Portugal, after **Lisbon** and the Tejo River, is the **southern
 
 More to the south is the **Algarve** region that is very popular because it is a tourist destination. This region is very dry and sunny and you can find here amazing beaches.
 
-The [Vicentine Coast and Algarve bike tour ](https://topbiketoursportugal.com/south-portugal-biketour/)is a great journey for those who seek for beach and wild scenery.
+The [Vicentine Coast and Algarve bike tour ](https://topwalkingtoursportugal.com/south-portugal-biketour/)is a great journey for those who seek for beach and wild scenery.
 
 In Central and Northern Portugal, the coastline as also many white sandy beaches, and in the summertime, especially in August, are full of people.

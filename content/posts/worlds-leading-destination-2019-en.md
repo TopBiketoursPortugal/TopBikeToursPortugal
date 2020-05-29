@@ -20,6 +20,6 @@ Congratulations to all the organizations and company´s in Portugal that have co
 
 Top bike tours Portugal as done it´s job showing our Portugal bicycle routes to our customers.
 
-Our [**Bike tours in Portugal**](https://topbiketoursportugal.com/) are available all year. Check out our [**calendar**](https://topbiketoursportugal.com/guided-bike-tours-calendar-portugal/) if you are looking for a guided bike tour.
+Our [**Bike tours in Portugal**](https://topwalkingtoursportugal.com/) are available all year. Check out our [**calendar**](https://topwalkingtoursportugal.com/guided-bike-tours-calendar-portugal/) if you are looking for a guided bike tour.
 
 ![combination with sea and cycling paths in portugal](/img/The-Way-of-St.-James-Bike-Tour-Fold-N-Visit-Cycling-Holidays-0071.jpg "Combination with sea and cycling paths in portugal")
