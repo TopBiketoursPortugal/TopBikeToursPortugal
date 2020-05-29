@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  background: #f9f9f9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+
+h2 {
+  font-size: 2rem;
+}
+p {
+  font-size: 1.25rem;
+}
+header {
+  min-height: 115px;
+}
+@keyframes bounce {
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.scrollTop {
+  opacity: 0.7;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 60px;
+  border: none;
+  background: #2e2f2e;
+  color: #fff;
+  padding: 7px;
+  border-radius: 4px;
+  padding-bottom: 9px;
+  &:hover {
+    opacity: 1;
+    cursor: pointer;
+    span {
+      // display:none;
+      opacity: 0;
+    }
+    svg {
+      transform: translateY(7px);
+    }
+  }
+  svg {
+    width: 30px;
+    margin-top: 0;
+    margin-bottom: -7px;
+    transition: all 200ms linear;
+  }
+  span {
+    font: 12px Lato, sans-serif;
+    opacity: 1;
+    transition: all 200ms linear;
+  }
+}
+
+.feature {
+  height: 50vh;
+  overflow: hidden;
+  .gatsby-image-wrapper {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    // .h1 {
+    //   color: #fff;
+    // }
+  }
+
+  .fBanner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+    text-shadow: #222222 1px 2px 1px;
+    .fBannerTitle {
+      margin-top: 10px;
+    }
+    .fBannerButton {
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+.home {
+  display: block;
+  margin: 50px auto;
+  margin-top: 40px;
+  padding: 15px;
+
+  img {
+    width: 100%;
+  }
+}
+
+.scrollButton {
+  width: 70px;
+  border: none;
+  background-color: transparent;
+  transition: all 100ms linear 100ms;
+  display: block;
+  margin: 20px auto;
+
+  &:focus {
+    border: none;
+    outline: none;
+  }
+
+  &:hover {
+    cursor: pointer;
+    transform: scale3d(1.1);
+    animation: none;
+  }
+
+  &.animatedScrollButton {
+    color: #fff;
+    animation: bounce 2s infinite;
+  }
+}
+
+.scrollButtonContainer {
+  margin-top: -100px;
+  width: 100%;
+  text-align: center;
+  z-index: 999;
+  color: #fff;
+  position: absolute;
+}

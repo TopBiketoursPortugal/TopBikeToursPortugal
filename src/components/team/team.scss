@@ -1,0 +1,57 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+.teamList {
+  margin-top: 50px;
+  h2 {
+    margin-bottom: 50px;
+  }
+}
+.team {
+  margin-bottom: 35px;
+  .name {
+    margin-top: 20px;
+    color: #383838;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .role {
+    color: #888888;
+    font-size: 13px;
+    font-style: italic;
+    margin-bottom: 8px;
+    letter-spacing: 0.2px;
+  }
+  .divider {
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    width: 45px;
+    padding-top: 12px;
+    color: #cecece;
+    margin-bottom: 45px;
+  }
+  .bio {
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    line-height: 1.7;
+  }
+  .image {
+    max-height: 297px;
+    overflow: hidden;
+
+    .gatsby-image-wrapper img {
+      transition: transform 100ms linear, opacity 500ms ease 0s !important;
+      &:hover {
+        transform: scale3d(1.25, 1.25, 1.25);
+      }
+    }
+  }
+
+  @include media-breakpoint-down(xs) {
+    .image {
+      max-height: 500px;
+    }
+  }
+}

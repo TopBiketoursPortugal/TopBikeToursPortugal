@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 40 500 400" preserveAspectRatio="xMinYMin meet" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+.cls-1{font-size:52.6px;fill:#211915;font-family:CenturyGothic, Century Gothic;letter-spacing:0.06em;}
+.cls-2{font-size:26.3px;letter-spacing:0.06em;}
+.cls-3{font-size:70.14px;font-family:CenturyGothic-Bold, Century Gothic;font-weight:700;}
+.cls-3,.cls-6{fill:#040006;}.cls-4{fill:#bd5530;letter-spacing:0em;}.cls-5{fill:#b35432;}</style>
+</defs>
+<text class="cls-1" transform="translate(120.65 360.11)">portugal
+<tspan class="cls-2">
+<tspan x="48.34" y="31.56">fold n´visit</tspan>
+</tspan>
+</text>
+<text class="cls-3" transform="translate(17.62 300.36)">
+<tspan xml:space="preserve"> top</tspan>
+<tspan class="cls-4" x="131.85" y="0">biketours</tspan>
+</text>
+<path class="cls-5" d="M68.37,234.16a61.92,61.92,0,0,1,118.49,0h11.85a73.34,73.34,0,0,0-142.19,0Z"/>
+<path class="cls-5" d="M311,193.53q2.1,5.82,4.12,11.32a62,62,0,0,0-19.33,29.31H284A73.45,73.45,0,0,1,311,193.53Z"/>
+<path class="cls-5" d="M426.16,234.16H414.31a62,62,0,0,0-78.72-40.78q-1.84-5-3.89-10.75a73.44,73.44,0,0,1,94.46,51.53Z"/>
+<path class="cls-6" d="M219.05,234.16h-7.36L184.63,147.7a39.55,39.55,0,0,0,7.56.65Z"/>
+<path class="cls-6" d="M262.6,234.16l55.94-59a3.52,3.52,0,0,0-5.11-4.83l-60.5,63.88Z"/>
+<rect class="cls-6" transform="translate(-61.37 206.61) rotate(-38.94)" x="201.69" y="186.6" width="119.69" height="7.03"/>
+<path class="cls-6" d="m198 177.39l-14.29 15.73c-1.48-1.42-3-2.77-4.6-4.06l14.34-15.8a3.07 3.07 0 0 1 4.55 4.13z"/>
+<path class="cls-5" d="m161.86 130.38v4.11s28.1 7.9 31.62 6.15 29.86-11.42 29.86-11.42-5.27-7-8.79-7c-2.88 0-24.08 1.19-41.78-1.3a9.58 9.58 0 0 0 -10.91 9.46z"/>
+<path class="cls-6" d="M264.49,100.66l28.07-2.55a8.13,8.13,0,0,1,8.09,11.55l-3.06,6.5a16.94,16.94,0,0,0-.7,12.83c9.34,27.15,30.17,87,38.4,105.17h7.78c-4-7-19.29-48.58-39.54-107.45a10.05,10.05,0,0,1,.41-7.56l3.06-6.5a15.13,15.13,0,0,0-15.07-21.53l-28.08,2.55a3.51,3.51,0,1,0,.64,7Z"/>
+</svg>

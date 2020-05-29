@@ -1,0 +1,89 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/buttons";
+@import "~bootstrap/scss/forms";
+
+.MuiPaper-root {
+  margin-bottom: 35px !important;
+}
+
+.specs {
+  .row {
+    padding: 25px 0;
+  }
+  svg {
+    padding-top: 7px;
+  }
+}
+
+.tour-booking-overlay {
+  z-index: 999;
+}
+
+.tour-booking {
+  // margin-top: -120px;
+  z-index: 999;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.2);
+
+  .price {
+    margin-right: 10px;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+  }
+
+  textarea {
+    min-height: 100px;
+  }
+
+  .tour-booking-head {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .tour-booking-tail {
+    font-size: 32px;
+    font-weight: 800;
+    // text-decoration: line-through;
+  }
+
+  .hasDiscount {
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: line-through;
+  }
+
+  .tour-booking-tour-discount-price {
+    font-size: 32px;
+    font-weight: 800;
+  }
+
+  .tour-booking-form {
+    padding: 28px 20px 34px;
+    border-color: #e1e1e1;
+    background-color: #ffffff;
+
+    input {
+      font-size: 20px;
+    }
+
+    .tour-booking-enquiry-term {
+      font-size: 14px;
+    }
+  }
+  .tour-booking-header-price-wrap {
+    position: relative;
+    text-align: center;
+    padding: 38px 20px 34px;
+    background-color: #D8532A;
+    color: #fff;
+  }
+
+  .noDiscount {
+    display: none;
+  }
+}
