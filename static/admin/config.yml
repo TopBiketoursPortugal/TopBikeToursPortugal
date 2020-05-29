@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: TopBikeToursPortugal
-site_url: https://competent-panini-ec510a.netlify.com/
+site_url: https://boring-kepler-5712ff.netlify.com/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
