@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
   branch: TopBikeToursPorto
-site_url: https://quizzical-fermi-2c70c8.netlify.com/
+  repot: TopBiketoursPortugal/TopBikeToursPortugal/tree/TopBikeToursPorto
+  site_url: quizzical-fermi-2c70c8.netlify.app/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
