@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: TopBikeToursPortugal/TopBikeToursPortugal
   branch: TopBikeToursPortugal
-site_url: https://boring-kepler-5712ff.netlify.com/
+  site_url: https://boring-kepler-5712ff.netlify.com/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
