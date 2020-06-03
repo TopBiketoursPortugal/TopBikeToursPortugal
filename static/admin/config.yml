@@ -1,7 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: TopBiketoursPortugal/TopBikeToursPortugal/tree/TopWalkingToursPortugal
   branch: TopWalkingToursPortugal
-site_url: https://fervent-ramanujan-c2f1f3.netlify.com/
+  site_url: https://fervent-ramanujan-c2f1f3.netlify.app/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
