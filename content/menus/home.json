@@ -18,28 +18,6 @@
         "order": 1
       },
       {
-        "display": "Day Tours",
-        "link": "/bike-tours-porto-portugal/",
-        "description": "Ver oferta cicloturismo",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
-        "display": "Calendar",
-        "link": "/guided-bike-tours-calendar-portugal/",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
-        "display": "Bicycles",
-        "link": "/rent-bike-porto-portugal/",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
         "display": "Blog",
         "link": "/blog/",
         "enabled": true,
@@ -76,29 +54,6 @@
         "display": "Férias em Bicicleta",
         "link": "/passeios-de-bicicleta-portugal/",
         "description": "Ver oferta cicloturismo",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
-        "display": "Tours Diárias",
-        "link": "/passeios-bicicleta-porto/",
-        "description": "Ver oferta cicloturismo",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
-        "display": "Calendário",
-        "link": "/pt/calendario-tours/",
-        "description": "Ver oferta cicloturismo",
-        "enabled": true,
-        "isHome": false,
-        "order": 1
-      },
-      {
-        "display": "Bicicletas",
-        "link": "/pt/bicicletas/",
         "enabled": true,
         "isHome": false,
         "order": 1
