@@ -1,8 +1,8 @@
 backend:
   name: github
   repo: TopBiketoursPortugal/TopBikeToursPortugal
-  branch: TopBikeToursPortugal
-  site_url: https://boring-kepler-5712ff.netlify.app/
+  branch: TopWalkingToursPortugal
+  site_url: https://fervent-ramanujan-c2f1f3.netlify.app/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
