@@ -21,7 +21,7 @@ Considering the widespread concern in the resumption of economic and social acti
 
 Top Bike tours Portugal is a "Clean and Safe" establishment.
 
-![clean and safe bike tours in portugal](/img/clean-safe-1-.jpg "clean and safe bike tours in portugal")
+![clean and safe bike tours in portugal](/img/clean-safe-bike-tours-in-portugal.jpg "clean and safe bike tours in portugal")
 
 ## Internal training and establishing procedures to all staff:
 
