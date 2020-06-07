@@ -31,7 +31,7 @@ blogsection:
 ---
 # Portugal Bike Tours
 
-## Discover Portugal on bicycle with Top Bike tours Portugal[](https://topbiketoursportugal.com/covid-19-requirements-to-comply-with)
+## Discover Portugal on bicycle with Top Bike tours Portugal
 
 Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
 
