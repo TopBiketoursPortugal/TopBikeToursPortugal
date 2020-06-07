@@ -1,21 +1,20 @@
 ---
 templateKey: blog-post
 path: /climate-and-geography-in-portugal-for-cycling/
+showHome: true
 title: Climate and Geography for cycling in Portugal
 language: en
 date: 2020-01-25T15:35:57.313Z
-featuredImage: /img/mapa_final_novologo_-04-100-pixeis.png
+featuredImage: /img/mapa_final_novologo_-04-100-pixeis-1-.png
 featuredImagePosition: center center
 meta:
   description: Climate and Geography for cycling in Portugal
-  keywords: >-
-    Climate and Geography for cycling in Portugal, climate in portugal, weather
-    for cycling portugal
+  keywords: Climate and Geography for cycling in Portugal, climate in portugal,
+    weather for cycling portugal
   robots: INDEX
   title: Climate and Geography for cycling in Portugal
   language: EN
 languagePages: []
-showHome: true
 ---
 # Climate and Geography for cycling in Portugal
 
@@ -40,9 +39,7 @@ The summer in the southern Portugal and Algarve is very hot and dry, and it is v
 \
 The important rivers in Portugal are **Mondego**, **Douro**, **Minho** and **Tejo**. The Mondego begins in Serra da Estrela where is the highest mountain in Portugal. This river crosses Coimbra (the third big city in the country after Lisbon and Porto), and ends in the sea at Figueira da Foz. Douro and Minho both rise in Spain and flow into the Atlantic. Tejo also rise in Spain is the main river and meets the Atlantic in Lisbon.
 
-
-
-![Climate and Geography for cycling in Portugal](/img/mapa_final_novologo_-04-100-pixeis.png "Climate and Geography for cycling in Portugal")
+![Climate and Geography for cycling in Portugal](/img/mapa_final_novologo_-04-100-pixeis-1-.png "Climate and Geography for cycling in Portugal")
 
 The **North of Portugal** is mountainous and hilly and it is easy to find small farms and vineyards. North is cooler that the south and also have more rain. Although the mountain’s our bike tour in the North is almost flat due the fact that follows the banks Minho and Lima river. 
 
