@@ -29,10 +29,13 @@ blogsection:
     that surprise and exceeded expectations.
   heading: "## Latest blog posts"
 ---
-
 # Portugal Bike Tours
 
 ## Discover Portugal on bicycle with Top Bike tours Portugal
+
+![clean and safe cycling in Portugal](/img/clean-safe-bike-tours-in-portugal.jpg "clean and safe cycling in Portugal")
+
+[Clean&Safe](https://topbiketoursportugal.com/covid-19-requirements-to-comply-with)
 
 \
 Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
