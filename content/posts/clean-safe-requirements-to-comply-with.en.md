@@ -5,7 +5,7 @@ showHome: false
 title: "Clean & Safe: Requirements to comply with"
 language: en
 date: 2020-06-07T15:26:23.495Z
-featuredImage: /img/clean-safe-1-.jpg
+featuredImage: /img/clean-safe-bike-tours-in-portugal.jpg
 featuredImagePosition: center center
 meta:
   language: EN
