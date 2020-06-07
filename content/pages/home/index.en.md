@@ -29,13 +29,12 @@ blogsection:
     that surprise and exceeded expectations.
   heading: "## Latest blog posts"
 ---
-
 # Portugal Bike Tours
 
 ## Discover Portugal on bicycle with Top Bike tours Portugal
 
 \
-Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
+Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views
 
 The **[bike tours](https://topwalkingtoursportugal.com/bike-tours-in-portugal/)** we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
 
