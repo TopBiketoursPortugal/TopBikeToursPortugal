@@ -8,7 +8,7 @@ meta:
 ---
 # **Política de Privacidade**
 
-Fold n´Visit – Rent a bike, Unip, Lda (referida aqui como ”Top Bike Tours Portugal") respeita a privacidade da sua informação pessoal e compromete-se a proteger todos e quaisquer dados que partilhe connosco. Ao usar o site www.topbiketoursportugal.com você está de acordo com os nossos termos de Política de Privacidade. À empresa é reservado o direito de adicionar, remover ou modificar estes termos a qualquer altura. Incentivamos a que verifique esta página periodicamente para estar a par de qualquer alteração.
+Top Bike Tours Portugal, Unipessoal, Lda respeita a privacidade da sua informação pessoal e compromete-se a proteger todos e quaisquer dados que partilhe connosco. Ao usar o site www.topbiketoursportugal.com você está de acordo com os nossos termos de Política de Privacidade. À empresa é reservado o direito de adicionar, remover ou modificar estes termos a qualquer altura. Incentivamos a que verifique esta página periodicamente para estar a par de qualquer alteração.
 
 **Informação Pessoal**
 
