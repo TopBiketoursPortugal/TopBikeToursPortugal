@@ -209,6 +209,43 @@ pricing:
     observations: ""
     discount: ""
     price: 1895
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Biketour plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: GPS With route per booking
+        value: \-
+      - title: Bike rent
+        value: Yes (extra 150 € for road bike)
+      - title: Guide
+        value: Yes
+      - title: Mechanical Assistance
+        value: Yes
+      - title: 6 lunches
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: 2.456 €
+      - title: June 26 to September 26 Prices
+        value: + 150 €
+      - title: Min. Participants
+        value: "2"
+    price: 2456
 afterpricing: >-
   **Observations:**
 
