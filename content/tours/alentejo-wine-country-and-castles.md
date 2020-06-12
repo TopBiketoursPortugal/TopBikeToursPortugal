@@ -116,6 +116,15 @@ itinerary:
     location:
       lat: "40.1482816"
       lng: "40.1482816"
+gallery:
+  - image: /img/20190616_141326.jpg
+    alt: Evora bicycle loop
+  - image: /img/20190616_164409.jpg
+    alt: evora cromlech
+  - image: /img/img_20180614_084342_hdr.jpg
+    alt: évora paved cycling road
+  - image: /img/img_20180613_195201_hdr-1-.jpg
+    alt: evora roman ruin
 pricing: []
 feature:
   align: center
