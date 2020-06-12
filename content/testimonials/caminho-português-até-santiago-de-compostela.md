@@ -11,7 +11,7 @@ quote: "Não sou de fazer avaliações, mas esta fiz questão!!! Sobre o passeio
 date: 2015-10-19T23:00:00.000Z
 showHome: false
 reviewSource: https://www.tripadvisor.co.uk/ShowUserReviews-g189180-d4105907-r320331183-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
-score: 0
+score: 5
 author:
   country: Brasil
   avatar: /img/emmet.jpg
