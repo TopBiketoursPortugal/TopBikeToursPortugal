@@ -125,6 +125,10 @@ gallery:
     alt: évora paved cycling road
   - image: /img/img_20180613_195201_hdr-1-.jpg
     alt: evora roman ruin
+  - image: /img/3601286146_310d369b2f_o.jpg
+    alt: Crato pottery
+  - image: /img/3668902145_3f85ae040b_o.jpg
+    alt: Alqueva lake
 pricing: []
 feature:
   align: center
