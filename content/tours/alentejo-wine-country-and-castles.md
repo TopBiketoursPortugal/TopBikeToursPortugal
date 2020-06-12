@@ -54,10 +54,9 @@ The start of Alentejo cycling tour is in Estremoz, the city of marble. Mainly in
 * If you rent a road bicycle the route will be 100% in paved roads.
 * 1790 meters of cumulative gap climbs
 
+**Itinerary:**
 
-
-Day 1: Reception in Lisbon
-Day 2: Estremoz Loop – Sousel – Estremoz : 46 km
+Day 1: Reception in Lisbon Day 2: Estremoz Loop – Sousel – Estremoz : 46 km
 Day 3: Estremoz -Vila Viçosa :35 km
 Day 4: Vila Viçosa – Monsaraz: 55 km
 Day 5: Monsaraz – Évora: 61 km
