@@ -129,7 +129,67 @@ gallery:
     alt: Crato pottery
   - image: /img/3668902145_3f85ae040b_o.jpg
     alt: Alqueva lake
-pricing: []
+pricing:
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Self Guided bikeTour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bike rent
+        value: Yes (extra 150 € for road bike)
+      - title: Guide
+        value: No
+      - title: Mechanical Assistance
+        value: No
+      - title: 6 lunches
+        value: No
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: 7 Nights / 8 Days ( price per person)
+        value: 1.495 €
+      - title: June 26 to September 26 high prices
+        value: +100€
+      - title: Min. Participants
+        value: "2"
+    type: ""
+    observations: ""
+    price: 195
+afterpricing: >-
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Electric bicycles price: 175€
+
+  * Supplement for single room: 400 €
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
