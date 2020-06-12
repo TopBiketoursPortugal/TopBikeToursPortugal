@@ -162,13 +162,53 @@ pricing:
         value: No
       - title: 7 Nights / 8 Days ( price per person)
         value: 1.495 €
-      - title: June 26 to September 26 high prices
+      - title: June 26 to September 26 Prices
         value: +100€
       - title: Min. Participants
         value: "2"
     type: ""
     observations: ""
     price: 195
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Biketour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: minimum 8 pax
+      - title: GPS With route per booking
+        value: \-
+      - title: Bike rent
+        value: Yes (extra 150 € for road bike)
+      - title: Guide
+        value: Yes
+      - title: Mechanical Assistance
+        value: Yes
+      - title: 6 lunches
+        value: No
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: 1.895 €
+      - title: June 26 to September 26 Prices
+        value: +100 €
+      - title: Min. Participants
+        value: "2"
+    type: ""
+    observations: ""
+    discount: ""
+    price: 1895
 afterpricing: >-
   **Observations:**
 
@@ -187,9 +227,11 @@ afterpricing: >-
 
   * Electric bicycles price: 175€
 
-  * Supplement for single room: 400 €
+  * Supplement for single room: 400€
 
   * Extra nights: on request
+
+  * Private group price on request
 feature:
   align: center
   imageAlign: center center
