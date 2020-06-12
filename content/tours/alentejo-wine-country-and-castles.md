@@ -144,10 +144,18 @@ The start of Alentejo cycling tour is in Estremoz, the city of marble. Mainly in
 
 **Itinerary:**
 
-Day 1: Reception in Lisbon Day 2: Estremoz Loop – Sousel – Estremoz : 46 km
+Day 1: Reception in Lisbon 
+
+Day 2: Estremoz Loop – Sousel – Estremoz : 46 km 
+
 Day 3: Estremoz -Vila Viçosa :35 km
+
 Day 4: Vila Viçosa – Monsaraz: 55 km
+
 Day 5: Monsaraz – Évora: 61 km
+
 Day 6: Évora Loop – Arraiolos - Évora: 47 km
+
 Day 7: Évora Loop: 36 Km, 44 km or 55 km
+
 Day 8: Departure
