@@ -23,7 +23,9 @@ groupSizeMin: -1
 minAge: 16
 skillLevel: 3
 distance: 281
-duration: 6
+distanceUnit: km
+duration: 7
+durationUnit: Days | 8 Nights
 difficulty: 3
 physicality: -2
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1tFjqAo-rMsOOBq9A76P4j-S6d-8xJOH2
