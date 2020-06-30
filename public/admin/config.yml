@@ -516,7 +516,7 @@ collections:
               name: discount,
               deafult: 0,
               widget: number,
-              required: false,
+              required: true,
             }
           - {
               label: High Season Price Supplement,

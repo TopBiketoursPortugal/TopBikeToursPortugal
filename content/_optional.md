@@ -29,8 +29,8 @@ minAge: 0
 difficulty: 0
 distance: 0
 duration: 0
-distanceUnit: 0
-durationUnit: 0
+distanceUnit: "km"
+durationUnit: ""
 groupSizeMax: 0
 groupSizeMin: 0
 physicality: 0

@@ -207,7 +207,7 @@ pricing:
         value: "2"
     type: ""
     observations: ""
-    discount: ""
+    discount: 0
     price: 1895
   - bestValue: false
     highSeasonPriceSupplement: 100
