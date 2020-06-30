@@ -86,82 +86,85 @@ const GlobalStyle = createGlobalStyle`
 
 const TemplateWrapper = ({ children, meta, title, language, feature }) => {
   // console.log(language);
-  return (
-    <StaticQuery
-      query={graphql`
-        query HeadingQuery3 {
-          site {
-            siteMetadata {
-              title
-              description
-            }
-          }
-          settingsYaml {
-            en {
-              description
-              keywords
-              title
-            }
-            pt {
-              description
-              keywords
-              title
-            }
-          }
-          menu: menusJson(
-            title: { eq: "Home" }
-            en: { links: { elemMatch: { enabled: { eq: true } } } }
-            pt: { links: { elemMatch: { enabled: { eq: true } } } }
-          ) {
-            en {
-              links {
-                description
-                display
-                enabled
-                link
-              }
-            }
-            pt {
-              links {
-                description
-                display
-                enabled
-                link
-              }
-            }
-          }
-          banners: allMarkdownRemark(
-            filter: { frontmatter: { banner: { eq: true } } }
-          ) {
-            nodes {
-              id
-              frontmatter {
-                language
-                banner
-                goto {
-                  link
-                  linktext
-                  linktitle
-                }
-                image {
-                  childImageSharp {
-                    fluid(quality: 85, maxWidth: 1444) {
-                      ...GatsbyImageSharpFluid_withWebp_noBase64
-                    }
-                  }
-                }
-                title
-                subtitle
-                description
-                btnColor
-                btnTextColor
-                subtitleColor
-                titleColor
-              }
-            }
+
+  const query = graphql`
+    query HeadingQuery3 {
+      site {
+        siteMetadata {
+          title
+          description
+        }
+      }
+      settingsYaml {
+        en {
+          description
+          keywords
+          title
+        }
+        pt {
+          description
+          keywords
+          title
+        }
+      }
+      menu: menusJson(
+        title: { eq: "Home" }
+        en: { links: { elemMatch: { enabled: { eq: true } } } }
+        pt: { links: { elemMatch: { enabled: { eq: true } } } }
+      ) {
+        en {
+          links {
+            description
+            display
+            enabled
+            link
           }
         }
-      `}
+        pt {
+          links {
+            description
+            display
+            enabled
+            link
+          }
+        }
+      }
+      banners: allMarkdownRemark(
+        filter: { frontmatter: { banner: { eq: true } } }
+      ) {
+        nodes {
+          id
+          frontmatter {
+            language
+            banner
+            goto {
+              link
+              linktext
+              linktitle
+            }
+            image {
+              childImageSharp {
+                fluid(quality: 85, maxWidth: 1444) {
+                  ...GatsbyImageSharpFluid_withWebp_noBase64
+                }
+              }
+            }
+            title
+            subtitle
+            description
+            btnColor
+            btnTextColor
+            subtitleColor
+            titleColor
+          }
+        }
+      }
+    }
+  `;
+
+  return (
+    <StaticQuery
+      query={query}
       render={(data) => {
         const { socialMediaCard, googleTrackingId } = data.settingsYaml || {};
         const menu = data.menu[language || "en"].links;
@@ -171,7 +174,7 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
         // console.log(JSON.stringify(data));
 
         return (
-          <React.Fragment>
+          <>
             <GlobalStyle />
             {/* <SEO {page.}></SEO> */}
             <Helmet titleTemplate={data.settingsYaml.titleformat}>
@@ -242,8 +245,8 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                     backgroundColor={`#fff`}
                     style={{
                       backgroundPosition: feature.imageAlign || "center center",
-                      width:"100%",
-                      height:"100%"
+                      width: "100%",
+                      height: "100%",
                     }}
                   >
                     <div className="fBanner">
@@ -283,7 +286,7 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                 <span>Top</span>
               </ScrollUpButton>
             </Scroll> */}
-          </React.Fragment>
+          </>
         );
       }}
     />
