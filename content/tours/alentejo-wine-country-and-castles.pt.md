@@ -6,7 +6,7 @@ productcode: AL01
 featured: false
 language: pt
 image: /img/23984632791_9d46150918_o.jpg
-title: Alentejo Wine country and Castles
+title: "Passeio de bicicleta no Alentejo - rota Vinícola e Património "
 packagetype: PackageTour
 tourtype: Bike
 meta:
@@ -164,13 +164,11 @@ feature:
   image: /img/furadouro-forest-in-a-bicycle.jpg
   bokunLinkText: Book now
 ---
+# Passeio de bicicleta no Alentejo - rota Vinícola e Património 
 
-# Alentejo Wine country and Castles
+## Explore a região Alentejana, apedrejada de história, vinhas e muito mais
 
-## Exploring an untouched region full of history, vineyards and much more
-
-\
-The start of Alentejo cycling tour is in Estremoz, the city of marble. Mainly in paved and quite roads, the scenery of this cycling holiday will take you to the ancient times. Abandoned and occupied Castles, Monastery’s, old churches are very characteristic of every place you will visit in the district of Évora, also known one of Portugal’s hottest region. The Alentejo Wine is very known by the portuguese people and very appreciated. The experience will also take you thru nature where you can see cork and olive oil trees.  Évora is a UNESCO World Heritage site. Don´t miss the most important cromlech in Europe with over 5000 years of history. Explore the city of Évora, still enclosed by medieval walls and many monuments dating from various historical periods, including a Roman Temple.
+O começo da visita ao Alentejo dá-se em Estremoz, a cidade do mármore. O passeio é realizado maioritariamente por estradas pavimentadas com movimento rodoviário muito reduzido. Castelos, Montado, Vinha, Mosteiros e antigas Igrejas, todos são vistas frequentes ao longo desta viagem. Évora é conhecida como uma das regiões mais quentes de Portugal, onde existem largas produções de vinho, este tão apreciado pelos Portugueses. As revigorantes pastagens do Montado Ibérico encher-lhe-ão os olhos ao longo da sua viagem. A cidade de Évora é considerada património mundial. Esta encontra-se ainda rodeada por muralhas e contém muitos monumentos de diferentes contextos históricos à espera de serem explorados. Terá ainda oportunidade de conhecer uns dos maiores cromeleques da Europa, já com mais de 5 mil anos de história.
 
 **Route description:**
 
