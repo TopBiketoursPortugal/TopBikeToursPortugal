@@ -6,8 +6,8 @@ meta:
   description: The best way to know Porto city is on a bicycle with our guides.
     Lots of fun and great scenery is what you can expect in our Porto bike
     tours. Cycle near the river, near the sea and Porto streets avenues.
-  keywords: portugal bike tours,cycling holidays portugal,biketours portugal,bike
-    tours porto,cycling portugal
+  keywords: bike tours porto, porto bike tours, cycling tours porto, bike porto,
+    bicycle tours porto, rent a bike porto
   robots: INDEX
   title: Porto Bike Tours
 toursection:
