@@ -133,28 +133,28 @@ gallery:
     alt: Alqueva lake
 pricing: []
 afterpricing: >-
-  **Observations:**
+  **Observações:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Prices can suffer updates due high season, holidays or weekends
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
-  * Beverages are not included at lunch and dinner when included in the package
+  * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%. Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos - 15% de desconto.
 
 
   **Extras**
 
 
-  * Electric bicycles price: 175€
+  * Bicicleta Elétric: 175€
 
-  * Supplement for single room: 400€
+  * Suplemento para quarto individual: 400€
 
-  * Extra nights: on request
+  * Noites extra: sob consulta
 
-  * Private group price on request
+  * Preço para Grupo privado: sob consulta
 feature:
   align: center
   imageAlign: center center
