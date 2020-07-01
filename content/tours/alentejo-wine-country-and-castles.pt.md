@@ -170,27 +170,27 @@ feature:
 
 O começo da visita ao Alentejo dá-se em Estremoz, a cidade do mármore. O passeio é realizado maioritariamente por estradas pavimentadas com movimento rodoviário muito reduzido. Castelos, Montado, Vinha, Mosteiros e antigas Igrejas, todos são vistas frequentes ao longo desta viagem. Évora é conhecida como uma das regiões mais quentes de Portugal, onde existem largas produções de vinho, este tão apreciado pelos Portugueses. As revigorantes pastagens do Montado Ibérico encher-lhe-ão os olhos ao longo da sua viagem. A cidade de Évora é considerada património mundial. Esta encontra-se ainda rodeada por muralhas e contém muitos monumentos de diferentes contextos históricos à espera de serem explorados. Terá ainda oportunidade de conhecer uns dos maiores cromeleques da Europa, já com mais de 5 mil anos de história.
 
-**Route description:**
+**Descrição da Rota:**
 
-* Mostly rolling hills in safe backroads
-* 85 % of the route is in paved roads and 15 % is in unpaved and smooth paths.
-* If you rent a road bicycle the route will be 100% in paved roads.
-* 1790 meters of cumulative gap climbs
+* Essencialmente composto por algumas subidas em estradas com pouco movimento
+* 85% das estradas são pavimentadas e 15% não pavimentadas, porém suaves
+* Se alugar uma bicicleta de estrada o percurso será 100% pavimentado
+* Uma altimetria acumulada de 1790m
 
-**Itinerary:**
+**Itinerário:**
 
-Day 1: Reception in Lisbon 
+Dia 1: Recepção em Lisboa e transfere até Estremoz 
 
-Day 2: Estremoz Loop – Sousel – Estremoz : 46 km 
+Dia 2: Circuito de Estremoz – Sousel – Estremoz: 46km
 
-Day 3: Estremoz -Vila Viçosa :35 km
+Dia 3: Estremoz – Vila Viçosa: 35km
 
-Day 4: Vila Viçosa – Monsaraz: 55 km
+Dia 4: Vila Viçosa – Monsaraz: 55km
 
-Day 5: Monsaraz – Évora: 61 km
+Dia 5: Monsasraz – Évora: 61km
 
-Day 6: Évora Loop – Arraiolos - Évora: 47 km
+Dia 6: Circuito de Évora – Arraiolos – Évora: 47km
 
-Day 7: Évora Loop: 36 Km, 44 km or 55 km
+Dia 7: Circuito de Évora: 36km, 44km ou 55km
 
-Day 8: Departure
+Dia 8: Partida
