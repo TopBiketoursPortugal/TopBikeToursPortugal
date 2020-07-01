@@ -138,7 +138,7 @@ afterpricing: >-
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana;
 
   * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
