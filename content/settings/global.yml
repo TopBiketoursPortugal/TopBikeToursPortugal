@@ -5,15 +5,13 @@ en:
     hint: Near Trindade metro station
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: >-
-    Portugal Bike tours: Are you lost in Portugal?Check out our Porto city
-    bicycle tours, as well as our guided and self guided cycling holidays in
-    Portugal. Bike tours in Portugal routes are available to be done in a hybrid
-    bicycle, mountain bicycle or road bike.
-  keywords: >-
-    portugal bike tours,cycling holidays portugal,biketours portugal,bike tours
-    porto,cycling portugal
-  title: Portugal Bike Tours - Cycling Holidays Portugal
+  description: "Portugal Walking/Hiking Tours : The hike adventure starts with
+    your foots. Be advised with the best places to stop for better Nature views,
+    food, drink and historical sights in Portugal. Don't be concern about the
+    details of your hiking holidays and contact us."
+  keywords: walking tours portugal, portugal hiking tours, Hiking tours in
+    portugal, walk hike portugal
+  title: Hiking tours Portugal | Top Walking Tours Portugal
 pt:
   address:
     city: Porto
@@ -21,43 +19,40 @@ pt:
     hint: Perto estação trindade
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: >-
-    Passeios de bicicleta em Portugal: Confira nossos passeios de bicicleta pela
-    cidade do Porto, bem como nossas férias de bicicleta guiadas e auto-guiadas
-    em Portugal.As rotas de passeios de bicicleta estão disponíveis para serem
-    feitas em uma bicicleta híbrida, mountain bike ou road bike.
-  keywords: >-
-    passeios bicicleta porto, portugal, passeios em bicicleta
-    portugal,cicloturismo portugal, ferias em bicicleta
-  title: Bike Tours Portugal - Férias em bicicleta
-titleformat: '%s  | Top Bike tours Portugal'
+  description: "Passeios a pé por Portugal: a aventura de caminhada começa com
+    seus pés. Esteja informado dos melhores lugares para uma paragem para
+    admirar a natureza, a comida, a bebida e os locais históricos em Portugal.
+    Não se preocupe com os detalhes de suas férias de caminhadas e entre em
+    contato conosco."
+  keywords: caminhadas em portugal, ferias a caminhar em portugal, passeios em portugal
+  title: Caminhadas em Portugal | Passeios pedestres por Portugal
+titleformat: "%s  | Top Bike tours Portugal"
 location:
-  lat: '41.152103'
-  lng: '-8.610452'
+  lat: "41.152103"
+  lng: "-8.610452"
 phone: (+351) 220 997 106
 mobile: (+351) 915 316 999​
 email: info@topbiketoursportugal.com
 tourOperator: 7/2014
-travelAgency: '7008'
-siteUrl: 'https://topwalkingtoursportugal.com'
+travelAgency: "7008"
+siteUrl: https://topwalkingtoursportugal.com
 socialMediaCard:
   image: /img/logo.svg
 socialNetworks:
   - display: Facebook
     icon: facebook
-    link: 'https://www.facebook.com/topbiketoursportugal/'
+    link: https://www.facebook.com/topwalkingtoursportugal
   - display: Instagram
     icon: instagram
-    link: 'https://www.instagram.com/topbiketoursportugal/'
+    link: https://www.instagram.com/topbiketoursportugal/
   - display: Twitter
     icon: twitter
-    link: 'https://twitter.com/FoldnVisit'
+    link: https://twitter.com/FoldnVisit
   - display: Youtube
     icon: youtube
-    link: 'https://www.youtube.com/channel/UCqryPkh_snkIAqvDXFvaK7A'
+    link: https://www.youtube.com/channel/UCqryPkh_snkIAqvDXFvaK7A
   - display: Tripadvisor
     icon: tripadvisor
-    link: >-
-      https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
+    link: https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 googleTrackingId: UA-106573860-1
 googleApiKey: AIzaSyA0lWqetz6UU4ozYUKYR_M34zkYIOWkSkE
