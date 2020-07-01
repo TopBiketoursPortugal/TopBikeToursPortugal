@@ -5,15 +5,12 @@ en:
     hint: Near Trindade metro station
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: >-
-    Portugal Bike tours: Are you lost in Portugal?Check out our Porto city
-    bicycle tours, as well as our guided and self guided cycling holidays in
-    Portugal. Bike tours in Portugal routes are available to be done in a hybrid
-    bicycle, mountain bicycle or road bike.
-  keywords: >-
-    portugal bike tours,cycling holidays portugal,biketours portugal,bike tours
-    porto,cycling portugal
-  title: Portugal Bike Tours - Cycling Holidays Portugal
+  description: The best way to know Porto city is on a bicycle with our guides.
+    Lots of fun and great scenery is what you can expect in our Porto bike
+    tours. Cycle near the river, near the sea and Porto streets avenues.
+  keywords: bike tours porto, porto bike tours, cycling tours porto, bike porto,
+    bicycle tours porto, rent a bike porto
+  title: Bike tours Porto
 pt:
   address:
     city: Porto
@@ -21,43 +18,40 @@ pt:
     hint: Perto estação trindade
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: >-
-    Passeios de bicicleta em Portugal: Confira nossos passeios de bicicleta pela
-    cidade do Porto, bem como nossas férias de bicicleta guiadas e auto-guiadas
-    em Portugal.As rotas de passeios de bicicleta estão disponíveis para serem
-    feitas em uma bicicleta híbrida, mountain bike ou road bike.
-  keywords: >-
-    passeios bicicleta porto, portugal, passeios em bicicleta
-    portugal,cicloturismo portugal, ferias em bicicleta
-  title: Bike Tours Portugal - Férias em bicicleta
-titleformat: '%s  | Top Bike tours Portugal'
+  description: A melhor maneira de conhecer a cidade do Porto é de bicicleta com
+    nossos guias. Muita diversão e óptimas paisagens é o que você pode esperar
+    em nossos passeios de bicicleta no Porto. Pedale perto do rio, perto do mar
+    e das avenidas das ruas do Porto.
+  keywords: passeios em bicicleta porto, tours em bicicleta porto, bike porto,
+    porto em bicicleta
+  title: Bike Tours Porto
+titleformat: "%s  | Top Bike tours Porto"
 location:
-  lat: '41.152103'
-  lng: '-8.610452'
+  lat: "41.152103"
+  lng: "-8.610452"
 phone: (+351) 220 997 106
 mobile: (+351) 915 316 999​
 email: info@topbiketoursportugal.com
 tourOperator: 7/2014
-travelAgency: '7008'
-siteUrl: 'https://topbiketoursportugal.com'
+travelAgency: "7008"
+siteUrl: https://biketoursporo.com
 socialMediaCard:
   image: /img/logo.svg
 socialNetworks:
   - display: Facebook
     icon: facebook
-    link: 'https://www.facebook.com/topbiketoursportugal/'
+    link: https://www.facebook.com/biketoursporto
   - display: Instagram
     icon: instagram
-    link: 'https://www.instagram.com/topbiketoursportugal/'
+    link: https://www.instagram.com/topbiketoursportugal/
   - display: Twitter
     icon: twitter
-    link: 'https://twitter.com/FoldnVisit'
+    link: https://twitter.com/FoldnVisit
   - display: Youtube
     icon: youtube
-    link: 'https://www.youtube.com/channel/UCqryPkh_snkIAqvDXFvaK7A'
+    link: https://www.youtube.com/channel/UCqryPkh_snkIAqvDXFvaK7A
   - display: Tripadvisor
     icon: tripadvisor
-    link: >-
-      https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
+    link: https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 googleTrackingId: UA-106573860-1
 googleApiKey: AIzaSyA0lWqetz6UU4ozYUKYR_M34zkYIOWkSkE
