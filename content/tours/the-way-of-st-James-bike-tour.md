@@ -212,12 +212,6 @@ itinerary:
 gallery:
   - alt: FRENCH CAMINO IN A BYCICLE
     image: /img/french-camino-in-a-bycicle.png
-  - alt: FRENCH CAMINO IN A BYCICLE
-    image: /img/french-camino-in-a-bycicle2.png
-  - alt: FRENCH CAMINO IN A BYCICLE
-    image: /img/french-camino-in-a-bycicle3.png
-  - alt: FRENCH CAMINO IN A BYCICLE
-    image: /img/french-camino-in-a-bycicle4.png
 pricing:
   - bestValue: false
     discount: 0

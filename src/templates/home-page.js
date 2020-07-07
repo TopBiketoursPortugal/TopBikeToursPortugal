@@ -9,7 +9,6 @@ import ReviewsHighlights from "../components/ReviewsHighlights";
 // import Partners from "../components/Partners";
 import { ChevronCircleDown } from "@styled-icons/fa-solid/ChevronCircleDown";
 import "./home-page.mod.scss";
-import PostSection from "../components/PostSection";
 import showdown from "showdown";
 export const HomePageTemplate = ({
   title,
@@ -18,7 +17,6 @@ export const HomePageTemplate = ({
   toursection,
   blogsection,
   language,
-  posts,
   reviews,
 }) => {
   // const PageContent = contentComponent || Content;
@@ -50,11 +48,7 @@ export const HomePageTemplate = ({
         </button>
       </Scroll>
 
-      <Tourhighlights
-        language={language}
-        className="tourHighlights"
-        {...toursection}
-      />
+      
       {!!reviews.length && (
         <ReviewsHighlights
           reviews={reviews.map((review) => ({
@@ -65,26 +59,6 @@ export const HomePageTemplate = ({
           className="reviewsHighlights"
         />
       )}
-      {!!posts.length && (
-        <>
-          <HTMLContent
-            className="text-center"
-            content={converter.makeHtml(blogsection.heading)}
-          />
-          <section className="section">
-            <div className="container">
-              <PostSection
-                posts={posts.map((post) => ({
-                  ...post,
-                  ...post.frontmatter,
-                  ...post.fields,
-                }))}
-              />
-            </div>
-          </section>
-        </>
-      )}
-
       {/* <Scroll type="class" element="home" offset={-100}>
           <ChevronCircleDown>Click me</ChevronCircleDown>
         </Scroll> */}
@@ -107,7 +81,6 @@ HomePageTemplate.propTypes = {
 
 const HomePage = ({ data }) => {
   const { markdownRemark: post } = data;
-  const posts = data.posts.nodes;
   const reviews = data.reviews.nodes;
   const language = post.frontmatter.language || `en`;
   return (
@@ -119,7 +92,6 @@ const HomePage = ({ data }) => {
         toursection={post.frontmatter.toursection}
         blogsection={post.frontmatter.blogsection}
         language={language}
-        posts={posts}
         reviews={reviews}
       />
     </Layout>
@@ -143,46 +115,11 @@ export const homePageQuery = graphql`
           title
           description
         }
-        toursection {
-          description
-          descriptionafter
-          heading
-        }
+       
         blogsection {
           description
           descriptionafter
           heading
-        }
-      }
-    }
-    posts: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "posts" } }
-        frontmatter: { language: { eq: $language }, showHome: { eq: true } }
-      }
-      sort: { order: DESC, fields: [frontmatter___date] }
-      limit: 3
-    ) {
-      nodes {
-        excerpt(pruneLength: 280)
-        fields {
-          slug
-          localizedPath
-        }
-        frontmatter {
-          title
-          path
-          date
-          categories {
-            category
-          }
-          featuredImage {
-            childImageSharp {
-              fluid(quality: 85, maxWidth: 1444) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
-            }
-          }
         }
       }
     }

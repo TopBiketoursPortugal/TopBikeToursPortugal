@@ -216,7 +216,8 @@
     display: block; }
   .fixed-nav .Nav .logo img {
     max-width: 130px !important;
-    margin: -20px -17px; }
+    margin: -43px -30px;
+    padding-left: 15px; }
 
 .logo .black {
   display: none; }
@@ -236,7 +237,7 @@
     padding: 20px 35px 0 20px; }
   .languageSwitcherContainer .contactsContainer {
     text-align: left;
-    flex: 50% 1; }
+    flex: 60% 1; }
   .languageSwitcherContainer a {
     margin: 0 !important;
     padding: 10px;

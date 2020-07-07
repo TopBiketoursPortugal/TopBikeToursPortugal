@@ -495,13 +495,6 @@ export const tourGenQuery = graphql`
           author {
             country
             name
-            avatar {
-              childImageSharp {
-                fluid(quality: 85, maxWidth: 300) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
           }
           date(fromNow: true)
           language

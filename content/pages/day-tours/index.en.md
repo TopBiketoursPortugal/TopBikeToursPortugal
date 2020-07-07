@@ -4,7 +4,7 @@ path: /bike-tours-porto-portugal/
 language: en
 lang: en
 title: Day tours
-afterList: '## The best way to know Portugal is in a bicycle'
+afterList: ''
 meta:
   description: >-
     Join a Porto bicycle tour or a full biking day in Douro Valley, in the

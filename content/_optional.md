@@ -22,6 +22,7 @@ subtitleColor: '#fff'
 btnColor: '#ffd800'
 btnTextColor: '#fff'
 packagetype: SingleTour
+featured: true
 tourtype: Bike
 tourcategory:  
   - Bike
