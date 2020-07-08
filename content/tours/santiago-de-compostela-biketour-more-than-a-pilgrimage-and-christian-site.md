@@ -119,8 +119,7 @@ itinerary:
     title: 'Day 8: Santiago de Compostela'
 gallery:
   - alt: The central way from Porto to Santiago de Compostela
-    image: >-
-      /img/the-central-way-from-porto-to-santiago-de-compostela-valença-bridge.png
+    image: /img/the-central-way-from-porto-to-santiago-de-compostela-valença-bridge.png
   - alt: The central way from Porto to Santiago de Compostela
     image: /img/thw-central-way-from-porto-to-santiago-de-compostela-2.png
   - alt: The central way from Porto to Santiago de Compostela

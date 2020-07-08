@@ -1,6 +1,6 @@
 ---
 templateKey: bike-hollidays
-path: /bike-tours-in-portugal/
+path: /hiking-tours-portugal/
 title: Bike Hollidays
 descriptionafter: >-
   **IT IS IMPORTANT THAT YOU READ ALL GENERAL INFORMATION ABOUT THE CYCLING TOUR

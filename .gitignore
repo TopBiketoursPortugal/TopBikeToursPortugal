@@ -16,3 +16,4 @@ src/.vs/VSWorkspaceState.json
 src/.vs/src/v16/.suo
 .env.*
 public/**/*.*
+public/

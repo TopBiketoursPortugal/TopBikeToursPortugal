@@ -3,7 +3,7 @@
   "en": {
     "links": [
       {
-        "display": "HomeWalking",
+        "display": "Home",
         "link": "/",
         "description": "Go to homepage",
         "enabled": false,
@@ -11,8 +11,8 @@
         "order": 1
       },
       {
-        "display": "Bike Tours",
-        "link": "/bike-tours-in-portugal/",
+        "display": "Hiking Tours",
+        "link": "/hiking-tours-portugal/",
         "enabled": true,
         "isHome": false,
         "order": 1
@@ -52,7 +52,7 @@
       },
       {
         "display": "Férias em Bicicleta",
-        "link": "/passeios-de-bicicleta-portugal/",
+        "link": "/passeios-pedestres-portugal/",
         "description": "Ver oferta cicloturismo",
         "enabled": true,
         "isHome": false,
