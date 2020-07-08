@@ -20,7 +20,7 @@ Top Bike Tours Portugal, Unipessoal, Lda tem sede na Rua do Alferes Malheiro nº
 6. **Cancellation policy in guided bike tours:**     
 
    * **Cancellation requested 60 days before tour start :** With the exception of a cancellation fee of 20% of the total package value, the company will refund the entire value paid by the costumer, if the cancellation of the tour was notified 60 days before its start. That notification must be sent to Top Bike Tours Portugal by email. 
-   * **Cancellation requested between 31 to 59 days:** 40% of the total amount will be refunded, if the company is notified at least 31 days before the start of the tour (info@topbiketoursportugal.com). 
+   * **Cancellation requested between 31 to 59 days:** 40% of the total amount will be refunded, if the company is notified at least 31 days before the start of the tour (info@topwalkingtoursportugal). 
    * **Cancellation requested 30 days, or less, before the tour start:** All cancellations communicated to Top Bike Tours Portugal, with less than 30 days in advance are not entitled to any refund. 
 7. **Cancellation policy in self guided bike tours:**
 
