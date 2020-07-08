@@ -27,10 +27,7 @@ export class TourGallery extends React.Component {
   render() {
     const { photoIndex, isOpen } = this.state;
     var gallery = this.props.tour.gallery;
-    const sliderImages = (gallery || []).map((item) => {
-
-      console.log(JSON.stringify(item.image));
-
+    const sliderImages = gallery.map((item) => {
       return {
         src: item.image.childImageSharp.fluid.src,
         w: item.image.childImageSharp.fluid.presentationWidth,
@@ -64,7 +61,7 @@ export class TourGallery extends React.Component {
         </div>
         {isOpen && (
           <Lightbox
-            className="imageZoom"
+          className="imageZoom"
             mainSrc={images[photoIndex]}
             nextSrc={images[(photoIndex + 1) % images.length]}
             prevSrc={images[(photoIndex + images.length - 1) % images.length]}

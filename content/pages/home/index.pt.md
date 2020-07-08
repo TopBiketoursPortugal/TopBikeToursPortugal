@@ -55,10 +55,10 @@ A nossa loja encontra-se na cidade do Porto, onde também realizamos passeios pe
 
 ## A nossa equipa está preparada para todo o tipo de ciclistas
 
-Não importa se você é um piloto inexperiente ou experiente, se gosta de uma bicicleta de turismo, mountain bike, bicicleta de estrada ou bicicleta eléctrica. O que mais importa é que você desfrute, com seus amigos ou familiares, das boas sensações que um [**passeio de bicicleta**](https://topwalkingtoursportugal.com/passeios-de-bicicleta-portugal/) oferece. A Top [Bike tours Portugal](https://topwalkingtoursportugal.com/passeios-de-bicicleta-portugal/) está aqui para garantir que você tenha umas férias relaxantes e fantásticas.
+Não importa se você é um piloto inexperiente ou experiente, se gosta de uma bicicleta de turismo, mountain bike, bicicleta de estrada ou bicicleta eléctrica. O que mais importa é que você desfrute, com seus amigos ou familiares, das boas sensações que um [**passeio de bicicleta**](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) oferece. A Top [Bike tours Portugal](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) está aqui para garantir que você tenha umas férias relaxantes e fantásticas.
 
-Se você está procurando um passeio guiado de bicicleta em Portugal, consulte nossa página de [**calendário**](https://topwalkingtoursportugal.com/pt/calendario-tours/) para ver toda a partida.
+Se você está procurando um passeio guiado de bicicleta em Portugal, consulte nossa página de [**calendário**](https://topbiketoursportugal.com/pt/calendario-tours/) para ver toda a partida.
 
 # É fácil reservar!
 
-Contacte-nos através do formulário de contacto ou envie um e-mail. Solicite informações sobre os pacotes de passeios de bicicleta disponíveis na nossa página de [**Férias em bicicleta**](https://topwalkingtoursportugal.com/passeios-de-bicicleta-portugal/). Responderemos em menos de 24 horas e enviaremos uma proposta oficial com todos os detalhes. Após sua confirmação, as acomodações serão reservadas e um depósito será solicitado.
+Contacte-nos através do formulário de contacto ou envie um e-mail. Solicite informações sobre os pacotes de passeios de bicicleta disponíveis na nossa página de [**Férias em bicicleta**](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/). Responderemos em menos de 24 horas e enviaremos uma proposta oficial com todos os detalhes. Após sua confirmação, as acomodações serão reservadas e um depósito será solicitado.

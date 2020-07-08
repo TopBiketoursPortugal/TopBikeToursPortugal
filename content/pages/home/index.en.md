@@ -10,7 +10,7 @@ meta:
   keywords: portugal bike tours,cycling holidays portugal,biketours portugal,bike
     tours porto,cycling portugal
   robots: INDEX
-  title: Portugal Walking Tours - Cycling Holidays Portugal
+  title: Portugal Bike Tours - Cycling Holidays Portugal
 toursection:
   description: "## Popular bike tours in Portugal"
   descriptionafter: _**Bike tours Portugal**:_ The combined experience of our team
@@ -33,14 +33,13 @@ blogsection:
 
 ## Discover Portugal on bicycle with Top Bike tours Portugal
 
-\
-Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views
+Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
 
-The **[bike tours](https://topwalkingtoursportugal.com/bike-tours-in-portugal/)** we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
+The **[bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
 
 Road bikes are still available for those craving to step up to harder challenges and adventure themselves in Douro Valley.
 
-Bike tours packages are offered both in self guided or guided bike tours, where mechanical assistance will always be guaranteed. Four star hotels, rural houses or farms will be booked for you.. You don't have to carry more than you need, since your luggage is transported, every day, from one hotel to the other, during the entirety of your [Portugal bike tour](https://topwalkingtoursportugal.com/bike-tours-in-portugal/). Van support is mostly offered in guided bike tours, where you can find water and snacks for the day.
+Bike tours packages are offered both in self guided or guided bike tours, where mechanical assistance will always be guaranteed. Four star hotels, rural houses or farms will be booked for you.. You don't have to carry more than you need, since your luggage is transported, every day, from one hotel to the other, during the entirety of your [Portugal bike tour](https://topbiketoursportugal.com/bike-tours-in-portugal/). Van support is mostly offered in guided bike tours, where you can find water and snacks for the day.
 
 Safety is our number one priority and we will always be nearby to help you on your next cycling tour. 24/7 phone support available for any eventuality.
 
@@ -54,8 +53,8 @@ Our store is in the city of Porto, where we also do city bike tours. Although ou
 
 Doesn´t matter if you are an inexperienced or experienced rider, if you enjoy a touring bicycle, mountain bicycle, road bike or electric bike. What matters most is that you enjoy, with your friends or family, the good sensations a bike tour as to offer. Our team is here to ensure that you have a relaxed and fantastic bicycle tour holiday. 
 
-If your looking for a guided bike tour in Portugal check our **[Calendar](https://topwalkingtoursportugal.com/guided-bike-tours-calendar-portugal/)** webpage to see all the departure.
+If your looking for a guided bike tour in Portugal check our **[Calendar](https://topbiketoursportugal.com/guided-bike-tours-calendar-portugal/)** webpage to see all the departure.
 
 ## It is easy to book with us!
 
-Contact us thru our contact form or just email us. Request information about the cycling tour packages available isn our **[Bike Tours](https://topwalkingtoursportugal.com/bike-tours-in-portugal/)** webpage. We will reply in less than 24 hours and send an oficial proposal with all the details. After your confirmation, accommodations will be reserved and a deposit will be requested.
+Contact us thru our contact form or just email us. Request information about the cycling tour packages available isn our **[Bike Tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** webpage. We will reply in less than 24 hours and send an oficial proposal with all the details. After your confirmation, accommodations will be reserved and a deposit will be requested.

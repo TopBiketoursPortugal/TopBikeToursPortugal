@@ -3,8 +3,8 @@ key: '4'
 language: en
 banner: true
 order: 4
-title: Top Walking tours
-description: Top Walking tours
+title: Discover The way of Saint James coastal path from Porto
+description: A beautifull tour on bike filled with history and great sceneries.
 goto:
   link: /porto-santiago-compostela-bike-tour/
   linktext: Bucket list bike tour!

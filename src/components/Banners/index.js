@@ -23,7 +23,7 @@ const Banners = ({ className }) => (
               }
               image {
                 childImageSharp {
-                  fluid(quality: 85, maxWidth: 500) {
+                  fluid(quality: 85, maxWidth: 1444) {
                     ...GatsbyImageSharpFluid_withWebp_noBase64
                   }
                 }

@@ -8,7 +8,7 @@ meta:
   keywords: ""
   noindex: false
   title: ""
-featuredImage: /img/bike-tours-in-portugal.jpg
+featuredImage: "/img/Silver-coast-5.jpg"
 featuredImagePosition: "top center"
 highlight: false
 subtitle: ""
@@ -29,8 +29,8 @@ minAge: 0
 difficulty: 0
 distance: 0
 duration: 0
-distanceUnit: 0
-durationUnit: 0
+distanceUnit: "km"
+durationUnit: ""
 groupSizeMax: 0
 groupSizeMin: 0
 physicality: 0
@@ -45,3 +45,4 @@ dates:
 ---
 
 <!-- Use this to force Gatsby to correctly determine optional images/file schema -->
+  

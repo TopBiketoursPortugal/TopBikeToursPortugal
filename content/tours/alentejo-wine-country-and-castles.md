@@ -5,7 +5,7 @@ path: /alentejo-wine-heritage-bicycle-tour
 productcode: AL01
 featured: false
 language: en
-image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3581.jpg
+image: /img/23984632791_9d46150918_o.jpg
 title: Alentejo Wine country and Castles
 packagetype: PackageTour
 tourtype: Bike
@@ -117,10 +117,18 @@ itinerary:
       lat: "40.1482816"
       lng: "40.1482816"
 gallery:
-  - image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3581.jpg
+  - image: /img/20190616_141326.jpg
     alt: Evora bicycle loop
-  - image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3581.jpg
-    alt: Evora bicycle loop
+  - image: /img/20190616_164409.jpg
+    alt: evora cromlech
+  - image: /img/img_20180614_084342_hdr.jpg
+    alt: évora paved cycling road
+  - image: /img/img_20180613_195201_hdr-1-.jpg
+    alt: evora roman ruin
+  - image: /img/3601286146_310d369b2f_o.jpg
+    alt: Crato pottery
+  - image: /img/3668902145_3f85ae040b_o.jpg
+    alt: Alqueva lake
 pricing:
   - bestValue: false
     highSeasonPriceSupplement: 100
@@ -269,7 +277,7 @@ feature:
   textcolor: white
   subtitle: Guided and unguided cycling tours Portugal
   title: Guided and unguided cycling tours Portugal
-  image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3581.jpg
+  image: /img/furadouro-forest-in-a-bicycle.jpg
   bokunLinkText: Book now
 ---
 

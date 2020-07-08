@@ -5,7 +5,7 @@ path: /alentejo-vinho-tradicao-passseio-bicicleta
 productcode: AL01
 featured: false
 language: pt
-image: /img/bike-tours-in-portugal.jpg
+image: /img/23984632791_9d46150918_o.jpg
 title: "Passeio de bicicleta no Alentejo - rota Vinícola e Património "
 packagetype: PackageTour
 tourtype: Bike
@@ -119,10 +119,18 @@ itinerary:
       lat: "40.1482816"
       lng: "40.1482816"
 gallery:
-  - image: /img/bike-tours-in-portugal.jpg
+  - image: /img/20190616_141326.jpg
     alt: Evora bicycle loop
-  - image: /img/bike-tours-in-portugal.jpg
-    alt: Evora bicycle loop
+  - image: /img/20190616_164409.jpg
+    alt: evora cromlech
+  - image: /img/img_20180614_084342_hdr.jpg
+    alt: évora paved cycling road
+  - image: /img/img_20180613_195201_hdr-1-.jpg
+    alt: evora roman ruin
+  - image: /img/3601286146_310d369b2f_o.jpg
+    alt: Crato pottery
+  - image: /img/3668902145_3f85ae040b_o.jpg
+    alt: Alqueva lake
 pricing: []
 afterpricing: >-
   **Observações:**

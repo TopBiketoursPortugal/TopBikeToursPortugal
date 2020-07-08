@@ -226,11 +226,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       avatar: File
     }
 
-    type Gallery @infer {
-      alt: String
-      image: File!
-    }
-
     type Pricing @infer {
       discount: Float
       price: Float
@@ -265,7 +260,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       feature: Feature
       showHome: Boolean
       author: Author
-      gallery: [Gallery]
     }
     
   `;
