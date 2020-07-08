@@ -546,9 +546,6 @@ export const tourGenQuery = graphql`
               fluid(quality: 60, maxWidth: 1444) {
                 ...GatsbyImageSharpFluid_withWebp_noBase64
               }
-              high: fluid(quality: 90, maxWidth: 2888) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
             }
           }
         }

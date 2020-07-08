@@ -8,7 +8,7 @@ meta:
   keywords: ""
   noindex: false
   title: ""
-featuredImage: /img/Silver-coast-5.jpg
+featuredImage: /img/bike-tours-in-portugal.jpg
 featuredImagePosition: "top center"
 highlight: false
 subtitle: ""
@@ -38,10 +38,10 @@ skillLevel: 0
 dates:
   - date: 2019-11-02T22:10:56.217Z
     type: Year
-gallery:
-  - alt: ''
-    image: ''
-    title: ''
+# gallery:
+#   - alt: ''
+#     image: ''
+#     title: ''
 ---
 
 <!-- Use this to force Gatsby to correctly determine optional images/file schema -->
