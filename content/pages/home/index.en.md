@@ -32,4 +32,4 @@ blogsection:
 
 ## Cycle with us and enjoy Porto city
 
-Everyone has different approaches and priorities when it comes to planning a trip. The team of Porto BikeTours team are specialists in several areas, allowing us to cover all the travel demands of our clients. It does not matter if you are planning a future trip for work or leisure: with us the whole process of booking is much easier and enjoyable. email us and start traveling.
+Everyone has different approaches and priorities when it comes to planning a trip. The team of Porto BikeTours team are specialists in several areas, allowing us to cover all the travel demands of our clients. It does not matter if you are planning a future trip for work or leisure: with us the whole process of booking is much easier and enjoyable. email us and start traveling
