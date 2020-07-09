@@ -1,4 +1,11 @@
 ---
+blogsection:
+  description: "## Popular bike tours in Portugal"
+  descriptionafter: _**Bike tours Portugal**:_ The combined experience of our team
+    allows us to combine cycling with the historical component and gastronomy.
+    Connoisseurs of excellent hotel services and catering, paths and landscapes
+    that surprise and exceeded expectations.
+  heading: "## Últimos blog posts"
 templateKey: home-page
 language: pt
 lang: pt
@@ -6,34 +13,25 @@ path: /pt/
 title: Home
 toursection:
   description: |-
-    ## TOURS EM BICICLETA PORTUGAL
+    ## TOURS EM BICICLETA PORTO
 
     ## NORTE E SUL | BIKE TOURS PORTUGAL
-  descriptionafter: >-
-    **Tours em Bicicleta Portugal:** A experiência combinada de nossa equipa
-    permite-nos combinar ciclismo com os componentes histórico e gastronómico.
-    Conhecedores de excelentes serviços de hotelaria e catering, assim como, de
-    caminhos e paisagens que surpreendem e superam as expectativas.
-  heading: '## Tours populares'
+  descriptionafter: "**Tours em Bicicleta Portugal:** A experiência combinada de
+    nossa equipa permite-nos combinar ciclismo com os componentes histórico e
+    gastronómico. Conhecedores de excelentes serviços de hotelaria e catering,
+    assim como, de caminhos e paisagens que surpreendem e superam as
+    expectativas."
+  heading: "## Tours populares"
 meta:
-  description: >-
-    Passeios de bicicleta em Portugal: Confira nossos passeios de bicicleta pela
-    cidade do Porto, bem como nossas férias de bicicleta guiadas e auto-guiadas
-    em Portugal.As rotas de passeios de bicicleta estão disponíveis para serem
-    feitas em uma bicicleta híbrida, mountain bike ou road bike.
-  keywords: >-
-    passeios em bicicleta portugal, viagnes em biciclea, passeios em bicicleta
-    guiados, bike tours, cycling holidays
+  description: "Passeios de bicicleta em Portugal: Confira nossos passeios de
+    bicicleta pela cidade do Porto, bem como nossas férias de bicicleta guiadas
+    e auto-guiadas em Portugal.As rotas de passeios de bicicleta estão
+    disponíveis para serem feitas em uma bicicleta híbrida, mountain bike ou
+    road bike."
+  keywords: passeios em bicicleta portugal, viagnes em biciclea, passeios em
+    bicicleta guiados, bike tours, cycling holidays
   robots: INDEX
   title: Bike Tours Portugal - Férias em bicicleta
-blogsection:
-  description: '## Popular bike tours in Portugal'
-  descriptionafter: >-
-    _**Bike tours Portugal**:_ The combined experience of our team allows us to
-    combine cycling with the historical component and gastronomy. Connoisseurs
-    of excellent hotel services and catering, paths and landscapes that surprise
-    and exceeded expectations.
-  heading: "## Últimos blog posts"
 ---
 # Descubra Portugal em bicicleta com Top Bike Tours Portugal
 
