@@ -1,18 +1,17 @@
 ---
-key: '4'
+key: "1"
 language: en
 banner: true
-order: 4
-title: Discover The way of Saint James coastal path from Porto
-description: A beautifull tour on bike filled with history and great sceneries.
+order: 1
+title: Discover Porto on a bicycle
+description: A beautifull bike tour filled with history and great sceneries.
 goto:
-  link: /porto-santiago-compostela-bike-tour/
-  linktext: Bucket list bike tour!
-  linktitle: A bike tour of a lifetime
-image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3826.jpg
-titleColor: '#fff'
-subtitleColor: '#fff'
-btnColor: '#ffd800'
-btnTextColor: '#fff'
+  link: https://topbiketoursporto.netlify.app/bike-tour-sightseeing-porto/
+  linktext: Oporto Bike city tour
+  linktitle: Oporto Bike city tour
+image: /img/bike-tours-porto.jpg
+titleColor: "#fff"
+subtitleColor: "#fff"
+btnColor: "#ffd800"
+btnTextColor: "#fff"
 ---
-
