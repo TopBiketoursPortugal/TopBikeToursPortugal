@@ -29,9 +29,9 @@ blogsection:
     that surprise and exceeded expectations.
   heading: "## Latest blog posts"
 ---
-# Portugal Bike Tours
+# Portugal Walking+Hiking Tours
 
-## Discover Portugal on bicycle with Top Bike tours Portugal
+## Hike Portugal with Top Walking tours Portugal
 
 Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
 
