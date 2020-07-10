@@ -21,6 +21,7 @@ meta:
   keywords: BIKE TOUR WINE AND GASTOURNOMY PORTO PORTUGAL,food tour
   robots: NOINDEX
   title: Bike tour Wine and Gastournomy | Food Tour
+  noindex: true
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
