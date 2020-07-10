@@ -6,7 +6,7 @@ title: Contactos
 meta:
   description: Contactos Top Bike tours Portugal
   keywords: Contactos Top Bike tours Portugal
-  robots: INDEX
+  robots: NOINDEX
   title: Contact Page
 feature:
   align: center
@@ -15,5 +15,4 @@ feature:
   textcolor: WHITE
   title: Contacte-nos
 ---
-
-
+# Contactos
