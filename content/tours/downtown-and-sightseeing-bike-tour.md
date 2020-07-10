@@ -24,6 +24,7 @@ meta:
   keywords: Tours porto, Bike Tours porto portugal, Walking Tours porto portugal
   robots: NOINDEX
   title: BIKE TOURS,CITY TOURS PORTO PORTUGAL
+  noindex: true
 difficulty: 0
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
