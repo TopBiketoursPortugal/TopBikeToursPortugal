@@ -39,6 +39,9 @@ skillLevel: 0
 dates:
   - date: 2019-11-02T22:10:56.217Z
     type: Year
+relatedProduct: ''
+afterList: ""
+
 # gallery:
 #   - alt: ''
 #     image: ''

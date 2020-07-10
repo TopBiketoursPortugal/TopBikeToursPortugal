@@ -5,7 +5,7 @@ language: pt
 lang: pt
 title: tours diárias
 image: /img/44817961982_440e783762_o.jpg
-afterList: .nan
+afterList: ""
 meta:
   description: Participe num passeio de bicicleta pela cidade do Porto ou de um
     dia inteiro de bicicleta no Vale do Douro, nas montanhas, perto do mar ou do

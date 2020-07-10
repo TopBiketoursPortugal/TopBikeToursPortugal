@@ -260,6 +260,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       feature: Feature
       showHome: Boolean
       author: Author
+      afterList: String
     }
     
   `;
