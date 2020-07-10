@@ -25,8 +25,9 @@ meta:
     Pedalar até às praias do Norte de Portugal nunca foi tão agradável ao sabor da idílica e fantástica paisagem. 
   keywords: city tours,circuitos em bicicleta PORTO, actividades em bicicleta
     PORTO, ferias em bicicleta PORTO
-  robots: INDEX
+  robots: NOINDEX
   title: Full Day Biketour Deluxe
+  noindex: true
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1D3CjvZ4Tdut09u7F2KwCOAxBqNA
 itinerary:
   - day: "1"
