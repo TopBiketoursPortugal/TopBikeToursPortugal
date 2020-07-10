@@ -22,8 +22,9 @@ meta:
     make it your private group. The city center, the river and sea, all 3
     diferent views of porto city
   keywords: Electric bike tour Porto
-  robots: INDEX
+  robots: NOINDEX
   title: Electric bike tour Porto
+  noindex: true
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
   - day: "1"
