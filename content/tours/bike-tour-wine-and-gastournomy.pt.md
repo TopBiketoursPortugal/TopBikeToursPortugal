@@ -22,7 +22,7 @@ meta:
   keywords: "Paisagens fenomenais e idílicas encontram-se inseridas neste circuito
     turístico, em que a bicicleta torna-se indispensável para percorrer a
     marginal "
-  robots: INDEX
+  robots: NOINDEX
   title: BIKE TOUR VINHO E GASTRONOMIA
 groupSizeMax: 1
 groupSizeMin: 1
