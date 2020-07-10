@@ -6,24 +6,6 @@ title: Bicicletas
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
-  - image: /img/rent-a-bike-female.png
-    type: Hybrid bicycle
-  - image: /img/road-bike-pulso-1.png
-    type: Road bike
-  - image: /img/road-bike-vento-2.png
-    type: Road bike
-  - image: /img/specialized-tarmac-sport.jpg
-    type: Road bike
-  - image: /img/xcaliber7_23147_b_primary.jpg
-    type: Mountain bike
-  - image: /img/specialized-women-s-pitch-comp-27.5.jpg
-    type: Mountain bike
-  - image: /img/ktm-macina.jpg
-    type: Electric bicycles
-  - image: /img/cube-acid-500-trapeze-1-.jpg
-    type: Electric bicycles
-  - image: /img/331051e_light-3-.jpg
-    type: Electric bicycles
 equipment:
   - description: >-
 
