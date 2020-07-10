@@ -22,8 +22,9 @@ meta:
     Participe de um grupo ou torne-o seu grupo privado. O centro da cidade, o
     rio e o mar, todas as 3 vistas diferentes da cidade do porto
   keywords: tour em bicicleta electrica porto
-  robots: INDEX
+  robots: NOINDEX
   title: Tour em bicicleta Eléctrica Porto
+  noindex: true
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
   - day: "1"
