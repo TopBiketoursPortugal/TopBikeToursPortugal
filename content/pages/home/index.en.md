@@ -33,28 +33,12 @@ blogsection:
 
 ## Hike Portugal with Top Walking tours Portugal
 
-Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
+Welcome to Portugal, land of many stories and dreams. In the south western edge of continental Europe, a small yet wonderful country remains to be found. This... is an old country with plentiful history and nature to share with any passing visitor. From north to south there are magnificent places to take a walk on. Both on the coast or inland and through historical or natural areas, you will be able to walk the country at your own pace. The climate is perfect for walkers all year round, since there is a strong climatic variation between the different regions in this land. Prepare your legs and feet to walk and discover the regions which make this country famous.
 
-The **[bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
 
-Road bikes are still available for those craving to step up to harder challenges and adventure themselves in Douro Valley.
-
-Bike tours packages are offered both in self guided or guided bike tours, where mechanical assistance will always be guaranteed. Four star hotels, rural houses or farms will be booked for you.. You don't have to carry more than you need, since your luggage is transported, every day, from one hotel to the other, during the entirety of your [Portugal bike tour](https://topbiketoursportugal.com/bike-tours-in-portugal/). Van support is mostly offered in guided bike tours, where you can find water and snacks for the day.
-
-Safety is our number one priority and we will always be nearby to help you on your next cycling tour. 24/7 phone support available for any eventuality.
-
-We choose the best restaurants and hotels for your needs. Lunch and dinner, even if not included in our guided packages, will still be organized for your group.
-
-Our store is in the city of Porto, where we also do city bike tours. Although our base is in the North of Portugal, we operate all around the country.
 
 ![walking & hiking tours portugal](/img/walking-hiking-portugal.jpg "walking & hiking tours portugal")
 
-## Top Bike Tours Portugal is prepared for all kind of cyclists
 
-Doesn´t matter if you are an inexperienced or experienced rider, if you enjoy a touring bicycle, mountain bicycle, road bike or electric bike. What matters most is that you enjoy, with your friends or family, the good sensations a bike tour as to offer. Our team is here to ensure that you have a relaxed and fantastic bicycle tour holiday. 
 
-If your looking for a guided bike tour in Portugal check our **[Calendar](https://topbiketoursportugal.com/guided-bike-tours-calendar-portugal/)** webpage to see all the departure.
-
-## It is easy to book with us!
-
-Contact us thru our contact form or just email us. Request information about the cycling tour packages available isn our **[Bike Tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** webpage. We will reply in less than 24 hours and send an oficial proposal with all the details. After your confirmation, accommodations will be reserved and a deposit will be requested.
+In our walking & hiking holidays tours, don´t expect any car transfer between routes. We believe that a true walking & hiking tour vacation week without any mechanical help is the best way to enjoy nature. Be with yourself and cherish the moment you are in.
