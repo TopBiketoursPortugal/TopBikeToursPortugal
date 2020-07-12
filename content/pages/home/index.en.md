@@ -6,8 +6,8 @@ meta:
   description: "Walking & Hiking tours in Portugal: For those who want a true
     walking & hiking holiday in portugal with no worry´s about transfer´s,
     accommodations, food, places to visit in Portugal and other highlights"
-  keywords: portugal bike tours,cycling holidays portugal,biketours portugal,bike
-    tours porto,cycling portugal
+  keywords: walking tours portugal,hiking tours portugal,hike tours portugal, walk
+    portugal tours
   robots: INDEX
   title: Walking & Hiking Holiday tours in Portugal
 toursection:
