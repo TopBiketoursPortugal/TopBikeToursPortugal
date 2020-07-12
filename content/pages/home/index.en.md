@@ -38,4 +38,4 @@ Porto and the North of Portugal hold incredible historic centres, with an array 
 
 It is true that the bike has been a true means of transportation for cycling in European cities. Urban cities, such as Amsterdam, Brussels, Frankfurt and Berlin, the bicycle concept has increasingly entered in the personal life of everyone and being used for efforts beyond leisure and fun. Specifically in Porto, a medieval city, a city that is being developed for bicycle tours, the integration of urban bike pathways, along with the strong focus on the growth of bike paths, has shown feasible and satisfaction of the final consumers. Although a large city with a historic center of steep slope, its use is increasingly sought and requested. If you feel determined and staying in Porto isn’t enough, pick up one of our cycling holidays at **[Top Bike tours Portugal](www.topbiketoursportugal.com)**.
 
-![Bike tours Porto](/img/day-tours-portugal.jpg "Bike tours Porto")
+![Bike tours Porto](/img/porto-bike-tours.jpg "Bike tours Porto")
