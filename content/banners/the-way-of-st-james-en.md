@@ -3,11 +3,12 @@ key: "1"
 language: en
 banner: true
 order: 1
-title: Walk the Camino! a bucket List hiking tour starting in Porto, Portugal
-description: Walk the Camino! a bucket List hiking tour starting in Porto, Portugal
+title: Walk the Camino!
+description: A bucket List hiking tour starting in Porto, Portugal, till Santiago Compostela
 goto:
   link: www.topwalkingtoursportugal.com
-  linktext: The Coast path - "easy"
-  linktitle: Visit all around Portugal on a bicycle with our expert guides
-image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-1738.jpg
+  linktext: Walk the Camino!
+  linktitle: A bucket List hiking tour starting in Porto, Portugal, till Santiago
+    Compostela
+image: /img/top-walking-hiking-portugal.jpg
 ---
