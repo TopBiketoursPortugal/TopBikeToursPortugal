@@ -32,7 +32,7 @@ blogsection:
 
 ## Cycle with us and enjoy Porto city
 
-Everyone has different approaches and priorities when it comes to planning a trip. The team of Porto Bike Tours team are specialists in several areas, allowing us to cover all the travel demands of our clients. It does not matter if you are planning a future trip for work or leisure: with us the whole process of booking is much easier and enjoyable. email us and start traveling.
+Everyone has different approaches and priorities when it comes to planning a trip. The team of Porto Bike Tours are specialists in several areas, allowing us to cover all the travel demands of our clients. It does not matter if you are planning a future trip for work or leisure: with us the whole process of booking is much easier and enjoyable. email us and start traveling.
 
 Porto and the North of Portugal hold incredible historic centres, with an array of centurial monuments and sightseeing attractions, possible to explore by hoping on a bicycle and cycle along these breathtaking regions. A few of them are highlighted, such as Porto and Douro (Port wine and exquisite gastronomy), and much more. Those who wish to take Porto tours, you can browse between bike tours in this historic city or check our day tours. Embark on our bike tours and see with your own eyes why Porto was classified as World Heritage by UNESCO (1996) and Cultural Capital of Tourism (2001).
 
