@@ -22,10 +22,10 @@ toursection:
     ## BICYCLE HOLIDAYS PORTUGAL
 blogsection:
   description: "## Popular bike tours in Portugal"
-  descriptionafter: _**Bike tours Portugal**:_ The combined experience of our team
-    allows us to combine cycling with the historical component and gastronomy.
-    Connoisseurs of excellent hotel services and catering, paths and landscapes
-    that surprise and exceeded expectations.
+  descriptionafter: "***Bike tours Portugal**:* The combined experience of our
+    team allows us to combine cycling with the historical component and
+    gastronomy. Connoisseurs of excellent hotel services and catering, paths and
+    landscapes that surprise and exceeded expectations"
   heading: "## Latest blog posts"
 ---
 # Porto Bike Tours
