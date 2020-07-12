@@ -47,7 +47,7 @@ We choose the best restaurants and hotels for your needs. Lunch and dinner, even
 
 Our store is in the city of Porto, where we also do city bike tours. Although our base is in the North of Portugal, we operate all around the country.
 
-![walking & hiking tours portugal](/img/top-bike-tours-portugal-silver-coast-bike-tour-1028.jpg "walking & hiking tours portugal")
+![walking & hiking tours portugal](/img/walking-hiking-portugal.jpg "walking & hiking tours portugal")
 
 ## Top Bike Tours Portugal is prepared for all kind of cyclists
 
