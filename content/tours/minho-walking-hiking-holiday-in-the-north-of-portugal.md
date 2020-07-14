@@ -167,7 +167,7 @@ feature:
 ---
 # **Minho walking & Hiking Holiday in the North of Portugal**
 
-## Walk near the sea and Minho and Lima Valley
+## Walk near the sea and near the Minho and Lima Valley
 
 The Walk Trail of Minho River, an old railway section, was ranked as the fourth best 2009 trail in Europe. That alone showcases all the amazing Portuguese landscapes, rivers and seaside views which you will be enjoying during this trip, hiking trough World Heritage villages, vineyards, farmed land and historical towns.
 
@@ -175,15 +175,11 @@ The Minho River is also the perfect excuse for relaxing in the north of the coun
 
 Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
 
-
 \
 **Route description:**  
 
 * The major part of the tour is flat. 1st, 2nd, 4th, are walked with between 190 meters and 170 m of uphill’s
 * There is a strong mix of pavement roads, stone pavement and dirt roads. 
-
-
-
 
 **Itinerary:**
 
