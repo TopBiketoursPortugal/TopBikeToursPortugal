@@ -79,7 +79,7 @@ Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, 
 
 **Day 1:**Melgaço
 
-**Day 2:**Melgaço-Monção
+**Day 2:**Melgaço-Monção: 18 km
 
 **Day 3:**Monção – Valença: 20 km
 
