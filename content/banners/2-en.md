@@ -2,7 +2,7 @@
 key: "2"
 language: en
 banner: true
-order: 2
+order: 1
 title: "2"
 description: "22"
 goto:
