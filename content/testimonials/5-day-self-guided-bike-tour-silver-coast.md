@@ -12,6 +12,8 @@ author:
   name: Jules
 relatedProduct: SC 01
 ---
+**Enjoyable and informative morning**
+
 It was very easy to find the starting point for this tour. Get off the Porto Metro stop at Trindade, cross the road and 2 minutes walk and your there at the bike shop. There was only my husband and I on the tour, so it was very personal, and it was like going for walk with a friend. I apologise if I have got the guide's name incorrect, I think was Tiago!!\
 Any way he was very interesting and told us lots of interesting details, that we would not have realised by walking round on our own. He explained shops of special interest to us, explaining the Portuguese traditions. His knowledge was excellent.\
 \
