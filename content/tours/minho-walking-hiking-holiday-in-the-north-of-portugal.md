@@ -55,16 +55,13 @@ feature:
 ---
 # **Minho walking & Hiking Holiday in the North of Portugal**
 
-## Walk near the sea and between rivers
-
+## Walk near the sea and Minho and Lima Valley
 
 The Walk Trail of Minho River, an old railway section, was ranked as the fourth best 2009 trail in Europe. That alone showcases all the amazing Portuguese landscapes, rivers and seaside views which you will be enjoying during this trip, hiking trough World Heritage villages, vineyards, farmed land and historical towns.
 
 The Minho River is also the perfect excuse for relaxing in the north of the country. Explore the trails and the Portuguese villages along this border river and its main highlights. The Minho River serves as a natural border between Portugal and Spain, travelling the entire way across Melgaço and Valença. Also, the journey will lead the walkers in part of the Santiago Coast Caminho and the Ecovia of Lima River.
 
 Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
-
-
 
 **Route:**
 
