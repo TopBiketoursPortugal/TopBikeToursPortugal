@@ -18,7 +18,7 @@ meta:
   robots: INDEX
 minAge: 16
 skillLevel: 1
-distance: 113
+distance: 115
 distanceUnit: km
 duration: 7
 difficulty: 2
