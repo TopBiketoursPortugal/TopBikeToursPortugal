@@ -5,7 +5,7 @@ path: /minho-hiking-north-portugal
 productcode: NT01
 featured: true
 language: en
-image: /img/walking-tour-rio-lima.jpg
+image: /img/hiking-ecovia-lima.jpg
 title: Minho walking & Hiking Holiday in the North of Portugal
 packagetype: PackageTour
 tourtype: Walking
@@ -21,9 +21,10 @@ minAge: 16
 skillLevel: 1
 distance: 115
 distanceUnit: km
-duration: 7
+duration: 8
+durationUnit: Days | 7 Nights
 difficulty: 2
-mapUrl: https://www.google.com/maps/d/edit?mid=1S9_RfIAweubmKvKRdx7K9EtaIJSnrEx5
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1S9_RfIAweubmKvKRdx7K9EtaIJSnrEx5
 itinerary:
   - day: "1"
     title: "Day 1: Melgaço"
@@ -41,6 +42,17 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/norte-de-portugal-03-melgaco.jpeg
+    alt: melgaço
+  - image: /img/valença-do-minho-hiking.jpg
+    alt: Valença do minho hiking
+  - image: /img/viana-do-castelo-santa-luzia-point-view.jpg
+    alt: Viana do castelo
+  - image: /img/cerveira-vilage.jpg
+    alt: vina nova de cerveira village
+  - image: /img/walking-minho-river.jpg
+    alt: ecovia o minho wlak terrain view
 pricing: []
 feature:
   align: center
@@ -50,7 +62,7 @@ feature:
   textcolor: white
   subtitle: Minho walking & Hiking Holiday in the North of Portugal
   title: Minho walking & Hiking Holiday in the North of Portugal
-  image: /img/walking-tour-rio-lima.jpg
+  image: /img/hiking-ecovia-lima.jpg
   bokunLinkText: Book now
 ---
 # **Minho walking & Hiking Holiday in the North of Portugal**
