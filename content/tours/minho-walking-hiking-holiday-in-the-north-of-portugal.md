@@ -42,6 +42,106 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+  - day: "2"
+    description: "The 18km of this day will be made between two villages of Viana do
+      Castelo, Melgaço to Monção. Near to the border with Spain, and felling the
+      Minho river and its viewpoints, the major part of the way will be walked
+      in the Minho Ecopista, an old railway section.  The two villages are
+      remembered until today for the architectural, historical and cultural
+      heritage well noticed for the fortresses, that used to surround the city,
+      which, know-a-days are in ruins. The day will be also remembered by the
+      routes of verde wine, which, in the fact, connects these two villages. So,
+      take the chance to visit the Alvarinho museum and taste the well-known
+      wine. "
+    title: "Day 2: Melgaço- Monção: 18 km"
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "3"
+    title: "Day 3: Monção – Valença: 20 km"
+    description: "The distance between Monção to Valence will be made in the same
+      terms as the day before: in the Minho Ecopist surrounded mostly by florets
+      and the nature that will embrace you. Along, the way, the major part of
+      the road is paved with the highest point at 64m.  The end of this day,
+      meets the city of Valença or as known as Valença do Minho. This place
+      represents, since the pass, a strategic area due to the border that
+      connects the Minho River and Lugo in Spain, qualified as the oldest border
+      of Europe. In a city, remarked by the pass, will be a memorable experience
+      to visit the Fortress of Valença. The Fortress, a gothic and baroque
+      masterpiece, raised between the XVII and XVIII century, served to defend
+      the population in diverse occasions, as an European military fortification
+      surrounded by the green nature.  Fulfilling the day, the history and the
+      beautiful landscape, with the gastronomy, the most typical dishes are the
+      roasted lamb and the codfish known in the “Minho” gastronomy.  "
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "4"
+    title: "Day 4: Valença – Vila Nova de Cerveira: 16 km"
+    description: Leaving Valença do Minho, this walking doesn´t have monuments to
+      visit but it will going to take you close to the riverside mixing up with
+      the surrounding nature.  The path is really easy with a public pedestrian
+      walkway and it´s flat all the way to Vila Nova de Cerveira.  Here, if you
+      like fishing take some time to visit the Aquamuseum to see more than 40
+      diferent species that live in the Minho river, or visit the
+      National  Museum of Architecture too see the grave tresure from Quinta de
+      Água Branca.
+    location:
+      lat: "1"
+      lng: "1"
+  - title: "Day 5: Vila Nova de Cerveira – Vila Praia de Âncora: 24 km"
+    day: "5"
+    description: Departing from Vila Nova de Cerveira, the walking tour continues to
+      follow the riverside flowing into the Atlantic Ocean, in here another
+      camino starts called the Coast Camino of Santiago, take the opportunity to
+      see beautiful landscapes of Spain and also visit the São Bento Chapel
+      built around the XIX Century and a place of devotion for a lot pelegrins
+      that pass here. Reaching to Vila praia de Âncora the lighthouse of
+      Montedor and the Dolmen of Barrosa will stand out for some pictures.
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "6"
+    title: "Day 6: Vila Praia de Âncora – Viana do Castelo: 20 Km"
+    description: In this last day, the walk continues to follow the Santiago Coast
+      Camino, like the previous day this path is flat with some cobblestone and
+      dirt roads.  During the day you will find some Forts and windmills, the
+      Fort that stands out it´s the Dog´s Fort dated in 1702 by the king D.
+      Pedro II mainly used to defend the coast from the pirates.  Arriving to
+      the final destination of this tour, you can visit the Santa Lúzia
+      Sanctuary, the historical center and the foundation of Gil Eanes (it’s a
+      Portuguese hospital ship now transformed in a museum). To eat we recommend
+      the codfish at Zé do Pipo a famous dish that you can only taste in this
+      place
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "7"
+    description: "Starting your day to the last destination of this journey, take a
+      moment to visit the lasts monuments of Viana do Castelo city: the Catedral
+      of Viana, a gothic masterpiece built in the first half of the XV century
+      and as the walk continues, the last monument of Viana city will be seen,
+      cross the bridge Eiffel and be embrace by the Lima river. This 19km walk
+      will be made in stone pavement or paved roads. The major part of this day
+      will be felt in the pure air surround by the forests presents in the
+      Ecovia of Lima River. Arriving to the last destination of this journey in
+      the North of Portugal, Ponte de Lima, a city recognized as world heritage,
+      will give you the sensation of what the north represents. It's considered
+      the oldest villa in Portugal founded in the year of 1125. The best
+      highlight of this villa is the famous Lima bridge built by the romans
+      during the I century with a beautiful history behind it. In terms of
+      gastronomy, you can taste the famous Vinho Verde, and to eat you can have
+      lamprey rice and also the sarrabulho rice."
+    title: "Day 7: Viana do Castelo – Ponte de Lima: 19 km or (26 km to the City
+      center)"
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "8"
+    title: "Day 8: Departure"
+    location:
+      lat: "1"
+      lng: "1"
 gallery:
   - image: /img/norte-de-portugal-03-melgaco.jpeg
     alt: melgaço
@@ -75,8 +175,19 @@ The Minho River is also the perfect excuse for relaxing in the north of the coun
 
 Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
 
-**Route:**
 
+\
+**Route description:**  
+
+* The major part of the tour is flat. 1st, 2nd, 4th, are walked with between 190 meters and 170 m of uphill’s
+* There is a strong mix of pavement roads, stone pavement and dirt roads. 
+
+
+
+
+**Itinerary:**
+
+\
 **Day 1:**Melgaço
 
 **Day 2:**Melgaço-Monção: 18 km
