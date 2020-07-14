@@ -12,10 +12,11 @@ meta:
   title: Walking & Hiking Holiday tours in Portugal
 toursection:
   description: "## Popular hiking tours in Portugal"
-  descriptionafter: >-
-    ***Walking & Hiking tours in Portugal**:* \
-
-    In our walking & hiking holidays tours, don´t expect any car transfer between routes. We believe that a true walking & hiking tour vacation week without any mechanical help is the best way to enjoy nature. Be with yourself and cherish the moment you are in.
+  descriptionafter: "**Walking & Hiking tours in Portugal**:  In our walking &
+    hiking holidays tours, don´t expect any car transfer between routes. We
+    believe that a true walking & hiking tour vacation week without any
+    mechanical help is the best way to enjoy nature. Be with yourself and
+    cherish the moment you are in."
   heading: |-
     ## NORTH TO SOUTH
 
