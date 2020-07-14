@@ -62,7 +62,7 @@ feature:
   textcolor: white
   subtitle: Minho walking & Hiking Holiday in the North of Portugal
   title: Minho walking & Hiking Holiday in the North of Portugal
-  image: /img/hiking-ecovia-lima.jpg
+  image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
 # **Minho walking & Hiking Holiday in the North of Portugal**
