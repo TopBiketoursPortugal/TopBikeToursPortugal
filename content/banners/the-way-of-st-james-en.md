@@ -2,7 +2,7 @@
 key: "1"
 language: en
 banner: true
-order: 1
+order: 2
 title: Walk the Camino!
 description: A bucket List hiking tour starting in Porto, Portugal, till Santiago Compostela
 goto:
