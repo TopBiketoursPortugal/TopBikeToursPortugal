@@ -5,6 +5,7 @@ path: /minho-hiking-north-portugal
 productcode: NT01
 featured: true
 language: en
+image: /img/walking-tour-rio-lima.jpg
 title: Minho walking & Hiking Holiday in the North of Portugal
 packagetype: PackageTour
 tourtype: Walking
