@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: minho-hiking-north-portugal
+path: /minho-hiking-north-portugal
 productcode: NT01
 featured: true
 language: en
