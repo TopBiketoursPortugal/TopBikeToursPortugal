@@ -43,7 +43,7 @@ itinerary:
       lat: "1"
       lng: "1"
   - day: "2"
-    description: "The 18km of this day will be made between two villages of Viana do
+    description: The 18km of this day will be made between two villages of Viana do
       Castelo, Melgaço to Monção. Near to the border with Spain, and felling the
       Minho river and its viewpoints, the major part of the way will be walked
       in the Minho Ecopista, an old railway section.  The two villages are
@@ -52,7 +52,7 @@ itinerary:
       which, know-a-days are in ruins. The day will be also remembered by the
       routes of verde wine, which, in the fact, connects these two villages. So,
       take the chance to visit the Alvarinho museum and taste the well-known
-      wine. "
+      wine.
     title: "Day 2: Melgaço- Monção: 18 km"
     location:
       lat: "1"
