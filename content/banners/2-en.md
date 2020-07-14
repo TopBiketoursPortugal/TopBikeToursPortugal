@@ -4,7 +4,7 @@ language: en
 banner: true
 order: 2
 title: "2"
-description: "2"
+description: "22"
 goto:
   link: www.topwalkingtoursportugal.com
   linktext: www.topwalkingtoursportugal.com
