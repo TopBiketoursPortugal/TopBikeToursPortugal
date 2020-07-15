@@ -85,7 +85,7 @@ meta:
   title: About us
 feature:
   align: center
-  image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4394.jpg
+  image: /img/walking-portuguese-camino-to-santiago.jpg
   imageAlign: center top
   subtitle: ""
   textcolor: Orange
