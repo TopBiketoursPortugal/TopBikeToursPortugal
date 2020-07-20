@@ -119,6 +119,19 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/valença-do-minho-walking.jpg
+    alt: Valença do minho
+  - image: /img/valença-do-minho-bridge.jpg
+    alt: Valença do minho bridge
+  - image: /img/28879411343_b33735ac0e_o.jpg
+    alt: store
+  - image: /img/vila-praia-de-ancora.jpg
+    alt: vila praia de ancora
+  - image: /img/valença-do-minho-river-view.jpg
+    alt: valença do minho river view
+  - image: /img/ponte-de-lima-streets.jpg
+    alt: ponte de lima streets
 pricing: []
 feature:
   align: center
