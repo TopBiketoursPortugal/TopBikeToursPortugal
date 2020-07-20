@@ -262,7 +262,7 @@ feature:
 
 ## The "easy" Coastal route to St. James hiking trail
 
-### 9 or 14 Days walking & hiking
+### 7, 9 or 14 Days walking & hiking
 
 Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside areas such as Póvoa, Esposende, Vila Praia de âncora, Caminha and Bayona. Have a delight with the famous Arcade's oysters in VIgo. Know why Caldas de Reis holds such a royalty importance and end this tour in the Square of Obradoiro, where you can see the colossal baroque cathedral where the remains of the apostle Santiago lie.
 
@@ -270,11 +270,15 @@ Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside
 
 * the first 8 days are flat with very few and minor hills
 * the remaining days do have uphills, especially the 10th, 11th and 14th days
-* the main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk \
-  \
+* the main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk  
 
-**Itinerary 14 Days :** \
+
+
+
 \
+\
+**Itinerary 14 Days :**  
+
 **Day 1:**Porto
 
 **Day 2:** Transfer to Praia da memória – Póvoa: 20 km
@@ -303,17 +307,36 @@ Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside
 
 **Day 14:** Padrón – Santiago de Compostela: 25 km
 
-**Day 15:** Departure
-
-
-
-**Itinerary 9 Days:** \
+**Day 15:** Departure 
+\
+\
+\
+**Itinerary 9 Days:**  
 \
 **Day 1:**Transfer to Caminha
 
 **Day 2:** Caminha – Oia: 23 km
 
 **Day 3:** Oia – Baiona: 18 km
+
+**Day 4:** Baiona - Vigo: 25 km
+
+**Day 5:** Vigo - Redondela: 17 km
+
+**Day 6:** Redondela – Pontevedra: 21 km
+
+**Day 7:** Pontevedra – Caldas de reis: 25 km
+
+**Day 8:** Caldas de Reis – Padrón: 14 km
+
+**Day 9:** Padrón – Santiago de Compostela: 25 km
+
+**Day 10:** Departure \
+\
+\
+**Itinerary 7 Days:**  \
+\
+**Day 1:**Transfer to Baiona
 
 **Day 4:** Baiona - Vigo: 25 km
 
