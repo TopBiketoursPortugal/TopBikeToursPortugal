@@ -231,6 +231,21 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/santiago-de-compostela-cathedral.jpg
+    alt: santiago compostela cathedral
+  - image: /img/house-with-flowers.jpg
+    alt: house with pink flowers
+  - image: /img/the-way-of-st.-james-hike-tour.jpg
+    alt: compostela certificate
+  - image: /img/santiago-de-compostela-city-center.jpg
+    alt: santiago compostela city center
+  - image: /img/vigo-bay-view.jpg
+    alt: vigo bay view
+  - image: /img/top-walking-tours-portugal-porto-hiking-holidays.jpg
+    alt: porto city center
+  - image: /img/top-bike-tours-portugal-coast-hiking-santiago-compostela.jpg
+    alt: POrto douro river
 pricing: []
 feature:
   align: center
