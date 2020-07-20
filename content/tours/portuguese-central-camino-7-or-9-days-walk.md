@@ -6,7 +6,7 @@ productcode: ST01
 featured: false
 language: en
 image: /img/the-way-of-st.-james-original-hike-tour.jpg
-title: "Portuguese Central Camino: 7 or 9 days walk "
+title: "Portuguese Central Camino: 7, 9 or 12 days walk "
 packagetype: PackageTour
 tourtype: Walking
 meta:
@@ -27,21 +27,90 @@ durationUnit: Days | 9 Nights
 difficulty: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d58N6F
 itinerary:
-  - title: "Day 1: Ponte de Lima"
-    day: "1"
-    description: Welcome to the Ponte de Lima, it's considered the oldest villa in
-      Portugal founded in the year of 1125 and recognized as world
-      heritage.  Located in the region of Minho, this town is known by their big
-      baroque manors and also for their big plazas. But the best highlight of
-      this villa is the famous Lima bridge built by the romans during the I
-      century, and is also famous among the pilgrims because of the Camino de
-      Santiago.  In terms of gastronomy, you can taste the famous Vinho Verde,
-      and to eat you can have lamprey rice and also the Sarrabulho rice.
+  - day: "1"
+    title: "Day 1: Porto"
+    description: "Welcome to Porto, the city of the thousand histories and one of
+      the oldest city of Europe.   Surround by the Douro River, the city was
+      classified as the Unesco World Heritage in 1996, due to that, the façade
+      of the historical buildings cannot be changed, preserving, in this way,
+      the past of a city known for the wine, its bridges and its historic
+      center.  In the capital of culture and tourism, join us in a city walking
+      tour and discover part of the heritage this city has to offer. Meet famous
+      and well-known hot spots, such as, the bookstore that influenced J.K
+      Rowling´s Harry Potter, the church and tower of Clérigos, the São Bento
+      train station with the blue and white tiles hiding at each corner, the
+      magnificent Stock Exchange Market and more. Art, heritage and traditions
+      are meant to be found and seen during this short city tour. "
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 2: Ponte de Lima – Cossourado: 22km"
-    day: "2"
+  - day: "2"
+    title: "Day 2: Porto to Vilar do Pinheiro tranfer – Arcos: 18 km "
+    description: "The beginning of this journey will connect two villages of Vila do
+      Conde city. Starting in Vilar do Pinheiro, a 18km walk awaits. The highest
+      point at 108m and the lowest at 16m, the pathway will be made in national
+      and pavement roads or asphalt roads surrounded by corn fields or
+      florets.  Some of the areas that might spark your interest during the day
+      are: church of Santa Maria de Vilar do Pinheiro, a 18th century temple and
+      the bridge of São Miguel dos Arcos, an roman bridge with three-arch built
+      in the XIII century that cross the Ave river. In this region it’s almost
+      mandatory to try the northern gastronomy. "
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "3"
+    title: "Day 3: Arcos – Barcelos: 15 km "
+    description: "In this second day the destination is the medieval city of
+      Barcelos, known for the it’s symbol, the rooster of Barcelos. In fact, the
+      legend of the rooster it is well connected to a pilgrim of Santiago de
+      Compostela, so this will be a day to discover what is behind of this city.
+      During the day, the pilgrims, are going to pass by the Ecopista do ramal
+      de Famalicão and  discover the Sanctuary of Franqueira, considered a
+      sacred mount to the local people is a cultural, archaeological and
+      religious place surround by an amazing nature.  The journey is majorly
+      made in asphalt or pavement roads surround by corn fields or forests, very
+      similar with the day before.  In the Cavádo River, the walkers will have
+      the opportunity to cross the medieval bridge of Barcelos, which will open
+      the way to discover the Paço dos Condes an old castle from the XV century
+      now in ruins, classified as cultural heritage in 1910. In the city of
+      Barcelos, embrace the opportunity to visit the historic center surround by
+      gardens and discover the church of Bom Jesus da cruz an baroque church
+      with Italian influence, considered the main church of the city. "
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "4"
+    title: "Day 4: Barcelos – Balugães: 16 km"
+    description: The 16km of this day will be spent in Barcelos villages where the
+      walkers will have the chance to experiencing both Minho’s typical
+      countryside and the different little churches along the way. Until
+      Balugães, the roads are divided between paved road and dirt roads
+      surrounded by forests and pure ar. A degree of elevation will be noticed
+      in the middle of the way reaching the highest point at 194m. Crossing the
+      Neiva River on the top of the Tábuas Bridge, 30 minutes of walk waits
+      until you reach Balugães. To finishing the day, discover the Minho´s
+      gastronomy with the typical and most known wine of the region the vinho
+      verde. And, also, take your time to visit the Nossa Senhora da Aparecida
+      Santuary, in Balugães.  The Sanctuary was built on the top of a rock
+      where, according to the tradition, documented in historical archives,
+      Nossa Senhora would have appeared in 1702.
+    location:
+      lat: "1"
+      lng: "1"
+  - title: "Day 5: Balugães – Ponte de Lima: 18 km"
+    day: "5"
+    description: "Start this day in Balugães, the road will me made majorly in
+      pavements roads in a rural landscape, with the last 3km in stone pavement
+      notice when you arrive to Ponte de Lima.  Arriving to Ponte de Lima, take
+      opportunity to walk through the roman bridge and discover the legend
+      behind it and the change to be embrace by the avenue of Plátanos where you
+      are going to see plane trees with more than 200 years old. Also, in this
+      village it´s almost mandatory to try the Sarrabulo rice. "
+    location:
+      lat: "1"
+      lng: "1"
+  - title: "Day 6: Ponte de Lima – Cossourado: 22km"
+    day: "6"
     description: Start the first day crossing the famous Lima Bridge, the path in
       the beginning is very smooth with a mix of nature and rural houses,
       creating amazing landscapes. Continuing the walking, you will notice a
@@ -54,8 +123,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - day: "3"
-    title: "Day 3: Cossourado – Valença do Minho: 13 km"
+  - day: "7"
+    title: "Day 7: Cossourado – Valença do Minho: 13 km"
     description: "The second day is the one with less kilometers and it continues
       the Santiago Camino so prepare to see a lot of pilgrims hiking with you,
       the road can be a little difficult because it is paved with stones. Along
@@ -73,8 +142,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 4: Valença do Minho – Porrinõ: 20 km "
-    day: "4"
+  - title: "Day 8: Valença do Minho – Porrinõ: 20 km "
+    day: "8"
     description: "This is the day where Spain is one step forward and where Portugal
       will be well remained by the last city known by the green landscape, the
       historical monuments and the cobblestone. The 20 km of walking it going to
@@ -93,8 +162,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 5: Porrinõ – Redondela: 23 km"
-    day: "5"
+  - title: "Day 9: Porrinõ – Redondela: 23 km"
+    day: "9"
     description: "Walking between Porriño and Redondela the road follow in paved and
       asphalt pathways with the highest point at 260m and the lowest at
       250m.   Near to the city of Redondela the nature will follow 331 meters of
@@ -106,8 +175,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - day: "6"
-    title: "Day 6: Redondela – Pontevedra: 21 km"
+  - day: "10"
+    title: "Day 10: Redondela – Pontevedra: 21 km"
     description: Near to the ocean coast but inserted in a rural city this day will
       require some effort due to the 320 m of uphill insert in 156m at the
       highest point, although the lowest point is 6m. The major parts of the
@@ -123,8 +192,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - day: "7"
-    title: "Day 7: Pontevedra – Caldas de reis: 25 km"
+  - day: "11"
+    title: "Day 11: Pontevedra – Caldas de reis: 25 km"
     description: "The path departs from Pontevedra towards Caldas de reis. In this
       hiking day, the walkers almost can throwback to the roman times with the
       presence of the thermal baths and spas. The major part of the pathway is
@@ -157,13 +226,13 @@ itinerary:
       according to the legend, the stone ship with the apostle´s body was
       moored. The stone it’s now a days in Padrón and due to the symbol present
       in the stone the city start to be known as Padrón.
-    title: "Day 8: Caldas de Reis – Padrón: 22 km"
-    day: "8"
+    title: "Day 12: Caldas de Reis – Padrón: 22 km"
+    day: "12"
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 9: Padrón – Santiago de Compostela: 25 km"
-    day: "9"
+  - title: "Day 13: Padrón – Santiago de Compostela: 25 km"
+    day: "13"
     description: "The way between Padrón and the expected final destination is 25 km
       forward. The day will be felt in the highest point at 259m, the lowest
       point at 6m and the emotion of arriving to the promise land of this
@@ -185,8 +254,8 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 10: Departure"
-    day: "10"
+  - title: "Day 14: Departure"
+    day: "14"
     location:
       lat: "1"
       lng: "1"
@@ -215,7 +284,9 @@ feature:
 ---
 # **Portuguese Central Camino Original Route**
 
-## **7 or 9 days walk: Start In the Old Village of Portugal named “Ponte de Lima” or walk less and spend only 1 night in Portugal, in Valença do Minho, near the Spanish border**
+## **The old and original route to Santiago de Compostela from Porto**
+
+### **7, 9 or 13 days walk: Start In the Old Village of Portugal named “Ponte de Lima” or walk less and spend only 1 night in Portugal, in Valença do Minho, near the Spanish border**
 
 Santiago de Compostela, in Northwest Spain, province of Corunha, is internationally known as one of the main destinations for Christian pilgrimage. The typical markets are an excellent location to explore delicious Galician products and traditional arts.
 
@@ -225,13 +296,45 @@ Crossing the border and enter in Spain, be amazed by the viaducts and the therma
 \
 **Route description:**
 
-* 1st and the last day of this journey, 550 meters and 430 meters of uphill’s are on the way. The major part of the tour is flat going near the riverside or the florets.
-* Paved streets and boardwalks most of the time, with a mix of rural and urban cities. 
+* On this route all kind of terrains are to be expected. Route with long and difficult climbs
+* 4435 meters with cumulated ascents
+
+
+
+**Itinerary 13 Days:** 
+
+**Day 1:**Porto
+
+**Day 2:** Porto to Vilar do Pinheiro tranfer – Arcos: 18 km
+
+**Day 3**: Arcos – Barcelos: 15 km
+
+**Day 4:** Barcelos – Balugães: 16 km
+
+**Day 5:** Balugães – Ponte de Lima: 18 km
+
+**Day 6:** Ponte de Lima – Cossourado: 22 km
+
+**Day 7:** Cossourado – Valença do Minho: 13 km
+
+**Day 8:** Valença do Minho – Porrinõ: 20 km
+
+**Day 9:** Porrinõ – Redondela: 23 km
+
+**Day 10:** Redondela – Pontevedra: 21 km
+
+**Day 11:** Pontevedra – Caldas de Reis: 25 km
+
+**Day 12:** Caldas de Reis – Padrón: 22 km
+
+**Day 13:** Padrón – Santiago de Compostela: 25 km
+
+**Day 14:** Departure 
 
 \
 **Itinerary 9 Days:** 
 
-**Day 1:**Ponte de Lima
+**Day 1:**Transfer toPonte de Lima
 
 **Day 2:** Ponte de Lima – Cossourado: 22 km
 
@@ -255,7 +358,7 @@ Crossing the border and enter in Spain, be amazed by the viaducts and the therma
 **Itinerary 7 Days:** \
 \
 \
-**Day 1:**  Valença do Minho
+**Day 1:** Transfer to Valença do Minho
 
 **Day 2:** Valença do Minho – Porrinõ: 20 km
 
