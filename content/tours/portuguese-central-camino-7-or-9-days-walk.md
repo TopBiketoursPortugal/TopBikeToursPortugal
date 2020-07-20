@@ -190,6 +190,17 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/caldas-de-reis-accommodations.jpg
+    alt: Caldas de reis hotel
+  - image: /img/route-camino-santiago-walk.jpg
+    alt: route picture
+  - image: /img/the-way-of-st.-james-hike-tour-in-arcade.jpg
+    alt: arcade bridge
+  - image: /img/the-way-of-st.-james-hike-tour-waterfall.jpg
+    alt: waterfall
+  - image: /img/dinner-santiago-de-compostela.jpg
+    alt: dinner santiago de compostela
 pricing: []
 feature:
   align: center
