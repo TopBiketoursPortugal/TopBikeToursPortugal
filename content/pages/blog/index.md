@@ -5,14 +5,14 @@ slug: blog
 path: /blog/
 title: Blog Page
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: Blog Page
   keywords: Blog Page
   robots: INDEX
   title: Blog Page
 feature:
   align: center
-  image: /img/The-Way-of-St.-James-Bike-Tour-Fold-N-Visit-Cycling-Holidays-1866.jpg
+  image: /img/top-walking-tours-portugal.jpg
   imageAlign: bottom
   textcolor: Black
   title: blog
