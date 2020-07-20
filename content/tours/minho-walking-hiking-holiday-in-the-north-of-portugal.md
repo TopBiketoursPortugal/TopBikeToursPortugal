@@ -29,30 +29,29 @@ itinerary:
   - day: "1"
     title: "Day 1: Melgaço"
     description: "The journey in the North of Portugal will start by visiting the
-      village of Viana do Castelo known by its Avalarinho verde wine, the
-      village of Melgaço its an rural area with pavement roads or with stone
-      pavements surround by mountain environment, the village its located near
-      to Monção and the border Spain.   Some of the areas that might spark your
-      interest during the day are: the Melgaço castle a castle from the XII
-      century wich was an important defensive line between the Minho river and
-      the border with Galiza; the church Matriz de Melgaço, with roman
-      arquitecther from the XII century; the Menage tower, in the historical
-      center, build in 1199; In Melgaço its almost mandatory to try the minho´s
-      gastronomy, for example, the artisanal sausages. "
+      village of Melgaço known by its Avalarinho verde wine, the village of
+      Melgaço it’s an rural area with pavement roads or with stone pavements
+      surround by mountain environment, the village it’s located near to Monção
+      and the border Spain.   Some of the areas that might spark your interest
+      during the day are: the Melgaço castle a castle from the XII century wich
+      was an important defensive line between the Minho river and the border
+      with Galiza; the church Matriz de Melgaço, with roman arquitecther from
+      the XII century; the Menage tower, in the historical center, build in
+      1199; In Melgaço its almost mandatory to try the minho´s gastronomy, for
+      example, the artisanal sausages. "
     location:
       lat: "1"
       lng: "1"
   - day: "2"
-    description: The 18km of this day will be made between two villages of Viana do
-      Castelo, Melgaço to Monção. Near to the border with Spain, and felling the
-      Minho river and its viewpoints, the major part of the way will be walked
-      in the Minho Ecopista, an old railway section.  The two villages are
-      remembered until today for the architectural, historical and cultural
-      heritage well noticed for the fortresses, that used to surround the city,
-      which, know-a-days are in ruins. The day will be also remembered by the
-      routes of verde wine, which, in the fact, connects these two villages. So,
-      take the chance to visit the Alvarinho museum and taste the well-known
-      wine.
+    description: "The 18km of this day will be made between two villages Melgaço to
+      Monção. Near to the border with Spain, and felling the Minho River and its
+      viewpoints, the major part of the way will be walked in the Minho
+      Ecopista, an old railway section.  The two villages are remembered until
+      today for the architectural, historical and cultural heritage well noticed
+      for the fortresses, that used to surround the city, which, know-a-days are
+      in ruins. The day will be also remembered by the routes of “vinho verde”,
+      which, in the fact, connects these two villages. So, take the chance to
+      visit the Alvarinho museum and taste the well-known wine. "
     title: "Day 2: Melgaço- Monção: 18 km"
     location:
       lat: "1"
@@ -103,35 +102,34 @@ itinerary:
       lng: "1"
   - day: "6"
     title: "Day 6: Vila Praia de Âncora – Viana do Castelo: 20 Km"
-    description: In this last day, the walk continues to follow the Santiago Coast
+    description: In this day, the walk continues to follow the Santiago Coast
       Camino, like the previous day this path is flat with some cobblestone and
       dirt roads.  During the day you will find some Forts and windmills, the
       Fort that stands out it´s the Dog´s Fort dated in 1702 by the king D.
       Pedro II mainly used to defend the coast from the pirates.  Arriving to
       the final destination of this tour, you can visit the Santa Lúzia
       Sanctuary, the historical center and the foundation of Gil Eanes (it’s a
-      Portuguese hospital ship now transformed in a museum). To eat we recommend
-      the codfish at Zé do Pipo a famous dish that you can only taste in this
-      place
+      Portuguese hospital ship now transformed in a museum). Also, take a moment
+      to visit the Catedral of Viana, a gothic masterpiece built in the first
+      half of the XV century. To eat we recommend the codfish at Zé do Pipo a
+      famous dish that you can only taste in this place.
     location:
       lat: "1"
       lng: "1"
   - day: "7"
-    description: "Starting your day to the last destination of this journey, take a
-      moment to visit the lasts monuments of Viana do Castelo city: the Catedral
-      of Viana, a gothic masterpiece built in the first half of the XV century
-      and as the walk continues, the last monument of Viana city will be seen,
-      cross the bridge Eiffel and be embrace by the Lima river. This 19km walk
-      will be made in stone pavement or paved roads. The major part of this day
-      will be felt in the pure air surround by the forests presents in the
-      Ecovia of Lima River. Arriving to the last destination of this journey in
-      the North of Portugal, Ponte de Lima, a city recognized as world heritage,
-      will give you the sensation of what the north represents. It's considered
-      the oldest villa in Portugal founded in the year of 1125. The best
-      highlight of this villa is the famous Lima bridge built by the romans
-      during the I century with a beautiful history behind it. In terms of
-      gastronomy, you can taste the famous Vinho Verde, and to eat you can have
-      lamprey rice and also the sarrabulho rice."
+    description: Starting your day to the last destination of this journey, and as
+      the walk continues, the last monument of Viana city will be seen, cross
+      the bridge Eiffel and be embrace by the Lima river. This 19km walk will be
+      made in stone pavement or paved roads. The major part of this day will be
+      felt in the pure air surround by the forests presents in the Ecovia of
+      Lima River. Arriving to the last destination of this journey in the North
+      of Portugal, Ponte de Lima, a city recognized as world heritage, will give
+      you the sensation of what the north represents. It's considered the oldest
+      villa in Portugal founded in the year of 1125. The best highlight of this
+      villa is the famous Lima bridge built by the romans during the I century
+      with a beautiful history behind it. In terms of gastronomy, you can taste
+      the famous Vinho Verde, and to eat you can have lamprey rice and also the
+      sarrabulho rice.
     title: "Day 7: Viana do Castelo – Ponte de Lima: 19 km or (26 km to the City
       center)"
     location:
@@ -169,11 +167,15 @@ feature:
 
 ## Walk near the sea and near the Minho and Lima Valley
 
+
+
 The Walk Trail of Minho River, an old railway section, was ranked as the fourth best 2009 trail in Europe. That alone showcases all the amazing Portuguese landscapes, rivers and seaside views which you will be enjoying during this trip, hiking trough World Heritage villages, vineyards, farmed land and historical towns.
 
 The Minho River is also the perfect excuse for relaxing in the north of the country. Explore the trails and the Portuguese villages along this border river and its main highlights. The Minho River serves as a natural border between Portugal and Spain, travelling the entire way across Melgaço and Valença. Also, the journey will lead the walkers in part of the Santiago Coast Caminho and the Ecovia of Lima River.
 
 Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
+
+
 
 \
 **Route description:**  
