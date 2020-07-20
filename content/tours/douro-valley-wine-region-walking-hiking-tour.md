@@ -115,6 +115,15 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/douro-river-view.jpg
+    alt: Douro river
+  - image: /img/olive-oil-manufacture.jpg
+    alt: Olive oil experience
+  - image: /img/quinta-da-pacheca-walk-activity.jpg
+    alt: Pacheca wine tasting
+  - image: /img/quinta-da-pacheca.jpg
+    alt: pacheca Farm
 pricing: []
 feature:
   align: center
