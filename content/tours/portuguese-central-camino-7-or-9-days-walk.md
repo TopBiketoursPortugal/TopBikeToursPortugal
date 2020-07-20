@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /Santiago-Compostela-hiking- original-route-porto
+path: /Santiago-Compostela-hiking-original-route-porto
 productcode: ST01
 featured: false
 language: en
