@@ -85,7 +85,7 @@ meta:
   title: About us
 feature:
   align: center
-  image: /img/walking-portuguese-camino-to-santiago.jpg
+  image: /img/quinta-da-pacheca-walk-activity.jpg
   imageAlign: center top
   subtitle: ""
   textcolor: Orange
