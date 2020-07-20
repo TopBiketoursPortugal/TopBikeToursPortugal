@@ -5,7 +5,7 @@ path: /north-easy-atlantic-coast-porto
 productcode: NT03
 featured: false
 language: en
-image: /img/top-walking-tours-portugal.jpg
+image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3346.jpg
 title: "North easy Atlantic Coast of Portugal walking & Hiking "
 packagetype: PackageTour
 tourtype: Walking
@@ -107,6 +107,19 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-1753.jpg
+    alt: Path walk
+  - image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-1826.jpg
+    alt: sea hiking view
+  - image: /img/vila-praia-de-ancora.jpg
+    alt: vila praia de ancora
+  - image: /img/apulia-beac.jpg
+    alt: Apulia Beach
+  - image: /img/caminha-city-center-2-.jpg
+    alt: Caminha city center
+  - image: /img/suave-mar-hotel.jpg
+    alt: Suave mar hotel
 pricing: []
 feature:
   align: center
@@ -116,7 +129,7 @@ feature:
   textcolor: white
   subtitle: "North easy Atlantic Coast of Portugal walking & Hiking "
   title: "North easy Atlantic Coast of Portugal walking & Hiking "
-  image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3346.jpg
+  image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
 # North easy Atlantic Coast of Portugal walking & Hiking 
