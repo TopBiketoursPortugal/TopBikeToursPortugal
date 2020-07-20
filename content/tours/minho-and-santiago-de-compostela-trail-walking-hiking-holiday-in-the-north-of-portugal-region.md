@@ -5,7 +5,7 @@ path: /Minho-santiago-compostela-trail-north-portugal
 productcode: NT02
 featured: false
 language: en
-image: /img/top-walking-tours-portugal.jpg
+image: /img/espigueiro.jpg
 title: "Minho and Santiago de Compostela trail walking + Hiking Holiday in the
   North of Portugal region  "
 packagetype: PackageTour
@@ -141,7 +141,7 @@ feature:
   textcolor: white
   subtitle: Minho and Santiago de Compostela trail in the North of Portugal
   title: Minho and Santiago de Compostela trail in the North of Portugal
-  image: /img/espigueiro.jpg
+  image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
 # **Minho and Santiago de Compostela trail walking & Hiking Holiday in the North of Portugal region**
