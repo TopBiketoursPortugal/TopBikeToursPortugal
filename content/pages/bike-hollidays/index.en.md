@@ -73,7 +73,7 @@ meta:
   title: Hiking & Walking tours Portugal
 feature:
   align: center
-  image: /img/walking-tour-group-photo-with-porto-bridge.jpg
+  image: /img/top-walking-tours-portugal.jpg
   imageAlign: center
   subtitle: The Camino Bicycle tour
   textcolor: white
