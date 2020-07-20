@@ -9,12 +9,10 @@ meta:
   title: Contact us
 feature:
   align: center
-  image: /img/esmoriz-wood-wlak-with-bike.jpg
+  image: /img/hiking-portuguese-camino.jpg
   imageAlign: center center
-  subtitle: ''
+  subtitle: ""
   textcolor: Orange
   title: Contact us
 ---
-
-
-
+Contact us
