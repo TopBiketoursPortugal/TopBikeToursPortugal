@@ -152,6 +152,21 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/flowers-view.jpg
+    alt: flowers
+  - image: /img/hiking-in-marvão-with-top-walking-tours-portugal.jpg
+    alt: Marvão view
+  - image: /img/marvão-view.jpg
+    alt: Montain hiking trail view
+  - image: /img/walk-inside-walls.jpg
+    alt: village streets
+  - image: /img/walk-city-center-crato.jpg
+    alt: city center crato
+  - image: /img/montain-walk-views.jpg
+    alt: Montain walk trail
+  - image: /img/marvão.jpg
+    alt: people photo city center
 pricing: []
 feature:
   align: center
