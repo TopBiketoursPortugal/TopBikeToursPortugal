@@ -169,6 +169,19 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/agriculture.jpg
+    alt: Agriculture
+  - image: /img/zambujeira-city-center.jpg
+    alt: Zambujeira city center
+  - image: /img/animals-view.jpg
+    alt: aninals view
+  - image: /img/ocean-view.jpg
+    alt: Atlantic ocean view
+  - image: /img/sagres-view.jpg
+    alt: sagres view
+  - image: /img/trail-carrapateira-hiking.jpg
+    alt: carrapateira hiking  trail
 pricing: []
 feature:
   align: center
@@ -178,7 +191,7 @@ feature:
   textcolor: white
   subtitle: Vicentine Coast in Alentejo and Algarve Hiking & walking tour
   title: Vicentine Coast in Alentejo and Algarve Hiking & walking tour
-  image: /img/top-walking-tours-portugal.jpg
+  image: /img/walking-pescadores-trail.jpg
   bokunLinkText: Book now
 ---
 # Vicentine Coast in Alentejo and Algarve Hiking & walking tour
