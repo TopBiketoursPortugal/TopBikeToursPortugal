@@ -25,7 +25,7 @@ duration: 10
 durationUnit: Days | 9 Nights
 difficulty: 1
 physicality: -1
-mapUrl: ttps://www.google.com/maps/d/u/1/embed?mid=1-I4LP1ywrOVBksuxUEKPamnUahXHfUwC
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1-I4LP1ywrOVBksuxUEKPamnUahXHfUwC
 itinerary:
   - day: "1"
     title: "Day 1: Lisbon arrival and transfer Castelo de Vide"
