@@ -85,7 +85,7 @@ meta:
   title: About us
 feature:
   align: center
-  image: /img/quinta-da-pacheca-walk-activity.jpg
+  image: /img/walking-pescadores-trail.jpg
   imageAlign: center top
   subtitle: ""
   textcolor: Orange
