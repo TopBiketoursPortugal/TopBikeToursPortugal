@@ -174,8 +174,8 @@ feature:
   bokunLink: ""
   bokunId: ""
   textcolor: white
-  subtitle: "# **Historical Alentejo: The rural houses vs deluxe Hotels**"
-  title: "# **Historical Alentejo: The rural houses vs deluxe Hotels**"
+  subtitle: "Historical Alentejo: The rural houses vs deluxe Hotels"
+  title: "Historical Alentejo: The rural houses vs deluxe Hotels"
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
