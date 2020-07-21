@@ -7,10 +7,8 @@ featured: true
 language: en
 image: /img/zambujeira-do-mar-hike.webp
 title: "Vicentine Coast in Alentejo and Algarve Hiking & walking tour "
-packagetype:
-  - PackageTour
-tourtype:
-  - Bike
+packagetype: PackageTour
+tourtype: Walking
 meta:
   title: Vicentine Coast in Alentejo and Algarve Hiking & walking tour
   description: An amazing walking tour through one of the best coastlines of
@@ -183,15 +181,13 @@ feature:
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# Vicentine Coast in Alentejo and Algarve Hiking & walking tour 
+# Vicentine Coast in Alentejo and Algarve Hiking & walking tour
 
 ## The south of Portugal through the coastline
 
 ### **Explore the famous Vicentine Coast and walk on the region of Alentejo and Algarve**
 
-13 days
-
-
+**Full hiking tour 13 days or 6 Days optional routes**
 
 An amazing walking tour through one of Europe's best preserved regions. The southeast Alentejano Natural Park includes wild beaches surrounded by imposing cliffs, small mountain ranges, cork oak groves, traditional fishing villages, typical villages, spectacular views and important geographical points, such as Cape Sardão, the Cape of São Vicente, from where the caravels left for seas never before navigated, and Ponta de Sagres.
 
@@ -199,16 +195,14 @@ January to June or October to December is our recommendation for you to do this 
 
 Average temperatures in the Algarve, south of Portugal, are usually around 17ºC, and the weather is always sunny or partially sunny, as it is rare for it to rain in the southern regions, even during the winter.
 
-
-
-
-
 **Route description:**
 
 * Mostly flat all days
 * 50% of paved roads and 50% of natural and dirt roads
 
 
+
+**Itinerary 13 Day:**
 
 **Day 1:** Lisbon arrival
 
@@ -237,3 +231,41 @@ Average temperatures in the Algarve, south of Portugal, are usually around 17ºC
 **Day 13:** Vila do Bispo – Sagres: 24 km (or 10 km)
 
 **Day 14:** Departure
+
+
+
+**Itinerary 6 Days:**
+
+***Vicentine Coast Alentejo Hiking + walking tour***
+
+**Day 1:** Lisbon arrival 
+
+**Day 2:** Trasnfer to Porto Covo – Vila Nova de Mil Fontes: 17 km
+
+**Day 3:** Vila Nova de Mil Fontes – Almograve: 12 km
+
+**Day 4**: Almograve – Zambujeira do Mar: 13 km
+
+**Day 5:** Zambujeira do Mar – Azenhas do Mar: 14 Km
+
+**Day 6:** Azenhas do Mar – Odeceixe: 12 km
+
+**Day 7:** Departure
+
+
+
+***Vicentine Coast Algarve west Coast Hiking + walking tour***
+
+**Day 1:** Lisbon arrival and transfer to Aljezur
+
+**Day 2:** Aljezur – Arrifana: 16 Km
+
+**Day 3:** Arrifana – Carrapateira: 20 km
+
+**Day 4:** Carrapateira – Pedralva: 8 Km
+
+**Day 5:** Pedralva – Vila do Bispo: 12 km
+
+**Day 6:** Vila do Bispo – Sagres: 24 km
+
+**Day 7:** Departure
