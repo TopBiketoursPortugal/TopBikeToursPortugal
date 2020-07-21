@@ -210,10 +210,47 @@ pricing:
         value: No
       - title: Liability Insurance
       - icon: "-"
+        title: --------------------------------
+      - icon: "-"
         title: 6 Nights / 7 Days ( price per person)
+        value: Algarve Coast
+      - title: "Low season: Nov 01 to Mar 25"
+        value: 1.089 €
+      - title: "Regular season: Mar 26 to 25 Jun"
+        value: 1.189€
+      - title: "Summer Season: Jun 26 to August 30"
+        value: 1.339€
+      - title: "High Season: Set 01 to 25 Set"
+        value: 1.289 €
+      - title: --------------------------------
+      - title: 6 Nights / 7 Days ( price per person)
+        value: Alentejo Coast
+      - title: "Low season: Nov 01 to Mar 25"
+        value: 1.149 €
+      - title: "Regular season: Mar 26 to 25 Jun"
+        value: 1.249 €
+      - title: "Summer Season: Jun 26 to August 30"
+        value: 1.299 €
+      - title: "High Season: Set 01 to 25 Set"
+        value: 1.349 €
+      - title: --------------------------------
+      - title: 13 Nights / 14 Days ( price per person)
+        value: |-
+          Alentejo + Algarve
+
+          Coast
+      - title: "Low season: Nov 01 to Mar 25"
+        value: 1.799 €
+      - title: "Regular season: Mar 26 to 25 Jun"
+        value: 1.899 €
+      - title: "Summer Season: Jun 26 to August 30"
+        value: 2.049€
+      - title: "High Season: Set 01 to 25 Set"
+        value: 1.999€
     package: Self Guided
-    price: 1000
+    price: 1089
     discount: 0
+    type: ""
 feature:
   align: center
   imageAlign: center center
