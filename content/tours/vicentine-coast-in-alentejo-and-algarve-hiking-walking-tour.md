@@ -182,7 +182,38 @@ gallery:
     alt: sagres view
   - image: /img/trail-carrapateira-hiking.jpg
     alt: carrapateira hiking  trail
-pricing: []
+pricing:
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets to Lisbon
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: GPS With route per booking
+        value: Yes
+      - title: App with GPS route for mobile
+        value: Yes
+      - title: Guide
+        value: no
+      - title: Lunches
+        value: No
+      - title: Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+      - icon: "-"
+        title: 6 Nights / 7 Days ( price per person)
+    package: Self Guided
+    price: 1000
+    discount: 0
 feature:
   align: center
   imageAlign: center center
