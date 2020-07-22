@@ -12,7 +12,7 @@ meta:
   title: Blog Page
 feature:
   align: center
-  image: /img/top-walking-tours-portugal.jpg
+  image: /img/walking-portuguese-camino-to-santiago.jpg
   imageAlign: bottom
   textcolor: Black
   title: blog
