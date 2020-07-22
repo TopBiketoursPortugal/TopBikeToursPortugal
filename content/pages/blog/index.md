@@ -17,4 +17,4 @@ feature:
   textcolor: Black
   title: blog
 ---
-# Top Bike tours in Portugal Blog
+# Top Walking tours in Portugal Blog
