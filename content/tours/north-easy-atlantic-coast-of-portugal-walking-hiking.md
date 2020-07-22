@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 1
 path: /north-easy-atlantic-coast-porto
 productcode: NT03
-featured: true
+featured: false
 language: en
 image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3346.jpg
 title: "North easy Atlantic Coast of Portugal walking & Hiking "
