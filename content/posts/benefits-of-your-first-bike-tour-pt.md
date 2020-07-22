@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 path: /pt/blog/beneficios-do-seu-primeiro-tour-em-bicicleta/
+showHome: false
 title: Os benefícios do seu primeiro passeio de bicicleta!
 language: pt
 date: 2018-12-21T00:00:00.000Z
 featuredImage: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4323.jpg
 featuredImagePosition: center center
-categories:
-  - category: Updates
+categories: []
 tags:
   - Bike tours informations
 meta:
@@ -19,7 +19,6 @@ meta:
 languagePages:
   - path: /beneficios do seu primeiro passeio em bicicleta/
     language: pt
-showHome: false
 ---
 # Os benefícios do seu primeiro passeio de bicicleta!
 
