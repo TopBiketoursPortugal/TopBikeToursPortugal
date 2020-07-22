@@ -12,7 +12,7 @@ meta:
   title: Blog Page
 feature:
   align: center
-  image: /img/walking-portuguese-camino-to-santiago.jpg
+  image: /img/hiking-portuguese-camino.jpg
   imageAlign: bottom
   textcolor: Black
   title: blog
