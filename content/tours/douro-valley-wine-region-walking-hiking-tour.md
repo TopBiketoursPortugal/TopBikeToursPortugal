@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 1
 path: /hiking-douro-valley-wine-region
 productcode: DOURO01
-featured: false
+featured: true
 language: en
 image: /img/44817961982_440e783762_o.jpg
 title: "Douro Valley Wine region Walking & Hiking tour "
