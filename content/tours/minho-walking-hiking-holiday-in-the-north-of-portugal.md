@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 1
 path: /minho-hiking-north-portugal
 productcode: NT01
-featured: true
+featured: false
 language: en
 image: /img/hiking-ecovia-lima.jpg
 title: Minho walking & Hiking Holiday in the North of Portugal
