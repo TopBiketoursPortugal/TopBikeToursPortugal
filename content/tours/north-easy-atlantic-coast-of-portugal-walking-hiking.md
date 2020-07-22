@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /north-easy-atlantic-coast-porto
+path: /hiking-atlantic-coast-porto
 productcode: NT03
 featured: false
 language: en
@@ -10,7 +10,7 @@ title: "North easy Atlantic Coast of Portugal walking & Hiking "
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: "North easy Atlantic Coast of Portugal walking & Hiking "
+  title: "Hiking Atlantic Coast of Portugal "
   description: "The coast of the Atlantic Ocean is one the best areas to walk on
     and, at the same time, enjoy the beautiful beaches and the history that the
     northern towns have to offer. Start this tour in one of the most important
@@ -132,7 +132,7 @@ feature:
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# North easy Atlantic Coast of Portugal walking & Hiking 
+# Atlantic Coast of Portugal walking & Hiking tour
 
 **Visit the North of Portugal walking in the coast seeing the beautiful beaches and historical city´s**
 
@@ -144,8 +144,6 @@ The coast of the Atlantic Ocean is one the best areas to walk on and, at the sam
 * The forth day is flat with some hills
 * The last 2 days are completely flat
 * The path consists of paved streets and boardwalks for most of the time
-
-
 
 **Itinerary:**
 
