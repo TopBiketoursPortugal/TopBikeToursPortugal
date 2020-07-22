@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: covid-19-requirements-to-comply-with
+path: /covid-19-requirements-to-comply-with
 showHome: false
 title: "Clean & Safe: Requirements to comply with"
 language: en
