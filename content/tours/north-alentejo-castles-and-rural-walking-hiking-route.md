@@ -1,16 +1,16 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /hiking-north-Alentejo-castles-wine-heritage
+path: /hiking-Alentejo-castles-wine-heritage
 productcode: AL01
 featured: false
 language: en
 image: /img/marvão2.jpg
-title: "North Alentejo Castles and Rural walking & hiking route "
+title: "Alentejo Castles and Rural walking & hiking route "
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: "North Alentejo Castles and Rural walking & hiking route "
+  title: "Alentejo Castles and Rural walking & hiking route "
   description: Hiking in a not so urbanized landscape, in a mixture of nature and
     agriculture exploration. The area of Alentejo is known to be that of a
     region in harmony with nature, where humans explore for millennia what the
