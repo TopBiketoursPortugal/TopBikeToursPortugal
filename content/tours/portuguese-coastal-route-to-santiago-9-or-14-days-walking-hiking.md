@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 1
 path: /hiking-coast-santiago-compostela
 productcode: ST02
-featured: false
+featured: true
 language: en
 image: /img/the-way-of-st.-james-coast-hiking-tour.jpg
 title: "Portuguese Coastal route to Santiago: 9 or 14 Days walking & hiking"
