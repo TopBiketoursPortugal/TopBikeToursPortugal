@@ -85,7 +85,7 @@ meta:
   title: About us
 feature:
   align: center
-  image: /img/walking-pescadores-trail.jpg
+  image: /img/vicentina-coast-walking-trail.jpg
   imageAlign: center top
   subtitle: ""
   textcolor: Orange
