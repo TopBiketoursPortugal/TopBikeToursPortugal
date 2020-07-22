@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 1
 path: /Santiago-Compostela-hiking-original-route-porto
 productcode: ST01
-featured: false
+featured: true
 language: en
 image: /img/the-way-of-st.-james-original-hike-tour.jpg
 title: "Portuguese Central Camino: 7, 9 or 12 days walk "
