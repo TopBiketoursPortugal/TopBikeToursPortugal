@@ -7,7 +7,6 @@ export const query = graphql`
         discount
         package
         packageContents {
-          icon
           title
           value
         }

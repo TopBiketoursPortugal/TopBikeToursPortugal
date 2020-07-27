@@ -236,7 +236,6 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type PackageContents @infer {
-      icon: String
       title: String
       value: String
     }

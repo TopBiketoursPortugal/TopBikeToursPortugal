@@ -209,8 +209,7 @@ pricing:
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
-      - icon: "-"
-        title: 6 Nights / 7 Days ( price per person)
+      - title: 6 Nights / 7 Days ( price per person)
         value: Algarve Coast
       - title: "Low season: Nov 01 to Mar 25"
         value: 1.089 €
@@ -237,9 +236,9 @@ pricing:
       - title: "Regular season: Mar 26 to 25 Jun"
         value: 1.899 €
       - title: "Summer Season: Jun 26 to August 30"
-        value: 2.049€
+        value: 2.049 €
       - title: "High Season: Set 01 to 25 Set"
-        value: 1.999€
+        value: 1.999 €
     type: Base
     observations: Base
     price: 1089

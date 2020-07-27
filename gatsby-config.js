@@ -62,7 +62,6 @@ module.exports = {
         name: "Creating an Impact",
       },
     ],
-    icon: "",
   },
   plugins: [
     "gatsby-plugin-react-helmet",

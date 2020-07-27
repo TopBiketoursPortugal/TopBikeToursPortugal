@@ -487,14 +487,6 @@ collections:
             fields:
               - { label: title, name: title, widget: string }
               - { label: Value, name: value, widget: markdown, required: false }
-              - {
-                  label: Icon,
-                  name: icon,
-                  widget: "select",
-                  options: ["✓", "X", "-"],
-                  required: false,
-                }
-
           - { label: type, name: type, widget: string, required: false }
           - {
               label: observations,
