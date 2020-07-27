@@ -518,12 +518,7 @@ collections:
               widget: number,
               required: false,
             }
-          - {
-              label: High Season Price Supplement,
-              name: highSeasonPriceSupplement,
-              default: 100,
-              widget: number,
-            }
+          
       - {
           label: After Pricing,
           name: afterpricing,
