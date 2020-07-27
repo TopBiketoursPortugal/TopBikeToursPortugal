@@ -9,9 +9,9 @@ public_folder: /img
 collections:
   - name: menus
     label: Menus
-    folder: content/menus
     extension: json
     format: json
+    folder: content/menus
     create: true
     widget: "object"
     editor:
@@ -214,9 +214,9 @@ collections:
             widget: "string"
   - name: postCategories
     label: Post Category
-    folder: content/postCategories
     editor:
       preview: false
+    folder: content/postCategories
     slug: "{{slug}}"
     summary: "{{fields.language}} - {{slug}}"
     create: true # Allow users to create new documents in this collection
@@ -272,6 +272,7 @@ collections:
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
+
   - name: tours
     # extension: md
     # format: markdown
@@ -515,7 +516,7 @@ collections:
               name: discount,
               deafult: 0,
               widget: number,
-              required: true,
+              required: false,
             }
           - {
               label: High Season Price Supplement,
@@ -581,380 +582,6 @@ collections:
             default: "Book now",
           } 
 
-  - name: banners
-    label: Banners
-    folder: content/banners
-    slug: "{{title}}-{{fields.language}}"
-    summary: "{{fields.language}} - {{title}}"
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      # - { label: Template, name: templateKey, widget: hidden, default: Banner }
-      - { label: key, name: key, widget: string }
-      - {
-          label: "Language",
-          name: "language",
-          widget: "relation",
-          collection: "languages",
-          displayFields: ["title"],
-          searchFields: ["title"],
-          valueField: "code",
-          default: "en",
-          required: true,
-        }
-      - { label: banner, name: banner, widget: hidden, default: true }
-      - {
-          label: Order,
-          name: order,
-          widget: number,
-          required: false,
-          default: 1,
-        }
-      - { label: Title, name: title, widget: markdown }
-
-      - {
-          label: Description,
-          name: description,
-          required: false,
-          widget: markdown,
-        }
-      - {
-          label: GoTo,
-          name: goto,
-          widget: object,
-          fields:
-            [
-              { label: Link, name: link, widget: string, required: true },
-              {
-                label: LinkText,
-                name: linktext,
-                widget: string,
-                required: true,
-              },
-              {
-                label: LinkTitle,
-                name: linktitle,
-                widget: string,
-                required: true,
-              },
-            ],
-        }
-      - { label: Image, name: image, widget: image, required: true }
-      - {
-          label: Title Color,
-          name: titleColor,
-          widget: string,
-          required: false,
-        }
-      - {
-          label: Sub Title Color,
-          name: subtitleColor,
-          widget: string,
-          required: false,
-        }
-      - { label: Button Color, name: btnColor, widget: string, required: false }
-      - {
-          label: Button Text Color,
-          name: btnTextColor,
-          widget: string,
-          required: false,
-        }
-
-      # - label: 'Meta'
-      #   required: false
-      #   name: 'meta'
-      #   widget: 'object'
-      #   fields:
-      #     - { label: Title, name: title, widget: string, required: false }
-      #     - {
-      #         label: Description,
-      #         name: description,
-      #         widget: text,
-      #         required: false,
-      #       }
-      #     - {
-      #         label: Canonical Link,
-      #         name: canonicalLink,
-      #         widget: string,
-      #         required: false,
-      #       }
-      #     - { label: Noindex, name: noindex, widget: boolean, required: false }
-  - name: languages
-    label: Languages
-    folder: content/languages
-    create: false
-    delete: false
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Code"
-        name: "code"
-        widget: "string"
-      - label: "Icon"
-        name: "icon"
-        default: false
-        widget: "image"
-      - label: "Predefinida"
-        name: "isDefault"
-        default: false
-        widget: "boolean"
-  - name: settings
-    label: Settings
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: false
-    files:
-      - file: "content/settings/global.yml"
-        label: "Global Settings"
-        name: "global-settings"
-        fields:
-          - label: "English"
-            name: en
-            widget: "object"
-            fields:
-              - label: Title
-                name: title
-                widget: string
-              - label: Description
-                name: description
-                widget: string
-                required: false
-              - label: Keywords
-                name: keywords
-                widget: string
-              - label: Address
-                name: address
-                widget: object
-                fields:
-                  - label: Street
-                    name: street
-                    widget: string
-                  - label: "Postal Code"
-                    name: postalCode
-                    widget: string
-                  - label: City
-                    name: city
-                    widget: string
-                  - label: Country
-                    name: country
-                    widget: string
-                  - label: Direction
-                    name: hint
-                    widget: string
-              # - label: canonical
-              #   name: canonical
-              #   widget: string
-              #   required: false
-              # - label: Custom Meta tags
-              #   name: custom_metas
-              #   widget: list
-              #   required: false
-              #   fields:
-              #     - { label: Name, name: name, widget: string }
-              #     - { label: Value, name: value, widget: string }
-          - label: "Português"
-            name: pt
-            widget: "object"
-            fields:
-              - label: Title
-                name: title
-                widget: string
-              - label: Description
-                name: description
-                widget: string
-                required: false
-              - label: Keywords
-                name: keywords
-                widget: string
-              - label: Address
-                name: address
-                widget: object
-                fields:
-                  - label: Street
-                    name: street
-                    widget: string
-                  - label: "Postal Code"
-                    name: postalCode
-                    widget: string
-                  - label: City
-                    name: city
-                    widget: string
-                  - label: Country
-                    name: country
-                    widget: string
-                  - label: Direction
-                    name: hint
-                    widget: string
-          - label: TitleFormat
-            name: titleformat
-            widget: string
-          - label: Location
-            name: location
-            widget: object
-            fields:
-              - label: Latitude
-                name: lat
-                widget: string
-              - label: Longitude
-                name: lng
-                widget: string
-
-              # - label: canonical
-              #   name: canonical
-              #   widget: string
-              #   required: false
-              # - label: Custom Meta tags
-              #   name: custom_metas
-              #   widget: list
-              #   required: false
-              #   fields:
-              #     - { label: Name, name: name, widget: string }
-              #     - { label: Value, name: value, widget: string }
-          - label: Phone
-            name: phone
-            widget: string
-          - label: Mobile
-            name: mobile
-            widget: string
-          - label: Email
-            name: email
-            widget: string
-          - label: Tour Operator
-            name: tourOperator
-            widget: string
-          - label: Travel Agency
-            name: travelAgency
-            widget: string
-          - { label: Site Url, name: siteUrl, widget: string, required: false }
-          - label: Social Media Card
-            name: socialMediaCard
-            widget: object
-            fields:
-              - { label: Image, name: image, widget: image, required: false }
-          - label: Social Networks
-            name: socialNetworks
-            widget: list
-            summary: "{{fields.display}}"
-            fields:
-              - {
-                  label: Display,
-                  name: display,
-                  widget: string,
-                  required: false,
-                }
-              - { label: Link, name: link, widget: string, required: false }
-              - { label: Icon, name: icon, widget: string, required: false }
-          - {
-              label: Google Analytics Tracking Id,
-              name: googleTrackingId,
-              widget: string,
-              required: false,
-            }
-          - {
-              label: Google api key,
-              name: googleApiKey,
-              widget: string,
-              required: false,
-            }
-          - label: robots
-            name: robots
-            widget: "select"
-            options: ["", "FOLLOW", "INDEX", "NOFOLLOW", "NOINDEX"]
-            required: false
-          - label: Viewport
-            name: viewport
-            widget: string
-            default: "width=device-width,initial-scale=1"
-            required: false
-  - name: testimonials
-    label: Testimonials
-    folder: content/testimonials
-    create: true
-    slug: "{{slug}}"
-    summary: "{{fields.language}} - {{title}}"
-    fields:
-      - label: "Language"
-        name: "language"
-        widget: "relation"
-        collection: "languages"
-        displayFields: ["title"]
-        searchFields: ["title"]
-        valueField: "code"
-        default: "en"
-        required: true
-      - {
-          label: Title,
-          name: title,
-          widget: markdown,
-          required: false
-        }
-      - {
-          label: Quote,
-          name: quote,
-          widget: markdown,
-          required: false
-        }
-      - label: Body
-        name: body
-        widget: markdown
-      - label: Date
-        name: date
-        widget: date
-      - label: ShowHOme
-        name: showHome
-        widget: boolean
-        default: false
-        required: false
-      - {
-        label: ReviewSource,
-        name: reviewSource,
-        widget: string,
-        required: false
-      }
-      - {
-        label: Score,
-        name: score,
-        widget: number,
-        min: 0,
-        max: 5,
-        default: 0,
-        valueType: float,
-        required: false
-      }
-      - label: Author
-        name: author
-
-        widget: object
-        fields:
-          - { label: Name, name: name, widget: string }
-          - {
-              label: Country,
-              name: country,
-              widget: string,
-              default: "Portugal",
-              required: false,
-            }
-          - {
-              label: Avatar,
-              name: avatar,
-              widget: image,
-              default: "/img/emmet.jpg",
-            }
-          - {
-              label: ReviewerSource,
-              name: reviewerSource,
-              widget: string,
-              required: false
-            }
-      - label: "relatedProduct"
-        name: "relatedProduct"
-        widget: "relation"
-        collection: "tours"
-        displayFields: ["productcode", "title", "slug", "language"]
-        searchFields: ["title", "slug", "productcode"]
-        valueField: "productcode"
-        required: false
-        multiple: false
   - name: pages
     label: Pages
     delete: false
@@ -1756,7 +1383,7 @@ collections:
           - label: Meta
             required: false
             name: meta
-            widget: object
+            widget: object            
             fields:
               - { label: Title, name: title, widget: string, required: false }
               - {
@@ -1887,7 +1514,7 @@ collections:
                   widget: string,
                   required: false,
                   default: "center center",
-                } 
+                }
 
       - file: content/pages/tour-calendar/index.en.md
         label: Calendar EN
@@ -2539,10 +2166,6 @@ collections:
                   required: false,
                   default: "center center",
                 }
-      
-      
-      
-      #O bug ta aqui
       - file: content/pages/bikes/index.pt.md
         label: BikesPT
         name: bikesPT
@@ -2636,3 +2259,378 @@ collections:
                 }
 
   
+
+  - name: banners
+    label: Banners
+    folder: content/banners
+    slug: "{{title}}-{{fields.language}}"
+    summary: "{{fields.language}} - {{title}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      # - { label: Template, name: templateKey, widget: hidden, default: Banner }
+      - { label: key, name: key, widget: string }
+      - {
+          label: "Language",
+          name: "language",
+          widget: "relation",
+          collection: "languages",
+          displayFields: ["title"],
+          searchFields: ["title"],
+          valueField: "code",
+          default: "en",
+          required: true,
+        }
+      - { label: banner, name: banner, widget: hidden, default: true }
+      - {
+          label: Order,
+          name: order,
+          widget: number,
+          required: false,
+          default: 1,
+        }
+      - { label: Title, name: title, widget: markdown }
+
+      - {
+          label: Description,
+          name: description,
+          required: false,
+          widget: markdown,
+        }
+      - {
+          label: GoTo,
+          name: goto,
+          widget: object,
+          fields:
+            [
+              { label: Link, name: link, widget: string, required: true },
+              {
+                label: LinkText,
+                name: linktext,
+                widget: string,
+                required: true,
+              },
+              {
+                label: LinkTitle,
+                name: linktitle,
+                widget: string,
+                required: true,
+              },
+            ],
+        }
+      - { label: Image, name: image, widget: image, required: true }
+      - {
+          label: Title Color,
+          name: titleColor,
+          widget: string,
+          required: false,
+        }
+      - {
+          label: Sub Title Color,
+          name: subtitleColor,
+          widget: string,
+          required: false,
+        }
+      - { label: Button Color, name: btnColor, widget: string, required: false }
+      - {
+          label: Button Text Color,
+          name: btnTextColor,
+          widget: string,
+          required: false,
+        }
+
+      # - label: 'Meta'
+      #   required: false
+      #   name: 'meta'
+      #   widget: 'object'
+      #   fields:
+      #     - { label: Title, name: title, widget: string, required: false }
+      #     - {
+      #         label: Description,
+      #         name: description,
+      #         widget: text,
+      #         required: false,
+      #       }
+      #     - {
+      #         label: Canonical Link,
+      #         name: canonicalLink,
+      #         widget: string,
+      #         required: false,
+      #       }
+      #     - { label: Noindex, name: noindex, widget: boolean, required: false }
+  - name: languages
+    label: Languages
+    folder: content/languages
+    create: false
+    delete: false
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Code"
+        name: "code"
+        widget: "string"
+      - label: "Icon"
+        name: "icon"
+        default: false
+        widget: "image"
+      - label: "Predefinida"
+        name: "isDefault"
+        default: false
+        widget: "boolean"
+  - name: settings
+    label: Settings
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: false
+    files:
+      - file: "content/settings/global.yml"
+        label: "Global Settings"
+        name: "global-settings"
+        fields:
+          - label: "English"
+            name: en
+            widget: "object"
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: string
+                required: false
+              - label: Keywords
+                name: keywords
+                widget: string
+              - label: Address
+                name: address
+                widget: object
+                fields:
+                  - label: Street
+                    name: street
+                    widget: string
+                  - label: "Postal Code"
+                    name: postalCode
+                    widget: string
+                  - label: City
+                    name: city
+                    widget: string
+                  - label: Country
+                    name: country
+                    widget: string
+                  - label: Direction
+                    name: hint
+                    widget: string
+              # - label: canonical
+              #   name: canonical
+              #   widget: string
+              #   required: false
+              # - label: Custom Meta tags
+              #   name: custom_metas
+              #   widget: list
+              #   required: false
+              #   fields:
+              #     - { label: Name, name: name, widget: string }
+              #     - { label: Value, name: value, widget: string }
+          - label: "Português"
+            name: pt
+            widget: "object"
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: string
+                required: false
+              - label: Keywords
+                name: keywords
+                widget: string
+              - label: Address
+                name: address
+                widget: object
+                fields:
+                  - label: Street
+                    name: street
+                    widget: string
+                  - label: "Postal Code"
+                    name: postalCode
+                    widget: string
+                  - label: City
+                    name: city
+                    widget: string
+                  - label: Country
+                    name: country
+                    widget: string
+                  - label: Direction
+                    name: hint
+                    widget: string
+          - label: TitleFormat
+            name: titleformat
+            widget: string
+          - label: Location
+            name: location
+            widget: object
+            fields:
+              - label: Latitude
+                name: lat
+                widget: string
+              - label: Longitude
+                name: lng
+                widget: string
+
+              # - label: canonical
+              #   name: canonical
+              #   widget: string
+              #   required: false
+              # - label: Custom Meta tags
+              #   name: custom_metas
+              #   widget: list
+              #   required: false
+              #   fields:
+              #     - { label: Name, name: name, widget: string }
+              #     - { label: Value, name: value, widget: string }
+          - label: Phone
+            name: phone
+            widget: string
+          - label: Mobile
+            name: mobile
+            widget: string
+          - label: Email
+            name: email
+            widget: string
+          - label: Tour Operator
+            name: tourOperator
+            widget: string
+          - label: Travel Agency
+            name: travelAgency
+            widget: string
+          - { label: Site Url, name: siteUrl, widget: string, required: false }
+          - label: Social Media Card
+            name: socialMediaCard
+            widget: object
+            fields:
+              - { label: Image, name: image, widget: image, required: false }
+          - label: Social Networks
+            name: socialNetworks
+            widget: list
+            summary: "{{fields.display}}"
+            fields:
+              - {
+                  label: Display,
+                  name: display,
+                  widget: string,
+                  required: false,
+                }
+              - { label: Link, name: link, widget: string, required: false }
+              - { label: Icon, name: icon, widget: string, required: false }
+          - {
+              label: Google Analytics Tracking Id,
+              name: googleTrackingId,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Google api key,
+              name: googleApiKey,
+              widget: string,
+              required: false,
+            }
+          - label: robots
+            name: robots
+            widget: "select"
+            options: ["", "FOLLOW", "INDEX", "NOFOLLOW", "NOINDEX"]
+            required: false
+          - label: Viewport
+            name: viewport
+            widget: string
+            default: "width=device-width,initial-scale=1"
+            required: false
+  - name: testimonials
+    label: Testimonials
+    folder: content/testimonials
+    create: true
+    slug: "{{slug}}"
+    summary: "{{fields.language}} - {{title}}"
+    fields:
+      - label: "Language"
+        name: "language"
+        widget: "relation"
+        collection: "languages"
+        displayFields: ["title"]
+        searchFields: ["title"]
+        valueField: "code"
+        default: "en"
+        required: true
+      - {
+          label: Title,
+          name: title,
+          widget: markdown,
+          required: false
+        }
+      - {
+          label: Quote,
+          name: quote,
+          widget: markdown,
+          required: false
+        }
+      - label: Body
+        name: body
+        widget: markdown
+      - label: Date
+        name: date
+        widget: date
+      - label: ShowHOme
+        name: showHome
+        widget: boolean
+        default: false
+        required: false
+      - {
+        label: ReviewSource,
+        name: reviewSource,
+        widget: string,
+        required: false
+      }
+      - {
+        label: Score,
+        name: score,
+        widget: number,
+        min: 0,
+        max: 5,
+        default: 0,
+        valueType: float,
+        required: false
+      }
+      - label: Author
+        name: author
+
+        widget: object
+        fields:
+          - { label: Name, name: name, widget: string }
+          - {
+              label: Country,
+              name: country,
+              widget: string,
+              default: "Portugal",
+              required: false,
+            }
+          - {
+              label: Avatar,
+              name: avatar,
+              widget: image,
+              default: "/img/emmet.jpg",
+            }
+          - {
+              label: ReviewerSource,
+              name: reviewerSource,
+              widget: string,
+              required: false
+            }
+      - label: "relatedProduct"
+        name: "relatedProduct"
+        widget: "relation"
+        collection: "tours"
+        displayFields: ["productcode", "title", "slug", "language"]
+        searchFields: ["title", "slug", "productcode"]
+        valueField: "productcode"
+        required: false
+        multiple: false
