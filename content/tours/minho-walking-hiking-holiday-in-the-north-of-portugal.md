@@ -150,7 +150,7 @@ gallery:
   - image: /img/cerveira-vilage.jpg
     alt: vina nova de cerveira village
   - image: /img/walking-minho-river.jpg
-    alt: ecovia o minho wlak terrain view
+    alt: ecovia o minho walk terrain view
 pricing: []
 feature:
   align: center

@@ -231,7 +231,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       price: Float
       bestValue: Boolean
       type: String
-      highSeasonPriceSupplement: Float
       package: String
       packageContents: [PackageContents]
     }

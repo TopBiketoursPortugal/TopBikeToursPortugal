@@ -210,7 +210,7 @@ pricing:
         value: No
       - title: Liability Insurance
       - icon: "-"
-        title: --------------------------------
+        title: "--------------------------------"
       - icon: "-"
         title: 6 Nights / 7 Days ( price per person)
         value: Algarve Coast
@@ -222,7 +222,7 @@ pricing:
         value: 1.339€
       - title: "High Season: Set 01 to 25 Set"
         value: 1.289 €
-      - title: --------------------------------
+      - title: "--------------------------------"
       - title: 6 Nights / 7 Days ( price per person)
         value: Alentejo Coast
       - title: "Low season: Nov 01 to Mar 25"
@@ -233,12 +233,9 @@ pricing:
         value: 1.299 €
       - title: "High Season: Set 01 to 25 Set"
         value: 1.349 €
-      - title: --------------------------------
+      - title: "--------------------------------"
       - title: 13 Nights / 14 Days ( price per person)
-        value: |-
-          Alentejo + Algarve
-
-          Coast
+        value: Alentejo + Algarve Coast
       - title: "Low season: Nov 01 to Mar 25"
         value: 1.799 €
       - title: "Regular season: Mar 26 to 25 Jun"
