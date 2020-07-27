@@ -124,7 +124,16 @@ gallery:
     alt: Pacheca wine tasting
   - image: /img/quinta-da-pacheca.jpg
     alt: pacheca Farm
-pricing: []
+pricing:
+  - bestValue: false
+    package: Base
+    packageContents:
+      - title: Base
+        value: Base
+    type: Base
+    observations: Base
+    price: 1000
+    discount: 0
 feature:
   align: center
   imageAlign: center center
