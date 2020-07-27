@@ -9,9 +9,9 @@ public_folder: /img
 collections:
   - name: menus
     label: Menus
+    folder: content/menus
     extension: json
     format: json
-    folder: content/menus
     create: true
     widget: "object"
     editor:
@@ -214,9 +214,9 @@ collections:
             widget: "string"
   - name: postCategories
     label: Post Category
+    folder: content/postCategories
     editor:
       preview: false
-    folder: content/postCategories
     slug: "{{slug}}"
     summary: "{{fields.language}} - {{slug}}"
     create: true # Allow users to create new documents in this collection
@@ -272,7 +272,6 @@ collections:
               required: false,
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
-
   - name: tours
     # extension: md
     # format: markdown
@@ -518,12 +517,12 @@ collections:
               widget: number,
               required: true,
             }
-          # - {
-          #     label: High Season Price Supplement,
-          #     name: highSeasonPriceSupplement,
-          #     default: 100,
-          #     widget: number,
-          #   }
+          - {
+              label: High Season Price Supplement,
+              name: highSeasonPriceSupplement,
+              default: 100,
+              widget: number,
+            }
       - {
           label: After Pricing,
           name: afterpricing,
@@ -581,7 +580,6 @@ collections:
             required: false,
             default: "Book now",
           } 
-
   - name: pages
     label: Pages
     delete: false
@@ -2280,7 +2278,6 @@ collections:
                   required: false,
                   default: "center center",
                 }
-
   - name: banners
     label: Banners
     folder: content/banners
@@ -2399,7 +2396,7 @@ collections:
         default: false
         widget: "boolean"
   - name: settings
-    label: "Settings"
+    label: Settings
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
@@ -2566,8 +2563,8 @@ collections:
             widget: string
             default: "width=device-width,initial-scale=1"
             required: false
-  - name: "testimonials"
-    label: "Testimonials"
+  - name: testimonials
+    label: Testimonials
     folder: content/testimonials
     create: true
     slug: "{{slug}}"
