@@ -2,7 +2,7 @@ backend:
   name: github
   repo: TopBiketoursPortugal/TopBikeToursPortugal
   branch: TopWalkingToursPortugal
-  site_url: https://fervent-ramanujan-c2f1f3.netlify.app/
+  site_url: https://topwalkingtoursportugal.netlify.app/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
