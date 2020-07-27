@@ -11,7 +11,6 @@ export const query = graphql`
           title
           value
         }
-        highSeasonPriceSupplement
         type
         price
       }
