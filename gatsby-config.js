@@ -271,20 +271,17 @@ module.exports = {
     //   }
     // },
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-        // manualInit: true,
-        // enableIdentityWidget: false,
-        // customizeWebpackConfig: (config, { plugins }) => {
-        //   config.plugins.push(
-        //     plugins.define({
-        //       __MANIFEST_PLUGIN_HAS_LOCALISATION__: JSON.stringify('false'),
-        //     }),
-        //   );
-        // },
+        name: `Top Bike Tours Portugal`,
+        short_name: `TopBikeTours`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
       },
     },
+    
     `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -311,17 +308,7 @@ module.exports = {
     //     swPath: 'src/utils/my-service-worker.js', // Default to 'src/sw.js'
     //   },
     // },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Top Bike Tours Portugal`,
-        short_name: `TopBikeTours`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-      },
-    },
+    
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
