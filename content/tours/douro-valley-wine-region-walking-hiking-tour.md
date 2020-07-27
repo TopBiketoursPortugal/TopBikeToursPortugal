@@ -130,10 +130,13 @@ pricing:
     packageContents:
       - title: Base
         value: Base
+      - title: Base2
+        value: base 2
     type: Base
     observations: Base
     price: 1000
     discount: 0
+afterpricing: base after
 feature:
   align: center
   imageAlign: center center
