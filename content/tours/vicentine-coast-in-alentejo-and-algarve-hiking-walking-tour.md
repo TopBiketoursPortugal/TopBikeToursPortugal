@@ -184,7 +184,6 @@ gallery:
     alt: carrapateira hiking  trail
 pricing:
   - bestValue: false
-    highSeasonPriceSupplement: 100
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
@@ -223,6 +222,7 @@ pricing:
       - title: "High Season: Set 01 to 25 Set"
         value: 1.289 €
       - title: "--------------------------------"
+        value: " "
       - title: 6 Nights / 7 Days ( price per person)
         value: Alentejo Coast
       - title: "Low season: Nov 01 to Mar 25"
@@ -247,7 +247,6 @@ pricing:
     package: Self Guided
     price: 1089
     discount: 0
-    type: ""
 feature:
   align: center
   imageAlign: center center
