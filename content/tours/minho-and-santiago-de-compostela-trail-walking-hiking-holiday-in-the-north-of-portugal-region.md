@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /Minho-santiago-compostela-trail-north-portugal
+path: /minho-santiago-compostela-trail-north-portugal
 productcode: NT02
 featured: false
 language: en
