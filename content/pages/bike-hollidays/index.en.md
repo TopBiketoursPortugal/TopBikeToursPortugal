@@ -42,15 +42,15 @@ descriptionafter: >-
   **ROUTE CLASSIFICATION**
 
 
-  * **Easy:** Mostly flat terrain with daily distances up to 15 km. Inexperiente level.
+  * **Easy (1/5):** Mostly flat terrain with daily distances up to 15 km. Inexperiente level.
 
-  * **Easy to moderate**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 30% of the whole route. For inexperiente hikers with some fitness preparation.
+  * **Easy to moderate(2/5)**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 30% of the whole route. For inexperiente hikers with some fitness preparation.
 
-  * **Moderate:** Terrain can be in dirt roads or trails. Mostly flat with daily distances between 15 km and 25 km with some climbs up to 40% of the whole route. For walkers with fitness preparation.
+  * **Moderate(3/5):** Terrain can be in dirt roads or trails. Mostly flat with daily distances between 15 km and 25 km with some climbs up to 40% of the whole route. For walkers with fitness preparation.
 
-  * **Moderate to hard:** Terrain can be in dirt roads or trails. Daily distances between 15 km and 25 km with moderate climbs up to 60% of the whole route. For hikers with fitness preparation that want to challenge themselves.
+  * **Moderate to hard(4/5):** Terrain can be in dirt roads or trails. Daily distances between 15 km and 25 km with moderate climbs up to 60% of the whole route. For hikers with fitness preparation that want to challenge themselves.
 
-  * **Hard:** Terrain can be in dirt roads or trails. Daily distances between 15 km and 30 km with strong climbs up to 60% of the whole route. For experienced hikers.
+  * **Hard(5/5):** Terrain can be in dirt roads or trails. Daily distances between 15 km and 30 km with strong climbs up to 60% of the whole route. For experienced hikers.
 
 
   **NOTES:** Walking Holidays with guide available in the following languages: Portuguese, Spanish and English.
