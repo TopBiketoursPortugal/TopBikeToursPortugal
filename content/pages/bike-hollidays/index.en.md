@@ -52,8 +52,6 @@ descriptionafter: >-
 
   * **Hard:** Terrain can be in dirt roads or trails. Daily distances between 50km and 100km with strong climbs up to 60% of the whole route. For experienced cyclists.
 
-  * **With electric bicycles all the route classifications have to be adapted and will be mostly easy for the majority of the cyclists.**
-
 
   **NOTES:** Walking Holidays with guide available in the following languages: Portugues, Spanish and English.
 
