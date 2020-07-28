@@ -42,20 +42,20 @@ descriptionafter: >-
   **ROUTE CLASSIFICATION**
 
 
-  * **Easy:** Mostly flat terrain with daily distances up to 15 km. Inexperient level.
+  * **Easy:** Mostly flat terrain with daily distances up to 15 km. Inexperiente level.
 
-  * **Easy to moderate**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 30% of the whole route. For inexperient hikers with some fitness preparation.
+  * **Easy to moderate**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 30% of the whole route. For inexperiente hikers with some fitness preparation.
 
-  * **Moderate:** Terrain can be in dirt roads or trails. Mostly flat with daily distances between 15 km and 25km with some climbs up to 40% of the whole route. For walkers with fitness preparation.
+  * **Moderate:** Terrain can be in dirt roads or trails. Mostly flat with daily distances between 15 km and 25 km with some climbs up to 40% of the whole route. For walkers with fitness preparation.
 
-  * **Moderate to hard:** Terrain can be in dirt roads or trails. Daily distances between 15 km and 25 km with moderate climbs up to 60% of the whole route. Forhikers with fitness preparation that want to challenge themselves.
+  * **Moderate to hard:** Terrain can be in dirt roads or trails. Daily distances between 15 km and 25 km with moderate climbs up to 60% of the whole route. For hikers with fitness preparation that want to challenge themselves.
 
   * **Hard:** Terrain can be in dirt roads or trails. Daily distances between 15 km and 30 km with strong climbs up to 60% of the whole route. For experienced hikers.
 
 
-  **NOTES:** Walking Holidays with guide available in the following languages: Portugues, Spanish and English.
+  **NOTES:** Walking Holidays with guide available in the following languages: Portuguese, Spanish and English.
 
-  Top Bike Tours Portugal, Unipessoal Lda is iregistered in Tourism of Portugal with RNAAT number 7/2014.
+  Top Bike Tours Portugal, Unipessoal Lda is registered in Tourism of Portugal with RNAAT number 7/2014.
 
 
   The liability insurance and personal accidents insurance are included only in guided tours.
