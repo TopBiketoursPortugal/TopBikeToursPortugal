@@ -42,9 +42,9 @@ descriptionafter: >-
   **ROUTE CLASSIFICATION**
 
 
-  * **Easy (1/5):** Mostly flat terrain with daily distances up to 15 km. Inexperiente level.
+  * **Easy (1/5):** Mostly flat terrain with daily distances up to 15 km. 
 
-  * **Easy to moderate(2/5)**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 30% of the whole route. For inexperiente hikers with some fitness preparation.
+  * **Easy to moderate(2/5)**: Mostly flat terrain with daily distances between 15 km and 25 km. Short climbs up to 20% of the whole route. For inexperiente hikers with some fitness preparation.
 
   * **Moderate(3/5):** Terrain can be in dirt roads or trails. Mostly flat with daily distances between 15 km and 25 km with some climbs up to 40% of the whole route. For walkers with fitness preparation.
 
@@ -53,9 +53,7 @@ descriptionafter: >-
   * **Hard(5/5):** Terrain can be in dirt roads or trails. Daily distances between 15 km and 30 km with strong climbs up to 60% of the whole route. For experienced hikers.
 
 
-  **NOTES:** Walking Holidays with guide available in the following languages: Portuguese, Spanish and English.
-
-  Top Bike Tours Portugal, Unipessoal Lda is registered in Tourism of Portugal with RNAAT number 7/2014.
+  **NOTES:** Walking Holidays with guide available in the following languages: Portuguese, Spanish and English. Top Bike Tours Portugal, Unipessoal Lda is registered in Tourism of Portugal with RNAAT number 7/2014.
 
 
   The liability insurance and personal accidents insurance are included only in guided tours.
