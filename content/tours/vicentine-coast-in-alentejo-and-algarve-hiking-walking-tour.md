@@ -209,8 +209,8 @@ pricing:
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
-      - title: 13 Nights / 14 Days ( price per person)
-        value: Alentejo + Algarve Coast
+      - title: "13 Nights / 14 Days "
+        value: Price per person
       - title: "Low season: Nov 01 to Mar 25"
         value: 1.799 €
       - title: "Regular season: Mar 26 to 25 Jun"
