@@ -171,6 +171,8 @@ pricing:
         value: yes
       - title: Bag and water bottle
         value: Yes
+      - title: t-shirt
+        value: \-
       - title: Guide
         value: No
       - title: 6 light Picnics
@@ -190,9 +192,99 @@ pricing:
         value: 1.463€
       - title: "* Summer Season"
         value: 1.533€
+      - title: Min. Participants
+        value: "1"
     price: 1343
     type: ""
     observations: ""
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: yes
+      - title: GPS With route per booking
+        value: \-
+      - title: Bag and water bottle
+        value: Yes
+      - title: t-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: \-
+      - title: "* Low season"
+        value: 1.749€
+      - title: "* Regular season"
+        value: 1.839€
+      - title: "* High Season"
+        value: 1.889€
+      - title: "* Summer Season"
+        value: 1.939 €
+      - title: Min. Participants
+        value: 8 pax
+    price: 1749
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: t-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: \-
+      - title: "* Low season"
+        value: 2.310€
+      - title: "* Regular season"
+        value: 2.400€
+      - title: "* High Season"
+        value: 2.450€
+      - title: "* Summer Season"
+        value: 2.500€
+      - title: Min. Participants
+        value: 8 pax
+    price: 2310
 afterpricing: >-
   **\*Season:**
 
