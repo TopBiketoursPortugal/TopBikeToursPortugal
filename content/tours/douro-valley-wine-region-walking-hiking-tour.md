@@ -124,19 +124,40 @@ gallery:
     alt: Pacheca wine tasting
   - image: /img/quinta-da-pacheca.jpg
     alt: pacheca Farm
-pricing:
-  - bestValue: false
-    package: Base
-    packageContents:
-      - title: Base
-        value: Base
-      - title: Base2
-        value: base 2
-    type: Base
-    observations: Base
-    price: 1000
-    discount: 0
-afterpricing: base after
+pricing: []
+afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Solo traveler: 200 €
+
+  * Single supplement: LS: 300€, RS: 329€, HS: 360€, SS.390€
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
@@ -163,8 +184,6 @@ Port Wine is undoubtedly the most famous product of this region. Douro comes to 
 * the area of Douro is hilly and this walk is no exception
 * the majority of the walk is done on dirt trails and when in tarmac roads the traffic is low 
 
-
-
 \
 **Itinerary 7 Days:**
 
@@ -178,16 +197,14 @@ Port Wine is undoubtedly the most famous product of this region. Douro comes to 
 
 **Day 5:** Alijó - Vale de Mendiz: 13 km
 
-**Day 6:** Vale de Mendiz – Pinhão: 9 km + train or boat to Régua
+**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho+ Train To Régua
 
 **Day 7:** Régua – Lamego: 18 km
 
-**Day 8:** Departure 
+**Day 8:** Departure  \
 \
 \
-\
-**Itinerary 6 Days:** 
-\
+**Itinerary 6 Days:**  \
 \
 **Day 1**: Arrival Porto
 
@@ -199,6 +216,6 @@ Port Wine is undoubtedly the most famous product of this region. Douro comes to 
 
 **Day 5:** Alijó - Vale de Mendiz: 13 km
 
-**Day 6:** Vale de Mendiz – Pinhão: 9 km + train or boat to Régua
+**Day 6:** Vale de Mendiz – Pinhão: 9 km + boat cruise to Pocinho
 
 **Day 7:** Departure
