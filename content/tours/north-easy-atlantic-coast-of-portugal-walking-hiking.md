@@ -120,7 +120,173 @@ gallery:
     alt: Caminha city center
   - image: /img/suave-mar-hotel.jpg
     alt: Suave mar hotel
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: No
+      - title: Guide
+        value: No
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 930€
+      - title: "* Regular season"
+        value: 1.010€
+      - title: "* High Season"
+        value: 1.070€
+      - title: "* Summer Season"
+        value: 1.120€
+      - title: Min. Participants
+        value: 1 Pax
+    price: 930
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 6 Nights / 7 Days
+        value: " Price per person"
+      - title: "* Low season"
+        value: 1.336€
+      - title: "* Regular season"
+        value: 1.416€
+      - title: "* High Season"
+        value: 1.476€
+      - title: "* Summer Season"
+        value: 1.526€
+      - title: Min. Participants
+        value: 8 Pax
+    price: 1336
+  - bestValue: false
+    type: ""
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 6 Nights / 6 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.897€
+      - title: "* Regular season"
+        value: 1.977€
+      - title: "* High Season"
+        value: 2.037€
+      - title: "* Summer Season"
+        value: 2.087€
+      - title: Min. Participants
+        value: 8 Pax
+    package: Guided Hiking tour Plus
+    price: 1897
+afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Solo traveler: 200 €
+
+  * Single supplement: LS: 300€, RS: 329€, HS: 360€, SS.390€
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
