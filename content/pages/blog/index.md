@@ -13,7 +13,7 @@ meta:
 feature:
   align: center
   image: /img/hiking-portuguese-camino.jpg
-  imageAlign: bottom
+  imageAlign: center center
   textcolor: Black
   title: blog
 ---
