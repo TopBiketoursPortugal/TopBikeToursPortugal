@@ -169,7 +169,7 @@ pricing:
         value: Yes
       - title: GPS With route per booking
         value: yes
-      - title: Top Walking tours Bag and water bottle
+      - title: Bag and water bottle
         value: Yes
       - title: Guide
         value: No
