@@ -20,7 +20,7 @@ meta:
   robots: INDEX
 minAge: 16
 skillLevel: 3
-distance: 165
+distance: 102
 distanceUnit: Km
 duration: 8
 durationUnit: Days | 7 Nights
