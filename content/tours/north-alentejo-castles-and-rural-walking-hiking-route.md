@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /hiking-alentejo-castles-wine-heritage
+path: ""
 productcode: AL01
 featured: false
 language: en
