@@ -6,11 +6,11 @@ productcode: ST01
 featured: true
 language: en
 image: /img/the-way-of-st.-james-original-hike-tour.jpg
-title: "Portuguese Central Camino: 7, 9 or 12 days walk "
+title: "Portuguese Central Camino: Stage 1"
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: Portuguese Central Camino Original Route starting in Porto
+  title: "Central Camino to Santiago from Porto: Stage 1"
   description: The Portuguese Central Camino is perfect for those who enjoy a good
     hiking and those who want to try a combination between the Portuguese’s
     history, cultural and gastronomy flavors and Spanish history, cultural,
@@ -22,8 +22,8 @@ minAge: 16
 skillLevel: 3
 distance: 165
 distanceUnit: Km
-duration: 10
-durationUnit: Days | 9 Nights
+duration: 8
+durationUnit: Days | 7 Nights
 difficulty: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d58N6F
 itinerary:
@@ -142,134 +142,14 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 8: Valença do Minho – Porrinõ: 20 km "
-    day: "8"
-    description: "This is the day where Spain is one step forward and where Portugal
-      will be well remained by the last city known by the green landscape, the
-      historical monuments and the cobblestone. The 20 km of walking it going to
-      be felt in 110 m of highest point and 140 m of lowest point. The last
-      remarkable moment will be crossing the border and enjoy the Minho river in
-      the oldest Europe border, the international bridge of Valença, an modern
-      masterpiece build in 1885. Arriving to the Spain territory, a medieval
-      city named, Tui, welcome the walkers with a new environment in the
-      presence of the “Monte Aloia” considered since 1978 as a natural park. In
-      this city it’s, also, well-known, the presence of the roman bridges, the
-      churches and the cathedral of Tui with a gothic influence. Hiking to the
-      last destination of this day, Porriño will bring you the feeling of an
-      urban city with the church and the historical center. The city, it’s also
-      known by the manufacture of granite production, the Rosa Porriño or the
-      Pink Porriño. "
-    location:
-      lat: "1"
-      lng: "1"
-  - title: "Day 9: Porrinõ – Redondela: 23 km"
-    day: "9"
-    description: "Walking between Porriño and Redondela the road follow in paved and
-      asphalt pathways with the highest point at 260m and the lowest at
-      250m.   Near to the city of Redondela the nature will follow 331 meters of
-      the landscape in unpaved roads of the forest section. Walking in the last
-      city of this day will give you the chance to visit the famous church of
-      Santa Baia de Mos, a baroque church form the XVI century. The city of
-      Redondela it’s also known by its viaducts from the XIX century and due to
-      that the city it’s known as viaducts village. "
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "10"
-    title: "Day 10: Redondela – Pontevedra: 21 km"
-    description: Near to the ocean coast but inserted in a rural city this day will
-      require some effort due to the 320 m of uphill insert in 156m at the
-      highest point, although the lowest point is 6m. The major parts of the
-      roads, in direction to Pontevedra, are pavement, however in the middle of
-      the way the walkers are going to be embrace by the forest and
-      nature.   The name of the city remits to the roman times where the major
-      part of the bridges were built, and due to that, we can translate the name
-      of the city to the old bridge. The most famous bridge that the way leads
-      to, is the bridge of Sampaio.  Never the last, in Pontevedra the walkers
-      can feel the breeze in the famous Tomaza river and be embrace by the
-      chapel of Virgem Peregrina, built in 1778, in honor to the saint of the
-      Santiago path.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "11"
-    title: "Day 11: Pontevedra – Caldas de reis: 25 km"
-    description: "The path departs from Pontevedra towards Caldas de reis. In this
-      hiking day, the walkers almost can throwback to the roman times with the
-      presence of the thermal baths and spas. The major part of the pathway is
-      flat and crosses paved road and asphalt with the highest point at 137m.
-      Some of the areas that might spark your interest during hiking to Caldas
-      de reis are: the walking in the bridge of Corrrentes where the beautiful
-      landscape of the river of Lérez will surround you; the river Gandara that
-      provide a feeling of hiking in the florets; the church of Santa Maria; the
-      river of Umía where they nature thermals are indicated for respiratory
-      diseases and skin infections, is the place that will lead you to the final
-      destination. Also, take the opportunity to be embrace by the Market of
-      Abastos where you will be inspired by the cultural gastronomy."
-    location:
-      lat: "1"
-      lng: "1"
-  - description: Continuing the journey near by the river of Umía, this day will
-      start in Caldas de Reis and will lead to the new destination, Padrón. In
-      the beginning of the day the city will be well remained by the thermal
-      baths in its last fountain, Burgas, with a temperature between 64 and
-      68ºC. As well as the medieval bridge in the river of Bermaña, that will
-      bring the final description of what the city represent and which will lead
-      you to the city of Padrón.  During the journey the highest point is at
-      161m and the lowest at 4 m, represented, in paved and asphalt roads but
-      also embrace by forests well present in Monte Gandarón for example. Along
-      the hiking to the city of Padrón the way will bring the chance to visit
-      the Chapel of San Roque, the church of Santa Mariña de Carracedo and the
-      church of San Miguel de Valga  as the walkers pass by the river of Ulla.
-      The river of Ulla registered the large number of artifacts dating from the
-      time of the Neolithic.  The day will be finished in Padrón, the city that
-      according to the legend, the stone ship with the apostle´s body was
-      moored. The stone it’s now a days in Padrón and due to the symbol present
-      in the stone the city start to be known as Padrón.
-    title: "Day 12: Caldas de Reis – Padrón: 22 km"
-    day: "12"
-    location:
-      lat: "1"
-      lng: "1"
-  - title: "Day 13: Padrón – Santiago de Compostela: 25 km"
-    day: "13"
-    description: "The way between Padrón and the expected final destination is 25 km
-      forward. The day will be felt in the highest point at 259m, the lowest
-      point at 6m and the emotion of arriving to the promise land of this
-      journey: Santiago de Compostela.  The pathway is majorly walked in
-      unpaved, gravel and pavement roads.  Heading north to the final
-      destination, the walkers will find what is considered to be the second
-      cathedral of Compostela: the church of Santa Maria de Ira Flávia.
-      According to legend, was in this territory that the first speech was made
-      by apostle Santiago during his stay in Hispania and where the winning of
-      the Nobel award, Camilo José Cela, was born.  Continuing on the walk, you
-      will reach the sanctuary of Nossa Señora da Escravitute and its park where
-      the nature will surround you. After crossing the Sar River, the yellow
-      arrows related to the Camino of Santiago will be more present. The lasts 3
-      km will be made with the Cathedral inside the walkers eyes. In the final
-      destination, the place will embrace you with the catacombs of the
-      Santiago, one of the apostles of Jesus Christ and the vibration of
-      arriving to the famous Cathedral, that inspired main of us, will be felt.
-      "
-    location:
-      lat: "1"
-      lng: "1"
-  - title: "Day 14: Departure"
-    day: "14"
+  - day: "8"
+    title: "Day 8: Departure"
     location:
       lat: "1"
       lng: "1"
 gallery:
-  - image: /img/caldas-de-reis-accommodations.jpg
-    alt: Caldas de reis hotel
   - image: /img/route-camino-santiago-walk.jpg
     alt: route picture
-  - image: /img/the-way-of-st.-james-hike-tour-in-arcade.jpg
-    alt: arcade bridge
-  - image: /img/the-way-of-st.-james-hike-tour-waterfall.jpg
-    alt: waterfall
-  - image: /img/dinner-santiago-de-compostela.jpg
-    alt: dinner santiago de compostela
 pricing: []
 feature:
   align: center
@@ -277,37 +157,32 @@ feature:
   bokunLink: ""
   bokunId: ""
   textcolor: white
-  subtitle: "Portuguese Central Camino: 7 or 9 days walk "
-  title: "Portuguese Central Camino: 7 or 9 days walk "
+  subtitle: "Central Camino to Santiago from Porto: Stage 1"
+  title: "Central Camino to Santiago from Porto: Stage 1"
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# **Portuguese Central Camino Original Route**
+# **Portuguese Central Camino: Stage 1**
 
-## **The old and original route to Santiago de Compostela from Porto**
+**The old and original route to Santiago de Compostela from Porto**
 
-### **7, 9 or 13 days walk: Start In the Old Village of Portugal named “Ponte de Lima” or walk less and spend only 1 night in Portugal, in Valença do Minho, near the Spanish border**
+For a very long time have the pilgrims explored different routes in order to make their way to Santiago de Compostela. The Caminho Central Português is certainly one of the oldest in Europe and it is becoming increasingly famous for outsiders to set foot on the ancient paths by which pilgrims had been crossing the landscape. Enjoy the gastronomy, the sights and different towns along the way. Complete this stage 1 in Portuguese land or book the stage 2 and finish in Santiago de Compostela. knowing that the city of Santiago will be waiting for you as well as it has been waiting and will continue to wait for all the pilgrims that decide to take on the adventure of accepting the challenges and spirituality of this crossing.
 
-Santiago de Compostela, in Northwest Spain, province of Corunha, is internationally known as one of the main destinations for Christian pilgrimage. The typical markets are an excellent location to explore delicious Galician products and traditional arts.
-
-During this walking & hiking tour you will discover ancient medieval roads and paths, formerly used during the Portuguese pilgrimage to Santiago de Compostela. This path was walked by kings and queens and is nowadays considered one of UNESCO's World Heritage cultural and historical routes.
-
-Crossing the border and enter in Spain, be amazed by the viaducts and the thermal baths, along the way, as the walkers reach the Sanctuary of Santiago de Compostela.\
+\
 \
 **Route description:**
 
 * On this route all kind of terrains are to be expected. Route with long and difficult climbs
-* 4435 meters with cumulated ascents
+* Paved streets in rural and urban areas; 35 % of the walk will be in the forest
+* The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
 
-
-
-**Itinerary 13 Days:** 
+**Itinerary:**
 
 **Day 1:**Porto
 
 **Day 2:** Porto to Vilar do Pinheiro tranfer – Arcos: 18 km
 
-**Day 3**: Arcos – Barcelos: 15 km
+**Day 3:** Arcos – Barcelos: 15 km
 
 **Day 4:** Barcelos – Balugães: 16 km
 
@@ -316,60 +191,5 @@ Crossing the border and enter in Spain, be amazed by the viaducts and the therma
 **Day 6:** Ponte de Lima – Cossourado: 22 km
 
 **Day 7:** Cossourado – Valença do Minho: 13 km
-
-**Day 8:** Valença do Minho – Porrinõ: 20 km
-
-**Day 9:** Porrinõ – Redondela: 23 km
-
-**Day 10:** Redondela – Pontevedra: 21 km
-
-**Day 11:** Pontevedra – Caldas de Reis: 25 km
-
-**Day 12:** Caldas de Reis – Padrón: 22 km
-
-**Day 13:** Padrón – Santiago de Compostela: 25 km
-
-**Day 14:** Departure 
-
-\
-**Itinerary 9 Days:** 
-
-**Day 1:**Transfer toPonte de Lima
-
-**Day 2:** Ponte de Lima – Cossourado: 22 km
-
-**Day 3:** Cossourado – Valença do Minho: 13 km
-
-**Day 4:** Valença do Minho – Porrinõ: 20 km
-
-**Day 5:** Porrinõ – Redondela: 23 km
-
-**Day 6:** Redondela – Pontevedra: 21 km
-
-**Day 7:** Pontevedra – Caldas de Reis: 25 km
-
-**Day 8:** Caldas de Reis – Padrón: 22 km
-
-**Day 9:** Padrón – Santiago de Compostela: 25 km
-
-**Day 10:** Departure \
-\
-\
-**Itinerary 7 Days:** \
-\
-\
-**Day 1:** Transfer to Valença do Minho
-
-**Day 2:** Valença do Minho – Porrinõ: 20 km
-
-**Day 3:** Porrinõ – Redondela: 23 km
-
-**Day 4:** Redondela – Pontevedra: 21 km
-
-**Day 5:** Pontevedra – Caldas de Reis: 25 km
-
-**Day 6:** Caldas de Reis – Padrón: 22 km
-
-**Day 7:** Padrón – Santiago de Compostela: 25 km
 
 **Day 8:** Departure
