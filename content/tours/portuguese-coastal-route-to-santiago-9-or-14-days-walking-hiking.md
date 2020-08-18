@@ -6,12 +6,11 @@ productcode: ST03
 featured: false
 language: en
 image: /img/the-way-of-st.-james-coast-hiking-tour.jpg
-title: "Portuguese Coastal route to Santiago: 9 or 14 Days walking & hiking"
+title: " Coastal route to Santiago Compostela: Stage 1"
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: "Portuguese Coastal route to Santiago Compostela: 9 or 14 Days walking &
-    hiking"
+  title: " Coastal route to Santiago Compostela: Stage 1"
   description: "Walk towards Santiago using the Portuguese coastal path. Cross
     sunny and seaside areas such as Póvoa, Esposende, Vila Praia de âncora,
     Caminha and Bayona. Have a delight with the famous Arcade's oysters in VIgo.
@@ -22,9 +21,9 @@ minAge: 16
 skillLevel: 1
 distance: 270
 distanceUnit: Km
-duration: 14
-durationUnit: Days | 15 Nights
-difficulty: 4
+duration: 9
+durationUnit: Days | 8 Nights
+difficulty: 3
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1DBZVUo97FbeGLZlVxyTy07k_2RzWHVgo
 itinerary:
   - title: "Day 1: Porto"
@@ -253,101 +252,49 @@ feature:
   bokunLink: ""
   bokunId: ""
   textcolor: white
-  subtitle: "# Portuguese Coastal route to Santiago de Compostela"
-  title: "# Portuguese Coastal route to Santiago de Compostela"
+  subtitle: " Coastal route to Santiago Compostela: Stage 1"
+  title: " Coastal route to Santiago Compostela: Stage 1"
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# Portuguese Coastal route to Santiago de Compostela
+# Portuguese Coastal route to Santiago de Compostela: Stage 1
 
 ## The "easy" Coastal route to St. James hiking trail
 
-### 7, 9 or 14 Days walking & hiking
+Walk towards Santiago using the Portuguese coastal path.Cross sunny and seaside areas such as Póvoa, Esposende, Vila Praia de Âncora, Caminha and Baiona.
 
-Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside areas such as Póvoa, Esposende, Vila Praia de âncora, Caminha and Bayona. Have a delight with the famous Arcade's oysters in VIgo. Know why Caldas de Reis holds such a royalty importance and end this tour in the Square of Obradoiro, where you can see the colossal baroque cathedral where the remains of the apostle Santiago lie.
+Be in mind this is the original route to Santiago de Compostela “near” the Coast. It is possible to adapt the hiking route for a easier terrain. A big part of the pilgrims already walk near the sea, avowing some mountains and forest.
+
+You may also consider our Easy route North of Atlantic Coast.
+
+
 
 **Route description**
 
-* the first 8 days are flat with very few and minor hills
-* the remaining days do have uphills, especially the 10th, 11th and 14th days
-* the main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk  
+. All days are mostly flat with very few and minor hills
+
+. The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
 
 
 
-
-\
-\
-**Itinerary 14 Days :**  
+**Itinerary:**
 
 **Day 1:**Porto
 
-**Day 2:** Transfer to Praia da memória – Póvoa: 20 km
+Day 2: Transfer to Praia da memória – Póvoa: 20 km
 
-**Day 3**: Vila do Conde – Esposende: 25 km
+Day 3: Vila do Conde – Esposende: 25 km
 
-**Day 4:** Esposende – Viana do Castelo: 26 km
+Day 4: Esposende – Viana do Castelo: 26 km
 
-**Day 5:** Viana do Castelo – Vila Praia de Âncora: 19 km
+Day 5: Viana do Castelo – Vila Praia de Âncora: 19 km
 
 **Day 6:** Vila Praia de Âncora – Caminha: 9 km
 
-**Day 7:** Caminha – Oia: 23 km
+**Day 7:**Caminha – Oia: 23 km
 
-**Day 8:** Oia – Baiona: 18 km
+Day 8: Oia – Baiona: 18 km
 
-**Day 9:** Baiona - Vigo: 25 km
+Day 9: Departure
 
-**Day 10:** Vigo - Redondela: 17 km
-
-**Day 11:** Redondela – Pontevedra: 21 km
-
-**Day 12:** Pontevedra – Caldas de reis: 25 km
-
-**Day 13:** Caldas de Reis – Padrón: 14 km
-
-**Day 14:** Padrón – Santiago de Compostela: 25 km
-
-**Day 15:** Departure 
-\
-\
-\
-**Itinerary 9 Days:**  
-\
-**Day 1:**Transfer to Caminha
-
-**Day 2:** Caminha – Oia: 23 km
-
-**Day 3:** Oia – Baiona: 18 km
-
-**Day 4:** Baiona - Vigo: 25 km
-
-**Day 5:** Vigo - Redondela: 17 km
-
-**Day 6:** Redondela – Pontevedra: 21 km
-
-**Day 7:** Pontevedra – Caldas de reis: 25 km
-
-**Day 8:** Caldas de Reis – Padrón: 14 km
-
-**Day 9:** Padrón – Santiago de Compostela: 25 km
-
-**Day 10:** Departure \
-\
-\
-**Itinerary 7 Days:**  \
-\
-**Day 1:**Transfer to Baiona
-
-**Day 4:** Baiona - Vigo: 25 km
-
-**Day 5:** Vigo - Redondela: 17 km
-
-**Day 6:** Redondela – Pontevedra: 21 km
-
-**Day 7:** Pontevedra – Caldas de reis: 25 km
-
-**Day 8:** Caldas de Reis – Padrón: 14 km
-
-**Day 9:** Padrón – Santiago de Compostela: 25 km
-
-**Day 10:** Departure
+<!--EndFragment-->
