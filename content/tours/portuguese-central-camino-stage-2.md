@@ -24,7 +24,7 @@ distance: 128
 distanceUnit: Km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 1
+difficulty: 4
 rating: []
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d58N6F
 itinerary:
