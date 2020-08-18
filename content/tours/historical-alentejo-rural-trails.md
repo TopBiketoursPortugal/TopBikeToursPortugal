@@ -20,8 +20,8 @@ minAge: 16
 skillLevel: 1
 distance: 99
 distanceUnit: km
-duration: 7
-durationUnit: Days | 6 Nights
+duration: 8
+durationUnit: Days | 7 Nights
 difficulty: 2
 mapUrl: https://www.google.com/maps/d/embed?mid=1-I4LP1ywrOVBksuxUEKPamnUahXHfUwC
 itinerary:
