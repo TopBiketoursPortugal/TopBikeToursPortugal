@@ -18,8 +18,8 @@ meta:
   keywords: Portuguese Coastal route to Santiago Compostela
   robots: INDEX
 minAge: 16
-skillLevel: 1
-distance: 270
+skillLevel: 3
+distance: 140
 distanceUnit: Km
 duration: 9
 durationUnit: Days | 8 Nights
@@ -267,15 +267,11 @@ Be in mind this is the original route to Santiago de Compostela “near” the C
 
 You may also consider our Easy route North of Atlantic Coast.
 
-
-
 **Route description**
 
 . All days are mostly flat with very few and minor hills
 
 . The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-
-
 
 **Itinerary:**
 
@@ -296,5 +292,3 @@ Day 5: Viana do Castelo – Vila Praia de Âncora: 19 km
 Day 8: Oia – Baiona: 18 km
 
 Day 9: Departure
-
-<!--EndFragment-->
