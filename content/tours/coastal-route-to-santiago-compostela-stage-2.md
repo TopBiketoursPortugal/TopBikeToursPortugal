@@ -19,12 +19,12 @@ meta:
   robots: INDEX
 groupSizeMin: -2
 minAge: 16
-skillLevel: 1
+skillLevel: 4
 distance: 127
 distanceUnit: Km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 3
+difficulty: 4
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1DBZVUo97FbeGLZlVxyTy07k_2RzWHVgo
 itinerary:
   - day: "1"
