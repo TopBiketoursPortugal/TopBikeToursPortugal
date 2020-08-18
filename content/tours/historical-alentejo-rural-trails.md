@@ -2,7 +2,7 @@
 templateKey: tour-gen
 order: 10
 path: /hiking-alentejo-castles-wine-heritage
-productcode: AL 01
+productcode: AL01
 featured: false
 language: en
 image: /img/monestary-flor-da-rosa.jpg
