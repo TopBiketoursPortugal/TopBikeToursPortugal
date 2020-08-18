@@ -5,7 +5,7 @@ path: /hiking-alentejo-castles-wine-heritage
 productcode: AL 01
 featured: false
 language: en
-image: /img/marvão2.jpg
+image: /img/monestary-flor-da-rosa.jpg
 title: "Historical Alentejo: rural trails "
 packagetype: PackageTour
 tourtype: Walking
@@ -142,6 +142,19 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/walk-till-ribeira-de-nisa.jpg
+    alt: walk till ribeira de nisa
+  - image: /img/roman-vestiges.jpg
+    alt: roman vestiges
+  - image: /img/portagem-hiking-trail.jpg
+    alt: portagem roman bridge
+  - image: /img/hiking-in-marvão-with-top-walking-tours-portugal.jpg
+    alt: Marvão walls
+  - image: /img/marvão-view.jpg
+    alt: marvao view
+  - image: /img/flowers-view.jpg
+    alt: flowers view
 pricing: []
 feature:
   align: center
@@ -151,7 +164,7 @@ feature:
   textcolor: white
   subtitle: "Historical Alentejo: rural trails"
   title: "Historical Alentejo: rural trails"
-  image: /img/marvão2.jpg
+  image: /img/marvão-walk.jpg
   bokunLinkText: Book now
 ---
 # **Historical Alentejo: rural trails**
