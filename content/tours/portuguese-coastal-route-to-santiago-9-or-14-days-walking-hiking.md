@@ -2,7 +2,7 @@
 templateKey: tour-gen
 order: 1
 path: /hiking-coast-santiago-compostela
-productcode: ST02
+productcode: ST03
 featured: false
 language: en
 image: /img/the-way-of-st.-james-coast-hiking-tour.jpg
