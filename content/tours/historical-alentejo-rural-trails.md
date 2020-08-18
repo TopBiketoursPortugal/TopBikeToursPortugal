@@ -149,8 +149,8 @@ feature:
   bokunLink: ""
   bokunId: ""
   textcolor: white
-  subtitle: "# **Historical Alentejo: rural trails**"
-  title: "# **Historical Alentejo: rural trails**"
+  subtitle: "Historical Alentejo: rural trails"
+  title: "Historical Alentejo: rural trails"
   image: /img/marvão2.jpg
   bokunLinkText: Book now
 ---
