@@ -125,7 +125,6 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     package: Group price per person
     packageContents:
       - title: Bicycle and Helmet
@@ -141,7 +140,6 @@ pricing:
     price: 31
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     package: Private price per person
     packageContents:
       - title: Bicycle and Helmet

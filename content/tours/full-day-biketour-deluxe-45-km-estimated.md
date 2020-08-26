@@ -151,13 +151,11 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     package: Group price per person
     packageContents: []
     price: 198
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     observations: ""
     package: Private price per person
     price: 260
