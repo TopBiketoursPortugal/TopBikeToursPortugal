@@ -41,7 +41,7 @@ tourOperator: 7/2014
 travelAgency: '7008'
 siteUrl: 'https://topbiketoursportugal.com'
 socialMediaCard:
-  image: /img/logo.svg
+  image: /img/logo.png
 socialNetworks:
   - display: Facebook
     icon: facebook
