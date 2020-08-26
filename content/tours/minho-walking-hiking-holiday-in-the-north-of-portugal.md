@@ -151,7 +151,173 @@ gallery:
     alt: vina nova de cerveira village
   - image: /img/walking-minho-river.jpg
     alt: ecovia o minho walk terrain view
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: t-shirt
+        value: \-
+      - title: Guide
+        value: No
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: 7 Nights / 8 Days ( price per person)
+      - title: "* Low season"
+        value: 1.343€
+      - title: "* Regular season"
+        value: 1.433€
+      - title: "* High Season"
+        value: 1.463€
+      - title: "* Summer Season"
+        value: 1.533€
+      - title: Min. Participants
+        value: "1"
+    price: 1343
+    type: ""
+    observations: ""
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: yes
+      - title: GPS With route per booking
+        value: \-
+      - title: Bag and water bottle
+        value: Yes
+      - title: t-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: \-
+      - title: "* Low season"
+        value: 1.749€
+      - title: "* Regular season"
+        value: 1.839€
+      - title: "* High Season"
+        value: 1.889€
+      - title: "* Summer Season"
+        value: 1.939 €
+      - title: Min. Participants
+        value: 8 pax
+    price: 1749
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Trains or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: t-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: 7 Nights / 8 Days ( price per person)
+        value: \-
+      - title: "* Low season"
+        value: 2.310€
+      - title: "* Regular season"
+        value: 2.400€
+      - title: "* High Season"
+        value: 2.450€
+      - title: "* Summer Season"
+        value: 2.500€
+      - title: Min. Participants
+        value: 8 pax
+    price: 2310
+afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Solo traveler: 200 €
+
+  * Single supplement: LS: 300€, RS: 329€, HS: 360€, SS.390€
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
