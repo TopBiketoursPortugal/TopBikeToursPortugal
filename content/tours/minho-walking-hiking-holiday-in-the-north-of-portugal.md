@@ -172,7 +172,7 @@ pricing:
       - title: Bag and water bottle
         value: Yes
       - title: t-shirt
-        value: \-
+        value: "-"
       - title: Guide
         value: No
       - title: 6 light Picnics
@@ -213,7 +213,7 @@ pricing:
       - title: Roadbook + Briefing
         value: yes
       - title: GPS With route per booking
-        value: \-
+        value: "-"
       - title: Bag and water bottle
         value: Yes
       - title: t-shirt
@@ -229,7 +229,7 @@ pricing:
       - title: Liability Insurance
         value: Yes
       - title: 7 Nights / 8 Days ( price per person)
-        value: \-
+        value: "-"
       - title: "* Low season"
         value: 1.749€
       - title: "* Regular season"
@@ -273,7 +273,7 @@ pricing:
       - title: Liability Insurance
         value: Yes
       - title: 7 Nights / 8 Days ( price per person)
-        value: \-
+        value: "-"
       - title: "* Low season"
         value: 2.310€
       - title: "* Regular season"
