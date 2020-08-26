@@ -2,7 +2,7 @@
 templateKey: tour-gen
 order: 5
 path: /mountain-bike-tours-porto
-productcode: CT05
+productcode: CT06
 featured: false
 language: en
 image: /img/mountain-bike-tour-porto.jpg
