@@ -127,13 +127,33 @@ pricing:
     discount: 0
     highSeasonPriceSupplement: 100
     package: Group price per person
-    packageContents: []
-    price: 25
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
+    price: 31
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
     package: Private price per person
-    packageContents: []
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
     price: 50
 feature:
   align: center
@@ -164,6 +184,8 @@ In the final stretch, keep in mind that we will ride on the biggest avenue in Op
 * All year
 * Meeting point: Rua do Alferes Malheiro, 139 ( Top Bike tours portugal Store)
 * Minimum participants: 2
+
+
 
 **Observations:**
 
