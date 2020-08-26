@@ -8,7 +8,7 @@ meta:
 ---
 # **Terms and Conditions:**
 
-Fold n´Visit – Rent a a bike, Unip, Lda referred to here in as “Top Bike tours Portugal” as the headquarters in Rua do Alferes Malheiro 139, 4000-057 Porto, Portugal with VAT number 510 560 890, is licenced to be a tour operator ( nº 7/2014) and tourism agency (nº 7008)
+Top Bike tours Portugal, Unipessoal, Lda  as the headquarters in Rua do Alferes Malheiro 139, 4000-057 Porto, Portugal with VAT number 510 560 890, is licenced to be a tour operator ( nº 7/2014) and tourism agency (nº 7008)
 
 **Reservation and cancellation Policy:**
 

@@ -20,8 +20,7 @@ afterequipment: >-
   * GPS Garmin
 
 
-  **Roadbook (** Maps; Trails detailed information Tips; Information about
-  restaurants; Other points of interest)
+  **Roadbook (** Maps; Trails detailed information Tips; Information about restaurants; Other points of interest)
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
@@ -50,8 +49,7 @@ equipment:
 
       * 24 gears with V-brake
 
-      * E-bike kit available with 80 km autonomy in level 2 (of 5) of
-      assistance.
+      * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
     type: Hybrid bike
   - description: |-
       **Kross Vento 2**
@@ -92,13 +90,11 @@ equipment:
       * Bosch electric motor
     type: Electric Bicycles
 meta:
-  description: >-
-    Select your bike tour from our cycling tour list. Decide where to go with us
-    in your next cycling Holiday in Portugal. For recreational cyclists or
-    challenge routes
-  keywords: >-
-    Cycling Tours Portugal, cycling holidays in nature,bike tours, bike tours
-    portugal,guided bike tours
+  description: Select your bike tour from our cycling tour list. Decide where to
+    go with us in your next cycling Holiday in Portugal. For recreational
+    cyclists or challenge routes
+  keywords: Cycling Tours Portugal, cycling holidays in nature,bike tours, bike
+    tours portugal,guided bike tours
   robots: INDEX
   title: Bike tours Portugal - Bicycle tours Portugal
 feature:
@@ -111,6 +107,4 @@ feature:
 ---
 # Our Bicycles
 
-
-
-**IMPORTANTE NOTE:** We don´t rent bicycles for long distances. Only city bicycles are available for rental service.
+**IMPORTANTE NOTE:** We don´t rent bicycles. The bikes are only used in our bike tours.

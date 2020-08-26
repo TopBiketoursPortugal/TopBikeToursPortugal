@@ -26,18 +26,17 @@ bikes:
     type: Electric bicycles
 equipment:
   - description: >-
-
+      
 
       **Kross TRANS 5.0**
 
 
       * 24 gears with V-brake
 
-      * E-bike kit available with 80 km autonomy in level 2 (of 5) of
-      assistance.
+      * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
     type: Hybrid bike
   - description: |-
-
+      
 
       **Kross Vento 2**
 
@@ -57,7 +56,7 @@ equipment:
       * 27 gears with shimano group set
     type: Mountain Bike - MTB
   - description: |-
-
+      
 
       **KTM Macina electric bicycle 500 wh**
 
@@ -75,9 +74,8 @@ equipment:
       * Bosch electric motor
     type: Electric Bicycles
 meta:
-  description: 'Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto'
-  keywords: >-
-    RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
+  description: Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto
+  keywords: RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
     PORTUGAL,RENTAL BIKE OPORTO
   robots: INDEX
   title: ALUGUER BICICLETAS PORTO
@@ -89,19 +87,6 @@ feature:
   textcolor: white
   title: The Way of St. James - The Coast Route "easy"
 ---
-**Cycling holidays Equipment**
+# **As nossas Bicicletas**
 
-* Helmet
-* Bike tool kit for quick repairs (pump. inner tubes)
-* Water bottle
-* Lights
-* Locks
-* GPS Garmin
-
-**Roadbook**
-
-* Maps
-* Trails detailed information
-* Tips
-* Information about restaurants
-* Other points of interest
+**Nota:** Não alugamos bicicletas. As bicicletas disponiveis são apenas para serem usadas nos nossos passeios.
