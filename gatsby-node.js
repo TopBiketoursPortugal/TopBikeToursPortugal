@@ -259,6 +259,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       showHome: Boolean
       author: Author
       afterList: String
+      afterpricing: String
     }
     
   `;
