@@ -153,7 +153,6 @@
 //               value
 //             }
 //           }
-//           highSeasonPriceSupplement
 //           price
 //           type
 //         }

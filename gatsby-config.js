@@ -62,7 +62,6 @@ module.exports = {
         name: "Creating an Impact",
       },
     ],
-    icon: "",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -271,18 +270,14 @@ module.exports = {
     //   }
     // },
     {
-      resolve: "gatsby-plugin-netlify-cms",
+      resolve: `gatsby-plugin-manifest`,
       options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-        // manualInit: true,
-        // enableIdentityWidget: false,
-        // customizeWebpackConfig: (config, { plugins }) => {
-        //   config.plugins.push(
-        //     plugins.define({
-        //       __MANIFEST_PLUGIN_HAS_LOCALISATION__: JSON.stringify('false'),
-        //     }),
-        //   );
-        // },
+        name: `Top Bike Tours Porto`,
+        short_name: `TopBikeTours`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
       },
     },
     `gatsby-transformer-json`,
@@ -311,17 +306,7 @@ module.exports = {
     //     swPath: 'src/utils/my-service-worker.js', // Default to 'src/sw.js'
     //   },
     // },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Top Bike Tours Portugal`,
-        short_name: `TopBikeTours`,
-        start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
-        display: `standalone`,
-      },
-    },
+    
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
@@ -380,6 +365,7 @@ module.exports = {
     //   }
     // },
     "gatsby-plugin-offline",
+    "gatsby-plugin-netlify-cms",
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };

@@ -231,13 +231,11 @@ exports.createSchemaCustomization = ({ actions }) => {
       price: Float
       bestValue: Boolean
       type: String
-      highSeasonPriceSupplement: Float
       package: String
       packageContents: [PackageContents]
     }
 
     type PackageContents @infer {
-      icon: String
       title: String
       value: String
     }

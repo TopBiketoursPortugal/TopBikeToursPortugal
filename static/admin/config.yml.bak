@@ -486,7 +486,7 @@ collections:
             widget: list
             fields:
               - { label: title, name: title, widget: string }
-Fix              - { label: Value, name: value, widget: markdown, required: false }
+              - { label: Value, name: value, widget: markdown, required: false }
 
           - { label: type, name: type, widget: string, required: false }
           - {
@@ -2365,7 +2365,7 @@ Fix              - { label: Value, name: value, widget: markdown, required: fals
         default: false
         widget: "boolean"
   - name: settings
-    label: Settings
+    label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false

@@ -149,9 +149,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "change-case": "4.1.1",
-    "gatsby-plugin-remove-trailing-slashes": "2.3.11",
-    "prettier": "2.0.5",
-    "rimraf": "3.0.2"
+    "change-case": "^4.1.1",
+    "gatsby-plugin-remove-trailing-slashes": "^2.3.3",
+    "prettier": "^2.0.5",
+    "rimraf": "^3.0.2"
   }
 }

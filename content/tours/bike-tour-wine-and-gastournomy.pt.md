@@ -130,13 +130,11 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     package: Preço de grupo por pessoa
     packageContents: []
     price: 95
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 100
     package: Preço Privado por pessoa
     packageContents: []
     price: 129
