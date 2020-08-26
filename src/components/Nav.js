@@ -56,7 +56,7 @@ export class Navigation extends Component {
             />
             <img
               className="black"
-              src="/img/logo.svg"
+              src="/img/logo.png"
               alt="Top Bike Tours Portugal"
             />
           </Link>
