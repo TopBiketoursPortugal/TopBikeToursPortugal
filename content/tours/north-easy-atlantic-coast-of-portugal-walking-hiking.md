@@ -240,7 +240,7 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 6 Nights / 6 Days
+      - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
         value: 1.897€
