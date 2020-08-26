@@ -2378,7 +2378,7 @@ collections:
         default: false
         widget: "boolean"
   - name: settings
-    label: Settings
+    label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
