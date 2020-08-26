@@ -272,7 +272,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Top Bike Tours Portugal`,
+        name: `Top Walking Tours Portugal`,
         short_name: `TopBikeTours`,
         start_url: `/`,
         background_color: `#f7f0eb`,
