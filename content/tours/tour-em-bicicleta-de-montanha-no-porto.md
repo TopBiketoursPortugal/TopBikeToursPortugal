@@ -1,12 +1,12 @@
 ---
 templateKey: tour-gen
 order: 5
-path: /mountain-bike-tours-porto
+path: /tour-bicicleta-montanha-porto
 productcode: CT06
 featured: false
-language: en
+language: pt
 image: /img/mountain-bike-tour-porto.jpg
-title: "Mountain Bike Tour Porto "
+title: Tour em bicicleta de montanha no Porto
 packagetype: SingleTour
 tourtype: Bike
 meta:
@@ -109,10 +109,12 @@ feature:
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
+
+
 # Mountain Bike Tour in Porto city
 
-Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike tour is for people that enjoy mountain bike (MTB). The kilometres  can be adapted to your group but be in mind the route will be in hard surfaces.
+Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike tour is for people that enjoy mountain bike (MTB). The kilometres can be adapted to your group but be in mind the route will be in hard surfaces.
 
 The pick-up at your accommodations will be at 8 am, and the van transfer till Valongo Mountains is a 20 minutes ride.
 
-The route will be in the best trails and single tracks of the region. If you are strong enough to go to the top of the mountain, you can expect a great viewpoint
+The route will be in the best trails and single tracks of the region. If you are strong enough to go to the top of the
