@@ -9,7 +9,7 @@ goto:
   link: https://topbiketoursporto.netlify.app/bike-tour-sightseeing-porto/
   linktext: Oporto Bike city tour
   linktitle: Oporto Bike city tour
-image: /img/bike-tours-porto.jpg
+image: /img/bicycle-tours-porto-city-portugal.jpg
 titleColor: "#fff"
 subtitleColor: "#fff"
 btnColor: "#ffd800"
