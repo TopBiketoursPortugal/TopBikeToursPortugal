@@ -1,0 +1,120 @@
+---
+templateKey: tour-gen
+order: 5
+path: /tour-bicicleta-montanha-porto
+productcode: CT06
+featured: false
+language: pt
+image: /img/mountain-bike-tour-porto.jpg
+title: Tour em bicicleta de montanha no Porto
+packagetype: SingleTour
+tourtype: Bike
+meta:
+  title: "Mountain Bike Tour Porto "
+  description: Mountain bike tour - MTB - available all days starting in Porto
+    city,. If you are looking for some physical activity don't miss this bike
+    tour.
+  keywords: mountain bike tour porto, mtb tour porto, mountain bicycle in porto
+  robots: INDEX
+minAge: 16
+skillLevel: 1
+difficulty: 1
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=19pLt9ZMRnLv7RUSAQqpybO9X-oNSSOhV
+itinerary:
+  - day: "1"
+    title: Pick up 8 am
+    location:
+      lat: "1"
+      lng: "1"
+    description: ""
+  - day: "2"
+    title: 8h30
+    description: Start of MTB tour
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "3"
+    title: Explore the Valongo mountains in a MTB
+    description: Great viewpoints and single tracks near the river. Explore the
+      schist village Couce
+    location:
+      lat: "1"
+      lng: "1"
+  - day: "4"
+    title: Extend your bike tour for a full day and enjoy a great meal in Valongo
+      surroundings
+    location:
+      lat: "1"
+      lng: "1"
+gallery:
+  - alt: Porto MTB tour top of the mountain
+    image: /img/mtb-tour-top-of-the-mountain.jpg
+  - image: /img/trek-mtb-bicycles.jpg
+    alt: Trek MTB bicycles 18 gears
+  - image: /img/climbing-the-mountain-in-a-bicycle.jpg
+    alt: climbing the mountain in a bicycle
+  - image: /img/great-mtb-in-porto-city.jpg
+    alt: Great MTB tour in Porto city
+  - image: /img/mountain-bike-tour-in-the-mountains-of-porto-portugal.jpg
+    alt: mountain bike tour in the mountains of Porto
+pricing:
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Half-Day price per person
+    packageContents:
+      - title: Porto van transfer included
+        value: Yes
+      - title: Hard Trail Trek Mountain bike
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Nutrition,hydration and snacks
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
+      - title: Lunch
+        value: No
+    price: 80
+    discount: 4
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Full-Day price per person
+    packageContents:
+      - title: Porto van transfer included
+        value: yes
+      - title: Hard Trail Trek Mountain bike
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Nutrition,hydration and snacks
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
+      - title: Lunch
+        value: Yes
+    price: 160
+    discount: 0
+feature:
+  align: center
+  imageAlign: center center
+  bokunLink: ""
+  bokunId: ""
+  textcolor: white
+  subtitle: "Mountain Bike Tour Porto "
+  title: "Mountain Bike Tour Porto "
+  image: /img/44817961982_440e783762_o.jpg
+  bokunLinkText: Book now
+---
+
+
+# Mountain Bike Tour in Porto city
+
+Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike tour is for people that enjoy mountain bike (MTB). The kilometres can be adapted to your group but be in mind the route will be in hard surfaces.
+
+The pick-up at your accommodations will be at 8 am, and the van transfer till Valongo Mountains is a 20 minutes ride.
+
+The route will be in the best trails and single tracks of the region. If you are strong enough to go to the top of the
