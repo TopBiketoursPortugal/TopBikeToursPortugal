@@ -486,7 +486,7 @@ collections:
             widget: list
             fields:
               - { label: title, name: title, widget: string }
-Fix              - { label: Value, name: value, widget: markdown, required: false }
+              - { label: Value, name: value, widget: markdown, required: false }
 
           - { label: type, name: type, widget: string, required: false }
           - {
