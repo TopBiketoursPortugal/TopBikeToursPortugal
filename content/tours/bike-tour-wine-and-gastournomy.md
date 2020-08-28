@@ -19,9 +19,10 @@ meta:
   description: This food tour includes a visit to wine caves and a meal in a
     typical portuguese restaurant
   keywords: BIKE TOUR WINE AND GASTOURNOMY PORTO PORTUGAL,food tour
-  robots: NOINDEX
+  robots: INDEX
   title: Bike tour Wine and Gastournomy | Food Tour
-  noindex: true
+  noindex: false
+  canonicalLink: https://topbiketoursportugal.com/food-tour-bike-tour-wine-gastournomy-en/
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
