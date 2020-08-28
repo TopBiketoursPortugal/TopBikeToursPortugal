@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 8
 path: /biketour-porto-deluxe/
 productcode: CT 04
-featured: false
+featured: true
 language: en
 image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3296.jpg
 title: "Full Day Biketour: Porto to Póvoa de Varzim"
