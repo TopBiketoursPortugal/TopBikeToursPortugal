@@ -198,7 +198,7 @@ pricing:
       - title: Trains or Bus Tickets
         value: yes
       - title: Van Support
-        value: yes
+        value: minimum 8 pax
       - title: GPS With route per booking
         value: yes
       - title: Bike rent
@@ -216,7 +216,7 @@ pricing:
       - title: Liability Insurance
         value: yes
       - title: Min. Participants
-        value: "2"
+        value: "4"
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -261,7 +261,7 @@ pricing:
       - title: Liability Insurance
         value: yes
       - title: Min. Participants
-        value: "2"
+        value: "4"
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
