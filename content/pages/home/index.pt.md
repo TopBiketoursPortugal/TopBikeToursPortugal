@@ -23,15 +23,13 @@ toursection:
     expectativas."
   heading: "## Tours populares"
 meta:
-  description: "Passeios de bicicleta em Portugal: Confira nossos passeios de
-    bicicleta pela cidade do Porto, bem como nossas férias de bicicleta guiadas
-    e auto-guiadas em Portugal.As rotas de passeios de bicicleta estão
-    disponíveis para serem feitas em uma bicicleta híbrida, mountain bike ou
-    road bike."
-  keywords: passeios em bicicleta portugal, viagnes em biciclea, passeios em
-    bicicleta guiados, bike tours, cycling holidays
+  description: A melhor forma de conhecer a cidade do Porto é de bicicleta com os
+    nossos guias. Muita diversão e excelentes paisagens é o que pode esperar dos
+    nossos passeios de bicicleta pela cidade do Porto. Pedale junto ao rio,
+    junto ao mar e avenidas das ruas do Porto.
+  keywords: passeios em bicicleta na cidade do porto
   robots: INDEX
-  title: Bike Tours Portugal - Férias em bicicleta
+  title: Bike Tours na cidade do Porto, Portugal
 ---
 # Porto Bike Tours
 
