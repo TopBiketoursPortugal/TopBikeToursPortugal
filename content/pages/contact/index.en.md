@@ -5,8 +5,9 @@ title: Contact us
 meta:
   description: Contact us
   keywords: Contact us
-  robots: NOINDEX
+  robots: INDEX
   title: Contact us
+  canonicalLink: https://topbiketoursportugal.com/contacts/
 feature:
   align: center
   image: /img/esmoriz-wood-wlak-with-bike.jpg
