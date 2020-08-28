@@ -150,45 +150,46 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    package: Group price per person
+    package: Preço de grupo por pessoa
     packageContents:
-      - title: Bicycle and Helmet
-        value: Yes
-      - title: Guide riding with your group
-        value: Yes
-      - title: Water bottle
-        value: Yes
-      - title: Lunch in Matosinhos
-        value: Yes
-      - title: Ticket cellar of Porto wine
-        value: Yes
-      - title: Van trasnfer back to Porto
-        value: Yes
-      - title: Personal accident insurance
-        value: Yes
-      - title: Liability insurance
-        value: Yes
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Almoço em Matosinhos
+        value: Sim
+      - title: Bilhete Caves do vinho do porto
+        value: Sim
+      - title: Transfer de carrinha de volta ao Porto
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 198
   - bestValue: false
     discount: 0
     observations: ""
-    package: Private price per person
+    package: Preço Privado por pessoa
     packageContents:
-      - title: Bicycle and Helmet
-        value: Yes
-      - title: Guide riding with your group
-        value: Yes
-      - title: Water bottle
-        value: Yes
-      - title: Lunch in Matosinhos
-        value: Yes
-      - title: Ticket cellar of Porto wine
-        value: Yes
-      - title: Van trasnfer back to Porto
-        value: Yes
-      - title: Personal accident insurance
-        value: Yes
-      - title: Liability insurance
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Almoço em Matosinhos
+        value: Sim
+      - title: Bilhete Caves do vinho do porto
+        value: Sim
+      - title: Transfer de carrinha de volta ao Porto
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 260
     type: ""
 feature:
