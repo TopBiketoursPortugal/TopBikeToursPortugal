@@ -112,3 +112,5 @@ A saída em suas acomodações será às 8h, e o traslado de van até a Serra do
 O roteiro será nas melhores trilhas e single tracks da região. Se você for forte o suficiente para subir ao topo da montanha, a vista será memorável.
 
 Temos roteiros disponíveis entre 20 km e 50 km.
+
+![no topo da montanha](/img/mtb-tour-top-of-the-mountain.jpg "tour de MTB no Porto em Portugal")
