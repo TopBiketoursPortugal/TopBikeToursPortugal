@@ -6,8 +6,9 @@ title: Contactos
 meta:
   description: Contactos Top Bike tours Portugal
   keywords: Contactos Top Bike tours Portugal
-  robots: NOINDEX
+  robots: INDEX
   title: Contact Page
+  canonicalLink: https://topbiketoursportugal.com/pt/contactos/
 feature:
   align: center
   image: /img/esmoriz-wood-wlak-with-bike.jpg
