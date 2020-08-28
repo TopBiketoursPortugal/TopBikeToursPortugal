@@ -33,30 +33,18 @@ meta:
   robots: INDEX
   title: Bike Tours Portugal - Férias em bicicleta
 ---
-# Descubra Portugal em bicicleta com Top Bike Tours Portugal
+# Porto Bike Tours
 
-Visite Portugal em bicicleta com a ajuda dos nossos guias.
+## Pedale connosco e disfrute da cidade do Porto em bicicleta
 
-A nossa missão é proporcionar passeios relaxantes e cheios de diversão, complementados com diferentes pontos históricos, boa gastronomia e paisagens deslumbrantes.
+Todo mundo tem abordagens e prioridades diferentes quando se trata de planear uma viagem. A equipa da Top Bike Tours Porto é especialista nas mais diversas áreas, permitindo-nos dar resposta a todas as necessidades de deslocação dos nossos clientes. Não importa se está a planear uma futura viagem a trabalho ou a lazer: connosco todo o processo de reserva é muito mais fácil e agradável. envie-nos um email e comece a viajar.
 
-Os passeios de bicicleta que oferecemos têm como alvo ciclistas recreativos e, por essa mesma razão, usamos maioritariamente bicicletas híbridas. Dependendo do passeio de bicicleta podem ser também usadas bicicletas de montanha. Usamos ainda bicicletas de estrada para aqueles que tiverem a audácia de se aventurarem nos nossos passeios pelo Vale do Douro.
+O Porto e o Norte de Portugal possuem centros históricos incríveis, com uma variedade de monumentos centuriais e atrações turísticas, que podem ser exploradas de bicicleta e pedalando por estas regiões deslumbrantes. Destacam-se alguns deles, como o Porto e o Douro (Vinho do Porto e gastronomia requintada), e muito mais. Escolha um dos nossos passeios em bicicleta e veja com os seus próprios olhos porque o Porto foi classificado como Património Mundial pela UNESCO (1996) e Capital Cultural do Turismo (2001).
 
-Os nossos passeios de bicicleta são divididos entre guiados e auto-guiados, onde a assistência mecânica estará sempre garantida. Aproveite para descansar em hotéis de quatro estrelas, casas de campo ou quintas. Transportamos as suas malas por si de hotel em hotel, ou seja, leve consigo apenas aquilo que achar estritamente necessário. Carrinha de apoio é garantida principalmente em passeios guiados, onde encontrará água e pequenos lanches ao longo de cada dia.
+É verdade que a bicicleta tem sido um verdadeiro meio de transporte para o ciclismo nas cidades europeias. Cidades urbanas, como Amsterdã, Bruxelas, Frankfurt e Berlim, o conceito de bicicleta está cada vez mais entrando na vida pessoal de todos e sendo utilizado para esforços que vão além do lazer e da diversão. Especificamente no Porto, cidade medieval, cidade que se está a desenvolver para os passeios de bicicleta, a integração das ciclovias urbanas, a par da forte aposta no crescimento das ciclovias, tem se mostrado viável assim como a satisfação dos consumidores finais. Apesar de ser uma grande cidade com um centro histórico de declive acentuado, a sua utilização é cada vez mais procurada e solicitada. Se se sente determinado e ficar no Porto não chega, escolha uma das nossas férias de bicicleta em ** [Top Bike tours Portugal](www.topbiketoursportugal.com)** .
 
-A sua segurança é a nossa principal prioridade, pelo que estaremos sempre por perto para o ajudar. Suporte por telefone 24/7 disponível para qualquer eventualidade.
+## Alugue connosco uma bicicleta urbana para desfrutar da cidade do Porto
 
-Escolhemos os melhores restaurantes e hotéis para satisfazer as suas necessidades. Almoço e jantar, mesmo que não incluídos, serão organizados pelos guias para o grupo.
+Observação importante: não alugamos bicicletas para longas distâncias
 
-A nossa loja encontra-se na cidade do Porto, onde também realizamos passeios pela cidade. Ainda que a nossa sede se encontre no Norte de Portugal, trabalhamos em todo o país.
-
-![tours em bicicleta portugal](/img/bike-tours-in-portugal.jpg "tours em bicicleta portugal")
-
-## A nossa equipa está preparada para todo o tipo de ciclistas
-
-Não importa se você é um piloto inexperiente ou experiente, se gosta de uma bicicleta de turismo, mountain bike, bicicleta de estrada ou bicicleta eléctrica. O que mais importa é que você desfrute, com seus amigos ou familiares, das boas sensações que um [**passeio de bicicleta**](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) oferece. A Top [Bike tours Portugal](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) está aqui para garantir que você tenha umas férias relaxantes e fantásticas.
-
-Se você está procurando um passeio guiado de bicicleta em Portugal, consulte nossa página de [**calendário**](https://topbiketoursportugal.com/pt/calendario-tours/) para ver toda a partida.
-
-# É fácil reservar!
-
-Contacte-nos através do formulário de contacto ou envie um e-mail. Solicite informações sobre os pacotes de passeios de bicicleta disponíveis na nossa página de [**Férias em bicicleta**](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/). Responderemos em menos de 24 horas e enviaremos uma proposta oficial com todos os detalhes. Após sua confirmação, as acomodações serão reservadas e um depósito será solicitado.
+![tours em bicicleta porto](/img/bike-tours-in-portugal.jpg "tours em bicicleta portugal")
