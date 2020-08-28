@@ -4,23 +4,23 @@ language: pt
 path: /pt/bicicletas/
 title: Bicicletas
 afterEquipment: >-
-  **Cycling holidays Equipment**
+  **Equipamento disponibilizado em férias de bicicleta**
 
 
-  * Helmet
+  * Capacete
 
-  * Bike tool kit for quick repairs (pump. inner tubes)
+  * Ferramentas (bomba de ar, camãras de ar...)
 
-  * Water bottle
+  * Garrafa de água
 
-  * Lights
+  * Luses
 
-  * Locks
+  * Cadeado
 
   * GPS Garmin
 
 
-  **Roadbook (** Maps; Trails detailed information Tips; Information about restaurants; Other points of interest)
+  **Roadbook (** Mapas; informação detalhada do terreno, restaurantes e outros pontos de interesse)
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
