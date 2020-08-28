@@ -108,14 +108,34 @@ pricing:
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Group Price per person
-    packageContents: []
+    package: Preço de grupo por pessoa
+    packageContents:
+      - title: Bicicleta electrica e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 35
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Private Price per person
-    packageContents: []
+    package: Preço para grupos privados
+    packageContents:
+      - title: Bicicleta electrica e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 65
 feature:
   align: center
