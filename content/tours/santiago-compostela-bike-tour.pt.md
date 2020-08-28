@@ -213,7 +213,7 @@ pricing:
       - title: "* High Season"
         value: 1.549€
       - title: "* Summer Season"
-        value: 1.549€
+        value: 1.609€
       - title: 8 Nights / 9 Days ( price per person)
         value: +180€
     price: 1405
