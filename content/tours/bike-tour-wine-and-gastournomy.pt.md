@@ -22,8 +22,10 @@ meta:
   keywords: "Paisagens fenomenais e idílicas encontram-se inseridas neste circuito
     turístico, em que a bicicleta torna-se indispensável para percorrer a
     marginal "
-  robots: NOINDEX
+  robots: INDEX
   title: BIKE TOUR VINHO E GASTRONOMIA
+  canonicalLink: https://topbiketoursportugal.com/wine-gastournomy-biketour/
+  noindex: false
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
