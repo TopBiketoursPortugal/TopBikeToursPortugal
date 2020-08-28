@@ -191,7 +191,7 @@ pricing:
         value: 1.410€
       - title: "* Summer Season"
         value: 1.480€
-    price: 1360
+    price: 1290
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
