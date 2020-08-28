@@ -126,7 +126,7 @@ pricing:
     discount: 0
     package: Group price per person
     packageContents: []
-    price: 25
+    price: 28
   - bestValue: false
     discount: 0
     package: Private price per person
