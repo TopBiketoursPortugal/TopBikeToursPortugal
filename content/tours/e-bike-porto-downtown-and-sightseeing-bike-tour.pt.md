@@ -109,33 +109,33 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    package: Group Price per person
+    package: Preço de grupo por pessoa
     packageContents:
-      - title: Electric Bicycle and Helmet
-        value: Yes
-      - title: Guide riding with your group
-        value: Yes
-      - title: Water bottle
-        value: Yes
-      - title: Personal accident insurance
-        value: Yes
-      - title: Liability insurance
-        value: Yes
+      - title: Bicicleta electrica e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 35
   - bestValue: false
     discount: 0
-    package: Private Price per person
+    package: Preço para grupos privados
     packageContents:
-      - title: Electric Bicycle and Helmet
-        value: Yes
-      - title: Guide riding with your group
-        value: Yes
-      - title: Water bottle
-        value: Yes
-      - title: Personal accident insurance
-        value: Yes
-      - title: Liability insurance
-        value: Yes
+      - title: Bicicleta electrica e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 65
 feature:
   align: center
