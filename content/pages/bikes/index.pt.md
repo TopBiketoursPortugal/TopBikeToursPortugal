@@ -3,6 +3,7 @@ templateKey: bikes-page
 language: pt
 path: /pt/bicicletas/
 title: Bicicletas
+afterEquipment: .
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
@@ -89,4 +90,6 @@ feature:
 ---
 # **As nossas Bicicletas**
 
-**Nota:** Não alugamos bicicletas. As bicicletas disponiveis são apenas para serem usadas nos nossos passeios.
+**NOTA IMPORTANTE:**  As bicicletas apresentadas nas imagens abaixo são utilizadas somente em nossos passeios de bicicleta. As bicicletas não estão disponíveis para serviços de aluguel. Não alugamos bicicletas para longas distâncias.
+
+Apesar disso, temos bicicletas disponíveis para explorar a cidade do Porto e arredores. Contacte-nos para mais informações.
