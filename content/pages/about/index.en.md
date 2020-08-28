@@ -82,8 +82,9 @@ meta:
   description: About Top bike tours portugal
   keywords: ABOUT US RENT TOURS,hire a bycicle porto portugal, city tours porto
     portugal,Biking travel
-  robots: NOINDEX
+  robots: INDEX
   title: About us
+  canonicalLink: https://topbiketoursportugal.com/about-us-biking-travel/
 feature:
   align: center
   image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4394.jpg
