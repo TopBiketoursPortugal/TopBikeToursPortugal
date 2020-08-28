@@ -23,9 +23,10 @@ meta:
     cidade, em direcção..
   keywords: SIGHTSEEING City Tour no Porto, circuitos em bicicleta, actividades em
     bicicleta, ferias em bicicleta
-  robots: NOINDEX
+  robots: INDEX
   title: "SIGHTSEEING BIKE CITY TOUR NO PORTO "
-  noindex: true
+  noindex: false
+  canonicalLink: https://topbiketoursportugal.com/bike-tour-sightseeing-porto-pt/
 difficulty: 0
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
