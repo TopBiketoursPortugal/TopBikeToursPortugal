@@ -127,7 +127,7 @@ pricing:
     discount: 0
     package: Private Price per person
     packageContents:
-      - title: Bicycle and Helmet
+      - title: Electric Bicycle and Helmet
         value: Yes
       - title: Guide riding with your group
         value: Yes
