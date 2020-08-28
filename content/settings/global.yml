@@ -5,11 +5,11 @@ en:
     hint: Near Trindade metro station
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: "Walking & Hiking tours in Portugal: For those who want a true
-    walking & hiking holiday in Portugal with no worry´s about transfer´s,
-    accommodations, food, places to visit in Portugal and other highlights"
-  keywords: walking tours portugal,hiking tours portugal,hike tours portugal, walk
-    portugal tours
+  description: "Passeios pedestres e caminhada em Portugal: Para quem deseja um
+    verdadeiro passeio pedestres e caminhada em Portugal sem se preocupar com
+    traslados, acomodações, alimentação, lugares para visitar em Portugal e
+    outros destaques"
+  keywords: passeios pedestres portugal,portugal a caminhar, férias a caminhar
   title: "Walking & Hiking tours in Portugal "
 pt:
   address:
@@ -18,21 +18,20 @@ pt:
     hint: Perto estação trindade
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: "Passeios de bicicleta em Portugal: Confira nossos passeios de
-    bicicleta pela cidade do Porto, bem como nossas férias de bicicleta guiadas
-    e auto-guiadas em Portugal.As rotas de passeios de bicicleta estão
-    disponíveis para serem feitas em uma bicicleta híbrida, mountain bike ou
-    road bike."
+  description: "Passeios pedestres em Portugal: Confira nossos passeios pedestres
+    pela cidade do Porto, bem como nossas férias de bicicleta guiadas e
+    auto-guiadas em Portugal.As rotas de passeios de bicicleta estão disponíveis
+    para serem feitas em uma bicicleta híbrida, mountain bike ou road bike."
   keywords: passeios bicicleta porto, portugal, passeios em bicicleta
     portugal,cicloturismo portugal, ferias em bicicleta
-  title: Bike Tours Portugal - Férias em bicicleta
+  title: Walking Tours Portugal - Férias a caminhar
 titleformat: "%s  | Top Walking tours Portugal"
 location:
   lat: "41.152103"
   lng: "-8.610452"
 phone: (+351) 220 997 106
 mobile: (+351) 915 316 999​
-email: info@topwalkingtoursportugal
+email: info@topwalkingtoursportugal.com
 tourOperator: 7/2014
 travelAgency: "7008"
 siteUrl: https://topwalkingtoursportugal.com
@@ -56,3 +55,4 @@ socialNetworks:
     link: https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 googleTrackingId: UA-176533046-1
 googleApiKey: AIzaSyA0lWqetz6UU4ozYUKYR_M34zkYIOWkSkE
+robots: INDEX
