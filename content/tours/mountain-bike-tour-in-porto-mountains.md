@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 11
 path: /mountain-bike-tours-porto
 productcode: CT06
 featured: true
@@ -111,5 +111,7 @@ Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike 
 The pick-up at your accommodations will be at 8 am, and the van transfer till Valongo Mountains is a 20 minutes ride.
 
 The route will be in the best trails and single tracks of the region. If you are strong enough to go to the top of the mountain, you can expect a great viewpoint
+
+Tracks available between 20 km and 50 km.
 
 ![in the top of the mountain](/img/mtb-tour-top-of-the-mountain.jpg "MTB tpictureour ")
