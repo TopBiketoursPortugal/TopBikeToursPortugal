@@ -47,4 +47,4 @@ O Porto e o Norte de Portugal possuem centros históricos incríveis, com uma va
 
 Observação importante: não alugamos bicicletas para longas distâncias
 
-![tours em bicicleta porto](/img/bike-tours-in-portugal.jpg "tours em bicicleta portugal")
+![tours em bicicleta porto](/img/porto-bike-tours.jpg "tours em bicicleta porto")
