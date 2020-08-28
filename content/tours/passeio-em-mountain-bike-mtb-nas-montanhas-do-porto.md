@@ -97,9 +97,9 @@ feature:
   imageAlign: center center
   bokunLink: ""
   bokunId: ""
-  textcolor: "# Mountain Bike Tour in Porto mountains"
-  subtitle: "# Mountain Bike Tour in Porto mountains"
-  title: "# Mountain Bike Tour in Porto mountains"
+  textcolor: Mountain Bike Tour in Porto mountains
+  subtitle: Mountain Bike Tour in Porto mountains
+  title: Mountain Bike Tour in Porto mountains
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
