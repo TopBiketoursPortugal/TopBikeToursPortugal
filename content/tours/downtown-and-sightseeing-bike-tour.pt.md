@@ -126,12 +126,32 @@ pricing:
   - bestValue: false
     discount: 0
     package: Group price per person
-    packageContents: []
+    packageContents:
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 28
   - bestValue: false
     discount: 0
     package: Private price per person
-    packageContents: []
+    packageContents:
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 50
 feature:
   align: center
