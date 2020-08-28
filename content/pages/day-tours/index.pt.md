@@ -13,8 +13,9 @@ meta:
     cidade do Porto. Deixe-nos guiá-lo de bicicleta pela nossa cidade do Porto.
   keywords: city tours porto portugal,passeios bicicleta porto,circuitos bicicleta
     porto,passeios guiados de bicicleta porto
-  robots: NOINDEX
+  robots: INDEX
   title: "Bike tours Porto -: passeio em bicicleta pela cidade do Porto"
+  canonicalLink: https://topbiketoursportugal.com/passeios-bicicleta-porto/
 feature:
   align: center
   image: /img/44817961982_440e783762_o.jpg
