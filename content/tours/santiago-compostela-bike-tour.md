@@ -382,7 +382,7 @@ Enjoy a city tour with us in Porto, to get to know a little bit of its architect
 * 4121 meters of cumulative gap climbs
 
 \
-**Itinerary:**
+**Itinerary 7 nights / 8 Days::**
 
 Day 1: Reception at Porto
 
