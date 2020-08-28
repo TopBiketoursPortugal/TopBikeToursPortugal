@@ -152,7 +152,23 @@ pricing:
   - bestValue: false
     discount: 0
     package: Group price per person
-    packageContents: []
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Lunch in Matosinhos
+        value: Yes
+      - title: Ticket cellar of Porto wine
+        value: Yes
+      - title: Van trasnfer back to Porto
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
     price: 198
   - bestValue: false
     discount: 0
@@ -160,6 +176,23 @@ pricing:
     package: Private price per person
     price: 260
     type: ""
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Lunch in Matosinhos
+        value: Yes
+      - title: Ticket cellar of Porto wine
+        value: Yes
+      - title: Van trasnfer back to Porto
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
 feature:
   align: center
   imageAlign: center center
@@ -184,7 +217,7 @@ Experience the unmatched Portuguese northern coast, where you can find various c
 * Departures: 09h00 
 * estimated time: 8h00
 * All year
-* Meeting point: Rua do Alferes Malheiro, 139 ( Top Bike tours portugal Store)
+* Meeting point: Rua do Alferes Malheiro, 139 ( Top Bike tours Portugal Store)
 * Minimum participants: 2
 * 45 km
 
@@ -192,7 +225,7 @@ Experience the unmatched Portuguese northern coast, where you can find various c
 
 * Visit the cellar of Porto wine
 * Lunch in Matosinhos - Find out the true flavors of the sea!
-* Trasnfer metro ticket from Póvoa de Varzim to Porto
+* Van trasnfer back to Porto at the end of the bike tour 
 * Alcoholic beverages not included
 
 **Observations:**
