@@ -278,16 +278,8 @@ pricing:
         value: 1.580€
       - title: "* Summer Season"
         value: 1.630€
-      - title: 12 Nights /13 Days
-        value: Price per person
-      - title: "* Low season"
-        value: 2.679€
-      - title: "* Regular season"
-        value: 2.779€
-      - title: "* High Season"
-        value: 2.879€
-      - title: "* Summer Season"
-        value: 2.929€
+      - title: 12 Nights /13 Days (price per person)
+        value: +1.299€
     price: 1380
   - bestValue: false
     discount: 0
@@ -332,16 +324,8 @@ pricing:
         value: 1.889€
       - title: "* Summer Season"
         value: 1.939€
-      - title: 12 Nights /13 Days
-        value: Price per person
-      - title: "* Low season"
-        value: 3.489€
-      - title: "* Regular season"
-        value: 3.589€
-      - title: "* High Season"
-        value: 3.689€
-      - title: "* Summer Season"
-        value: 3.739€
+      - title: 12 Nights /13 Days (price per person)
+        value: +1.800€
     price: 1689
   - bestValue: false
     discount: 0
@@ -386,16 +370,8 @@ pricing:
         value: 2.460€
       - title: "* Summer Season"
         value: 2.510€
-      - title: 12 Nights /13 Days
-        value: Price per person
-      - title: "* Low season"
-        value: 4.529€
-      - title: "* Regular season"
-        value: 4.629€
-      - title: "* High Season"
-        value: 4.729€
-      - title: "* Summer Season"
-        value: 4.779€
+      - title: 12 Nights /13 Days (price per person)
+        value: +2.269€
     price: 2260
 afterpricing: >-
   **\*Season:**
