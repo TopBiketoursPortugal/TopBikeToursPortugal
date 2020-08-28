@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 10
 path: /tour-bicicleta-montanha
 productcode: CT06
 featured: true
