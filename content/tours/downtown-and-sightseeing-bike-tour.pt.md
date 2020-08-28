@@ -125,7 +125,7 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    package: Group price per person
+    package: Preço de grupo por pessoa
     packageContents:
       - title: Bicicleta e capacete
         value: Sim
@@ -140,7 +140,7 @@ pricing:
     price: 28
   - bestValue: false
     discount: 0
-    package: Private price per person
+    package: Grupo privado preço por pessoa
     packageContents:
       - title: Bicicleta e capacete
         value: Sim
