@@ -107,4 +107,6 @@ feature:
 ---
 # Our Bicycles
 
-**IMPORTANTE NOTE:** We don´t rent bicycles. The bikes are only used in our bike tours.
+**IMPORTANTE NOTE:**  The bicycles shown in the images below are only used in our bike tours. They are not available for rental services. We do not rent bicycles for long distances.
+
+Although of that we have city bikes available if you wish to explore Porto city and surroundings
