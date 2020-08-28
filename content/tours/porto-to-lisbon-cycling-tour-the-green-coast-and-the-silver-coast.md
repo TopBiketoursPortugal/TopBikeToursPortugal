@@ -266,15 +266,29 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 1.480 €
-      - title: 12 Nights /13 Days (price per person)
-        value: 2.779 €
-      - title: July, August and September Prices
-        value: "* 250 € (125 € reduced option)"
       - title: Min. Participants
-        value: "2"
-    price: 1480
+        value: "1"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.360€
+      - title: "* Regular season"
+        value: 1.480€
+      - title: "* High Season"
+        value: 1.580€
+      - title: "* Summer Season"
+        value: 1.630€
+      - title: 12 Nights /13 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.679€
+      - title: "* Regular season"
+        value: 2.779€
+      - title: "* High Season"
+        value: 2.879€
+      - title: "* Summer Season"
+        value: 2.929€
+    price: 1380
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -306,15 +320,29 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 1.789€
-      - title: 12 Nights /13 Days (price per person)
-        value: 3.589 €
-      - title: July, August and September Prices
-        value: "* 250 € (125 € reduced option)"
       - title: Min. Participants
         value: "4"
-    price: 1789
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.689€
+      - title: "* Regular season"
+        value: 1.789€
+      - title: "* High Season"
+        value: 1.889€
+      - title: "* Summer Season"
+        value: 1.939€
+      - title: 12 Nights /13 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 3.489€
+      - title: "* Regular season"
+        value: 3.589€
+      - title: "* High Season"
+        value: 3.689€
+      - title: "* Summer Season"
+        value: 3.739€
+    price: 1689
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -346,16 +374,42 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 2.360 €
-      - title: 12 Nights /13 Days (price per person)
-        value: 4.629 €
-      - title: July, August and September Prices
-        value: "* 250 € (125 € reduced option)"
       - title: Min. Participants
         value: "4"
-    price: 2360
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.260€
+      - title: "* Regular season"
+        value: 2.360€
+      - title: "* High Season"
+        value: 2.460€
+      - title: "* Summer Season"
+        value: 2.510€
+      - title: 12 Nights /13 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 4.529€
+      - title: "* Regular season"
+        value: 4.629€
+      - title: "* High Season"
+        value: 4.729€
+      - title: "* Summer Season"
+        value: 4.779€
+    price: 2260
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
@@ -375,9 +429,9 @@ afterpricing: >-
 
   * Electric bicycles price reduced option: 175€
 
-  * Supplement for single room: 589 €
+  * Supplement for single room: LS: 559€, RS: 589€, HS: 620€, SS:650€
 
-  * Supplement for single room reduced option: 329 €
+  * Supplement for single room reduced option: LS: 300€, RS: 329€, HS: 360€, SS:390€
 
   * Solo traveler: 400 €
 
