@@ -109,12 +109,32 @@ pricing:
   - bestValue: false
     discount: 0
     package: Group Price per person
-    packageContents: []
+    packageContents:
+      - title: Electric Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
     price: 35
   - bestValue: false
     discount: 0
     package: Private Price per person
-    packageContents: []
+    packageContents:
+      - title: Electric Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
     price: 65
 feature:
   align: center
