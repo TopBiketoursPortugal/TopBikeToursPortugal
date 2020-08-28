@@ -137,7 +137,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 31
+    price: 28
   - bestValue: false
     discount: 0
     package: Private price per person
