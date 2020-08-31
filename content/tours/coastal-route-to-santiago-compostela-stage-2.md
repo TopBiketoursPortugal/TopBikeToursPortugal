@@ -145,7 +145,138 @@ gallery:
     alt: porto city center
   - image: /img/top-bike-tours-portugal-coast-hiking-santiago-compostela.jpg
     alt: POrto douro river
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: No
+      - title: Guide
+        value: No
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 1 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.185€
+      - title: "* Regular season"
+        value: 1.285€
+      - title: "* High Season"
+        value: 1.385€
+      - title: "* Summer Season"
+        value: 1.435€
+    price: 1185
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: v
+        value: Yes
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.533€
+      - title: "* Regular season"
+        value: 1.633€
+      - title: "* High Season"
+        value: 1.733€
+      - title: "* Summer Season"
+        value: 1.783€
+    price: 1533
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 7 Nights / 8 Days
+      - title: "* Low season"
+        value: 2.014€
+      - title: "* Regular season"
+        value: 2.114€
+      - title: "* High Season"
+        value: 2.214€
+      - title: "* Summer Season"
+        value: 2.264€
+    price: 2014
 feature:
   align: center
   imageAlign: center center
@@ -161,9 +292,7 @@ feature:
 
 ## **Leave Atlantic ocean behind and go inland till Santiago de Compostela**
 
-
-
-Your first night will be in Baiona. Don’t miss the chance to visit a replica of the ship Pinta, one of the ships of Christopher Columbus. Baiona was the first town´s port to receive the news of the discovery of America.
+Your first night will be in Baiona. Don’t miss the chance to visit a replica of the ship Pinta, one of the ships of Christopher Columbus. Baiona was the first town port to receive the news of the discovery of America.
 
 Have a delight with the famous Arcade's oysters in Vigo. Know why Caldas de Reis holds such a royalty importance and end this tour in the Square of Obradoiro, where you can see the colossal baroque cathedral where the remains of the apostle Santiago lie.
 
@@ -171,10 +300,8 @@ Have a delight with the famous Arcade's oysters in Vigo. Know why Caldas de Reis
 
 **Route description**
 
-* During this stage 2 expect some long and difficult climbs.
+*  During this stage 2 expect some long and difficult climbs.
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-
-
 
 
 
