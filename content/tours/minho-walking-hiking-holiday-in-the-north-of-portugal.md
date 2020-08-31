@@ -199,7 +199,7 @@ pricing:
       - title: "* Low season"
         value: 1.343€
       - title: "* Regular season"
-        value: 1.1423€
+        value: 1.423€
       - title: "* High Season"
         value: 1.483€
       - title: "* Summer Season"
