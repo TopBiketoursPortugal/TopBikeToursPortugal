@@ -5,7 +5,7 @@ path: /hiking-coast-santiago-compostela
 productcode: ST03
 featured: false
 language: en
-image: /img/the-way-of-st.-james-coast-hiking-tour.jpg
+image: /img/top-bike-tours-portugal-coast-hiking-santiago-compostela.jpg
 title: " Coastal route to Santiago Compostela: Stage 1"
 packagetype: PackageTour
 tourtype: Walking
