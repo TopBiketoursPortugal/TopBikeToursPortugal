@@ -173,8 +173,9 @@ You may also consider our [Easy route North of Atlantic Coast](https://topwalkin
 
 * All days are mostly flat with very few and minor hills
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-\
-\
+
+
+
 **Itinerary 6 Nights / 7 days:**
 
 **Day 1:** Porto
