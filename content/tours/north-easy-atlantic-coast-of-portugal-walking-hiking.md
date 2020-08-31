@@ -159,11 +159,11 @@ pricing:
       - title: "* Low season"
         value: 1.085€
       - title: "* Regular season"
-        value: 1.178€
+        value: 1.185€
       - title: "* High Season"
-        value: 1.248€
+        value: 1.285€
       - title: "* Summer Season"
-        value: 1.307€
+        value: 1.335€
     price: 1085
   - bestValue: false
     package: Guided Hiking tour
@@ -203,11 +203,11 @@ pricing:
       - title: "* Low season"
         value: 1.559€
       - title: "* Regular season"
-        value: 1.652€
+        value: 1.659€
       - title: "* High Season"
-        value: 1.722€
+        value: 1.759€
       - title: "* Summer Season"
-        value: 1.780€
+        value: 1.809€
     price: 1559
   - bestValue: false
     type: ""
@@ -247,11 +247,11 @@ pricing:
       - title: "* Low season"
         value: 2.213€
       - title: "* Regular season"
-        value: 2.307€
+        value: 2.313€
       - title: "* High Season"
-        value: 2.377€
+        value: 2.413€
       - title: "* Summer Season"
-        value: 2.435€
+        value: 2.463€
     package: Guided Hiking tour Plus
     price: 2213
 afterpricing: >-
