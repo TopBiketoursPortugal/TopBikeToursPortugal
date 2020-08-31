@@ -144,9 +144,9 @@ pricing:
         value: No
       - title: Guide
         value: No
-      - title: 5 light Picnics
+      - title: 6 light Picnics
         value: Yes
-      - title: 5 Dinners
+      - title: 6 Dinners
         value: No
       - title: Personal Accident Insurance
         value: No
@@ -188,9 +188,9 @@ pricing:
         value: Yes
       - title: Guide
         value: Yes
-      - title: 5 light Picnics
+      - title: 6 light Picnics
         value: Yes
-      - title: 5 Dinners
+      - title: 6 Dinners
         value: No
       - title: Personal Accident Insurance
         value: Yes
@@ -232,10 +232,10 @@ pricing:
         value: Yes
       - title: Guide
         value: Yes
-      - title: 5 light Picnics
+      - title: 6 light Picnics
         value: Yes
-      - title: 5 Dinners
-        value: No
+      - title: 6 Dinners
+        value: Yes
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
