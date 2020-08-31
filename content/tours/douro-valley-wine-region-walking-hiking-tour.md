@@ -315,9 +315,7 @@ feature:
 
 ### 6 or 7 days hike tour
 
-The Douro valley is one of the ultimate wonders of nature. It is the culmination of the effort and energy of men and women, who through their labour gave shape to an already astonishing landscape. Travelling Douro is enjoying its convents and churches, meeting its rustic crafts, tasting the genuine cuisine and witnessing the Portuguese folklore traditions.
-
-Port Wine is undoubtedly the most famous product of this region. Douro comes to life during the summer and beginning of Autumn, with the several holidays and wine celebrations that happen at this time of the year. The harvest of the grapes is most likely the biggest and liveliest event of this region.
+The region of Douro got its classification as a World Heritage Site in 2001 due to the effort of women and men during centuries, who worked to improve their lives and the lives of their children. What came out of all their hard work is an incomparably beautiful landscape, where a perfect harmony between nature and human interventionism as been establish, in the production in that which is one of the most known wines in the World.
 
 **Route description**
 
@@ -337,7 +335,7 @@ Port Wine is undoubtedly the most famous product of this region. Douro comes to 
 
 **Day 5:** Alijó - Vale de Mendiz: 13 km
 
-**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho+ Train To Régua
+**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho + Train To Régua
 
 **Day 7:** Régua – Lamego: 18 km
 
@@ -356,6 +354,6 @@ Port Wine is undoubtedly the most famous product of this region. Douro comes to 
 
 **Day 5:** Alijó - Vale de Mendiz: 13 km
 
-**Day 6:** Vale de Mendiz – Pinhão: 9 km + boat cruise to Pocinho
+**Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho + Train To Régua
 
 **Day 7:** Departure
