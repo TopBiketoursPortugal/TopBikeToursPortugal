@@ -27,7 +27,7 @@ blogsection:
     **\*Walking & Hiking tours in Portugal**:*
 
 
-    In our walking + hiking holidays tours, don’t expect any car transfer between each day. In most of the hiking programs we offer we try to connect important cities, villages and circular loops are avoided, unless there is a reason to do so. We believe that a continuous walking + hiking tour vacation week without the constant use of tranfers is the best way to enjoy nature. Be with yourself and cherish the moment you are in
+    In our walking + hiking holidays tours, don’t expect any car transfer between each day. In most of the hiking programs we offer we try to connect important cities, villages and circular loops are avoided, unless there is a reason to do so. We believe that a continuous walking + hiking tour vacation week without the constant use of transfers is the best way to enjoy nature. Be with yourself and cherish the moment you are in
   heading: "## Latest blog posts"
 ---
 # Portugal Walking & Hiking Tours
