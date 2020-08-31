@@ -197,14 +197,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.343€
+        value: 1.243€
       - title: "* Regular season"
-        value: 1.423€
+        value: 1.323€
       - title: "* High Season"
-        value: 1.483€
+        value: 1.383€
       - title: "* Summer Season"
-        value: 1.543€
-    price: 1343
+        value: 1.443€
+    price: 1241
     type: ""
     observations: ""
   - bestValue: false
@@ -243,14 +243,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.749€
+        value: 1.649€
       - title: "* Regular season"
-        value: 1.829€
+        value: 1.729€
       - title: "* High Season"
-        value: 1.889 €
+        value: 1.789 €
       - title: "* Summer Season"
-        value: 1.949 €
-    price: 1749
+        value: 1.849 €
+    price: 1647
   - bestValue: false
     package: Guided Hiking tour Plus
     packageContents:
@@ -287,14 +287,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.310€
+        value: 2.210€
       - title: "* Regular season"
-        value: 2.390€
+        value: 2.290€
       - title: "* High Season"
-        value: 2.450€
+        value: 2.350€
       - title: "* Summer Season"
-        value: 2.510€
-    price: 2310
+        value: 2.410€
+    price: 2210
 afterpricing: >-
   **\*Season:**
 
