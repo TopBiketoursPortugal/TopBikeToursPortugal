@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 6
 path: /santiago-Compostela-hiking-original-route-porto
 productcode: ST01
 featured: true
@@ -150,7 +150,138 @@ itinerary:
 gallery:
   - image: /img/route-camino-santiago-walk.jpg
     alt: route picture
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: No
+      - title: Guide
+        value: No
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: Min. Participants
+        value: 1 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 970€
+      - title: "* Regular season"
+        value: 1.070€
+      - title: "* High Season"
+        value: 1.170€
+      - title: "* Summer Season"
+        value: 1.220€
+    price: 970
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.318€
+      - title: "* Regular season"
+        value: 1.418€
+      - title: "* High Season"
+        value: 1.518€
+      - title: "* Summer Season"
+        value: 1.568€
+    price: 1318
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.799€
+      - title: "* Regular season"
+        value: 1.899€
+      - title: "* High Season"
+        value: 1.999€
+      - title: "* Summer Season"
+        value: 2.049€
+    price: 1799
 feature:
   align: center
   imageAlign: center center
@@ -166,7 +297,7 @@ feature:
 
 **The old and original route to Santiago de Compostela from Porto**
 
-For a very long time have the pilgrims explored different routes in order to make their way to Santiago de Compostela. The Caminho Central Português is certainly one of the oldest in Europe and it is becoming increasingly famous for outsiders to set foot on the ancient paths by which pilgrims had been crossing the landscape. Enjoy the gastronomy, the sights and different towns along the way. Complete this stage 1 in Portuguese land or book the stage 2 and finish in Santiago de Compostela. knowing that the city of Santiago will be waiting for you as well as it has been waiting and will continue to wait for all the pilgrims that decide to take on the adventure of accepting the challenges and spirituality of this crossing.
+For a very long time pilgrims have explored different routes in order to make their way to Santiago de Compostela. The Caminho Central Português is certainly one of the oldest in Europe and it is becoming increasingly famous for outsiders, who wish to set foot on the ancient paths by which pilgrims had been crossing the landscape. Enjoy the gastronomy, the sights and different towns along the way, knowing that the city of Santiago will be waiting for you as well as it has been waiting and will continue to wait for all the pilgrims that decide to take on the adventure of accepting the challenges and spirituality of this crossing. This hike is divided in two different stages. Stage 1 which goes through Portuguese territory and stage 2 which takes you through Spain to Santiago de Compostela. It is possible to book only one of them, or both together.
 
 \
 \
