@@ -32,9 +32,9 @@ itinerary:
       lng: "1"
   - day: "2"
     title: "Day 2: Meada – Castelo de Vide: 17 km"
-    description: "The walk  of today is a little about our megalithic times. In a
-      few miles you will face with the biggest Menhir in the entire Iberian
-      Peninsula. The all route today is to discover megalithic sites, especially
+    description: "Today’s walk is a little about megalithic times. In a few miles
+      you will face with the biggest Menhir in the entire Iberian Peninsula. The
+      route today serves the purpose of discovering megalithic sites, especially
       when you enter in the Coureleiros Megalithic Park. The day will finish in
       Castelo de Vide Hotel: Casa Amarela"
     location:
@@ -175,39 +175,33 @@ Pure and simple. That is a simple way to describe Alentejo. The region seems to 
 
 IMPORTANTE NOTE: From June to September this is not a recommended tour due the heat. If you know what to expect from a 35º degree walking tour you may consider to book it.
 
-
-
 **Route description**
 
-* The first and day are hilly walks.
+* The 2nd, 3rd and 4th day are hilly walks.
 * There is a strong mix of dirt and paved roads.
-
-
 
 **Itinerary:**
 
-Day 1: Lisbon or Porto arrival and transfer to Meada
+**Day 1**: Lisbon or Porto arrival and transfer to Meada
 
-Day 2: Meada - Castelo de Vide: 17 km
+**Day 2**: Meada - Castelo de Vide: 17 km
 
-Day 3: Castelo de Vide – Marvão : 18km
+**Day 3:** Castelo de Vide – Marvão : 18km
 
-Day 4: Marvão – Ribeira de Nisa: 14 km
+**Day 4:** Marvão – Ribeira de Nisa: 14 km
 
-Day 5: Ribeira de Nisa - Fortios: 17 km
+**Day 5:** Ribeira de Nisa - Fortios: 17 km
 
-Day 6: Fortios – Flor da Rosa: 20 km
+**Day 6:** Fortios – Flor da Rosa: 20 km
 
-Day 7: Flor da Rosa – Alter do Chão: 13 km
+**Day 7:** Flor da Rosa – Alter do Chão: 13 km
 
-Day 8 : departure
-
-
+**Day 8 :** departure
 
 **Optional more 2 days:**
 
-Day 8: Alter do Chão – Cabeça de Vide: 14 km
+**Day 8:** Alter do Chão – Cabeça de Vide: 14 km
 
-Day 9: Cabeça de Vide – Monforte: 18 km
+**Day 9:** Cabeça de Vide – Monforte: 18 km
 
-Day 10: Departure
+**Day 10:** Departure
