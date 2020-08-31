@@ -199,7 +199,7 @@ pricing:
         value: Yes
       - title: Porto Airport Transfers
         value: Yes
-      - title: v
+      - title: Train or Bus Tickets Back to Porto
         value: Yes
       - title: Van Support
         value: Yes (minimum 8 pax)
