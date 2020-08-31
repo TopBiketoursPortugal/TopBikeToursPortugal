@@ -5,7 +5,7 @@ path: /santiago-Compostela-hiking-stage-2
 productcode: ST02
 featured: true
 language: en
-image: /img/the-way-of-st.-james-original-hike-tour.jpg
+image: /img/valença-do-minho-bridge.jpg
 title: "Portuguese Central Camino: Stage 2"
 packagetype: PackageTour
 tourtype: Walking
@@ -159,7 +159,138 @@ gallery:
     alt: Santiago de Compostela city center
   - image: /img/the-way-of-st.-james-hike-tour-waterfall.jpg
     alt: water fall
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided bike Tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 light Picnics
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: Min. Participants
+        value: 1 Pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.145€
+      - title: "* Regular season"
+        value: 1.294€
+      - title: "* High Season"
+        value: "1.345"
+      - title: "* Summer Season"
+        value: 1.395€
+    price: 1146
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: " 8 Pax"
+      - title: 7 Nights / 8 Days
+        value: 6 Nights / 7 Days
+      - title: "* Low season"
+        value: 1.493€
+      - title: "* Regular season"
+        value: 1.593€
+      - title: "* High Season"
+        value: 1.693€
+      - title: "* Summer Season"
+        value: 1.743€
+    price: 1493
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.974€
+      - title: "* Regular season"
+        value: 2.074€
+      - title: "* High Season"
+        value: 2.174€
+      - title: "* Summer Season"
+        value: 2.224€
+    price: 1972
 feature:
   align: center
   imageAlign: center center
@@ -175,21 +306,19 @@ feature:
 
 ## **The old and original route to Santiago de Compostela**
 
-The Portuguese Central Camino is perfect for those who enjoy a good hiking and those who want to try a combination between the Portuguese’s history, cultural and gastronomy flavors and Spanish history, cultural, gastronomy, and also, the adventure of arriving to Santiago and visit the catacombs.
+The Portuguese Central Camino is perfect for those who enjoy a good hiking and those who want to try a combination between Portuguese and Spanish history, culture and gastronomy flavors and also the adventure of arriving to Santiago and visit the catacombs.
 
-The pathway of this journey will be made between a rural and urban villages and citys, in majorly paved roads.
+This journey will be made between rural and urban villages and cities, majorly in paved roads.
 
-In Portugal, take your time to discover the fortress in Valença do Minho and the history behind it, , as you enjoy the typical gastronomy of the North and the “verde” wine.
+In Portugal, take your time to discover the fortress in Valença do Minho and the history behind it, as you enjoy the typical gastronomy of the North and the “verde” wine.
 
-Crossing the border and enter in Spain, be amazed by the viaducts and the thermal baths, along the way, as the walkers reach the Sanctuary of Santiago de Compostela.
+Crossing the border and entering Spain, be amazed by the viaducts and the thermal baths along the way, as you reach the Sanctuary of Santiago de Compostela.
 
 **Route description:**
 
 * On this route all kind of terrains are to be expected. The route has some long and difficult climbs.
 * Paved streets in rural and urban areas; 35 % of the walk will be in the forest.
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-
-
 
 **Itinerary:**
 
@@ -205,6 +334,6 @@ Crossing the border and enter in Spain, be amazed by the viaducts and the therma
 
 **Day 6:** Caldas de Reis – Padrón: 14 km
 
-**Day 7:** Padrón – Santiago de Compostela: 25
+**Day 7:** Padrón – Santiago de Compostela: 25 Km
 
 **Day 8:** Departure
