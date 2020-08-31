@@ -5,7 +5,7 @@ path: /hiking-atlantic-coast-porto
 productcode: NT03
 featured: false
 language: en
-image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3346.jpg
+image: /img/apulia-beac.jpg
 title: "North easy Atlantic Coast of Portugal walking & Hiking "
 packagetype: PackageTour
 tourtype: Walking
