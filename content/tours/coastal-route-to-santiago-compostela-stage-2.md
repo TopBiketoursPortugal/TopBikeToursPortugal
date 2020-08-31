@@ -323,20 +323,16 @@ feature:
 ---
 # Coastal route to Santiago Compostela: Stage 2
 
-## **Leave Atlantic ocean behind and go inland till Santiago de Compostela**
+## Leave Atlantic ocean behind and go inland till Santiago de Compostela
 
 Your first night will be in Baiona. Don’t miss the chance to visit a replica of the ship Pinta, one of the ships of Christopher Columbus. Baiona was the first town port to receive the news of the discovery of America.
 
 Have a delight with the famous Arcade's oysters in Vigo. Know why Caldas de Reis holds such a royalty importance and end this tour in the Square of Obradoiro, where you can see the colossal baroque cathedral where the remains of the apostle Santiago lie.
 
-
-
 **Route description**
 
-*  During this stage 2 expect some long and difficult climbs.
+* During this stage 2 expect some long and difficult climbs.
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-
-
 
 **Itinerary:**
 
