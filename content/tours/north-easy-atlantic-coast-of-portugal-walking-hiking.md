@@ -169,7 +169,7 @@ pricing:
     package: Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Porto Airport Transfers
@@ -196,8 +196,10 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
+      - title: Min. Participants
+        value: 8 Pax
       - title: 6 Nights / 7 Days
-        value: " Price per person"
+        value: Price per person
       - title: "* Low season"
         value: 1.336€
       - title: "* Regular season"
@@ -206,14 +208,12 @@ pricing:
         value: 1.476€
       - title: "* Summer Season"
         value: 1.526€
-      - title: Min. Participants
-        value: 8 Pax
     price: 1336
   - bestValue: false
     type: ""
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Porto Airport Transfers
@@ -240,6 +240,8 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
+      - title: Min. Participants
+        value: 8 Pax
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -250,8 +252,6 @@ pricing:
         value: 2.037€
       - title: "* Summer Season"
         value: 2.087€
-      - title: Min. Participants
-        value: 8 Pax
     package: Guided Hiking tour Plus
     price: 1897
 afterpricing: >-
