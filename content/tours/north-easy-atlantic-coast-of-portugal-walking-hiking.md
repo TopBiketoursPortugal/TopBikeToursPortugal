@@ -154,17 +154,17 @@ pricing:
         value: No
       - title: Min. Participants
         value: 1 Pax
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 930€
+        value: 1.085€
       - title: "* Regular season"
-        value: 1.010€
+        value: 1.178€
       - title: "* High Season"
-        value: 1.070€
+        value: 1.248€
       - title: "* Summer Season"
-        value: 1.120€
-    price: 930
+        value: 1.307€
+    price: 1085
   - bestValue: false
     package: Guided Hiking tour
     packageContents:
@@ -201,14 +201,14 @@ pricing:
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.336€
+        value: 1.559€
       - title: "* Regular season"
-        value: 1.416€
+        value: 1.652€
       - title: "* High Season"
-        value: 1.476€
+        value: 1.722€
       - title: "* Summer Season"
-        value: 1.526€
-    price: 1336
+        value: 1.780€
+    price: 1559
   - bestValue: false
     type: ""
     packageContents:
@@ -245,15 +245,15 @@ pricing:
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.897€
+        value: 2.213€
       - title: "* Regular season"
-        value: 1.977€
+        value: 2.307€
       - title: "* High Season"
-        value: 2.037€
+        value: 2.377€
       - title: "* Summer Season"
-        value: 2.087€
+        value: 2.435€
     package: Guided Hiking tour Plus
-    price: 1897
+    price: 2213
 afterpricing: >-
   **\*Season:**
 
@@ -317,7 +317,7 @@ The coast of the Atlantic Ocean is one the best areas to walk on and, at the sam
 
 **Day 2:** Porto transfer to Póvoa de Varzim - Apúlia: 15 km
 
-**Day 3:** Apúlia – Esposende: 16 km (incluir rota até castro de São Lourenço)
+**Day 3:** Apúlia – Esposende: 16 km 
 
 **Day 4:** Esposende – Castelo de Neiva: 14 km
 
