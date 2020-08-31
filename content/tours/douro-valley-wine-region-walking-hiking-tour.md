@@ -156,6 +156,8 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
+      - title: Min. Participants
+        value: 1 pax
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -166,8 +168,6 @@ pricing:
         value: 1.394€
       - title: "* Summer Season"
         value: 1.444€
-      - title: Min. Participants
-        value: 1 pax
       - title: 7 Nights / 8 Days ( price per person)
         value: +200€
     price: 1194
@@ -202,6 +202,8 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
+      - title: Min. Participants
+        value: 8 pax
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -212,8 +214,6 @@ pricing:
         value: 1800€
       - title: "* Summer Season"
         value: 1.850€
-      - title: Min. Participants
-        value: 8 pax
       - title: 7 Nights / 8 Days ( price per person)
         value: +300 €
     price: 1600
@@ -248,6 +248,8 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
+      - title: Min. Participants
+        value: 8 Pax
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -258,8 +260,6 @@ pricing:
         value: 2.361€
       - title: "* Summer Season"
         value: 2.411€
-      - title: Min. Participants
-        value: 8 Pax
       - title: 7 Nights / 8 Days ( price per person)
         value: +300€
     price: 2161
