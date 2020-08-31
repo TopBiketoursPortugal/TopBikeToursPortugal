@@ -6,7 +6,7 @@ productcode: NT03
 featured: false
 language: en
 image: /img/apulia-beac.jpg
-title: "North easy Atlantic Coast of Portugal walking & Hiking "
+title: Atlantic Coast of Portugal walking & Hiking tour
 packagetype: PackageTour
 tourtype: Walking
 meta:
@@ -198,7 +198,7 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: 8 Pax
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
         value: 1.559€
@@ -242,7 +242,7 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: 8 Pax
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
         value: 2.213€
