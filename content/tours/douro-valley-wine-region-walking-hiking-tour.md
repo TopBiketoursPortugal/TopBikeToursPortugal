@@ -354,6 +354,6 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 
 **Day 5:** Alijó - Vale de Mendiz: 13 km
 
-**Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho + Train To Régua
+**Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho 
 
 **Day 7:** Departure
