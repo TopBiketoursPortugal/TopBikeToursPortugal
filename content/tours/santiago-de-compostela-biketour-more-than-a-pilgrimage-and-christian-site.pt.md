@@ -20,104 +20,96 @@ tags:
   - electric bicycle
   - Spain
 meta:
-  description: >-
-    Durante o passeio de bicicleta irá passar por estradas medievais antigas,
-    inicialmente utilizadas durante as peregrinações portuguesas a Santiago de
-    Compostela. Na Idade Média, os caminhos de Santiago de Compostela eram
-    percorridos por réis e rainhas. Actualmente, estes trilhos são utilizados
-    por peregrinos. 
-  keywords: >-
-    santiago de compostela em bicicleta, o caminho até santiago em bicicleta a
-    começar no porto
+  description: "Durante o passeio de bicicleta irá passar por estradas medievais
+    antigas, inicialmente utilizadas durante as peregrinações portuguesas a
+    Santiago de Compostela. Na Idade Média, os caminhos de Santiago de
+    Compostela eram percorridos por réis e rainhas. Actualmente, estes trilhos
+    são utilizados por peregrinos. "
+  keywords: santiago de compostela em bicicleta, o caminho até santiago em
+    bicicleta a começar no porto
   robots: INDEX
-  title: 'Cycling Tours - Santiago de Compostela '
+  title: "Cycling Tours - Santiago de Compostela "
 distance: 243
 distanceUnit: Km
 duration: 8
 durationUnit: Dias | 7 Noites
 difficulty: 3
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=14iVNLFXg8h5R_B1MI1zdY2bErIJ4fstp'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=14iVNLFXg8h5R_B1MI1zdY2bErIJ4fstp
 itinerary:
-  - day: '1'
+  - day: "1"
     location:
-      lat: '41.1494512'
-      lng: '-8.6107884'
-    title: 'Dia 1: Recepção na cidade do Porto'
-  - day: '2'
-    description: >-
-      Este percurso terá o seu início na Sé Catedral do Porto, com destino final
-      na Praça do Obradoiro na capital Galega.  Desde a cidade que o acolheu, o
-      Porto, pedale pelo município de Vila do Conde em direcção a Barcelos. Esta
-      cidade ganhou o seu prestigio com a lenda do Galo de Barcelos, que mais
-      tarde originou o símbolo que representa Portugal. Barcelos é uma cidade
-      ligada à olaria, artesanato, à industria têxtil e à magnifica gastronomia
-      minhota. Barcelos será a cidade que o acolherá para passar a noite e para
-      desfrutar de todos os segredos que a mesma contém. 
+      lat: "41.1494512"
+      lng: "-8.6107884"
+    title: "Dia 1: Recepção na cidade do Porto"
+  - day: "2"
+    description: "Este percurso terá o seu início na Sé Catedral do Porto, com
+      destino final na Praça do Obradoiro na capital Galega.  Desde a cidade que
+      o acolheu, o Porto, pedale pelo município de Vila do Conde em direcção a
+      Barcelos. Esta cidade ganhou o seu prestigio com a lenda do Galo de
+      Barcelos, que mais tarde originou o símbolo que representa Portugal.
+      Barcelos é uma cidade ligada à olaria, artesanato, à industria têxtil e à
+      magnifica gastronomia minhota. Barcelos será a cidade que o acolherá para
+      passar a noite e para desfrutar de todos os segredos que a mesma contém. "
     location:
-      lat: '41.5314496'
-      lng: '-8.6192306'
-    title: 'Dia 2: Porto – Barcelos (49 km)'
-  - day: '3'
-    description: >-
-      Pedale em direcção a Ponte de Lima, uma vila onde as casas rurais e as
-      pontes antigas constroem a paisagem de uma das vilas mais antigas de
+      lat: "41.5314496"
+      lng: "-8.6192306"
+    title: "Dia 2: Porto – Barcelos (49 km)"
+  - day: "3"
+    description: "Pedale em direcção a Ponte de Lima, uma vila onde as casas rurais
+      e as pontes antigas constroem a paisagem de uma das vilas mais antigas de
       Portugal. Esta é uma vila onde a história está ligada à sua herança
       cultural, ao meio envolvente e às tradições. Neste contexto é também
       reconhecida por ser uma vila de passagem e acolhimento aos peregrinos com
       destino a Santiago Compostela. Para além de ser reconhecida pela sua
       gastronomia tipicamente minhota, é também reconhecida por albergar este
-      sector do turismo religioso. 
+      sector do turismo religioso. "
     location:
-      lat: '41.7675021'
-      lng: '-8.5830992'
-    title: 'Dia 3: Barcelos – Ponte de Lima (31 km)'
-  - day: '4'
-    description: >-
-      Atravessando a freguesia pertencente a Ponte de lima, Labruja, irá pedalar
-      pelo verdejante caminho "minhoto". Neste percurso que liga Portugal à
-      Galiza, irá passar pela cidade conhecida por Valença do Minho, cidade que
-      outrora foi sede de bispados. A cidade possui boas estradas e acessos
-      ferroviários. Esta é uma cidade bem localizada, o que facilita os acessos
-      a cidades como o Porto, Braga e Vigo, bem como o acesso ao aeroporto que
-      se localiza a uma hora de distancia.  Valença é uma cidade onde a história
-      predomina e constitui um símbolo das relações transfronteiriças entre
-      Portugal e Espanha.  Hoje em dia tornou-se num espaço multicultural,
-      devido às relações transfronteiriças, e um espaço com um legado
-      histórico-cultural onde é reconhecida a fortaleza seiscentista (umas das
-      estruturas militares portuguesas com maior dimensão e das mais bem
-      protegidas). 
+      lat: "41.7675021"
+      lng: "-8.5830992"
+    title: "Dia 3: Barcelos – Ponte de Lima (31 km)"
+  - day: "4"
+    description: 'Atravessando a freguesia pertencente a Ponte de lima, Labruja, irá
+      pedalar pelo verdejante caminho "minhoto". Neste percurso que liga
+      Portugal à Galiza, irá passar pela cidade conhecida por Valença do Minho,
+      cidade que outrora foi sede de bispados. A cidade possui boas estradas e
+      acessos ferroviários. Esta é uma cidade bem localizada, o que facilita os
+      acessos a cidades como o Porto, Braga e Vigo, bem como o acesso ao
+      aeroporto que se localiza a uma hora de distancia.  Valença é uma cidade
+      onde a história predomina e constitui um símbolo das relações
+      transfronteiriças entre Portugal e Espanha.  Hoje em dia tornou-se num
+      espaço multicultural, devido às relações transfronteiriças, e um espaço
+      com um legado histórico-cultural onde é reconhecida a fortaleza
+      seiscentista (umas das estruturas militares portuguesas com maior dimensão
+      e das mais bem protegidas). '
     location:
-      lat: '42.0270455'
-      lng: '-8.6428831'
-    title: 'Dia 4: Ponte de Lima – Valença (38 km)'
-  - day: '5'
-    description: >-
-      Combine o ambiente urbano com o ambiente pedestre em Pontevedra. As praças
-      em Pontevedra estão alinhadas com edifícios clássicos. Pontevedra ergue-se
-      como uma área de enorme beleza natural e uma das mais bem preservadas a
-      nível da historia da Galicia. Hoje em dia, tornou-se numa cidade pedestre
-      para longas caminhadas, onde poderá desfrutar dos verdejantes parques
-      naturais. Por fim, pedale até Arcade, reconhecida por ser a terra das
-      deliciosas ostras. 
+      lat: "42.0270455"
+      lng: "-8.6428831"
+    title: "Dia 4: Ponte de Lima – Valença (38 km)"
+  - day: "5"
+    description: "Combine o ambiente urbano com o ambiente pedestre em Pontevedra.
+      As praças em Pontevedra estão alinhadas com edifícios clássicos.
+      Pontevedra ergue-se como uma área de enorme beleza natural e uma das mais
+      bem preservadas a nível da historia da Galicia. Hoje em dia, tornou-se
+      numa cidade pedestre para longas caminhadas, onde poderá desfrutar dos
+      verdejantes parques naturais. Por fim, pedale até Arcade, reconhecida por
+      ser a terra das deliciosas ostras. "
     location:
-      lat: '42.6075172'
-      lng: '-8.4714942'
-    title: 'Dia 5: Valença – Pontevedra (53 km)'
-  - day: '6'
-    description: >-
-      O ponto principal deste dia será a descoberta da cidade pré-Romana, Caldas
-      de Reis, município da província de Pontevedra, conhecida pelo seu jardim
-      centenário. De seguida, pedale até Padrón, uma região que pertence à
-      província da Coruña.  Segundo a tradição, o apóstolo Santiago voltou
+      lat: "42.6075172"
+      lng: "-8.4714942"
+    title: "Dia 5: Valença – Pontevedra (53 km)"
+  - day: "6"
+    description: O ponto principal deste dia será a descoberta da cidade pré-Romana,
+      Caldas de Reis, município da província de Pontevedra, conhecida pelo seu
+      jardim centenário. De seguida, pedale até Padrón, uma região que pertence
+      à província da Coruña.  Segundo a tradição, o apóstolo Santiago voltou
       depois do seu martírio, num navio de pedra que atracou num "Pedrón" - uma
       pedra, daí a origem do nome.
     location:
-      lat: '42.7510147'
-      lng: '-8.6292056'
-    title: 'Dia 6: Pontevedra – Padrón (41 km)'
-  - day: '7'
-    description: >-
-      O último e sétimo dia será percorrido desde Padrón até Santiago de
+      lat: "42.7510147"
+      lng: "-8.6292056"
+    title: "Dia 6: Pontevedra – Padrón (41 km)"
+  - day: "7"
+    description: O último e sétimo dia será percorrido desde Padrón até Santiago de
       Compostela, o seu destino final e um dos núcleos de peregrinação religiosa
       na Europa Ocidental.  Tal como Roma e Jerusalém, a cidade de Santiago de
       Compostela apresenta-se-nos como um ícone religioso único para os
@@ -126,19 +118,18 @@ itinerary:
       possibilidade de contemplar a majestosa catedral barroca, onde os restos
       mortais do apóstolo estão localizados.
     location:
-      lat: '42.8804219'
-      lng: '-8.5458608'
-    title: 'Dia 7: Padrón – Santiago de Compostela (26 km)'
-  - day: '8'
+      lat: "42.8804219"
+      lng: "-8.5458608"
+    title: "Dia 7: Padrón – Santiago de Compostela (26 km)"
+  - day: "8"
     description: Transfere de volta para o Porto
     location:
-      lat: '42.8804219'
-      lng: '-8.5458608'
-    title: 'Dia 8: Santiago de Compostela'
+      lat: "42.8804219"
+      lng: "-8.5458608"
+    title: "Dia 8: Santiago de Compostela"
 gallery:
   - alt: The central way from Porto to Santiago de Compostela
-    image: >-
-      /img/the-central-way-from-porto-to-santiago-de-compostela-valença-bridge.png
+    image: /img/the-central-way-from-porto-to-santiago-de-compostela-valença-bridge.png
   - alt: The central way from Porto to Santiago de Compostela
     image: /img/thw-central-way-from-porto-to-santiago-de-compostela-2.png
   - alt: The central way from Porto to Santiago de Compostela
@@ -160,128 +151,155 @@ pricing:
     package: Self Guided bike Tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 6 lunches
-        value: 'No'
+        value: No
       - title: 6 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.489 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1489
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.409€
+      - title: "* Regular season"
+        value: 1.489€
+      - title: "* High Season"
+        value: 1.549€
+      - title: "* Summer Season"
+        value: 1.609€
+    price: 1409
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Bike tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
         value: minimum 8 pax
-      - icon: '-'
+      - icon: "-"
         title: GPS With route per booking
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 6 lunches
-        value: 'No'
+        value: No
       - title: 6 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1895 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 1895
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.790€
+      - title: "* Regular season"
+        value: 1.870€
+      - title: "* High Season"
+        value: 1.930€
+      - title: "* Summer Season"
+        value: 1.990€
+    price: 1790
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Biketour plus*
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'Yes'
-      - icon: '-'
+        value: Yes
+      - icon: "-"
         title: GPS With route per booking
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 6 lunches
-        value: 'Yes'
+        value: Yes
       - title: 6 Dinners
-        value: 'Yes'
+        value: Yes
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.456 €
-      - title: 'July, August and September Prices'
-        value: +100 €
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2456
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.351€
+      - title: "* Regular season"
+        value: 2.431€
+      - title: "* High Season"
+        value: 2.491€
+      - title: "* Summer Season"
+        value: 2.551€
+    price: 2351
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 a Mar 25
+
+  * RS - Regular season: Mar 26 a 25 Jun e Set 26 a 31 Oct
+
+  * HS - High Season: Set 01 a 25 Set
+
+  * SS - Summer Season: Jun 26 a August 30
+
+
   **Observações:**
 
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de
-  semana
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
   * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
-  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%.
-  Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos -
-  15% de desconto.
+  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%. Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos - 15% de desconto.
 
 
   **Extras**
@@ -289,7 +307,7 @@ afterpricing: >-
 
   * Bicicleta Elétric: 175€
 
-  * Suplemento para quarto individual: 329 €
+  * Suplemento para quarto individual: LS: 300€, RS: 329€, HS: 360€: SS.390€
 
   * Viajante único: 200 €
 
