@@ -24,7 +24,7 @@ distance: 84
 distanceUnit: Km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 2
+difficulty: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=16-bzE5gMB0iijbjajdK-CJ1Kvq2EFUJy
 itinerary:
   - day: "1"
@@ -152,6 +152,8 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
+      - title: Min. Participants
+        value: 1 Pax
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
@@ -162,8 +164,6 @@ pricing:
         value: 1.070€
       - title: "* Summer Season"
         value: 1.120€
-      - title: Min. Participants
-        value: 1 Pax
     price: 930
   - bestValue: false
     package: Guided Hiking tour
