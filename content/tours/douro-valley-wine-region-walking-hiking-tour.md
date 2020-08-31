@@ -313,7 +313,7 @@ feature:
 
 ## A demarcated and classified wine region
 
-### 6 or 7 days hike tour
+
 
 The region of Douro got its classification as a World Heritage Site in 2001 due to the effort of women and men during centuries, who worked to improve their lives and the lives of their children. What came out of all their hard work is an incomparably beautiful landscape, where a perfect harmony between nature and human interventionism as been establish, in the production in that which is one of the most known wines in the World.
 
