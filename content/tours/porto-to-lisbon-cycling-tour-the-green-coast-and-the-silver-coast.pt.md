@@ -281,7 +281,7 @@ pricing:
       - title: Liability Insurance
         value: No
       - title: Min. Participants
-        value: "2"
+        value: "1"
       - title: 6 Nights / 7 Days
         value: Price per person
       - value: 1.380€
