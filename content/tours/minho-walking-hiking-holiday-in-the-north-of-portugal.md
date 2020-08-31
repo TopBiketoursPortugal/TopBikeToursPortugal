@@ -117,21 +117,30 @@ itinerary:
       lat: "1"
       lng: "1"
   - day: "7"
-    description: Starting your day to the last destination of this journey, and as
-      the walk continues, the last monument of Viana city will be seen, cross
-      the bridge Eiffel and be embrace by the Lima river. This 19km walk will be
-      made in stone pavement or paved roads. The major part of this day will be
-      felt in the pure air surround by the forests presents in the Ecovia of
-      Lima River. Arriving to the last destination of this journey in the North
-      of Portugal, Ponte de Lima, a city recognized as world heritage, will give
-      you the sensation of what the north represents. It's considered the oldest
-      villa in Portugal founded in the year of 1125. The best highlight of this
-      villa is the famous Lima bridge built by the romans during the I century
-      with a beautiful history behind it. In terms of gastronomy, you can taste
-      the famous Vinho Verde, and to eat you can have lamprey rice and also the
-      sarrabulho rice.
-    title: "Day 7: Viana do Castelo – Ponte de Lima: 19 km or (26 km to the City
-      center)"
+    description: "Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City
+      center); optional transfer and loop root (17km) Starting your day to the
+      last destination of this journey, and as the walk continues, the last
+      monument of Viana city will be seen, cross the bridge Eiffel and be
+      embrace by the Lima river. This 19km walk will be made in stone pavement
+      or paved roads. The major part of this day will be felt in the pure air
+      surround by the forests presents in the Ecovia of Lima River. Arriving to
+      the last destination of this journey in the North of Portugal, Ponte de
+      Lima, a city recognized as world heritage, will give you the sensation of
+      what the north represents. It's considered the oldest villa in Portugal
+      founded in the year of 1125. The best highlight of this villa is the
+      famous Lima bridge built by the romans during the I century with a
+      beautiful history behind it. In terms of gastronomy, you can taste the
+      famous Vinho Verde, and to eat you can have lamprey rice and also the
+      sarrabulho rice. In this last walk you have the option of a transfer to
+      Ponte de Lima. Here the hike will start in the center of the village,
+      which as lots of places to explore. The walking proceeds through the pure
+      air within the forests presents in the Ecovia of Lima River. Your
+      accommodations will be near the Bertiandos Lagoons where there are several
+      marked walking areas that are in the route provided by us.  NOTE: If you
+      don’t choose the transfer at this day, you might consider an extra night
+      in this area. "
+    title: "Day 7: Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City
+      center); optional transfer and loop root (17km)"
     location:
       lat: "1"
       lng: "1"
@@ -183,17 +192,18 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
-      - title: 7 Nights / 8 Days ( price per person)
+      - title: Min. Participants
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
       - title: "* Low season"
         value: 1.343€
       - title: "* Regular season"
-        value: 1.433€
+        value: 1.1423€
       - title: "* High Season"
-        value: 1.463€
+        value: 1.483€
       - title: "* Summer Season"
-        value: 1.533€
-      - title: Min. Participants
-        value: "1"
+        value: 1.543€
     price: 1343
     type: ""
     observations: ""
@@ -228,18 +238,18 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: "-"
+      - title: Min. Participants
+        value: 8 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
       - title: "* Low season"
         value: 1.749€
       - title: "* Regular season"
-        value: 1.839€
+        value: 1.829€
       - title: "* High Season"
-        value: 1.889€
+        value: 1.889 €
       - title: "* Summer Season"
-        value: 1.939 €
-      - title: Min. Participants
-        value: 8 pax
+        value: 1.949 €
     price: 1749
   - bestValue: false
     package: Guided Hiking tour Plus
@@ -272,18 +282,18 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: "-"
+      - title: Min. Participants
+        value: 8 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
       - title: "* Low season"
         value: 2.310€
       - title: "* Regular season"
-        value: 2.400€
+        value: 2.390€
       - title: "* High Season"
         value: 2.450€
       - title: "* Summer Season"
-        value: 2.500€
-      - title: Min. Participants
-        value: 8 pax
+        value: 2.510€
     price: 2310
 afterpricing: >-
   **\*Season:**
@@ -333,15 +343,11 @@ feature:
 
 ## Walk near the sea and near the Minho and Lima Valley
 
-
-
 The Walk Trail of Minho River, an old railway section, was ranked as the fourth best 2009 trail in Europe. That alone showcases all the amazing Portuguese landscapes, rivers and seaside views which you will be enjoying during this trip, hiking trough World Heritage villages, vineyards, farmed land and historical towns.
 
 The Minho River is also the perfect excuse for relaxing in the north of the country. Explore the trails and the Portuguese villages along this border river and its main highlights. The Minho River serves as a natural border between Portugal and Spain, travelling the entire way across Melgaço and Valença. Also, the journey will lead the walkers in part of the Santiago Coast Caminho and the Ecovia of Lima River.
 
 Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
-
-
 
 \
 **Route description:**  
@@ -364,6 +370,6 @@ Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, 
 
 **Day 6:** Vila Praia de Âncora – Viana do Castelo: 20 Km
 
-**Day 7:** Viana do Castelo – Ponte de Lima: 19 km or (26 km to the City center)
+**Day 7:** Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City center); optional transfer and loop rout e (17km)
 
 **Day 8:**Departure
