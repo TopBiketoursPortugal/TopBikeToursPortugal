@@ -1,11 +1,11 @@
 ---
 templateKey: tour-gen
-order: 12
+order: 4
 path: /hiking-coast-santiago-compostela-stage-2
 productcode: ST04
 featured: false
 language: en
-image: /img/the-way-of-st.-james-coast-hiking-tour.jpg
+image: /img/santiago-de-compostela-city-center.jpg
 title: " Coastal route to Santiago Compostela: Stage 2"
 packagetype: PackageTour
 tourtype: Walking
