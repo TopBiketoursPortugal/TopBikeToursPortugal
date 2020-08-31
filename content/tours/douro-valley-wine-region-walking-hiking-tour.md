@@ -168,7 +168,7 @@ pricing:
         value: 1.444€
       - title: Min. Participants
         value: 1 pax
-      - title: 7 Nights / 8 Days (price per person)
+      - title: 7 Nights / 8 Days ( price per person)
         value: +200€
     price: 1194
   - bestValue: false
@@ -214,7 +214,7 @@ pricing:
         value: 1.850€
       - title: Min. Participants
         value: 8 pax
-      - title: 7 Nights / 8 Days (price per person)
+      - title: 7 Nights / 8 Days ( price per person)
         value: +300 €
     price: 1600
   - bestValue: false
