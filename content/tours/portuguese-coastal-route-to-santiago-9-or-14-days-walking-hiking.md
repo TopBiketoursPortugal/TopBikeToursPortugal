@@ -269,26 +269,25 @@ You may also consider our Easy route North of Atlantic Coast.
 
 **Route description**
 
-. All days are mostly flat with very few and minor hills
-
-. The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
+* All days are mostly flat with very few and minor hills
+* The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
 
 **Itinerary:**
 
 **Day 1:**Porto
 
-Day 2: Transfer to Praia da memória – Póvoa: 20 km
+**Day 2**: Transfer to Praia da memória – Póvoa: 20 km
 
-Day 3: Vila do Conde – Esposende: 25 km
+**Day 3:** Vila do Conde – Esposende: 25 km
 
-Day 4: Esposende – Viana do Castelo: 26 km
+**Day 4**: Esposende – Viana do Castelo: 26 km
 
-Day 5: Viana do Castelo – Vila Praia de Âncora: 19 km
+**Day 5:** Viana do Castelo – Vila Praia de Âncora: 19 km
 
 **Day 6:** Vila Praia de Âncora – Caminha: 9 km
 
 **Day 7:**Caminha – Oia: 23 km
 
-Day 8: Oia – Baiona: 18 km
+**Day 8**: Oia – Baiona: 18 km
 
-Day 9: Departure
+**Day** 9: Departure
