@@ -1,12 +1,12 @@
 ---
 templateKey: tour-gen
 order: 10
-path: /hiking-alentejo-vicentine-southeast-portugal-coast
+path: /hiking-algarve-vicentine-southeast-portugal-coast
 productcode: VC02
 featured: false
 language: en
 image: /img/vicentina-coast-walking-trail.jpg
-title: Vicentine Coast Alentejo Hiking
+title: Vicentine Coast Algarve - Stage 2
 packagetype: PackageTour
 tourtype: Walking
 meta:
