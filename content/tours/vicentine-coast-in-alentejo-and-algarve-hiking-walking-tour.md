@@ -6,7 +6,7 @@ productcode: VC01
 featured: true
 language: en
 image: /img/zambujeira-do-mar-hike.webp
-title: "Vicentine Coast in Alentejo and Algarve Hiking & walking tour "
+title: Vicentine Coast in Alentejo Stage 1
 packagetype: PackageTour
 tourtype: Walking
 meta:
@@ -21,7 +21,7 @@ meta:
 groupSizeMin: -2
 minAge: 16
 skillLevel: 1
-distance: 68
+distance: 75
 distanceUnit: Km
 duration: 7
 durationUnit: Days | 6 Nights
@@ -107,10 +107,12 @@ gallery:
     alt: aninals view
   - image: /img/ocean-view.jpg
     alt: Atlantic ocean view
-  - image: /img/sagres-view.jpg
-    alt: sagres view
-  - image: /img/trail-carrapateira-hiking.jpg
-    alt: carrapateira hiking  trail
+  - image: /img/near-the-cliffs.jpg
+    alt: near the cliffs
+  - image: /img/porto-covo.jpg
+    alt: Porto Covo
+  - image: /img/odeceixe-beach.jpg
+    alt: Odeceixe beach
 pricing:
   - bestValue: false
     package: Self Guided Hiking tour
@@ -290,11 +292,11 @@ feature:
   image: /img/walking-pescadores-trail.jpg
   bokunLinkText: Book now
 ---
-# Vicentine Coast in Alentejo  Hiking & walking tour
+# Vicentine Coast in Alentejo Hiking & walking tour
 
 ## The south of Portugal through the coastline
 
-### **Explore the famous Vicentine Coast and walk on the region of Alentejo** 
+### **Explore the famous Vicentine Coast and walk on the region of Alentejo**
 
 Nature, beaches and small little towns is what it be can found throughout most of this hike. The Vicentine Coast is a wild natural park which covers the coast of Alentejo and Algarve. It is a preserved coast line which hosts a variety of animal and plant species. It is here one of the only places where you can find white storks breeding on seashore rocks or otters living in a marine habitat. This hike can be done during most of the year, since the weather generally never gets too hot, due to the Atlantic presence.
 
