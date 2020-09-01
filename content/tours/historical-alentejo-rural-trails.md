@@ -310,7 +310,7 @@ feature:
 
 Pure and simple. That is a simple way to describe Alentejo. The region seems to have remained a bit outside our time and it refused entering on our chaotic and frenetic way of living. A necessary relaxation and slow down of our natural present posture are necessary, to fully take in what this region offers. Alentejo does have one of the best Human Development Index values in the country, which might portrait how good it can be for us a little time off in the region.
 
-IMPORTANTE NOTE: From June to September this is not a recommended tour due the heat. If you know what to expect from a 35º degree walking tour you may consider to book it.
+**IMPORTANTE NOTE:** From June to September this is not a recommended tour due the heat. If you know what to expect from a 35º degree walking tour you may consider to book it.
 
 **Route description**
 
