@@ -155,7 +155,144 @@ gallery:
     alt: marvao view
   - image: /img/flowers-view.jpg
     alt: flowers view
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon or Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto or Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: No
+      - title: Guide
+        value: No
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: Min. Participants
+        value: 1 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.175€
+      - title: "* Regular season"
+        value: 1.275€
+      - title: "* High Season"
+        value: 1.375€
+      - title: "* Summer Season"
+        value: 1.425€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +796€
+    price: 1175
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon or Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto or Lisbon
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.648€
+      - title: "* Regular season"
+        value: 1.748€
+      - title: "* High Season"
+        value: 1.848€
+      - title: "* Summer Season"
+        value: 1.898€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +932€
+    price: 1650
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon or Porto Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Porto or Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 6 light Picnics
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 pax
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.303€
+      - title: "* Regular season"
+        value: 2.403€
+      - title: "* High Season"
+        value: 2.503€
+      - title: "* Summer Season"
+        value: 2.553€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +1.118€
+    price: 2305
 feature:
   align: center
   imageAlign: center center
