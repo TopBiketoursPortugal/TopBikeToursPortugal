@@ -22,8 +22,9 @@ skillLevel: 2
 distance: 80
 distanceUnit: km
 duration: 7
-durationUnit: Days / 6 Nights
+durationUnit: Days | 6 Nights
 difficulty: 2
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1Fn3MFhSOVGw9GHGcEU6DVwcYQ8xmBdPp
 itinerary:
   - title: "Day 1: Lisbon arrival and transfer to Aljezur"
     day: "1"
@@ -93,6 +94,19 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+gallery:
+  - image: /img/cabo-de-são-vicente-in-sagres.jpg
+    alt: Cabo de São Vicente  in Sagres
+  - image: /img/carrapateira-sea-view.jpg
+    alt: carrapateira sea view
+  - image: /img/carrapateira-trail.jpg
+    alt: Carrapateira trail
+  - image: /img/cliffs.jpg
+    alt: cliffs
+  - image: /img/sagres-boat.jpg
+    alt: sagres boat
+  - image: /img/sagres-trail.jpg
+    alt: sagres trail
 pricing:
   - bestValue: false
     package: Self Guided bike Tour
