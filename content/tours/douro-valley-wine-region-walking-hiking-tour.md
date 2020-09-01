@@ -261,7 +261,7 @@ pricing:
       - title: "* Summer Season"
         value: 2.411€
       - title: 7 Nights / 8 Days ( price per person)
-        value: +300€
+        value: +394€
     price: 2161
 afterpricing: >-
   **\*Season:**
