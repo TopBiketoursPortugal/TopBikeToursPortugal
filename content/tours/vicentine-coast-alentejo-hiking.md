@@ -11,12 +11,19 @@ packagetype: PackageTour
 tourtype: Walking
 meta:
   title: Vicentine Coast Alentejo Hiking
-  description: Vicentine Coast Alentejo Hiking
-  keywords: Vicentine Coast Alentejo Hiking
+  description: Hike Algarve’s south west coast line and the fisherman trail. known
+    attractions of this walking tour are the sun, the weather and the beaches.
+    The hiking is In the popular vicentine coast route near the Atlantic sea
+    where the cliffs are an highlight
+  keywords: Vicentine Coast Alentejo Hiking, the fisherman trail walk tour
   robots: INDEX
-minAge: 16
-skillLevel: 1
-difficulty: 1
+minAge: ""
+skillLevel: 2
+distance: 80
+distanceUnit: km
+duration: 7
+durationUnit: Days / 6 Nights
+difficulty: 2
 itinerary:
   - title: "Day 1: Lisbon arrival and transfer to Aljezur"
     day: "1"
@@ -86,7 +93,169 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-pricing: []
+pricing:
+  - bestValue: false
+    package: Self Guided bike Tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: Min. Participants
+        value: 1 pax
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.224€
+      - title: "* Regular season"
+        value: 1.324€
+      - title: "* High Season"
+        value: 1.424€
+      - title: "* Summer Season"
+        value: 1.474€
+    price: 1224
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+      - title: Train or Bus Tickets Back to Lisbon
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 pax
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.630€
+      - title: "* Regular season"
+        value: 1.730€
+      - title: "* High Season"
+        value: 1.830€
+      - title: "* Summer Season"
+        value: 1.880€
+    price: 1630
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+      - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.136€
+      - title: "* Regular season"
+        value: 2.236€
+      - title: "* High Season"
+        value: 2.336€
+      - title: "* Summer Season"
+        value: 2.386€
+    price: 2136
+afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Solo traveler: 200 €
+
+  * Single supplement: LS: 300€, RS: 329€, HS: 360€, SS.390€
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
@@ -104,20 +273,12 @@ feature:
 
 Algarve is and as been for a long time a popular touristic region in Portugal. Its most known attractions are the sun, the weather and the beaches. However, the not so popular west coast of Algarve, still maintains these characteristics. It is encompassed in the Vicentine Coast, a natural park which is home for a wide number of animal and plant species. The typical cliff like coast environment makes for the common breathtaking views over the Atlantic, where different birds take their chance on nesting.
 
-**IMPORTANTE NOTE:** From June to September this is not a recommended tour due the heat. If you know what to expect from a 35º degree walking tour you may consider to book it.
-
-
-
 **Route description**
 
 * Mostly flat with only some short uphills.
 * 50% of paved roads and 50% of natural and dirt easy roads.
 
-
-
 **Itinerary:**
-
-
 
 **Day 1:**Lisbon arrival and transfer to Aljezur
 
