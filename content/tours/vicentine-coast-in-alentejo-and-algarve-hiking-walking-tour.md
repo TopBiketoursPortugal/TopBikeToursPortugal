@@ -1,7 +1,7 @@
 ---
 templateKey: tour-gen
 order: 1
-path: /hiking-vicentine-southeast-portugal-coast
+path: /hiking-alentejo-vicentine-southeast-portugal-coast
 productcode: VC01
 featured: true
 language: en
@@ -10,21 +10,22 @@ title: "Vicentine Coast in Alentejo and Algarve Hiking & walking tour "
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: Vicentine Coast in Alentejo and Algarve Hiking & walking tour
+  title: Vicentine Coast in Alentejo  Hiking & walking tour
   description: An amazing walking tour through one of the best coastlines of
-    Europe. This Natural Park in the southwest of Alentejo includes wild beaches
-    surrounded by imposing cliffs, cork oak groves, traditional fishing villages
+    Europe. This wild Natural Park in the southwest of Alentejo includes wild
+    beaches surrounded by imposing cliffs, cork oak groves, traditional fishing
+    villages
   keywords: vicentine coast walking, hiking vicentine coast portugal,algarve
     hiking tour, alentejo hiking tour
   robots: INDEX
 groupSizeMin: -2
 minAge: 16
 skillLevel: 1
-distance: 169
+distance: 68
 distanceUnit: Km
-duration: 13
-durationUnit: Days | 14 Nights
-difficulty: 3
+duration: 7
+durationUnit: Days | 6 Nights
+difficulty: 2
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=184TvaT93Kjqoqa8vB9azJStV1nzAj-Vu
 itinerary:
   - day: "1"
@@ -91,81 +92,9 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - title: "Day 7: Odeceixe – Rogil: 10 Km"
+  - title: "Day 7: Departure"
     day: "7"
-    description: This day starts in a flat path with dirt roads. Prepare to get out
-      of the center and hike to the beautiful Vicentina Coast. Enjoy the Ocean
-      basins and see the fishermen working. Upon arriving to Rogil try the
-      Portuguese gastronomy with sardines or roasted seabass.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "8"
-    title: "Day 8: Rogil – Aljezur: 13 KM (or 18 km)"
-    description: This walk is pretty much flat with dirt paths. Today’s journey goes
-      a little bit inland, so prepare to see some animals, like cows and boars.
-      If you are a fan of bird watching this is also a very good day to admire
-      the various species that live in this area. After reaching Aljezur, take
-      time to admire the Aljezur Castle. It was used by both the Romans and the
-      Arabs, and was conquered by the Portuguese in the XII century. This castle
-      is one of those depicted in the middle of the Portuguese flag.
-    location:
-      lat: "1"
-      lng: "1"
-  - title: "Day 9: Aljezur – Arrifana: 17 Km (or 9 km)"
-    day: "9"
-    description: "This walk connects Aljezur and Arrifana. The route is of medium
-      difficulty, mainly because it has some uphills hills with dirt and loose
-      stones. Enjoy the variety of trees found in the area like ash, tamarind
-      and willow trees, and take some time to admire the bays near the ocean
-      that surrounds the village of Arrifana. "
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "10"
-    title: "Day 10: Arrifana – Carrapateira: 18 km"
-    description: With an average difficulty, this walk is composed of dirt paths and
-      a lot of ups and downs. Today’s journey takes you along untouched natural
-      areas in the Vicentine Coast. When reaching the village of Carrapateira,
-      dating back to the XIIth century, the main historical monument is the
-      Carrapateira Fort, which was built in the XVII century in order to defend
-      the village from pirate attacks.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "11"
-    title: "Day 11: Carrapateira – Pedralva: 9 Km"
-    description: This day’s walk is one of the easiest ones, with only 9 km of road
-      ahead on flat dirt paths. Admire the beaches of the Vicentine Coast and,
-      if you are a fan of bird watching, this area is for you to discover. Enjoy
-      the rest of your day in Pedralva in the peace and privacy in that which is
-      a protected village of Portugal.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "12"
-    title: "Day 12: Pedralva – Vila do Bispo: 12 km"
-    description: The day takes you through a flat and easy walk where its monumental
-      cliffs provide the high point for stunning views over the ocean. In Vila
-      do Bispo you may visit the local church built in XVIII century, and at the
-      end of the day you may enjoy your meal with a dish of roasted sardines or
-      shellfish.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "13"
-    title: "Day 13: Vila do Bispo – Sagres: 24 km (or 10 km)"
-    description: This walk might be the hardest one so far with quite a few ups and
-      downs made in dirt paths and a substantial amount of kilometers to travel.
-      Upon arrival into Sagres take a shortcut to Cabo de São Vicente to its
-      Fort. This fort is consider one of the most important forts in Algarve,
-      mainly because in the past it was a crossing zone between the Atlantic
-      ocean and the Mediterranean sea.
-    location:
-      lat: "1"
-      lng: "1"
-  - day: "14"
-    title: "Day 14: Departure"
+    description: ""
     location:
       lat: "1"
       lng: "1"
@@ -184,7 +113,7 @@ gallery:
     alt: carrapateira hiking  trail
 pricing:
   - bestValue: false
-    package: Self Guided
+    package: Self Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
@@ -192,37 +121,164 @@ pricing:
         value: Yes
       - title: Lisbon Airport Transfers
         value: Yes
-      - title: Trains or Bus Tickets to Lisbon
+      - title: Train or Bus Tickets Back to Lisbon
         value: Yes
       - title: Van Support
         value: No
+      - title: Roadbook + Briefing
+        value: Yes
       - title: GPS With route per booking
         value: Yes
-      - title: App with GPS route for mobile
+      - title: Bag and water bottle
         value: Yes
-      - title: Guide
-        value: no
-      - title: Lunches
+      - title: T-shirt
         value: No
-      - title: Dinners
+      - title: Guide
+        value: No
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
         value: No
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
-      - title: "13 Nights / 14 Days "
+        value: No
+      - title: Min. Participants
+        value: 1 pax
+      - title: 6 Nights / 7 Days
         value: Price per person
-      - title: "Low season: Nov 01 to Mar 25"
-        value: 1.799 €
-      - title: "Regular season: Mar 26 to 25 Jun"
-        value: 1.899 €
-      - title: "Summer Season: Jun 26 to August 30"
-        value: 2.049 €
-      - title: "High Season: Set 01 to 25 Set"
-        value: 1.999 €
-    type: Base
-    observations: Base
-    price: 1089
+      - title: "* Low season"
+        value: 1.175€
+      - title: "* Regular season"
+        value: 1.275€
+      - title: "* High Season"
+        value: 1.375€
+      - title: "* Summer Season"
+        value: 1.425€
+    type: ""
+    observations: ""
+    price: 1177
     discount: 0
+  - bestValue: false
+    package: Guided Hiking tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes (minimum 8 pax)
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.581€
+      - title: "* Regular season"
+        value: 1.681€
+      - title: "* High Season"
+        value: 1.781€
+      - title: "* Summer Season"
+        value: 1.831€
+    price: 1581
+  - bestValue: false
+    package: Guided Hiking tour Plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: Roadbook + Briefing
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bag and water bottle
+        value: Yes
+      - title: T-shirt
+        value: Yes
+      - title: Guide
+        value: Yes
+      - title: 5 light Picnics
+        value: Yes
+      - title: 5 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: 8 Pax
+      - title: 6 Nights / 7 Days
+      - title: "* Low season"
+        value: 2.087€
+      - title: "* Regular season"
+        value: 2.187€
+      - title: "* High Season"
+        value: 2.287€
+      - title: "* Summer Season"
+        value: 2.337€
+    price: 2087
+afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
+  **Observations:**
+
+
+  * Prices are based for 2 people sharing the same room;
+
+  * Prices can suffer updates due high season, holidays or weekends
+
+  * Beverages are not included at lunch and dinner when included in the package
+
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+
+
+  **Extras**
+
+
+  * Solo traveler: 200 €
+
+  * Single supplement: LS: 300€, RS: 329€, HS: 360€, SS.390€
+
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
@@ -234,22 +290,20 @@ feature:
   image: /img/walking-pescadores-trail.jpg
   bokunLinkText: Book now
 ---
-# Vicentine Coast in Alentejo and Algarve Hiking & walking tour
+# Vicentine Coast in Alentejo  Hiking & walking tour
 
 ## The south of Portugal through the coastline
 
-### **Explore the famous Vicentine Coast and walk on the region of Alentejo and Algarve**
+### **Explore the famous Vicentine Coast and walk on the region of Alentejo** 
 
-
-
-Fazer novo texto
+Nature, beaches and small little towns is what it be can found throughout most of this hike. The Vicentine Coast is a wild natural park which covers the coast of Alentejo and Algarve. It is a preserved coast line which hosts a variety of animal and plant species. It is here one of the only places where you can find white storks breeding on seashore rocks or otters living in a marine habitat. This hike can be done during most of the year, since the weather generally never gets too hot, due to the Atlantic presence.
 
 **Route description:**
 
-* Mostly flat all days
+* Mostly flat all days with only some short uphills
 * 50% of paved roads and 50% of natural and dirt roads
 
-**Itinerary 13 Day:**
+**Itinerary:**
 
 **Day 1:** Lisbon arrival
 
@@ -263,18 +317,4 @@ Fazer novo texto
 
 **Day 6:** Azenhas do Mar – Odeceixe: 12 km
 
-**Day 7:** Odeceixe - Odeceixe: 10 Km
-
-**Day 8:** Odeceixe – Aljezur: 13 KM (or 18 km)
-
-**Day 9:** Aljezur – Arrifana: 17 Km (or 9 km)
-
-**Day 10:** Arrifana – Carrapateira: 18 km
-
-**Day 11:** Carrapateira – Pedralva: 9 Km
-
-**Day 12:** Pedralva – Vila do Bispo: 12 km
-
-**Day 13:** Vila do Bispo – Sagres: 24 km (or 10 km)
-
-**Day 14:** Departure
+**Day 7:** Departure
