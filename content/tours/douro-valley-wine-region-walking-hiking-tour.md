@@ -6,11 +6,11 @@ productcode: DOURO01
 featured: true
 language: en
 image: /img/44817961982_440e783762_o.jpg
-title: "Douro Valley Wine region Walking & Hiking tour "
+title: "Douro Valley Wine region Hiking tour "
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: Douro Valley Wine region Walking & Hiking tour
+  title: Douro Valley Wine region Hiking tour
   description: Hiking in the vineyards and near olive fields is the scenery to
     expect. Visit different wine caves and little villages while you take a
     walk, to feel the spirit of Douro Valley
@@ -18,10 +18,10 @@ meta:
   robots: INDEX
 minAge: 16
 skillLevel: 1
-distance: 89
+distance: 68
 distanceUnit: Km
-duration: 8
-durationUnit: Days | 7 Nights
+duration: 7
+durationUnit: Days | 6 Nights
 difficulty: 3
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1RYhZx_c_fzrFsHgnprY5pRSe5yZ8-b2v
 itinerary:
@@ -309,11 +309,9 @@ feature:
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# Douro Valley Wine region Walking & Hiking tour
+# Douro Valley Wine region Hiking tour
 
 ## A demarcated and classified wine region
-
-
 
 The region of Douro got its classification as a World Heritage Site in 2001 due to the effort of women and men during centuries, who worked to improve their lives and the lives of their children. What came out of all their hard work is an incomparably beautiful landscape, where a perfect harmony between nature and human interventionism as been establish, in the production in that which is one of the most known wines in the World.
 
@@ -322,26 +320,8 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 * the area of Douro is hilly and this walk is no exception
 * the majority of the walk is done on dirt trails and when in tarmac roads the traffic is low 
 
-\
-**Itinerary 7 Days:**
 
-**Day 1**: Arrival Porto
 
-**Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
-
-**Day 3:** Vilarinho de São Romão – Alijó: 18 km
-
-**Day 4:** Alijó loop- São Mamede Ribatua: 15 km
-
-**Day 5:** Alijó - Vale de Mendiz: 13 km
-
-**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho + Train To Régua
-
-**Day 7:** Régua – Lamego: 18 km
-
-**Day 8:** Departure  \
-\
-\
 **Itinerary 6 Days:**  \
 \
 **Day 1**: Arrival Porto
@@ -357,3 +337,21 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 **Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho 
 
 **Day 7:** Departure
+
+**Itinerary 7 Nights /8 Days, 86 Km:**
+
+**Day 1**: Arrival Porto
+
+**Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
+
+**Day 3:** Vilarinho de São Romão – Alijó: 18 km
+
+**Day 4:** Alijó loop- São Mamede Ribatua: 15 km
+
+**Day 5:** Alijó - Vale de Mendiz: 13 km
+
+**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho + Train To Régua
+
+**Day 7:** Régua – Lamego: 18 km
+
+**Day 8:** Departure
