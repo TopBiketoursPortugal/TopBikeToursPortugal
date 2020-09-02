@@ -6,11 +6,11 @@ productcode: NT01
 featured: false
 language: en
 image: /img/hiking-ecovia-lima.jpg
-title: Minho walking & Hiking Holiday in the North of Portugal
+title: Minho Hiking Holiday in the North of Portugal
 packagetype: PackageTour
 tourtype: Walking
 meta:
-  title: Minho walking & Hiking Holiday in the North of Portugal
+  title: Minho Hiking Holiday in the North of Portugal
   description: Walking between rio Minho, Rio Minho and the Atlantic ocean will be
     a great hiking holiday. To join the great scenery the vinho verde and the
     local gastronomy will full fill your day´s.
@@ -339,7 +339,7 @@ feature:
   image: /img/top-walking-tours-portugal.jpg
   bokunLinkText: Book now
 ---
-# **Minho walking & Hiking Holiday in the North of Portugal**
+# **Minho Hiking Holiday in the North of Portugal**
 
 ## Walk near the sea and near the Minho and Lima Valley
 
@@ -370,6 +370,6 @@ Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, 
 
 **Day 6:** Vila Praia de Âncora – Viana do Castelo: 20 Km
 
-**Day 7:** Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City center); optional transfer and loop rout e (17km)
+**Day 7:** Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City center); optional transfer and loop route (17 km)
 
 **Day 8:**Departure
