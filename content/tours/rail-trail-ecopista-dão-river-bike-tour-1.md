@@ -5,7 +5,7 @@ path: /rail-trail-ecopista-tamega
 productcode: CT 08
 featured: false
 language: en
-image: /img/ecopista-dão-river.jpg
+image: /img/tâmega-bike-tour.jpg
 title: Rail trail - Ecopista Tâmega river bike tour
 packagetype: SingleTour
 tourtype: Bike
@@ -52,20 +52,18 @@ itinerary:
       lat: "1"
       lng: "1"
 gallery:
-  - image: /img/ecopista-dao-starting-viseu.jpg
-    alt: viseu picture bike tour
-  - image: /img/train-station-near-rail-trail-dao-river.jpg
-    alt: train station ecopista dao
-  - image: /img/cycling-route-near-the-river.jpg
-    alt: Mondego river view
-  - image: /img/vinyards-near-the-dão-ecopist.jpg
-    alt: Vineyards
-  - image: /img/santa-comba-dão-city-center.jpg
-    alt: Santa comba Dão city center
-  - image: /img/accommodatations-in-santa-comba-dão.jpg
-    alt: Accommodations in santa comba dão
-  - image: /img/river-beach.jpg
-    alt: "beach at Dão river "
+  - image: /img/amarante-village.jpg
+    alt: Amarante city
+  - image: /img/bike-tour-in-the-vineyards.jpg
+    alt: vineyards views
+  - image: /img/bike-tour-with-flowers-view.jpg
+    alt: Flowers view
+  - image: /img/old-rail-trail-bridge.jpg
+    alt: old trail bridge
+  - image: /img/river-view.jpg
+    alt: river view
+  - image: /img/tâmega-ecopista.jpg
+    alt: Tâmega ecopista
 pricing:
   - bestValue: false
     highSeasonPriceSupplement: 100
