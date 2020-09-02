@@ -24,7 +24,7 @@ distanceUnit: "2"
 duration: 2
 durationUnit: Days | 1 Night
 difficulty: 1
-mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1dTjtUXL_2rOXFEjbA2fM3ucaeKMReNPe
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1COdBv8jtRtAH7LYKE8ptvlszK_nTpBXU
 itinerary:
   - day: "0"
     title: Guided bike tour
