@@ -33,25 +33,21 @@ itinerary:
       lat: "1"
       lng: "1"
   - day: "1"
-    title: 8h30 Pick up in Porto district and transfer to Viseu
+    title: "Self guided Option 1: 8h30 Pick up in Porto district and transfer to
+      Viseu - Viseu - Santa Comba dão (49km)"
     location:
       lat: "1"
       lng: "1"
-    description: " or pick up Pick up in Porto district and transfer to Nelas"
+    description: "Self guided Option 2: pick up Pick up in Porto district and
+      transfer to Nelas - Nelas - Santa Comba Dão (46 km)"
   - day: "2"
-    title: Viseu - Santa Comba dão (49km)
-    description: or Nelas - Santa Comba Dão (46 km)
+    title: "Self guided Option 1: Transfer back to Porto"
+    description: "Self guided Option 2: extra day Santa Comba dão - Viseu (49 km)"
     location:
       lat: "1"
       lng: "1"
   - day: "3"
-    title: Transfer back to Porto
-    location:
-      lat: "1"
-      lng: "1"
-    description: or extra day Santa Comba dão - Viseu (49 km)
-  - day: "4"
-    title: Transfer back to Porto
+    title: "Self guided Option 2: Transfer back to Porto"
     location:
       lat: "1"
       lng: "1"
@@ -101,27 +97,9 @@ pricing:
         value: 290€
       - title: "* Summer Season"
         value: 310€
-    observations: |-
-      **\*Season:**
-
-      * LS - Low season: Nov 01 to Mar 25
-      * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
-      * HS - High Season: Set 01 to 25 Set
-      * SS - Summer Season: Jun 26 to August 30
-
-      **Observations:**
-
-      * Prices are based for 2 people sharing the same room;
-      * Prices can suffer updates due high season, holidays or weekends
-
-      **Extras**
-
-      * Electric bicycles price Option 1: 30€
-      * Electric bicycles price Option 2: 25€
-      * Supplement for single room option 1: 70€
-      * Supplement for single room option 2: 90€ 
-      * Solo traveler: 120 €
-      * Extra nights: on request
+      - title: Pick up prices in other location
+        value: on request
+    observations: ""
     price: 250
   - bestValue: false
     highSeasonPriceSupplement: 100
@@ -153,9 +131,11 @@ pricing:
         value: 410€
       - title: "* Summer Season (price per person)"
         value: 430€
+      - title: Pick up prices in other location
+        value: on request
     type: ""
     observations: ""
-    price: 350
+    price: 370
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 2"
@@ -179,14 +159,40 @@ pricing:
       - title: Min. Participants
         value: 2 Pax
       - title: "* Low season (price per person)"
-        value: 420€
+        value: 490€
       - title: "* Regular season (price per person)"
-        value: 440€
+        value: 510€
       - title: "* High Season (price per person)"
-        value: 460€
+        value: 530€
       - title: "* Summer Season (price per person)"
-        value: 480€
-    price: 500
+        value: 550€
+      - title: Pick up prices in other location
+        value: on request
+    price: 490
+    observations: ""
+afterpricing: |-
+  
+
+  **\*Season:**
+
+  * LS - Low season: Nov 01 to Mar 25
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+  * HS - High Season: Set 01 to 25 Set
+  * SS - Summer Season: Jun 26 to August 30
+
+  **Observations:**
+
+  * Prices are based for 2 people sharing the same room;
+  * Prices can suffer updates due high season, holidays or weekends
+
+  **Extras**
+
+  * Electric bicycles price Option 1: 30€
+  * Electric bicycles price Option 2: 25€
+  * Supplement for single room option 1: 70€
+  * Supplement for single room option 2: 90€ 
+  * Solo traveler: 120 €
+  * Extra nights: on request
 feature:
   align: center
   imageAlign: center center
