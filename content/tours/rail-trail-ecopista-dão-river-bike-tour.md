@@ -219,3 +219,33 @@ In 2011 a railroad called Ecopista do Dão between Viseu, in the center of Portu
 Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region.
 
 It is optional to add 1 more day route to your package. This route of 46 km goes from Nelas do Santa Comba Dão, and it is a moderate route, where it is possible to cycle near the river in dirt roads with some loose stones. It is possible to adapt the route to cycle in the road where the traffic is few. Some of the areas that might spark your interest during the day are the Nelas city, the Prehistoric Circuit where is possible to explore the Dolmens, Orcs and Menhir , and the Mondego river.
+
+
+
+
+
+**Itinerary Supported Bike tour:**
+
+**Day 1:** Viseu - Santa Comba dão: 49 km
+
+
+
+**Itinerary Self guided bike tour Option 1:**
+
+**Day 1:** Transfer from Porto to Viseu:
+
+* Viseu - Santa Comba Dão: 49 km
+
+**Day 2:** Trasnfer back to Porto
+
+
+
+**Itinerary Self guided bike tour Option 2:**
+
+**Day 1:** Transfer from Porto to Nelas: 
+
+* Nelas - Santa Comba Dão: 46 km
+
+**Day 2:** Santa Comba Dão - Viseu: 49 km
+
+**Day 3:** Trasnfer back to Porto
