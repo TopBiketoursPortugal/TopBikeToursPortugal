@@ -69,7 +69,7 @@ gallery:
 pricing:
   - bestValue: false
     highSeasonPriceSupplement: 100
-    package: Guided Bike tour
+    package: Supported Bike tour
     packageContents:
       - title: Accommodations W/ Breakfast
         value: No
@@ -79,8 +79,10 @@ pricing:
         value: No
       - title: Bike rent
         value: Yes
-      - title: Guide
+      - title: Van Support
         value: Yes
+      - title: Guide riding with your group
+        value: Extra 60€ per group
       - title: Mechanical Assistance
         value: Yes
       - title: Personal Accident Insurance
@@ -113,7 +115,9 @@ pricing:
         value: Yes
       - title: Bike rent
         value: Yes
-      - title: Guide
+      - title: Van Support
+        value: No
+      - title: Guide riding with your group
         value: No
       - title: Mechanical Assistance
         value: No
@@ -148,7 +152,9 @@ pricing:
         value: Yes
       - title: Bike rent
         value: Yes
-      - title: Guide
+      - title: Van Support
+        value: No
+      - title: Guide riding with your group
         value: No
       - title: Mechanical Assistance
         value: No
