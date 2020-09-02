@@ -6,7 +6,7 @@ productcode: CT 09
 featured: false
 language: en
 image: /img/tâmega-bike-tour.jpg
-title: Rail trail - Ecopista Tâmega river bike tour
+title: Douro Valley full day bike tour
 packagetype: SingleTour
 tourtype: Bike
 meta:
@@ -210,23 +210,33 @@ feature:
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
-# **Rail trail - Ecopista Tâmega river bike tour**
+# **Douro Valley full day Bicycle tour**
 
-## Very easy and to relax Bicycle tour in The North of Portugal
+## Know the most popular places in Douro Valley with us
 
-Tâmega Ecopista was decommissioned since the year 1990. This old rail trail, transformed in a a cycling path, as 40 km and connects Arco do Baúlhe to Amarante. Start the trip with a view to the title panels from 1940 on the Arco do Baúlhe train station. The Historic center in Amarante, the vineyards and the forest, so unique in the Northern region, will be a surprise.
+The ride will start In Vila Real and the route will be made in a old rail trail, that is now a dirt track. We also have a route available for road bikes if that is the style of your group. 
 
-Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region. This is a decent bike tour so the effort to do it will be few.
+The views will be breathtaking...vineyards, farms and the famous Douro river in the picture.
+
+In a full day it is possible to visit 2 Farms (with wine taste) and make a little boat tour. The plan is to cycle in the morning and visit the area in a Van in the afternoon.
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
+
+
+
+**Route description:**
+
+* The route as 46 km in total
+* more km can be added if requested
+* the first 22 km are going in a descent way and the rest of the route is relatively flat
+
+
 
 
 
 **Itinerary Supported Bike tour:**
 
 **Day 1:** Arco do Baúlhe - Amarante: 40 km
-
-
 
 **Itinerary Self guided bike tour Option 1:**
 
@@ -236,8 +246,6 @@ To have a more relaxing time to explore the area 3 different options are offered
 * Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
 **Day 2:** Trasnfer back to Porto
-
-
 
 **Itinerary Self guided bike tour Option 2:**
 
