@@ -19,12 +19,12 @@ meta:
   keywords: hike camino to santiago de compostela, WALKING THE CAMINO FROM PORTO PORTUGAL
   robots: INDEX
 minAge: 16
-skillLevel: 3
+skillLevel: 4
 distance: 102
 distanceUnit: Km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 3
+difficulty: 4
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d58N6F
 itinerary:
   - day: "1"
