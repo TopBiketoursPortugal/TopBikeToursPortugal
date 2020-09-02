@@ -19,12 +19,12 @@ meta:
   robots: INDEX
 minAge: 16
 skillLevel: 3
-distance: 140
+distance: 99
 distanceUnit: Km
 duration: 7
 durationUnit: Days | 6 Nights
 difficulty: 3
-mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1DBZVUo97FbeGLZlVxyTy07k_2RzWHVgo
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1AGKgMOw0iamLBRX_5G0pKSwoSBr3wvBr
 itinerary:
   - title: "Day 1: Porto"
     day: "1"
@@ -349,15 +349,13 @@ You may also consider our [Easy route North of Atlantic Coast](https://topwalkin
 * All days are mostly flat with very few and minor hills
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
 
-
-
 **Itinerary 6 Nights / 7 days:**
 
 **Day 1:** Porto
 
 **Day 2**: Transfer to Praia da memória – Póvoa: 20 km
 
-**Day 3:** Vila do Conde – Esposende: 25 km
+**Day 3:** Póvoa – Esposende: 25 km
 
 **Day 4**: Esposende – Viana do Castelo: 26 km
 
@@ -369,13 +367,13 @@ You may also consider our [Easy route North of Atlantic Coast](https://topwalkin
 \
 \
 \
-**Itinerary 8 Nights / 9 days:**
+**Itinerary 8 Nights / 9 days, 140 Km:**
 
 **Day 1:** Porto
 
 **Day 2**: Transfer to Praia da memória – Póvoa: 20 km
 
-**Day 3:** Vila do Conde – Esposende: 25 km
+**Day 3:** Póvoa – Esposende: 25 km
 
 **Day 4**: Esposende – Viana do Castelo: 26 km
 
