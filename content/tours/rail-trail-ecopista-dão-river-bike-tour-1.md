@@ -10,12 +10,13 @@ title: Rail trail - Ecopista Tâmega river bike tour
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Rail trail - Ecopista Dão river
-  description: "Bike tour in the ecopista do dão. Great scenery to Dão river.
-    Explore more and cycle from Nelas near the Mondego River. This is a very
-    good route for families with children, for people that is starting to cycle
-    or just to know more about the region. "
-  keywords: ecopista dao bike tour, rail trail dao bike tour
+  title: Rail trail - Ecopista Tâmega river
+  description: "Bike tour in the ecopista do Tâmega. Great scenery to Tâmega
+    river. Explore more and cycle from Arco do Baúlhe near the Tâmega River.
+    This is a very good route for families with children, for people that is
+    starting to cycle or just to know more about the region. "
+  keywords: ecopista tãmega bike tour, rail trail tãmega bike tour, bike tour in
+    the northern area of portugal
   robots: INDEX
 minAge: 16
 skillLevel: 1
@@ -28,21 +29,22 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1COdBv8jtRtAH7LYKE8ptvlszK_n
 itinerary:
   - day: "0"
     title: Guided bike tour
-    description: Pick up 8:30 am and estimated end ant 7 pm
+    description: "Pick up 8:30 am and estimated end ant 7 pm: Arco do Baúlhe -
+      Amarante: 40 km"
     location:
       lat: "1"
       lng: "1"
   - day: "1"
     title: "Self guided Option 1: 8h30 Pick up in Porto district and transfer to
-      Viseu - Viseu - Santa Comba dão (49km)"
+      Arco do Baúlhe:   Arco do Baúlhe - Amarante: 40 km"
     location:
       lat: "1"
       lng: "1"
     description: "Self guided Option 2: pick up Pick up in Porto district and
-      transfer to Nelas - Nelas - Santa Comba Dão (46 km)"
+      transfer to Arco do Baúlhe:   Arco do Baúlhe - Mondim de Bastos: 16 km"
   - day: "2"
     title: "Self guided Option 1: Transfer back to Porto"
-    description: "Self guided Option 2: extra day Santa Comba dão - Viseu (49 km)"
+    description: "Self guided Option 2: extra day Mondim de bastos - Amarante (29 km)"
     location:
       lat: "1"
       lng: "1"
@@ -212,25 +214,25 @@ feature:
 
 ## Very easy and to relax Bicycle tour in The North of Portugal
 
-In 2011 a railroad called Ecopista do Dão between Viseu, in the center of Portugal, and Santa Comba Dão, was opened as a bike and walking route. This route as 49 km and it is a very easy route. The landscape is very beautiful, with mountains views and valleys covered with cork, cork oaks and chestnut trees. Small villages and some vineyards are also part of this route. Some other highlights of this area are the river beach and the chance to visit Tondela city
+Tâmega Ecopista was decommissioned since the year 1990. This old rail trail, transformed in a a cycling path, as 40 km and connects Arco do Baúlhe to Amarante. Start the trip with a view to the title panels from 1940 on the Arco do Baúlhe train station. The Historic center in Amarante, the vineyards and the forest so unique in the Northern region will be a surprise.
 
-Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region.
+Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region. This is a decent bike tour so the effort to do it will be few.
 
-It is optional to add 1 more day route to your package. This route of 46 km goes from Nelas do Santa Comba Dão, and it is a moderate route, where it is possible to cycle near the river in dirt roads with some loose stones. It is possible to adapt the route to cycle in the road where the traffic is few. Some of the areas that might spark your interest during the day are the Nelas city, the Prehistoric Circuit where is possible to explore the Dolmens, Orcs and Menhir , and the Mondego river.
+To have a more relaxing and more time to explore the area 3 different options are offerd in this package.
 
 
 
 **Itinerary Supported Bike tour:**
 
-**Day 1:** Viseu - Santa Comba dão: 49 km
+**Day 1:** Arco do Baúlhe - Amarante: 40 km
 
 
 
 **Itinerary Self guided bike tour Option 1:**
 
-**Day 1:** Transfer from Porto to Viseu:
+**Day 1:** Transfer from Porto to Arco do Baúlhe:
 
-* Viseu - Santa Comba Dão: 49 km
+* Arco do Baúlhe - Amarante: 40 km
 
 **Day 2:** Trasnfer back to Porto
 
@@ -238,10 +240,10 @@ It is optional to add 1 more day route to your package. This route of 46 km goes
 
 **Itinerary Self guided bike tour Option 2:**
 
-**Day 1:** Transfer from Porto to Nelas: 
+**Day 1:** Transfer from Porto to Arco do Baúlhe: 
 
-* Nelas - Santa Comba Dão: 46 km
+* Arco do Baúlhe -  Mondim de Bastos: 16km
 
-**Day 2:** Santa Comba Dão - Viseu: 49 km
+**Day 2:** Mondim de Bastos - Amarante: 29 km
 
 **Day 3:** Trasnfer back to Porto
