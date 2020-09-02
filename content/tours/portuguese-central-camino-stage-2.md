@@ -26,7 +26,7 @@ duration: 8
 durationUnit: Days | 7 Nights
 difficulty: 4
 rating: []
-mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d58N6F
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1VhcZ4AWrcUlxin9KTIRDCP1QGqHRf9-T
 itinerary:
   - day: "1"
     title: "Day 1: Valença do Minho"
