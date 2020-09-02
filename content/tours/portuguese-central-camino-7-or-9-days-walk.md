@@ -297,7 +297,9 @@ feature:
 
 **The old and original route to Santiago de Compostela from Porto**
 
-For a very long time pilgrims have explored different routes in order to make their way to Santiago de Compostela. The Caminho Central Português is certainly one of the oldest in Europe and it is becoming increasingly famous for outsiders, who wish to set foot on the ancient paths by which pilgrims had been crossing the landscape. Enjoy the gastronomy, the sights and different towns along the way, knowing that the city of Santiago will be waiting for you as well as it has been waiting and will continue to wait for all the pilgrims that decide to take on the adventure of accepting the challenges and spirituality of this crossing. This hike is divided in two different stages. Stage 1 which goes through Portuguese territory and stage 2 which takes you through Spain to Santiago de Compostela. It is possible to book only one of them, or both together.
+For a very long time pilgrims have explored different routes in order to make their way to Santiago de Compostela. The Caminho Central Português is certainly one of the oldest in Europe and it is becoming increasingly famous for outsiders, who wish to set foot on the ancient paths by which pilgrims had been crossing the landscape. Enjoy the gastronomy, the sights and different towns along the way, knowing that the city of Santiago will be waiting for you as well as it has been waiting and will continue to wait for all the pilgrims that decide to take on the adventure of accepting the challenges and spirituality of this crossing. 
+
+This hike is divided in two different stages. Stage 1 which goes through Portuguese territory and [stage 2](https://topwalkingtoursportugal.com/santiago-Compostela-hiking-stage-2) which takes you through Spain to Santiago de Compostela. For a complete experience you might think to book the 2 stages,
 
 \
 \
