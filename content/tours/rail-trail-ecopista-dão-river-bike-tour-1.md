@@ -91,13 +91,13 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: 2 pax
-      - title: "* Low season"
+      - title: "* Low season (price per person)"
         value: 210€
-      - title: "* Regular season"
+      - title: "* Regular season (price per person)"
         value: 210€
-      - title: "* High Season"
+      - title: "* High Season (price per person)"
         value: 210€
-      - title: "* Summer Season"
+      - title: "* Summer Season (price per person)"
         value: 210€
       - title: Pick up prices in other location
         value: on request
