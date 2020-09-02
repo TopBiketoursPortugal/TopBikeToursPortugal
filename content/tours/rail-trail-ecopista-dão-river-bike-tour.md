@@ -91,14 +91,14 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: 2 pax
-      - title: "* Low season"
+      - title: "* Low season (price per person)"
         value: 250€
-      - title: "* Regular season"
-        value: 270€
-      - title: "* High Season"
-        value: 290€
-      - title: "* Summer Season"
-        value: 310€
+      - title: "* Regular season (price per person)"
+        value: 250€
+      - title: "* High Season (price per person)"
+        value: 250€
+      - title: "* Summer Season (price per person)"
+        value: 250€
       - title: Pick up prices in other location
         value: on request
     observations: ""
@@ -128,18 +128,18 @@ pricing:
       - title: Min. Participants
         value: 2 Pax
       - title: "* Low season (price per person)"
-        value: 370€
+        value: 345€
       - title: "* Regular season (price per person)"
-        value: 390€
+        value: 355€
       - title: "* High Season (price per person)"
-        value: 410€
+        value: 365€
       - title: "* Summer Season (price per person)"
-        value: 430€
+        value: 375€
       - title: Pick up prices in other location
         value: on request
     type: ""
     observations: ""
-    price: 370
+    price: 345
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 2"
@@ -167,11 +167,11 @@ pricing:
       - title: "* Low season (price per person)"
         value: 490€
       - title: "* Regular season (price per person)"
-        value: 510€
+        value: 500€
       - title: "* High Season (price per person)"
-        value: 530€
+        value: 510€
       - title: "* Summer Season (price per person)"
-        value: 550€
+        value: 520€
       - title: Pick up prices in other location
         value: on request
     price: 490
