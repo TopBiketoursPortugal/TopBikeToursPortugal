@@ -92,23 +92,23 @@ pricing:
       - title: Min. Participants
         value: 2 pax
       - title: "* Low season"
-        value: 250€
+        value: 210€
       - title: "* Regular season"
-        value: 270€
+        value: 210€
       - title: "* High Season"
-        value: 290€
+        value: 210€
       - title: "* Summer Season"
-        value: 310€
+        value: 210€
       - title: Pick up prices in other location
         value: on request
     observations: ""
-    price: 250
+    price: 210
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 1"
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 1 Night in a rural houses
+        value: 1 Night in 4 star hotel
       - title: Luggage shuttling
         value: Yes
       - title: GPS With route per booking
@@ -128,24 +128,24 @@ pricing:
       - title: Min. Participants
         value: 2 Pax
       - title: "* Low season (price per person)"
-        value: 370€
+        value: 390 €
       - title: "* Regular season (price per person)"
-        value: 390€
+        value: 400€
       - title: "* High Season (price per person)"
         value: 410€
       - title: "* Summer Season (price per person)"
-        value: 430€
+        value: 420€
       - title: Pick up prices in other location
         value: on request
     type: ""
     observations: ""
-    price: 370
+    price: 390
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 2"
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 2 Nights (4 stars and rural house)
+        value: 2 Nights (4 and 5 star)
       - title: Luggage shuttling
         value: yes
       - title: GPS With route per booking
@@ -165,16 +165,16 @@ pricing:
       - title: Min. Participants
         value: 2 Pax
       - title: "* Low season (price per person)"
-        value: 490€
+        value: 535€
       - title: "* Regular season (price per person)"
-        value: 510€
+        value: 545€
       - title: "* High Season (price per person)"
-        value: 530€
+        value: 555€
       - title: "* Summer Season (price per person)"
-        value: 550€
+        value: 565€
       - title: Pick up prices in other location
         value: on request
-    price: 490
+    price: 535
     observations: ""
 afterpricing: |-
   
@@ -214,11 +214,11 @@ feature:
 
 ## Very easy and to relax Bicycle tour in The North of Portugal
 
-Tâmega Ecopista was decommissioned since the year 1990. This old rail trail, transformed in a a cycling path, as 40 km and connects Arco do Baúlhe to Amarante. Start the trip with a view to the title panels from 1940 on the Arco do Baúlhe train station. The Historic center in Amarante, the vineyards and the forest so unique in the Northern region will be a surprise.
+Tâmega Ecopista was decommissioned since the year 1990. This old rail trail, transformed in a a cycling path, as 40 km and connects Arco do Baúlhe to Amarante. Start the trip with a view to the title panels from 1940 on the Arco do Baúlhe train station. The Historic center in Amarante, the vineyards and the forest, so unique in the Northern region, will be a surprise.
 
 Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region. This is a decent bike tour so the effort to do it will be few.
 
-To have a more relaxing and more time to explore the area 3 different options are offerd in this package.
+To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
 
 
 
@@ -233,6 +233,7 @@ To have a more relaxing and more time to explore the area 3 different options ar
 **Day 1:** Transfer from Porto to Arco do Baúlhe:
 
 * Arco do Baúlhe - Amarante: 40 km
+* Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
 **Day 2:** Trasnfer back to Porto
 
@@ -243,7 +244,10 @@ To have a more relaxing and more time to explore the area 3 different options ar
 **Day 1:** Transfer from Porto to Arco do Baúlhe: 
 
 * Arco do Baúlhe -  Mondim de Bastos: 16km
+* Sleep in a 4 star hotel: [](https://www.casadacalcada.com/)[Água Hotel](https://www.aguahotels.pt/)
 
 **Day 2:** Mondim de Bastos - Amarante: 29 km
+
+* Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
 **Day 3:** Trasnfer back to Porto
