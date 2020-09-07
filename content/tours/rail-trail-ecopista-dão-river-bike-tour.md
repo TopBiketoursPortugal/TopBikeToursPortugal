@@ -108,7 +108,7 @@ pricing:
     package: " Self guided Option 1"
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 1 Night in a rural houses
+        value: 1 Night in a rural house
       - title: Luggage shuttling
         value: Yes
       - title: GPS With route per booking
