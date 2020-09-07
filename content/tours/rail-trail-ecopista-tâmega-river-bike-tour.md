@@ -87,6 +87,10 @@ pricing:
         value: Yes
       - title: Guide riding with your group
         value: Extra 60€ per group
+      - title: 2 wine caves visit + boat cruise
+        value: Yes
+      - title: Lunch
+        value: Yes
       - title: Mechanical Assistance
         value: Yes
       - title: Personal Accident Insurance
@@ -96,17 +100,17 @@ pricing:
       - title: Min. Participants
         value: 2 pax
       - title: "* Low season (price per person)"
-        value: 210€
+        value: 240€
       - title: "* Regular season (price per person)"
-        value: 210€
+        value: 250€
       - title: "* High Season (price per person)"
-        value: 210€
+        value: 260€
       - title: "* Summer Season (price per person)"
-        value: 210€
+        value: 270€
       - title: Pick up prices in other location
         value: on request
     observations: ""
-    price: 210
+    price: 236
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 1"
@@ -123,6 +127,10 @@ pricing:
         value: No
       - title: Guide riding with your group
         value: No
+      - title: Lunch
+        value: No
+      - title: 2 wine caves visit + boat cruise
+        value: Yes
       - title: Mechanical Assistance
         value: No
       - title: Liability Insurance
@@ -159,6 +167,10 @@ pricing:
       - title: Van Support
         value: No
       - title: Guide riding with your group
+        value: No
+      - title: 2 wine caves visit + boat cruise
+        value: Yes
+      - title: Lunch
         value: No
       - title: Mechanical Assistance
         value: No
