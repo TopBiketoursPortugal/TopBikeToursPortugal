@@ -10,22 +10,21 @@ title: Douro Valley full day bike tour
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Rail trail - Ecopista Tâmega river
-  description: "Bike tour in the ecopista do Tâmega. Great scenery to Tâmega
-    river. Explore more and cycle from Arco do Baúlhe near the Tâmega River.
-    This is a very good route for families with children, for people that is
-    starting to cycle or just to know more about the region. "
-  keywords: ecopista tãmega bike tour, rail trail tãmega bike tour, bike tour in
-    the northern area of portugal
+  title: Douro Valley full day bike tour
+  description: Cycle in the Douro valley trough vineyards and conquest the great
+    views of Douro river. Visit Douro wine farms and great viewpoints and take
+    photos of the cycling day to remember your bike tour. Vila Real, Régua,
+    Pinhão, Lamego and Tua are places not to miss.
+  keywords: cycle in douro, bike tours douro valley, bike tours régua, bike tours pinhão
   robots: INDEX
 minAge: 16
 skillLevel: 1
-distance: 49
-distanceUnit: "2"
+distance: 75
+distanceUnit: Km
 duration: 2
 durationUnit: Days | 1 Night
 difficulty: 1
-mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1COdBv8jtRtAH7LYKE8ptvlszK_nTpBXU
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1XlRdmzP_1pcMaHZxY4GOjww5Akse-FW3
 itinerary:
   - day: "0"
     title: Guided bike tour
@@ -214,48 +213,46 @@ feature:
 
 ## Know the most popular places in Douro Valley with us
 
-The ride will start In Vila Real and the route will be made in a old rail trail, that is now a dirt track. We also have a route available for road bikes if that is the style of your group. 
+The ride will start In Vila Real and the route will be made in a old rail trail, that is now a easy dirt track. We also have a route available for road bikes if that is the style of your group. 
 
 The views will be breathtaking...vineyards, farms and the famous Douro river in the picture.
 
-In a full day it is possible to visit 2 Farms (with wine taste) and make a little boat tour. The plan is to cycle in the morning and visit the area in a Van in the afternoon.
+In a full day it is possible to visit 2 Farms (with wine taste) and make a little boat tour if available. The plan is to cycle in the morning, lunch, visit some viewpoints and farms and make a little boat tour.
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
 
-
-
 **Route description:**
 
-* The route as 46 km in total
-* more km can be added if requested
-* the first 22 km are going in a descent way and the rest of the route is relatively flat
+* Routes available with 25 km, 50 km or 77 km
+* The first 22 km are going in a descent way and the rest of the route can be in a uphill till Lamedo or relatively flat till Pinhão. It is also possible to do all the route.
+* This easy bike tour can be adapted to be more challenged (difficult)\
+  \
+  **Itinerary Supported Bike tour:**
 
-
-
-
-
-**Itinerary Supported Bike tour:**
-
-**Day 1:** Arco do Baúlhe - Amarante: 40 km
-
+**Day 1:**  Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77 km
+\
+\
 **Itinerary Self guided bike tour Option 1:**
 
-**Day 1:** Transfer from Porto to Arco do Baúlhe:
+**Day 1:** Transfer from Porto to Vila Real:
 
-* Arco do Baúlhe - Amarante: 40 km
-* Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
+* Vila Real - Régua - Lamego: 40 km
+* Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
 
-**Day 2:** Trasnfer back to Porto
+**Day 2:** Lamego - Pinhão: 35 km
 
-**Itinerary Self guided bike tour Option 2:**
+* Trasnfer back to Porto
+  \
+  \
+  **Itinerary Self guided bike tour Option 2:**
 
-**Day 1:** Transfer from Porto to Arco do Baúlhe: 
+**Day 1:** Transfer from Porto to Vila Real:
 
-* Arco do Baúlhe -  Mondim de Bastos: 16km
-* Sleep in a 4 star hotel: [](https://www.casadacalcada.com/)[Água Hotel](https://www.aguahotels.pt/)
+* Vila Real - Régua - Lamego: 40 km
+* Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
 
-**Day 2:** Mondim de Bastos - Amarante: 29 km
+**Day 2:** Lamego - Pinhão: 35 km
 
-* Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
+* Sleep in Farm: [](https://www.casadacalcada.com/)[Quinta de la Rosa](https://www.quintadelarosa.com/)
 
-**Day 3:** Trasnfer back to Porto
+**Day 3:** Transfer back to Porto
