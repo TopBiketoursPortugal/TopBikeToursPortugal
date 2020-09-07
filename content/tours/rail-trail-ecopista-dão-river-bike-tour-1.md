@@ -216,17 +216,13 @@ feature:
 
 Tâmega Ecopista was decommissioned since the year 1990. This old rail trail, transformed in a a cycling path, as 40 km and connects Arco do Baúlhe to Amarante. Start the trip with a view to the title panels from 1940 on the Arco do Baúlhe train station. The Historic center in Amarante, the vineyards and the forest, so unique in the Northern region, will be a surprise.
 
-Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region. This is a decent bike tour so the effort to do it will be few.
+Note that this route can be very monotonous if you are an experience cyclist. If you ever cycle an old rail trail transformed in a cycling path you can know what to expect. This is a very good route for families with children, for people that is starting to cycle or just to know more about the region. This is a descent bike tour so the effort to do it will be few.
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
-
-
 
 **Itinerary Supported Bike tour:**
 
 **Day 1:** Arco do Baúlhe - Amarante: 40 km
-
-
 
 **Itinerary Self guided bike tour Option 1:**
 
@@ -236,8 +232,6 @@ To have a more relaxing time to explore the area 3 different options are offered
 * Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
 **Day 2:** Trasnfer back to Porto
-
-
 
 **Itinerary Self guided bike tour Option 2:**
 
