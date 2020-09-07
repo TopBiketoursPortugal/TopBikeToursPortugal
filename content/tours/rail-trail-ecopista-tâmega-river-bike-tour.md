@@ -5,7 +5,7 @@ path: /douro-valley-full-day-bike-ride
 productcode: CT 09
 featured: false
 language: en
-image: /img/tâmega-bike-tour.jpg
+image: /img/bike-tour-douro-valley-photo-8.png
 title: Douro Valley full day bike tour
 packagetype: SingleTour
 tourtype: Bike
@@ -54,18 +54,22 @@ itinerary:
       lat: "1"
       lng: "1"
 gallery:
-  - image: /img/amarante-village.jpg
-    alt: Amarante city
-  - image: /img/bike-tour-in-the-vineyards.jpg
-    alt: vineyards views
-  - image: /img/bike-tour-with-flowers-view.jpg
-    alt: Flowers view
-  - image: /img/old-rail-trail-bridge.jpg
-    alt: old trail bridge
-  - image: /img/river-view.jpg
-    alt: river view
-  - image: /img/tâmega-ecopista.jpg
-    alt: Tâmega ecopista
+  - image: /img/bike-tour-douro-valley-photo-1.png
+    alt: Quinta do Seixo photo
+  - image: /img/bike-tour-douro-valley-photo-5.png
+    alt: Route dirt track in douro valley
+  - image: /img/bike-tour-douro-valley-photo-9.png
+    alt: Brasilian couple in Douro valley bike tour
+  - image: /img/douro-river-boat-picture.jpg
+    alt: Douro river boat picture
+  - image: /img/vineyards-in-pinhão.jpg
+    alt: Viewpoint Casal de Loivos
+  - image: /img/vila-real-regua-cycle-tour.jpg
+    alt: Route from Vila Real to Régua
+  - image: /img/pinhão-vineyards.jpg
+    alt: Pinhão viewpoint
+  - image: /img/viewpoint-farm-tasting-bike-tour.jpg
+    alt: "Fram view point "
 pricing:
   - bestValue: false
     highSeasonPriceSupplement: 100
