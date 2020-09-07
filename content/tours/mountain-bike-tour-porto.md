@@ -94,7 +94,7 @@ pricing:
         value: Yes
       - title: Lunch
         value: Yes
-    price: 160
+    price: 140
     discount: 0
 feature:
   align: center
