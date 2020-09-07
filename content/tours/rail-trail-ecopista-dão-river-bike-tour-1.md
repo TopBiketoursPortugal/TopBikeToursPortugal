@@ -83,6 +83,8 @@ pricing:
         value: Yes
       - title: Guide riding with your group
         value: Extra 60€ per group
+      - title: Lunch
+        value: Yes
       - title: Mechanical Assistance
         value: Yes
       - title: Personal Accident Insurance
@@ -118,6 +120,8 @@ pricing:
       - title: Van Support
         value: No
       - title: Guide riding with your group
+        value: No
+      - title: Lunch
         value: No
       - title: Mechanical Assistance
         value: No
@@ -155,6 +159,8 @@ pricing:
       - title: Van Support
         value: No
       - title: Guide riding with your group
+        value: No
+      - title: Lunch
         value: No
       - title: Mechanical Assistance
         value: No
