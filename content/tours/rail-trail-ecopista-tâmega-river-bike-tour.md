@@ -110,7 +110,7 @@ pricing:
       - title: Pick up prices in other location
         value: on request
     observations: ""
-    price: 236
+    price: 240
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: " Self guided Option 1"
