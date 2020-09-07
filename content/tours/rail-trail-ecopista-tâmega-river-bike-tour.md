@@ -34,16 +34,17 @@ itinerary:
       lat: "1"
       lng: "1"
   - day: "1"
-    title: "Self guided Option 1: 8h30 Pick up in Porto district and transfer to
-      Arco do Baúlhe:   Arco do Baúlhe - Amarante: 40 km"
+    title: "Self guided Option 1: 8h00 Pick up in Porto district and transfer to
+      Vila real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
+      km"
     location:
       lat: "1"
       lng: "1"
-    description: "Self guided Option 2: pick up Pick up in Porto district and
-      transfer to Arco do Baúlhe:   Arco do Baúlhe - Mondim de Bastos: 16 km"
+    description: "Self guided Option 2: 8h00 Pick up in Porto district and transfer
+      to Vila real: Route: Vila Real - Régua - Lamego: 40 km"
   - day: "2"
-    title: "Self guided Option 1: Transfer back to Porto"
-    description: "Self guided Option 2: extra day Mondim de bastos - Amarante (29 km)"
+    title: "Self guided Option 1: Lamego - Pinhão: 35 km and Transfer back to Porto"
+    description: "Self guided Option 2: extra day in Pinhão: Route: Lamego - Pinhão: 35 km"
     location:
       lat: "1"
       lng: "1"
@@ -225,14 +226,15 @@ To have a more relaxing time to explore the area 3 different options are offered
 
 * Routes available with 25 km, 50 km or 77 km
 * The first 22 km are going in a descent way and the rest of the route can be in a uphill till Lamedo or relatively flat till Pinhão. It is also possible to do all the route.
-* This easy bike tour can be adapted to be more challenged (difficult)\
+* This easy bike tour can be adapted to be more challenged (difficult)
+* In Self guided the bike tour will have a moderate climb of 15 km. Book a electric bicycle to make the route very easy.\
   \
   **Itinerary Supported Bike tour:**
 
 **Day 1:**  Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77 km
 \
 \
-**Itinerary Self guided bike tour Option 1:**
+**Itinerary Self guided bike tour Option 1;**
 
 **Day 1:** Transfer from Porto to Vila Real:
 
