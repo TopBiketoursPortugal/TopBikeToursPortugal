@@ -3,10 +3,7 @@ templateKey: bike-hollidays
 path: /hiking-tours-portugal/
 title: Hiking & Walking tours Portugal
 descriptionafter: >-
-  **IT IS IMPORTANT THAT YOU READ ALL GENERAL INFORMATION ABOUT THE WALKING TOUR
-  YOU WISH TO PARTAKE IN BEFORE BOOKING IT. FOR ANY FURTHER QUESTION DO NOT
-  HESITATE TO CONTACT US**
-
+  
 
   In our tours we provide special attention to the welfare of the customer. Therefore, guided tours have the appropriate pace to allow you to enjoy the scenery and the way of life of the Portuguese.
 
@@ -76,3 +73,6 @@ feature:
   title: Guided and unguided Walking tours Portugal
 ---
 # Hiking tours Portugal | Walking Holidays
+\
+\
+**IT IS IMPORTANT THAT YOU READ ALL GENERAL INFORMATION (BELOW IN THIS WEBPAGE) ABOUT THE WALKING TOUR YOU WISH TO PARTAKE IN BEFORE BOOKING IT. FOR ANY FURTHER QUESTION DO NOT HESITATE TO CONTACT US**
