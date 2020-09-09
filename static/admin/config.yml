@@ -347,7 +347,7 @@ collections:
           widget: "select",
           multiple: false,
           options: ["Bike", "Walking"],
-          default: ["Bike"],
+          default: "Bike",
         }
       - {
           label: Tour Category,

@@ -8,8 +8,7 @@ language: en
 image: /img/mountain-bike-tour-porto.jpg
 title: Mountain Bike Tour in Porto mountains
 packagetype: SingleTour
-tourtype:
-  - Bike
+tourtype: Bike
 meta:
   title: "Mountain Bike Tour Porto "
   description: Mountain bike tour - MTB - available all days starting in Porto
