@@ -17,7 +17,7 @@ meta:
     where the cliffs are an highlight
   keywords: Vicentine Coast Alentejo Hiking, the fisherman trail walk tour
   robots: INDEX
-minAge: ""
+minAge: 16
 skillLevel: 2
 distance: 80
 distanceUnit: km
