@@ -347,7 +347,7 @@ collections:
           widget: "select",
           multiple: false,
           options: ["Bike", "Walking"],
-          default: ["Bike"],
+          default: "Bike",
         }
       - {
           label: Tour Category,
@@ -516,7 +516,7 @@ collections:
               name: discount,
               deafult: 0,
               widget: number,
-              required: true,
+              required: false,
             }
           - {
               label: High Season Price Supplement,
@@ -1380,10 +1380,10 @@ collections:
           - label: Body
             name: body
             widget: markdown
-          - label: "Meta"
+          - label: Meta
             required: false
-            name: "meta"
-            widget: "object"
+            name: meta
+            widget: object            
             fields:
               - { label: Title, name: title, widget: string, required: false }
               - {
@@ -1401,7 +1401,7 @@ collections:
               - {
                   label: robots,
                   name: robots,
-                  widget: "select",
+                  widget: select,
                   options: ["", "FOLLOW", "INDEX", "NOFOLLOW", "NOINDEX"],
                 }
               - {
@@ -1441,38 +1441,27 @@ collections:
         label: Blog PT
         name: blogPT
         fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: about-page
-          - { label: language, name: language, widget: hidden, default: pt }
-          - label: Path
-            name: path
-            widget: string
-            required: false
+          - { label: Template Key, name: templateKey, widget: hidden, default: about-page }
+          - { label: Path, name: path, widget: string, required: false }
           - {
-              label: "Language",
-              name: "language",
+              label: Language,
+              name: language,
               widget: hidden,
               default: "pt",
             }
           - {
-              label: "Language",
-              name: "languageKey",
+              label: Language,
+              name: languageKey,
               widget: hidden,
               default: "pt",
             }
-          - { label: "Language", name: "lang", widget: hidden, default: "pt" }
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
-          - label: "Meta"
+          - { label: Language, name: lang, widget: hidden, default: "pt" }
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+          - label: Meta
             required: false
-            name: "meta"
-            widget: "object"
+            name: meta
+            widget: object
             fields:
               - { label: Title, name: title, widget: string, required: false }
               - {
@@ -2084,7 +2073,7 @@ collections:
             default: bikes-page
           - {
               label: "Language",
-              name: "language",
+              name: language,
               widget: hidden,
               default: "en",
             }
@@ -2181,29 +2170,17 @@ collections:
         label: BikesPT
         name: bikesPT
         fields:
-          - label: Template Key
-            name: templateKey
-            widget: hidden
-            default: bikes-page
+          - { label: Template Key, name: templateKey, widget: hidden, default: bikes-page }
           - {
-              label: "Language",
-              name: "language",
+              label: Language,
+              name: language,
               widget: hidden,
               default: "pt",
             }
-          - label: Path
-            name: path
-            widget: string
-            required: false
-          - label: Title
-            name: title
-            widget: string
-          - label: Body
-            name: body
-            widget: markdown
-          - label: afterEquipment
-            name: body
-            widget: markdown
+          - { label: Path, name: path, widget: string, required: false }
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+          - { label: afterEquipment, name: afterEquipment, widget: markdown }
           - label: Bikes
             name: bikes
             widget: list
@@ -2223,10 +2200,10 @@ collections:
                   widget: markdown,
                   required: false,
                 }
-          - label: "Meta"
+          - label: Meta
             required: false
-            name: "meta"
-            widget: "object"
+            name: meta
+            widget: object
             fields:
               - { label: Title, name: title, widget: string, required: false }
               - {
@@ -2280,6 +2257,8 @@ collections:
                   required: false,
                   default: "center center",
                 }
+
+  
 
   - name: banners
     label: Banners
@@ -2399,7 +2378,7 @@ collections:
         default: false
         widget: "boolean"
   - name: settings
-    label: "Settings"
+    label: Settings
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: false
@@ -2566,8 +2545,8 @@ collections:
             widget: string
             default: "width=device-width,initial-scale=1"
             required: false
-  - name: "testimonials"
-    label: "Testimonials"
+  - name: testimonials
+    label: Testimonials
     folder: content/testimonials
     create: true
     slug: "{{slug}}"
@@ -2646,10 +2625,6 @@ collections:
               widget: string,
               required: false
             }
-      # - label: relatedProduct
-      #   name: relatedProduct
-      #   widget: list
-      #   fields:
       - label: "relatedProduct"
         name: "relatedProduct"
         widget: "relation"
