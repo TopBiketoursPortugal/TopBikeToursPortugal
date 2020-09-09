@@ -75,7 +75,7 @@ pricing:
       - title: Lunch
         value: No
     price: 80
-    discount: ""
+    discount: 0
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Full-Day price per person
