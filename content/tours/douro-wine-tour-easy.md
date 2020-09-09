@@ -27,11 +27,10 @@ meta:
     Heritage, is nowadays an ultimate masterpiece of nature, very well sought by
     its villae, houses and vineyards. Electric bicycles available to make your
     ride easyer.
-  keywords: >-
-    cycling holidays douro valley, bike tour douro valley, douro river bicycle
-    tour, cycle douro valley
+  keywords: cycling holidays douro valley, bike tour douro valley, douro river
+    bicycle tour, cycle douro valley
   robots: INDEX
-  title: ' Douro Valley bike tour '
+  title: " Douro Valley bike tour "
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
@@ -42,91 +41,84 @@ duration: 8
 durationUnit: Days | 7 Nights
 difficulty: 4
 physicality: 1
-#rating: []
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=1FQ1YmZYlKWQxPwBQhEWF96TjtaowgG0C'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1FQ1YmZYlKWQxPwBQhEWF96TjtaowgG0C
 itinerary:
-  - day: '1'
-    description: ''
+  - day: "1"
+    description: ""
     location:
-      lat: '41.21223207'
-      lng: '-7.42980301'
-    title: 'Day 1: Reception at Porto'
-  - day: '2'
-    description: >-
-      Starting in Pinhão, you will begin your journey by heading towards
+      lat: "41.21223207"
+      lng: "-7.42980301"
+    title: "Day 1: Reception at Porto"
+  - day: "2"
+    description: Starting in Pinhão, you will begin your journey by heading towards
       Ervedosa do Douro and continuing to São João da Pesqueira, where you can
       visit a wine museum. The day will end with an accommodation in Vila Nova
       de Foz Côa, very well known site for its World Heritage Paleolithic
       paintings.
     location:
-      lat: '41.07807865'
-      lng: '-7.13896749'
-    title: 'Day 2: Pinhão – Vila Nova de Foz Côa (74 km)'
-  - day: '3'
-    description: >-
-      Pedaling towards Figueira de Castelo Rodrigo, will pass through Castelo
-      Melhor, Algodres and Vilar de Amargo. Once in your final destination, you
-      will be able to visit its Northern plateau, a preserved village with a
-      medieval castle which overlooks the highest point of Portugal. Between
-      February and March, in Figueira de Castelo Rodrigo, this natural landscape
-      provides a beautiful scenery of almond blossoms.
+      lat: "41.07807865"
+      lng: "-7.13896749"
+    title: "Day 2: Pinhão – Vila Nova de Foz Côa (74 km)"
+  - day: "3"
+    description: Pedaling towards Figueira de Castelo Rodrigo, will pass through
+      Castelo Melhor, Algodres and Vilar de Amargo. Once in your final
+      destination, you will be able to visit its Northern plateau, a preserved
+      village with a medieval castle which overlooks the highest point of
+      Portugal. Between February and March, in Figueira de Castelo Rodrigo, this
+      natural landscape provides a beautiful scenery of almond blossoms.
     location:
-      lat: '40.89676004'
-      lng: '-6.96072578'
-    title: 'Day 3: Vila Nova de Foz Côa – Figueira de Castelo Rodrigo (42 km)'
-  - day: '4'
-    description: >-
-      Continuing your cycling journey in the heart of Douro, you will now be
-      heading to Marialva. The day will start with the following of the course
-      of the Côa River, which will go up to Pinhel. Marialva is connected to a
-      nobility title of Marquis, created after the Portuguese Restoration, in
-      1640, as well as connected to the equestrian art of the 18th Century.
+      lat: "40.89676004"
+      lng: "-6.96072578"
+    title: "Day 3: Vila Nova de Foz Côa – Figueira de Castelo Rodrigo (42 km)"
+  - day: "4"
+    description: Continuing your cycling journey in the heart of Douro, you will now
+      be heading to Marialva. The day will start with the following of the
+      course of the Côa River, which will go up to Pinhel. Marialva is connected
+      to a nobility title of Marquis, created after the Portuguese Restoration,
+      in 1640, as well as connected to the equestrian art of the 18th Century.
     location:
-      lat: '40.90918386'
-      lng: '-7.23094225'
-    title: 'Day 4: Figueira de Castelo Rodrigo – Marialva (60 km)'
-  - day: '5'
-    description: >-
-      EspExpect some challenges as you will pass by Mêda and Ranhados, the
-      highest points of this route. From this stage on, we will enjoy the unique
-      mountain carved landscapes, that which portraits the inhabitants of Douro,
-      where vineyards stand the test of time.ere alguns desafios a medida que
-      passará por Mêda e Ranhados, os pontos mais elevado deste percurso. Desde
-      estes pontos, poderá desfrutar das paisagens únicas das montanhas, que
-      transborda o retrato dos habitantes durienses, onde os vinhares resistem
-      ao teste do tempo.
+      lat: "40.90918386"
+      lng: "-7.23094225"
+    title: "Day 4: Figueira de Castelo Rodrigo – Marialva (60 km)"
+  - day: "5"
+    description: EspExpect some challenges as you will pass by Mêda and Ranhados,
+      the highest points of this route. From this stage on, we will enjoy the
+      unique mountain carved landscapes, that which portraits the inhabitants of
+      Douro, where vineyards stand the test of time.ere alguns desafios a medida
+      que passará por Mêda e Ranhados, os pontos mais elevado deste percurso.
+      Desde estes pontos, poderá desfrutar das paisagens únicas das montanhas,
+      que transborda o retrato dos habitantes durienses, onde os vinhares
+      resistem ao teste do tempo.
     location:
-      lat: '40.98965764'
-      lng: '-7.39509343'
-    title: 'Day 5: Marialva – Penedono (27 km)'
-  - day: '6'
-    description: >-
-      Enjoy a free day, or cycle a loop, to get to know surrounding villages. In
-      case you opt for cycling, you will leave Penedono and find yourself in the
-      middle of traditional farmlands. The landscape is dominated by vineyards
-      and chestnuts, so much so that "Sernancelhe" area is known has the
-      chestnut county. You will understand how much chestnut the region actually
-      produces on the road side scenery. With the river Távora by your side you
-      can enjoy the wonderful geography, with mountains and valleys, which is a
-      trademark image of this part of the country. If you have the time, take a
-      visit to the XIIth century church.
+      lat: "40.98965764"
+      lng: "-7.39509343"
+    title: "Day 5: Marialva – Penedono (27 km)"
+  - day: "6"
+    description: Enjoy a free day, or cycle a loop, to get to know surrounding
+      villages. In case you opt for cycling, you will leave Penedono and find
+      yourself in the middle of traditional farmlands. The landscape is
+      dominated by vineyards and chestnuts, so much so that "Sernancelhe" area
+      is known has the chestnut county. You will understand how much chestnut
+      the region actually produces on the road side scenery. With the river
+      Távora by your side you can enjoy the wonderful geography, with mountains
+      and valleys, which is a trademark image of this part of the country. If
+      you have the time, take a visit to the XIIth century church.
     location:
-      lat: '40.98965764'
-      lng: '-7.39509343'
-    title: 'Day 6: Penedono loop (40 km)'
-  - day: '7'
-    description: >-
-      From Penedono we will once again ride along the Douro River. Régua is the
-      last frontier to overcome on your way to Porto.
+      lat: "40.98965764"
+      lng: "-7.39509343"
+    title: "Day 6: Penedono loop (40 km)"
+  - day: "7"
+    description: From Penedono we will once again ride along the Douro River. Régua
+      is the last frontier to overcome on your way to Porto.
     location:
-      lat: '41.15629912'
-      lng: '-7.77725457'
-    title: 'Dia 7: Penedono – Régua (52 km)'
-  - day: '8'
+      lat: "41.15629912"
+      lng: "-7.77725457"
+    title: "Dia 7: Penedono – Régua (52 km)"
+  - day: "8"
     location:
-      lat: '41.15629912'
-      lng: '-7.77725457'
-    title: ' Day 8: Transfer to Porto'
+      lat: "41.15629912"
+      lng: "-7.77725457"
+    title: " Day 8: Transfer to Porto"
 gallery:
   - alt: guided bike tour in douro valley
     image: /img/guided-bike-tour-in-douro-valley.jpg
@@ -148,120 +140,150 @@ pricing:
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: extra 150 €
+        value: +150 € carbon road bike
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 6 lunches
-        value: 'No'
+        value: No
       - title: 6 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.589 €
-      - title: 'July, August and September Prices'
-        value: '* 140 €'
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1589
-    type: '1'
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.464€
+      - title: "* Regular season"
+        value: 1.564€
+      - title: "* High Season"
+        value: 1.664€
+      - title: "* Summer Season"
+        value: 1.714€
+    price: 1464
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided bike tour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
         value: minimum 8 pax
-      - icon: '-'
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: extra 150 €
+        value: +150 € carbon road bike
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 6 lunches
-        value: 'No'
+        value: No
       - title: 6 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.945 €
-      - title: 'July, August and September Prices'
-        value: '* 140 €'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 1945
-    type: '1'
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.845€
+      - title: "* Regular season"
+        value: 1.945€
+      - title: "* High Season"
+        value: 2.045€
+      - title: "* Summer Season"
+        value: 2.095€
+    price: 1845
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided bike tour Plus*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'Yes'
-      - icon: '-'
+        value: Yes
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: extra 150 €
+        value: +150 € carbon road bike
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 6 lunches
-        value: 'Yes'
+        value: Yes
       - title: 6 Dinners
-        value: 'Yes'
+        value: Yes
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.556 €
-      - title: 'July, August and September Prices'
-        value: '* 140 €'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2556
-    type: '1'
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.456€
+      - title: "* Regular season"
+        value: 2.556€
+      - title: "* High Season"
+        value: 2.656€
+      - title: "* Summer Season"
+        value: 2.706€
+    price: 2456
+    type: "1"
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
@@ -271,9 +293,7 @@ afterpricing: >-
 
   * Beverages are not included at lunch and dinner when included in the package
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount.
-  Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years
-  old - 15% discount. 
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
 
 
   **Extras**
@@ -281,7 +301,7 @@ afterpricing: >-
 
   * Electric bicycles price: 175€
 
-  * Supplement for single room: 385 €
+  * Supplement for single room: LS: 300€, RS: 329€, HS: 360€, SS.390€
 
   * Solo traveler: 280 €
 

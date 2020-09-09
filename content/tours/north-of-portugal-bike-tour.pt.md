@@ -20,16 +20,14 @@ tags:
   - electric bicycle
   - atlantic coast
 meta:
-  description: >-
-    A vila mais antiga de Portugal, o mar e o rio num único bike tour! Desfrute
-    da paisagem perto dos rios Lima e Minho. No final do dia do seu pedal, não
-    perca a oportunidade de beber o famoso vinho verde oriundo da região do
-    Norte de Portugal. Bicicletas eléctricas disponível.
-  keywords: >-
-    Norte e Minho Bike tour, ferias em bicicleta no norte de portugal, bike tour
-    no minho, passeios em bicicleta no norte de portugal
+  description: A vila mais antiga de Portugal, o mar e o rio num único bike tour!
+    Desfrute da paisagem perto dos rios Lima e Minho. No final do dia do seu
+    pedal, não perca a oportunidade de beber o famoso vinho verde oriundo da
+    região do Norte de Portugal. Bicicletas eléctricas disponível.
+  keywords: Norte e Minho Bike tour, ferias em bicicleta no norte de portugal,
+    bike tour no minho, passeios em bicicleta no norte de portugal
   robots: INDEX
-  title: 'Norte e Minho de Portugal Bike tour '
+  title: "Norte e Minho de Portugal Bike tour "
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 1
@@ -41,18 +39,17 @@ durationUnit: Dias | 6 Noites
 difficulty: 1
 physicality: 1
 rating: []
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=12Ae-R3xcgPrCt6Pqsd8cMXKf0nT0uHsx'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=12Ae-R3xcgPrCt6Pqsd8cMXKf0nT0uHsx
 itinerary:
-  - day: '1'
-    description: ''
+  - day: "1"
+    description: ""
     location:
-      lat: '42.1130412'
-      lng: '-8.2593422'
-    title: 'Dia 1: Recepção no Porto e transfere até Melgaço'
-  - day: '2'
-    description: >-
-      Esta deslumbrante viagem de bicicleta inicia-se lado a lado com o Rio
-      Minho, em Melgaço. Pedale ao longo do Rio Minho, sempre com a vizinha
+      lat: "42.1130412"
+      lng: "-8.2593422"
+    title: "Dia 1: Recepção no Porto e transfere até Melgaço"
+  - day: "2"
+    description: Esta deslumbrante viagem de bicicleta inicia-se lado a lado com o
+      Rio Minho, em Melgaço. Pedale ao longo do Rio Minho, sempre com a vizinha
       Espanha do outro lado. Famosa pelas suas belas paisagens, história,
       gastronomia e também pela produção do conhecido e apreciado vinho de Casta
       Verde "Alvarinho", esta cidade organiza todos os anos a "Festa do
@@ -68,14 +65,13 @@ itinerary:
       antigas, a presença de comunidades humanas neste território pressupõe-se
       que date desde a pré-história.
     location:
-      lat: '42.0270455'
-      lng: '-8.6428831'
-    title: 'Day 2: Melgaço – Valença,  (43 km) plus extra track to Tui (6 km)'
-  - day: '3'
-    description: >-
-      Deixando Valença para trás e continuando pelo rio Minho, o destino de hoje
-      é Viana do Castelo, uma das mais belas cidades costeiras do norte de
-      Portugal. Viana teve uma enorme importância para Portugal na Época dos
+      lat: "42.0270455"
+      lng: "-8.6428831"
+    title: "Day 2: Melgaço – Valença,  (43 km) plus extra track to Tui (6 km)"
+  - day: "3"
+    description: Deixando Valença para trás e continuando pelo rio Minho, o destino
+      de hoje é Viana do Castelo, uma das mais belas cidades costeiras do norte
+      de Portugal. Viana teve uma enorme importância para Portugal na Época dos
       Descobrimentos e, mais tarde, com a pesca do bacalhau. Esta cidade tem uma
       enorme tradição e ligação com o mar, com os pescadores mostrando-o hoje em
       dia orgulhosamente, principalmente durante a grande festa de “Nossa
@@ -86,12 +82,11 @@ itinerary:
       Monte do Calvário e ao património construído, esta aldeia certamente o
       surpreenderá.
     location:
-      lat: '41.694867'
-      lng: '-8.831088'
-    title: 'Dia 3: Valença – Viana do Castelo, 37 mi. (60 km)'
-  - day: '4'
-    description: >-
-      Continuando a sua jornada, hoje o caminho volta para o interior de
+      lat: "41.694867"
+      lng: "-8.831088"
+    title: "Dia 3: Valença – Viana do Castelo, 37 mi. (60 km)"
+  - day: "4"
+    description: Continuando a sua jornada, hoje o caminho volta para o interior de
       Portugal, com o rio Lima a acompanhar. O destino é agora Ponte de Lima,
       uma cidade reconhecida como Património Mundial e como o último Norte de
       Portugal em toda a sua rusticidade e beleza. Esta terra cheia de história,
@@ -105,13 +100,12 @@ itinerary:
       o "Vinho Verde" e o Arroz de "Sarrabulho", apreciado nos lugares mais
       distantes do mundo.
     location:
-      lat: '41.7675021'
-      lng: '-8.5830992'
-    title: 'Dia 4: Viana do Castelo – Ponte de Lima, 16 mi. (25 km)'
-  - day: '5'
-    description: >-
-      Atravessando desta vez a margem sul do rio Lima e, posteriormente, em
-      direcção a sul pela costa Atlântica, o destino de hoje será Esposende,
+      lat: "41.7675021"
+      lng: "-8.5830992"
+    title: "Dia 4: Viana do Castelo – Ponte de Lima, 16 mi. (25 km)"
+  - day: "5"
+    description: Atravessando desta vez a margem sul do rio Lima e, posteriormente,
+      em direcção a sul pela costa Atlântica, o destino de hoje será Esposende,
       cidade costeira localizada no Norte do país. Aprecie todas as magníficas
       paisagens à beira-mar, assim como as várias "rivieras Portuguesas". O
       município de Esposende está repleto de pontos de interesse como é o caso
@@ -119,21 +113,20 @@ itinerary:
       cidade de Esposende. Este é certamente uma das mais belas regiões do norte
       de Portugal.
     location:
-      lat: '41.5455885'
-      lng: '-8.75827562'
-    title: 'Dia 5: Ponte de Lima - Esposende, 31 mi. (50 km)'
-  - day: '6'
-    description: >-
-      Prosseguindo pelo Atlântico, as praias, as vistas para o oceano e as vilas
-      piscatórias serão uma visão comum. Locais como a Póvoa de Varzim
+      lat: "41.5455885"
+      lng: "-8.75827562"
+    title: "Dia 5: Ponte de Lima - Esposende, 31 mi. (50 km)"
+  - day: "6"
+    description: Prosseguindo pelo Atlântico, as praias, as vistas para o oceano e
+      as vilas piscatórias serão uma visão comum. Locais como a Póvoa de Varzim
       abrir-lhe-ão as portas a testemunhar antigas tradições ligadas à pesca e
       onde poderá saborear esta famosa gastronomia. Em Vila do Conde irá
       perceber a razão, pela qual estas cidades costeiras foram tão importantes
       durante o período áureo dos Descobrimentos Portugueses.
     location:
-      lat: '41.1494512'
-      lng: '-8.6107884'
-    title: 'Dia 6: Esponsende - Porto, 41 mi. (65 km)'
+      lat: "41.1494512"
+      lng: "-8.6107884"
+    title: "Dia 6: Esponsende - Porto, 41 mi. (65 km)"
 gallery:
   - alt: Our guide Tiago photo near Esposende
     image: /img/our-guide-tiago-photo-near-esposende.jpg
@@ -147,136 +140,163 @@ pricing:
   - bestValue: true
     discount: 0
     highSeasonPriceSupplement: 100
-    observations: '****'
+    observations: ""
     package: Self Guided bikeTour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets to Porto
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'yes'
+        value: yes
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 5 lunches
-        value: 'No'
+        value: No
       - title: 5 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 1.360 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1360
-    type: '1'
+        value: "1"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.290€
+      - title: "* Regular season"
+        value: 1.360€
+      - title: "* High Season"
+        value: 1.410€
+      - title: "* Summer Season"
+        value: 1.480€
+    price: 1288
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Biketour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'yes'
+        value: yes
       - title: Porto Airport Transfers
-        value: 'yes'
+        value: yes
       - title: Trains or Bus Tickets
-        value: 'yes'
+        value: yes
       - title: Van Support
-        value: 'yes'
+        value: minimum 8 pax
       - title: GPS With route per booking
-        value: 'yes'
+        value: yes
       - title: Bike rent
-        value: 'yes'
+        value: yes
       - title: Guide
-        value: 'yes'
+        value: yes
       - title: Mechanical Assistance
-        value: 'yes'
+        value: yes
       - title: 5 lunches
-        value: 'No'
+        value: No
       - title: 5 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'yes'
+        value: yes
       - title: Liability Insurance
-        value: 'yes'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: '1.669'
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: yes
       - title: Min. Participants
-        value: '2'
-    price: 1669
-    type: '1'
+        value: "4"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.619€
+      - title: "* Regular season"
+        value: 1.689€
+      - title: "* High Season"
+        value: 1.739€
+      - title: "* Summer Season"
+        value: 1.809€
+    price: 1619
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Biketour plus *
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'yes'
+        value: yes
       - title: Porto Airport Transfers
-        value: 'yes'
+        value: yes
       - title: Trains or Bus Tickets
-        value: 'yes'
+        value: yes
       - title: Van Support
-        value: 'yes'
+        value: yes
       - title: GPS With route per booking
-        value: 'yes'
+        value: yes
       - title: Bike rent
-        value: 'yes'
+        value: yes
       - title: Guide
-        value: 'yes'
+        value: yes
       - title: Mechanical Assistance
-        value: 'yes'
+        value: yes
       - title: 5 lunches
-        value: 'yes'
+        value: yes
       - title: 5 Dinners
-        value: 'yes'
+        value: yes
       - title: Personal Accident Insurance
-        value: 'yes'
+        value: yes
       - title: Liability Insurance
-        value: 'yes'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: '2.210'
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: yes
       - title: Min. Participants
-        value: '2'
-    price: 2210
-    type: '1'
+        value: "4"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.160€
+      - title: "* Regular season"
+        value: 2.230€
+      - title: "* High Season"
+        value: 2.280€
+      - title: "* Summer Season"
+        value: 2.350€
+    price: 2160
+    type: "1"
 afterpricing: >-
+  **\*Temporada:**
+
+
+  * LS - Low season: Nov 01 a Mar 25
+
+  * RS - Regular season: Mar 26 a 25 Jun e Set 26 a31 Oct
+
+  * HS - High Season: Set 01 a 25 Set
+
+  * SS - Summer Season: Jun 26 a August 30
+
+
   **Observações:**
 
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de
-  semana
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
   * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
-  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%.
-  Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos -
-  15% de desconto.
+  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%. Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos - 15% de desconto.
 
 
   **Extras**

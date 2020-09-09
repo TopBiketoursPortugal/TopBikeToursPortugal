@@ -30,9 +30,8 @@ meta:
     coast of Portugal....wild, nature and quiet bike tour near the beautiful
     beaches of the Atlantic south west coast. Self guided and guided bike tours
     available. Electric bicycles and mountain bicycles can be booked.
-  keywords: >-
-    Vicentine Coast to Algarve cycling holiday, alentejo bike tour, algarve bike
-    tour, Alentejo southwest bike tour
+  keywords: Vicentine Coast to Algarve cycling holiday, alentejo bike tour,
+    algarve bike tour, Alentejo southwest bike tour
   robots: INDEX
   title: Vicentine Cost and Algarve Bike Tour
 groupSizeMax: 1
@@ -45,12 +44,11 @@ duration: 8
 durationUnit: Days | 7 Nights
 difficulty: 2
 physicality: 1
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=1ieK3MkKNSZ5im7KllAgWngvQiiWZksCn'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1ieK3MkKNSZ5im7KllAgWngvQiiWZksCn
 itinerary:
-  - day: '1'
-    description: >-
-      The journey starts in the city of Lisbon, Portugal's capital. This city
-      has been influenced by many different cultures over the course of its
+  - day: "1"
+    description: The journey starts in the city of Lisbon, Portugal's capital. This
+      city has been influenced by many different cultures over the course of its
       history and it still maintains a village feeling in each historic
       neighborhood. The wide variety of landscapes and heritage is always close
       by, whether inj the north or south of the capital. Fado, prevalent in
@@ -59,33 +57,31 @@ itinerary:
       status. You can hear it at night in a fado house or in a traditional
       neighborhood.
     location:
-      lat: '38.71217964'
-      lng: '-9.17382002'
+      lat: "38.71217964"
+      lng: "-9.17382002"
     title: Day 1 – Lisbon
-  - day: '2'
-    description: >-
-      Cycle through some lovely Portuguese cities, like the city of Montijo,
-      strongly marked by the river. Like most of the localities of Ribatejo,
-      Montijo has the tradition of the “brava” celebration, being bulls an
-      bullfights an essential characteristic of the city's parties. Enter Pinhal
-      Novo, which used to be the biggest vineyard in the country and, nowadays,
-      it's an expanding urban centre. It is located near the Arrabida Natural
-      Park. Bike along the pine brushed coastline of Parque Natural da Arrábida.
-      End this first journey on a ferry to the pristine setting of the Tróia
-      Peninsula, unquestionably one of Portugal's best-kept secrets. The
-      peninsula's stands at the tip of a narrow spit of land comprised mostly of
-      white sandy beaches fringed with shifting dunes and emerald pine forests.
-      Much of the territory is set within the confines of a nature reserve, the
-      Reserva Natural do Estuário do Sado, a protected wildlife haven with a
-      wealth of bird-watching possibilities.
+  - day: "2"
+    description: Cycle through some lovely Portuguese cities, like the city of
+      Montijo, strongly marked by the river. Like most of the localities of
+      Ribatejo, Montijo has the tradition of the “brava” celebration, being
+      bulls an bullfights an essential characteristic of the city's parties.
+      Enter Pinhal Novo, which used to be the biggest vineyard in the country
+      and, nowadays, it's an expanding urban centre. It is located near the
+      Arrabida Natural Park. Bike along the pine brushed coastline of Parque
+      Natural da Arrábida. End this first journey on a ferry to the pristine
+      setting of the Tróia Peninsula, unquestionably one of Portugal's best-kept
+      secrets. The peninsula's stands at the tip of a narrow spit of land
+      comprised mostly of white sandy beaches fringed with shifting dunes and
+      emerald pine forests. Much of the territory is set within the confines of
+      a nature reserve, the Reserva Natural do Estuário do Sado, a protected
+      wildlife haven with a wealth of bird-watching possibilities.
     location:
-      lat: '38.48694667'
-      lng: '-8.90220881'
+      lat: "38.48694667"
+      lng: "-8.90220881"
     title: Day 2 -  Lisboa – Troia (65 km) * moderate dificulty
-  - day: '3'
-    description: >-
-      Starting the day with some extensive sandy beaches, you will head towards
-      Vila Nova de Santo André. This is a very multicultural city, which
+  - day: "3"
+    description: Starting the day with some extensive sandy beaches, you will head
+      towards Vila Nova de Santo André. This is a very multicultural city, which
       received a lot of people from Portuguese former colonies. The extensive
       forest that protects Santo André is a good example of the harmonious
       respect between the protection of the environment and the industrial
@@ -97,62 +93,58 @@ itinerary:
       farmers. Its inhabitants are mainly dedicated into farming the land and
       handcraft activities, such as pottery and the making of cork stoppers.
     location:
-      lat: '38.06021165'
-      lng: '-8.78451884'
+      lat: "38.06021165"
+      lng: "-8.78451884"
     title: Day 3 - Troia - Vila Nova de Santo André (66 Km)
-  - day: '4'
-    description: >-
-      You will cycle in the direction of Milfontes. Milfontes is the perfect
-      combination of History and Nature, because it is situated on a beautiful
-      coastline and it has been a region often raided by pirates. You will have
-      the opportunity to discover the city of Sines where Vasco da Gama was
-      born, the Portuguese explorer and first European to reach India by sea,
-      connecting the West and the Orient in the 15th century. Nowadays it's
-      remarkably known for receiving 50% of the countries’ exportations. In the
-      village of Porto Covo is one of the most sought after by locals and
+  - day: "4"
+    description: You will cycle in the direction of Milfontes. Milfontes is the
+      perfect combination of History and Nature, because it is situated on a
+      beautiful coastline and it has been a region often raided by pirates. You
+      will have the opportunity to discover the city of Sines where Vasco da
+      Gama was born, the Portuguese explorer and first European to reach India
+      by sea, connecting the West and the Orient in the 15th century. Nowadays
+      it's remarkably known for receiving 50% of the countries’ exportations. In
+      the village of Porto Covo is one of the most sought after by locals and
       tourists. With a spacious and sheltered beach, "Praia Grande", it is one
       of the busiest during the summer.
     location:
-      lat: '37.72243336'
-      lng: '-8.78589749'
+      lat: "37.72243336"
+      lng: "-8.78589749"
     title: Day 4 – Vila Nova de Santo André – Vila Nova de Mil Fontes (55 km)
-  - day: '5'
-    description: >-
-      Quieter than Vila Nova de Milfontes, Zambujeira do Mar attracts more of a
-      backpacker and surf crowd. Being a small sea side town on the coast of
-      Alentejo, in western Portugal, it has some lovely sandy beaches and
-      picture perfect traditional architecture, making it a small but loved
+  - day: "5"
+    description: Quieter than Vila Nova de Milfontes, Zambujeira do Mar attracts
+      more of a backpacker and surf crowd. Being a small sea side town on the
+      coast of Alentejo, in western Portugal, it has some lovely sandy beaches
+      and picture perfect traditional architecture, making it a small but loved
       destination for visitors. The town has some charming traditional
       buildings. Among the most notable ones are the fountains of Amores and
       Santa Catarina and the small, whitewashed chapel of Nossa Senhora do Mar.
       The beach is about 500 meters from the town of Almograve. It is a shallow
       but extensive beach with low tide, providing authentic natural pools.
     location:
-      lat: '37.52514173'
-      lng: '-8.7853986'
+      lat: "37.52514173"
+      lng: "-8.7853986"
     title: Day 5 – VNMF – Zambujeira do Mar (40 km)
-  - day: '6'
-    description: >-
-      First you will be passing by Aljezur, an attractive village that straddles
-      a river, its western part is Moorish, with a collection of cottages below
-      a ruined 10th century hilltop castle. Vestiges of the old harbour can be
-      seen in the narrow alleys that give access to the Ribeira de Aljezur. The
-      40km of coastline around Aljezur offers some of the most pristine and
-      scenic beaches in Europe, with the whole area of river estuaries, sheer
-      cliffs and dense marshes rich in bird and animal life. As the Alentejo
-      turns into Algarve, the last coastal settlement is Odeceixe, an endearing
-      small town with a beach classified as one of the 7 Wonders. The beach
-      presents high quality landscape and biodiversity, being able to enjoy a
-      landscape of rare and enormous beauty of the top of the cliffs. It is in
-      fact in this Natural Park, the only place in the world where you can
+  - day: "6"
+    description: First you will be passing by Aljezur, an attractive village that
+      straddles a river, its western part is Moorish, with a collection of
+      cottages below a ruined 10th century hilltop castle. Vestiges of the old
+      harbour can be seen in the narrow alleys that give access to the Ribeira
+      de Aljezur. The 40km of coastline around Aljezur offers some of the most
+      pristine and scenic beaches in Europe, with the whole area of river
+      estuaries, sheer cliffs and dense marshes rich in bird and animal life. As
+      the Alentejo turns into Algarve, the last coastal settlement is Odeceixe,
+      an endearing small town with a beach classified as one of the 7 Wonders.
+      The beach presents high quality landscape and biodiversity, being able to
+      enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
+      is in fact in this Natural Park, the only place in the world where you can
       observe the storks that nest on the cliffs.
     location:
-      lat: '37.3172097'
-      lng: '-8.79592627'
+      lat: "37.3172097"
+      lng: "-8.79592627"
     title: Day 6 – Zambujeira do Mar – Aljezur (45 km)
-  - day: '7'
-    description: >-
-      Leaving Aljezur to enter the surf-central Carrapateira, a  peaceful
+  - day: "7"
+    description: Leaving Aljezur to enter the surf-central Carrapateira, a  peaceful
       village with two nearby beaches with strong swells, which commonly attract
       surfers and visitors from Lisbon. The coast along this area is wild, with
       copper-coloured and ash-grey cliffs. Its landmarks include an old fort, a
@@ -163,28 +155,27 @@ itinerary:
       for shipwrecks in the past, also creates the conditions which have made it
       a popular surfing destination in recent years.
     location:
-      lat: '37.18373374'
-      lng: '-8.89505267'
+      lat: "37.18373374"
+      lng: "-8.89505267"
     title: Day 7 – Aljezur – Carrapateira (30 km)
-  - day: '8'
-    description: >-
-      A region of dramatic natural scenery, comprising of raging seas, towering
-      cliffs and vast beaches, you are now cycling towards Sagres. There is
-      little of historical or architectural interest as the original town bore
-      the full brunt of the 1755 earthquake. Situated within a few kilometers
-      from Europe's most south western point, stands Cape St. Vincent. The
-      ferocious waves of the Atlantic Ocean pound the massive cliffs, while high
-      above the immensely lighthouse, a light warns ships of the existence of
-      these dangerous cliffs. The narrow streets which surround the main church
-      contain many houses typical of the old Algarve, with whitewashed walls,
-      bands of bright color, carved stonework around doors and windows.
+  - day: "8"
+    description: A region of dramatic natural scenery, comprising of raging seas,
+      towering cliffs and vast beaches, you are now cycling towards Sagres.
+      There is little of historical or architectural interest as the original
+      town bore the full brunt of the 1755 earthquake. Situated within a few
+      kilometers from Europe's most south western point, stands Cape St.
+      Vincent. The ferocious waves of the Atlantic Ocean pound the massive
+      cliffs, while high above the immensely lighthouse, a light warns ships of
+      the existence of these dangerous cliffs. The narrow streets which surround
+      the main church contain many houses typical of the old Algarve, with
+      whitewashed walls, bands of bright color, carved stonework around doors
+      and windows.
     location:
-      lat: '37.00901414'
-      lng: '-8.93903017'
+      lat: "37.00901414"
+      lng: "-8.93903017"
     title: Day 8 - Carrapateira – Sagres (54 km)
-  - day: '9'
-    description: >-
-      Lying along the bank of the Rio Bensafrim, with XVIth century walls
+  - day: "9"
+    description: Lying along the bank of the Rio Bensafrim, with XVIth century walls
       enclosing the old town, we have Lagos. Lagos is a historic and lively city
       that offers visitors glorious beaches, nightlife and a charming historical
       center. Extending to the east of Lagos, you can found the 4km long "Meia
@@ -203,13 +194,13 @@ itinerary:
       fulfilling trip, in this amazingly, beautiful beach with lots of sights
       that provide a lovely and relaxing place to rest.
     location:
-      lat: '37.10029188'
-      lng: '-8.67213964'
+      lat: "37.10029188"
+      lng: "-8.67213964"
     title: Day 9 -  Sagres – Lagos (45 km)
-  - day: '10'
+  - day: "10"
     location:
-      lat: '37.10029188'
-      lng: '-8.67213964'
+      lat: "37.10029188"
+      lng: "-8.67213964"
     title: Day 10 - Departure
 gallery:
   - alt: group 1
@@ -231,125 +222,155 @@ pricing:
     package: Self Guided bike tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 8 lunches ( 6 lunches reduced option)
-        value: 'No'
+        value: No
       - title: 8 Dinners ( 6 dinners reduced option)
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.609 €
-      - title: 9 Nights / 10 Days ( price per person)
-        value: 1.940 €
-      - title: 'July, August and September Prices'
-        value: + 150 € (+100 € reduced option)
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1609
-    type: '1'
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.529€
+      - title: "* Regular season"
+        value: 1.629€
+      - title: "* High Season"
+        value: 1.729€
+      - title: "* Summer Season"
+        value: 1.779€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +371€
+    price: 1529
+    type: "1"
   - highSeasonPriceSupplement: 100
     package: Guided bike tour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
         value: minimum 8 pax
-      - icon: '-'
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 8 lunches ( 6 lunches reduced option)
-        value: 'No'
+        value: No
       - title: 8 Dinners ( 6 dinners reduced option)
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.060 €
-      - title: 9 Nights / 10 Days ( price per person)
-        value: 2.468 €
-      - title: 'July, August and September Prices'
-        value: '* 150 € (+100 € reduced option)'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2060
-    type: '1'
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.980€
+      - title: "* Regular season"
+        value: 2.080€
+      - title: "* High Season"
+        value: 2.180€
+      - title: "* Summer Season"
+        value: 2.230€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +448€
+    price: 1980
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided bike tour Plus*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'Yes'
-      - icon: '-'
+        value: Yes
+      - icon: "-"
         title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 8 lunches ( 6 lunches reduced option)
-        value: 'Yes'
+        value: Yes
       - title: 8 Dinners ( 6 dinners reduced option)
-        value: 'Yes'
+        value: Yes
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.520 €
-      - title: 9 Nights / 10 Days ( price per person)
-        value: 3.085 €
-      - title: 'July, August and September Prices'
-        value: '* 150 € (+100 € reduced option)'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2520
-    type: '1'
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.440€
+      - title: "* Regular season"
+        value: 2.540€
+      - title: "* High Season"
+        value: 2.640€
+      - title: "* Summer Season"
+        value: 2.690€
+      - title: 9 Nights / 10 Days ( price per person)
+        value: +605€
+    price: 2440
+    type: "1"
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
@@ -359,9 +380,11 @@ afterpricing: >-
 
   * Beverages are not included at lunch and dinner when included in the package
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount.
-  Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years
-  old - 15% discount. 
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
+
+  * In the option 7 nights/ 8 days, 6 light lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
+
+
 
 
   **Extras**
@@ -369,9 +392,9 @@ afterpricing: >-
 
   * Electric bicycles price: 200€
 
-  * Supplement for single room : 490 €
+  * Supplement for single room : LS: 450€, RS: 490€, HS: 530€, SS:570€
 
-  * Supplement for single room reduced option: 329 €
+  * Supplement for single room reduced option: LS: 300€, RS: 329€, HS: 360€, SS:390€
 
   * Solo traveler: 290 €
 

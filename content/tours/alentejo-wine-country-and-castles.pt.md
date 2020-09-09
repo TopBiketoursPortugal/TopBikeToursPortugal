@@ -131,8 +131,149 @@ gallery:
     alt: Crato pottery
   - image: /img/3668902145_3f85ae040b_o.jpg
     alt: Alqueva lake
-pricing: []
+pricing:
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: No
+      - title: GPS With route per booking
+        value: Yes
+      - title: Bike rent
+        value: +150€ carbon road bike
+      - title: Guide
+        value: No
+      - title: Mechanical Assistance
+        value: No
+      - title: 6 lunches
+        value: No
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: No
+      - title: Liability Insurance
+        value: No
+      - title: Min. Participants
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per Person
+      - title: "* Low season"
+        value: 1.395€
+      - title: "* Regular season"
+        value: 1.495€
+      - title: "* High Season"
+        value: 1.595€
+      - title: "* Summer Season"
+        value: 1.645€
+    package: Self Guided bikeTour
+    price: 1395
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Biketour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: minimum 8 pax
+      - title: GPS With route per booking
+        value: No
+      - title: Bike rent
+        value: +150€ carbon road bike
+      - title: Guide
+        value: Yes
+      - title: Mechanical Assistance
+        value: Yes
+      - title: 6 lunches
+        value: No
+      - title: 6 Dinners
+        value: No
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.795€
+      - title: "* Regular season"
+        value: 1.895€
+      - title: "* High Season"
+        value: 1.995€
+      - title: "* Summer Season"
+        value: 2.045€
+    price: 1795
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Biketour plus
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Yes
+      - title: Lisbon Airport Transfers
+        value: Yes
+      - title: Train or van transfer back to Lisbon
+        value: Yes
+      - title: Van Support
+        value: Yes
+      - title: GPS With route per booking
+        value: No
+      - title: Bike rent
+        value: +150€ carbon road bike
+      - title: Guide
+        value: Yes
+      - title: Mechanical Assistance
+        value: Yes
+      - title: 6 lunches
+        value: Yes
+      - title: 6 Dinners
+        value: Yes
+      - title: Personal Accident Insurance
+        value: Yes
+      - title: Liability Insurance
+        value: Yes
+      - title: Min. Participants
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.356€
+      - title: "* Regular season"
+        value: 2.456€
+      - title: "* High Season"
+        value: 2.556€
+      - title: "* Summer Season"
+        value: 2.606€
+    price: 2356
 afterpricing: >-
+  **\*Temporada:**
+
+
+  * LS - Low season: Nov 01 a Mar 25
+
+  * RS - Regular season: Mar 26 a 25 Jun e Set 26 a 31 Oct
+
+  * HS - High Season: Set 01 a 25 Set
+
+  * SS - Summer Season: Jun 26 a August 30
+
+
   **Observações:**
 
 
@@ -150,7 +291,7 @@ afterpricing: >-
 
   * Bicicleta Elétric: 175€
 
-  * Suplemento para quarto individual: 400€
+  * Suplemento para quarto individual: LS: 350€, RS: 379€, HS: 410€, SS.440€
 
   * Noites extra: sob consulta
 

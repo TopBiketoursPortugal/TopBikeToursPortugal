@@ -1,20 +1,20 @@
 ---
 templateKey: tour-gen
 order: 5
-path: /tour-bicicleta-montanha-porto
+path: /tour-bicicleta-montanha
 productcode: CT06
 featured: false
 language: pt
 image: /img/mountain-bike-tour-porto.jpg
-title: Tour em bicicleta de montanha no Porto
+title: Passeio em mountain bike (MTB) nas montanhas do Porto
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: "Mountain Bike Tour Porto "
-  description: Mountain bike tour - MTB - available all days starting in Porto
-    city,. If you are looking for some physical activity don't miss this bike
-    tour.
-  keywords: mountain bike tour porto, mtb tour porto, mountain bicycle in porto
+  title: Passeio em mountain bike (MTB) nas montanhas do Porto
+  description: Passeio de BTT - BTT - disponível todos os dias a partir da cidade
+    do Porto. Se procura alguma actividade física não perca este passeio de
+    bicicleta.
+  keywords: mountain bike tour porto, mtb tour porto, mountain bike no porto
   robots: INDEX
 minAge: 16
 skillLevel: 1
@@ -47,8 +47,6 @@ itinerary:
       lat: "1"
       lng: "1"
 gallery:
-  - alt: Porto MTB tour top of the mountain
-    image: /img/mtb-tour-top-of-the-mountain.jpg
   - image: /img/trek-mtb-bicycles.jpg
     alt: Trek MTB bicycles 18 gears
   - image: /img/climbing-the-mountain-in-a-bicycle.jpg
@@ -77,7 +75,7 @@ pricing:
       - title: Lunch
         value: No
     price: 80
-    discount: 4
+    discount: ""
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Full-Day price per person
@@ -96,7 +94,7 @@ pricing:
         value: Yes
       - title: Lunch
         value: Yes
-    price: 160
+    price: 140
     discount: 0
 feature:
   align: center
@@ -109,12 +107,14 @@ feature:
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
+# Passeio em mountain bike (MTB) nas montanhas do Porto
 
+Desfrute de um passeio de bicicleta de meio dia ou dia inteiro na serra do Valongo. Este passeio de bicicleta é para pessoas que gostam de mountain bike (MTB). Os quilómetros podem ser adaptados ao seu grupo mas tenha em atenção que o percurso será em superfícies duras.
 
-# Mountain Bike Tour in Porto city
+A saída em suas acomodações será às 8h, e o traslado de van até a Serra do Valongo é um trajeto de 20 minutos.
 
-Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike tour is for people that enjoy mountain bike (MTB). The kilometres can be adapted to your group but be in mind the route will be in hard surfaces.
+O roteiro será nas melhores trilhas e single tracks da região. Se você for forte o suficiente para subir ao topo da montanha, a vista será memorável.
 
-The pick-up at your accommodations will be at 8 am, and the van transfer till Valongo Mountains is a 20 minutes ride.
+Temos roteiros disponíveis entre 20 km e 50 km.
 
-The route will be in the best trails and single tracks of the region. If you are strong enough to go to the top of the
+![no topo da montanha](/img/mtb-tour-top-of-the-mountain.jpg "tour de MTB no Porto em Portugal")

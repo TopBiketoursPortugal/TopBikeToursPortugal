@@ -3,6 +3,24 @@ templateKey: bikes-page
 language: pt
 path: /pt/bicicletas/
 title: Bicicletas
+afterEquipment: >-
+  **Equipamento disponibilizado em férias de bicicleta**
+
+
+  * Capacete
+
+  * Ferramentas (bomba de ar, camãras de ar...)
+
+  * Garrafa de água
+
+  * Luses
+
+  * Cadeado
+
+  * GPS Garmin
+
+
+  **Roadbook (** Mapas; informação detalhada do terreno, restaurantes e outros pontos de interesse)
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
@@ -89,4 +107,6 @@ feature:
 ---
 # **As nossas Bicicletas**
 
-**Nota:** Não alugamos bicicletas. As bicicletas disponiveis são apenas para serem usadas nos nossos passeios.
+**NOTA IMPORTANTE:**  As bicicletas apresentadas nas imagens abaixo são utilizadas somente em nossos passeios de bicicleta. As bicicletas não estão disponíveis para serviços de aluguel. Não alugamos bicicletas para longas distâncias.
+
+Apesar disso, temos alugueres de bicicletas citadinas disponíveis para explorar a cidade do Porto e arredores. [Contacte-nos](https://topbiketoursportugal.com/pt/contactos/) para mais informações.

@@ -29,8 +29,7 @@ meta:
     deguste o tradicional pastel o travesseiro.
 
     Costa Oeste e Sintra.
-  keywords: >-
-    Cycling Tours costa da prata, costa da prata em bicicleta, costa azul
+  keywords: Cycling Tours costa da prata, costa da prata em bicicleta, costa azul
     em bicicleta, bike tour costa atlântica
   robots: INDEX
   title: Costa da Prata rota do Atlântico – Sintra e Costa Azul
@@ -44,60 +43,57 @@ duration: 9
 durationUnit: Dias | 8 Noites
 difficulty: 2
 physicality: 1
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=1UXCTxOi5RNgO3rzkgi5guuqT0cfcOI6-'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1UXCTxOi5RNgO3rzkgi5guuqT0cfcOI6-
 itinerary:
-  - day: '1'
-    description: ''
+  - day: "1"
+    description: ""
     location:
-      lat: '40.1482816'
-      lng: '-8.8554141'
-    title: ' Dia 1:Transfer do Porto até Figueira da Foz'
-  - day: '2'
-    description: >-
-      Esta aventura de bicicleta começa ao lado do Oceano Atlântico na Figueira
-      da Foz, uma cidade no centro de Portugal, localizada no distrito de
-      Coimbra. A cidade é um centro industrial importante no que à produção de
-      polpa de madeira, papel e vidro diz respeito. A Figueira da Foz tem ainda
-      um papel no desenvolvimento da construção naval e indústrias de peixe. De
-      seguida partirá à descoberta de Pedrogão, uma pequena aldeia com uma
-      extensão de praia de 1400m e onde os seus habitantes, com forte ligação à
-      agricultura e pesca, foram criando o legado da Arte da Xávega.  Por fim
-      irá pedalar até São Pedro de Moel que se ergue cercada por extensas áreas
-      de pinhais e, que por isso, oferece vários pontos de lazer e de comunhão
-      com a natureza. Destaca-se a famosa "Volta dos Sete": um percurso de
-      aproximadamente 7 km, que combina mar, bosques e praia, a pureza das
-      floresta, parques, fontes e riachos. Um ponto de atracção turística é a
-      sua gastronomia única e vincada, como a sopa "Vidreiro", a sopa de
-      bacalhau e o ensopado de coelho.
+      lat: "40.1482816"
+      lng: "-8.8554141"
+    title: " Dia 1:Transfer do Porto até Figueira da Foz"
+  - day: "2"
+    description: 'Esta aventura de bicicleta começa ao lado do Oceano Atlântico na
+      Figueira da Foz, uma cidade no centro de Portugal, localizada no distrito
+      de Coimbra. A cidade é um centro industrial importante no que à produção
+      de polpa de madeira, papel e vidro diz respeito. A Figueira da Foz tem
+      ainda um papel no desenvolvimento da construção naval e indústrias de
+      peixe. De seguida partirá à descoberta de Pedrogão, uma pequena aldeia com
+      uma extensão de praia de 1400m e onde os seus habitantes, com forte
+      ligação à agricultura e pesca, foram criando o legado da Arte da
+      Xávega.  Por fim irá pedalar até São Pedro de Moel que se ergue cercada
+      por extensas áreas de pinhais e, que por isso, oferece vários pontos de
+      lazer e de comunhão com a natureza. Destaca-se a famosa "Volta dos Sete":
+      um percurso de aproximadamente 7 km, que combina mar, bosques e praia, a
+      pureza das floresta, parques, fontes e riachos. Um ponto de atracção
+      turística é a sua gastronomia única e vincada, como a sopa "Vidreiro", a
+      sopa de bacalhau e o ensopado de coelho.'
     location:
-      lat: '39.7578992'
-      lng: '-9.0297521'
-    title: 'Dia 2: Figueira da Foz – São Pedro de Moel (65 KM)'
-  - day: '3'
-    description: >-
-      Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na sua
-      paisagem, possui uma vista deslumbrante no topo de um elevado penhasco,
-      cujo o acesso é facilitado por um elevador funicular ou carro.  O grande
-      atractivo desta cidade são as ondas e o surf, graças ao "Canhão da
-      Nazaré", um fenómeno submarino geomorfológico que permite a formação de
-      ondas gigantes e perfeitas. Este é, com orgulho dos seus habitantes, o
-      maior desfiladeiro submerso na Europa, com cerca de 170 quilómetros ao
-      longo da costa e com 5000 metros de profundidade. Neste percurso irá
-      pedalar por praias de renome e onde encontrará as maiores ondas da Europa,
-      como a Praia do Norte e a região da Nazaré.
+      lat: "39.7578992"
+      lng: "-9.0297521"
+    title: "Dia 2: Figueira da Foz – São Pedro de Moel (65 KM)"
+  - day: "3"
+    description: Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na
+      sua paisagem, possui uma vista deslumbrante no topo de um elevado
+      penhasco, cujo o acesso é facilitado por um elevador funicular ou
+      carro.  O grande atractivo desta cidade são as ondas e o surf, graças ao
+      "Canhão da Nazaré", um fenómeno submarino geomorfológico que permite a
+      formação de ondas gigantes e perfeitas. Este é, com orgulho dos seus
+      habitantes, o maior desfiladeiro submerso na Europa, com cerca de 170
+      quilómetros ao longo da costa e com 5000 metros de profundidade. Neste
+      percurso irá pedalar por praias de renome e onde encontrará as maiores
+      ondas da Europa, como a Praia do Norte e a região da Nazaré.
     location:
-      lat: '39.60004501'
-      lng: '-9.07155991'
-    title: 'Dia 3: São Pedro de Moel – Nazaré (29 Km)'
-  - day: '4'
-    description: >-
-      Deixando a Nazaré, a próxima aldeia é Óbidos. Pedale à descoberta desta
-      cidade, considerada um dos assentamentos mais clássicos de paredes de
-      Portugal e onde ficará deslumbrado pelas vistas sobre os moinhos de vento,
-      vinhas e terras agrícolas circundantes. A área residencial da cidade é
-      banhada por estreitas ruas de paralelepípedos que se alinham com casas
-      caiadas de branco suportadas por telhados de terracota. Além de toda esta
-      magia natural, Óbidos tem também um papel activo na construção do seu
+      lat: "39.60004501"
+      lng: "-9.07155991"
+    title: "Dia 3: São Pedro de Moel – Nazaré (29 Km)"
+  - day: "4"
+    description: 'Deixando a Nazaré, a próxima aldeia é Óbidos. Pedale à descoberta
+      desta cidade, considerada um dos assentamentos mais clássicos de paredes
+      de Portugal e onde ficará deslumbrado pelas vistas sobre os moinhos de
+      vento, vinhas e terras agrícolas circundantes. A área residencial da
+      cidade é banhada por estreitas ruas de paralelepípedos que se alinham com
+      casas caiadas de branco suportadas por telhados de terracota. Além de toda
+      esta magia natural, Óbidos tem também um papel activo na construção do seu
       desenvolvimento e reconhecimento. Neste contexto a cidade organiza dois
       eventos anuais de grande importância: o primeiro é um tradicional, o
       "Mercado Medieval", onde o castelo e a cidade circundante recriar o
@@ -109,14 +105,13 @@ itinerary:
       uma única ilha. A sua divisão posterior deu origem à baía de São Martinho
       do Porto. Graças a todo este contexto histórico e à sua beleza natural,
       foi considerada a melhor praia para ir com a família no guia de 2015
-      praias de eDreams.
+      praias de eDreams.'
     location:
-      lat: '39.3680634'
-      lng: '-9.18730437'
-    title: 'Dia 4: Nazaré – Óbidos (47 Km)'
-  - day: '5'
-    description: >-
-      Regressando à zona costeira em direcção à cidade de Peniche, terá
+      lat: "39.3680634"
+      lng: "-9.18730437"
+    title: "Dia 4: Nazaré – Óbidos (47 Km)"
+  - day: "5"
+    description: Regressando à zona costeira em direcção à cidade de Peniche, terá
       oportunidade para uma paragem de bicicleta na Lagoa de Óbidos, com uma
       extensão entre os municípios de Óbidos e Caldas da Rainha. É uma barreira
       natural que separa o Oceano Atlântico e o bioma marinho do ecossistema
@@ -129,17 +124,16 @@ itinerary:
       visto que, historicamente, são uma das primeiras reservas naturais do
       mundo.
     location:
-      lat: '39.33722515'
-      lng: '-9.31285284'
-    title: ' Dia 5: Óbidos – Peniche (35 Km)'
-  - day: '6'
-    description: >-
-      Deixando Peniche mas continuando ao longo da costa, o próximo destino é a
-      Ericeira. Esta cidade foi um popular retiro de verão para muitas das
-      famílias de Lisboa nas décadas de 40 e 50 do século XX. Hoje é um destino
-      popular para turistas locais e visitantes, bem como surfistas de todo o
-      mundo, devido às quarenta praias com boas condições. Possui também uma
-      forte ligação com a cultura musical, sendo que desde 1849 que a
+      lat: "39.33722515"
+      lng: "-9.31285284"
+    title: " Dia 5: Óbidos – Peniche (35 Km)"
+  - day: "6"
+    description: Deixando Peniche mas continuando ao longo da costa, o próximo
+      destino é a Ericeira. Esta cidade foi um popular retiro de verão para
+      muitas das famílias de Lisboa nas décadas de 40 e 50 do século XX. Hoje é
+      um destino popular para turistas locais e visitantes, bem como surfistas
+      de todo o mundo, devido às quarenta praias com boas condições. Possui
+      também uma forte ligação com a cultura musical, sendo que desde 1849 que a
       Filarmónica Cultural Ericeira segue um caminho de sucesso na herança
       musical desta aldeia, com uma escola musical livre e permanente para todos
       os que amam este tipo de cultura. A praia de Santa Cruz é o lugar de
@@ -148,45 +142,44 @@ itinerary:
       desportos de onda, onde são realizadas competições internacionais de
       vários tipos.
     location:
-      lat: '38.9631655'
-      lng: '-9.4170098'
-    title: 'Dia 6: Peniche – Ericeira (68 Km)'
-  - day: '7'
-    description: >-
-      Pedale para o interior para descobrir a cidade de Sintra. Este lugar é
-      conhecido pelos muitos monumentos arquitectónicos românticos do século XIX
-      que possui, o que resultou na classificação pela UNESCO como Património da
-      Humanidade. Para além das Montanhas de Sintra e do Parque Natural de
-      Sintra-Cascais, as freguesias da cidade de Sintra são locais com retiros
-      reais, propriedades, castelos e outros edifícios, entre os quais o Castelo
-      dos Mouros, o Palácio Nacional da Pena e o Palácio Nacional de Sintra,
-      onde a herança cultural se mantém até aos dias de hoje 
+      lat: "38.9631655"
+      lng: "-9.4170098"
+    title: "Dia 6: Peniche – Ericeira (68 Km)"
+  - day: "7"
+    description: "Pedale para o interior para descobrir a cidade de Sintra. Este
+      lugar é conhecido pelos muitos monumentos arquitectónicos românticos do
+      século XIX que possui, o que resultou na classificação pela UNESCO como
+      Património da Humanidade. Para além das Montanhas de Sintra e do Parque
+      Natural de Sintra-Cascais, as freguesias da cidade de Sintra são locais
+      com retiros reais, propriedades, castelos e outros edifícios, entre os
+      quais o Castelo dos Mouros, o Palácio Nacional da Pena e o Palácio
+      Nacional de Sintra, onde a herança cultural se mantém até aos dias de hoje
+      "
     location:
-      lat: '38.79846'
-      lng: '-9.3881'
-    title: 'Dia 7: Ericeira – Sintra (27 Km)'
-  - day: '8'
-    description: >-
-      Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um subúrbio
-      cosmopolita da capital portuguesa e um dos municípios mais ricos de
-      Portugal. A antiga aldeia piscatória ganhou fama com a presença da família
-      real de portuguesa no final do século XIX e início do século XX. Hoje em
-      dia é um local de férias popular para turistas portugueses e estrangeiros.
-      Cascais está rodeada por praias de renome, como a Praia do Guincho, a
-      oeste, e as exuberantes montanhas de Sintra, a norte. Este é também um
-      destino apreciado pelos amantes de golfe, com mais de 10 campos de golfe
-      nas proximidades. O Parque Natural de Sintra - Cascais é um lugar
+      lat: "38.79846"
+      lng: "-9.3881"
+    title: "Dia 7: Ericeira – Sintra (27 Km)"
+  - day: "8"
+    description: Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um
+      subúrbio cosmopolita da capital portuguesa e um dos municípios mais ricos
+      de Portugal. A antiga aldeia piscatória ganhou fama com a presença da
+      família real de portuguesa no final do século XIX e início do século XX.
+      Hoje em dia é um local de férias popular para turistas portugueses e
+      estrangeiros. Cascais está rodeada por praias de renome, como a Praia do
+      Guincho, a oeste, e as exuberantes montanhas de Sintra, a norte. Este é
+      também um destino apreciado pelos amantes de golfe, com mais de 10 campos
+      de golfe nas proximidades. O Parque Natural de Sintra - Cascais é um lugar
       obrigatório a visitar, visto que é um dos 13 Parques Naturais de Portugal
       e porque o mesmo inclui a Serra de Sintra, montanha que se estende até à
       costa e o Cabo da Roca, o ponto continental mais ocidental da Europa.
     location:
-      lat: '38.72240025'
-      lng: '-9.39690917'
-    title: 'Dia 8: Sintra – Cascais (40 Km)'
-  - day: '9'
+      lat: "38.72240025"
+      lng: "-9.39690917"
+    title: "Dia 8: Sintra – Cascais (40 Km)"
+  - day: "9"
     location:
-      lat: '38.72240025'
-      lng: '-9.39690917'
+      lat: "38.72240025"
+      lng: "-9.39690917"
     title: Dia 9 - Transfere para Lisboa
 gallery:
   - alt: sao pedro de moel cycling lane
@@ -208,133 +201,160 @@ pricing:
     package: Self Guided bike tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 7 lunches
-        value: 'No'
+        value: No
       - title: 7 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 8 Nights / 9 Days ( price per person)
-        value: 1.858 €
-      - title: 'July, August and September Prices'
-        value: '* 120 €'
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1858
-    type: '1'
+        value: "1"
+      - title: 8 Nights / 9 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.758€
+      - title: "* Regular season"
+        value: 1.858€
+      - title: "* High Season"
+        value: 1.958€
+      - title: "* Summer Season"
+        value: 2.008€
+    price: 1756
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided bike tour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
         value: minimum 8 participants
-      - icon: '-'
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 7 lunches
-        value: 'No'
+        value: No
       - title: 7 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 8 Nights / 9 Days ( price per person)
-        value: 2.367 €
-      - title: 'July, August and September Prices'
-        value: '* 120 €'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2367
-    type: '1'
+        value: "4"
+      - title: 8 Nights / 9 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.267€
+      - title: "* Regular season"
+        value: 2.367€
+      - title: "* High Season"
+        value: 2.467€
+      - title: "* Summer Season"
+        value: 2.517€
+    price: 2267
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided bike tour PLUS*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Lisbon Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'Yes'
-      - icon: '-'
+        value: Yes
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 7 lunches
-        value: 'Yes'
+        value: Yes
       - title: 7 Dinners
-        value: 'Yes'
+        value: Yes
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 8 Nights / 9 Days ( price per person)
-        value: 3.123 €
-      - title: 'July, August and September Prices'
-        value: '* 120 €'
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 3123
-    type: '1'
+        value: "4"
+      - title: 8 Nights / 9 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 3.023€
+      - title: "* Regular season"
+        value: 3.123€
+      - title: "* High Season"
+        value: 3.223€
+      - title: "* Summer Season"
+        value: 3.273€
+    price: 3023
+    type: "1"
 afterpricing: >-
+  **\*Temporada:**
+
+
+  * LS - Low season: Nov 01 a Mar 25
+
+  * RS - Regular season: Mar 26 a 25 Jun e Set 26 a 31 Oct
+
+  * HS - High Season: Set 01 a 25 Set
+
+  * SS - Summer Season: Jun 26 a August 30
+
+
   **Observações:**
 
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de
-  semana
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
   * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
-  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%.
-  Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos -
-  15% de desconto.
+  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%. Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos - 15% de desconto.
 
 
   **Extras**
@@ -342,9 +362,9 @@ afterpricing: >-
 
   * Bicicleta Electrica: 200€
 
-  * Suplemento para quarto individual: 450 €
+  * Suplemento para quarto individual: LS: 350€, RS: 376€, HS: 410€, SS.450€
 
-  * Viajante único: 250 €
+  * Viajante único: 350 €
 
   * Noites extra: sob consulta
 feature:

@@ -152,7 +152,23 @@ pricing:
     discount: 0
     highSeasonPriceSupplement: 100
     package: Group price per person
-    packageContents: []
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Lunch in Matosinhos
+        value: Yes
+      - title: Ticket cellar of Porto wine
+        value: Yes
+      - title: Van trasnfer back to Porto
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
     price: 198
   - bestValue: false
     discount: 0
@@ -161,6 +177,23 @@ pricing:
     package: Private price per person
     price: 260
     type: ""
+    packageContents:
+      - title: Bicycle and Helmet
+        value: Yes
+      - title: Guide riding with your group
+        value: Yes
+      - title: Water bottle
+        value: Yes
+      - title: Lunch in Matosinhos
+        value: Yes
+      - title: Ticket cellar of Porto wine
+        value: Yes
+      - title: Van trasnfer back to Porto
+        value: Yes
+      - title: Personal accident insurance
+        value: Yes
+      - title: Liability insurance
+        value: Yes
 feature:
   align: center
   imageAlign: center center

@@ -132,13 +132,41 @@ pricing:
     discount: 0
     highSeasonPriceSupplement: 100
     package: Preço de grupo por pessoa
-    packageContents: []
+    packageContents:
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Almoço em Matosinhos
+        value: Sim
+      - title: Bilhete Caves do vinho do porto
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 95
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
     package: Preço Privado por pessoa
-    packageContents: []
+    packageContents:
+      - title: Bicicleta e capacete
+        value: Sim
+      - title: Guia a acompanhar o grupo
+        value: Sim
+      - title: Garrafa de água
+        value: Sim
+      - title: Almoço em Matosinhos
+        value: Sim
+      - title: Bilhete Caves do vinho do porto
+        value: Sim
+      - title: Seguro de acidentes pessoais
+        value: Sim
+      - title: Seguro de responsabilidade civil
+        value: Sim
     price: 129
 feature:
   align: center

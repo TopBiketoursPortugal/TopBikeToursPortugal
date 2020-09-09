@@ -6,7 +6,7 @@ productcode: SC 01
 featured: true
 language: pt
 image: /img/cycling-plan-in-coasta-nova.jpg
-title: 'Costa da Prata: Porto a Coimbra biketour'
+title: "Costa da Prata: Porto a Coimbra biketour"
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -26,11 +26,10 @@ meta:
     Pedale pela Costa da Prata até Coimbra. A natureza, a paisagem e a
     gastronomia estão impregnadas neste percurso de bicicleta desde do Porto.
     Explore Aveiro num barco moliceiro no fim do dia do seu bike tour.
-  keywords: >-
-    ferias em bicicleta porto a coimbra, tour de bicicleta porto a coimbra, bike
-    tour porto a coimbra
+  keywords: ferias em bicicleta porto a coimbra, tour de bicicleta porto a
+    coimbra, bike tour porto a coimbra
   robots: INDEX
-  title: 'Porto a Coimbra: Costa da Prata e Costa verde junto ao Atlântico'
+  title: "Porto a Coimbra: Costa da Prata e Costa verde junto ao Atlântico"
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
@@ -41,31 +40,28 @@ duration: 7
 durationUnit: Days | 6 Nights
 difficulty: 1
 physicality: 1
-#rating: []
-mapUrl: 'https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dNH8SL7'
+mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dNH8SL7
 itinerary:
-  - day: '1'
-    description: >-
-      O primeiro dia será passado no Porto, uma antiga cidade portuária outrora
-      um posto do Império Romano, impregnado de história e tradição. Localizado
-      ao longo do Vale do Rio Douro, no norte de Portugal, o Porto é uma das
-      cidades europeias mais antigas e o seu centro histórico foi proclamado
-      Património Mundial pela Unesco em 1996.  Uma visita guiada (incluída)
-      permitirá explorar esta cidade e toda a sua arte e tradição, como também
-      os tradicionais azulejos azuis e brancos nas igrejas e casas. Inclui
-      também  alguns destaques contemporâneos, incluindo a livraria que
+  - day: "1"
+    description: O primeiro dia será passado no Porto, uma antiga cidade portuária
+      outrora um posto do Império Romano, impregnado de história e tradição.
+      Localizado ao longo do Vale do Rio Douro, no norte de Portugal, o Porto é
+      uma das cidades europeias mais antigas e o seu centro histórico foi
+      proclamado Património Mundial pela Unesco em 1996.  Uma visita guiada
+      (incluída) permitirá explorar esta cidade e toda a sua arte e tradição,
+      como também os tradicionais azulejos azuis e brancos nas igrejas e casas.
+      Inclui também  alguns destaques contemporâneos, incluindo a livraria que
       inspirou, com os seus belíssimos detalhes, J. K. Rowling enquanto escrevia
       “Harry Potter” e o Palácio da Bolsa.
     location:
-      lat: '41.1494512'
-      lng: '-8.6107884'
+      lat: "41.1494512"
+      lng: "-8.6107884"
     title: Dia 1 - Recepção no Porto
-  - day: '2'
-    description: >-
-      A saída do Porto faz-se por uma das pontes mais famosas de Portugal, a
-      Ponte Don Luís, entrando assim na cidade de Vila Nova de Gaia. A origem
-      desta cidade remonta a um castro celta, posteriormente integrada no
-      Império Romano. Aqui pode-se visitar as mundialmente famosas adegas de
+  - day: "2"
+    description: A saída do Porto faz-se por uma das pontes mais famosas de
+      Portugal, a Ponte Don Luís, entrando assim na cidade de Vila Nova de Gaia.
+      A origem desta cidade remonta a um castro celta, posteriormente integrada
+      no Império Romano. Aqui pode-se visitar as mundialmente famosas adegas de
       vinho do Porto. Já em Miramar poderá observar a capela do Senhor da Pedra.
       Neste monumento, construído no topo de uma rocha situada na costa do
       oceano Atlântico, desfruta-se de vistas incríveis para o mar e para a
@@ -79,62 +75,58 @@ itinerary:
       típicos portugueses, não só nas fachadas de edifícios públicos, como
       também em casas de propriedade privada.
     location:
-      lat: '40.87313436'
-      lng: '-8.67736816'
+      lat: "40.87313436"
+      lng: "-8.67736816"
     title: Dia 2 - Porto - Furadouro ( 47 Km)
-  - day: '3'
-    description: >-
-      Seguindo pela costa em direcção ao sul, percorrerá uma estrada secundária
-      durante grande parte do dia, atravessando várias aldeias de pescadores,
-      incluindo a Torreira, possuidora de uma longa e fantástica praia.
-      Atravessará ainda a famosa reserva natural das Dunas de São Jacinto, uma
-      tranquila reserva natural de 6,7 quilómetros quadrados, equipada com
-      trilhos e áreas de observação de pássaros. O esticão final será iniciado
-      via ferry boat, atravessando a ria, para finalmente realizar os
-      quilómetros finais até Aveiro. Aqui pode-se visitar o Mosteiro de Jesus,
-      observar os azulejos da estação de comboio e fazer um passeio de barco
-      pela Ria de Aveiro.
+  - day: "3"
+    description: Seguindo pela costa em direcção ao sul, percorrerá uma estrada
+      secundária durante grande parte do dia, atravessando várias aldeias de
+      pescadores, incluindo a Torreira, possuidora de uma longa e fantástica
+      praia. Atravessará ainda a famosa reserva natural das Dunas de São
+      Jacinto, uma tranquila reserva natural de 6,7 quilómetros quadrados,
+      equipada com trilhos e áreas de observação de pássaros. O esticão final
+      será iniciado via ferry boat, atravessando a ria, para finalmente realizar
+      os quilómetros finais até Aveiro. Aqui pode-se visitar o Mosteiro de
+      Jesus, observar os azulejos da estação de comboio e fazer um passeio de
+      barco pela Ria de Aveiro.
     location:
-      lat: '40.640496'
-      lng: '8.6537841'
+      lat: "40.640496"
+      lng: "8.6537841"
     title: Dia 3 - Furadouro - Aveiro ( 45 KM)
-  - day: '4'
-    description: >-
-      Neste dia a rota leva-o a Ílhavo, localidade da empresa Vista Alegre, onde
-      se fabrica porcelana portuguesa, fundada em 1815. Pode-se apreciar a
-      fantástica paisagem da famosa Costa Nova do Prado, onde as praias se
-      interligam com o ambiente rural, criando um ambiente único.
+  - day: "4"
+    description: Neste dia a rota leva-o a Ílhavo, localidade da empresa Vista
+      Alegre, onde se fabrica porcelana portuguesa, fundada em 1815. Pode-se
+      apreciar a fantástica paisagem da famosa Costa Nova do Prado, onde as
+      praias se interligam com o ambiente rural, criando um ambiente único.
     location:
-      lat: '40.4556419'
-      lng: '-8.8026211'
+      lat: "40.4556419"
+      lng: "-8.8026211"
     title: Dia 4 - Aveiro - Praia de Mira (40 Km)
-  - day: '5'
-    description: >-
-      A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A paisagem
-      progride desde a beira-do-mar e da grande extensão de dunas de areia, até
-      à lagoa e às florestas aromáticas de pinho. A Rainha da Costa de Prata,
-      Figueira da Foz, é o destino do dia. É aqui que o belo Rio Mondego se
-      junta ao Oceano.
+  - day: "5"
+    description: A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A
+      paisagem progride desde a beira-do-mar e da grande extensão de dunas de
+      areia, até à lagoa e às florestas aromáticas de pinho. A Rainha da Costa
+      de Prata, Figueira da Foz, é o destino do dia. É aqui que o belo Rio
+      Mondego se junta ao Oceano.
     location:
-      lat: '40.1482816'
-      lng: '-8.8554141'
+      lat: "40.1482816"
+      lng: "-8.8554141"
     title: Dia 5 - Praia de Mira - Figueira da Foz ( 50 Km)
-  - day: '6'
-    description: >-
-      No último dia de ciclismo a rota afasta-se do mar, mas continua sempre ao
-      longo do rio Mondego, terminando em Coimbra. Esta cidade é muito famosa
-      pela sua Universidade, a mais antiga de Portugal e uma das mais antigas da
-      Europa. Ao longo do tempo Coimbra moldou a sua imagem para se tornar a
-      conhecida “Cidade dos estudantes ".
+  - day: "6"
+    description: No último dia de ciclismo a rota afasta-se do mar, mas continua
+      sempre ao longo do rio Mondego, terminando em Coimbra. Esta cidade é muito
+      famosa pela sua Universidade, a mais antiga de Portugal e uma das mais
+      antigas da Europa. Ao longo do tempo Coimbra moldou a sua imagem para se
+      tornar a conhecida “Cidade dos estudantes ".
     location:
-      lat: '40.2109801'
-      lng: '-8.4292057'
+      lat: "40.2109801"
+      lng: "-8.4292057"
     title: Dia 6 - Figueira da Foz - Coimbra ( 55 Km)
-  - day: '7'
-    description: ''
+  - day: "7"
+    description: ""
     location:
-      lat: '40.2109801'
-      lng: '-8.4292057'
+      lat: "40.2109801"
+      lng: "-8.4292057"
     title: Dia 7 - Transfere
 gallery:
   - alt: Coimbra group photo
@@ -165,133 +157,160 @@ pricing:
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'No'
+        value: No
       - title: GPS With route per booking
-        value: 'Yes'
+        value: Yes
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'No'
+        value: No
       - title: Mechanical Assistance
-        value: 'No'
+        value: No
       - title: 5 lunches
-        value: 'No'
+        value: No
       - title: 5 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'No'
+        value: No
       - title: Liability Insurance
-        value: 'No'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 1.360 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: No
       - title: Min. Participants
-        value: '2'
-    price: 1360
-    type: '1'
+        value: "1"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.290€
+      - title: "* Regular season"
+        value: 1.360€
+      - title: "* High Season"
+        value: 1.410€
+      - title: "* Summer Season"
+        value: 1.480€
+    price: 1290
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Biketour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
         value: Minimum 8 pax
-      - icon: '-'
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 5 lunches
-        value: 'No'
+        value: No
       - title: 5 Dinners
-        value: 'No'
+        value: No
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 1.649 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 1649
-    type: '1'
+        value: "4"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.599€
+      - title: "* Regular season"
+        value: 1.699€
+      - title: "* High Season"
+        value: 1.719€
+      - title: "* Summer Season"
+        value: 1.789€
+    price: 1599
+    type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
     package: Guided Biketour Plus*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
-        value: 'Yes (4 stars, farms or rural houses)'
+        value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
-        value: 'Yes'
+        value: Yes
       - title: Porto Airport Transfers
-        value: 'Yes'
+        value: Yes
       - title: Trains or Bus Tickets
-        value: 'Yes'
+        value: Yes
       - title: Van Support
-        value: 'Yes'
-      - icon: '-'
+        value: Yes
+      - icon: "-"
         title: GPS With route per booking
-        value: ''
+        value: ""
       - title: Bike rent
-        value: 'Yes'
+        value: Yes
       - title: Guide
-        value: 'Yes'
+        value: Yes
       - title: Mechanical Assistance
-        value: 'Yes'
+        value: Yes
       - title: 5 lunches
-        value: 'Yes'
+        value: Yes
       - title: 5 Dinners
-        value: 'Yes'
+        value: Yes
       - title: Personal Accident Insurance
-        value: 'Yes'
+        value: Yes
       - title: Liability Insurance
-        value: 'Yes'
-      - title: 6 Nights / 7 Days ( price per person)
-        value: 2.210 €
-      - title: 'July, August and September Prices'
-        value: + 100 €
+        value: Yes
       - title: Min. Participants
-        value: '4'
-    price: 2210
-    type: '1'
+        value: "4"
+      - title: 6 Nights / 7 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.160€
+      - title: "* Regular season"
+        value: 2.230€
+      - title: "* High Season"
+        value: 2.280€
+      - title: "* Summer Season"
+        value: 2.350€
+    price: 2160
+    type: "1"
 afterpricing: >-
+  **\*Temporada:**
+
+
+  * LS - Low season: Nov 01 a Mar 25
+
+  * RS - Regular season: Mar 26 a 25 Jun e Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 a 25 Set
+
+  * SS - Summer Season: Jun 26 a August 30
+
+
   **Observações:**
 
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto;
 
-  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de
-  semana
+  * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
   * Bebidas não incluídas ao almoço ou jantar quando incluídas no package
 
-  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%.
-  Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos -
-  15% de desconto.
+  * Se em quarto triplo com os pais Crianças até 10 anos - desconto de 35%. Crianças dos 11 aos 14 anos - 20% de desconto. Crianças dos 15 aos 17 anos - 15% de desconto.
 
 
   **Extras**
@@ -299,7 +318,7 @@ afterpricing: >-
 
   * Bicicleta Elétric: 175€
 
-  * Suplemento para quarto individual: 329 €
+  * Suplemento para quarto individual: LS: 300€, RS: 329€, HS: 360€, SS.390€
 
   * Viajante único: 200 €
 

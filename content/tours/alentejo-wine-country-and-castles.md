@@ -147,7 +147,7 @@ pricing:
       - title: GPS With route per booking
         value: Yes
       - title: Bike rent
-        value: Yes (extra 150 € for road bike)
+        value: +150 € for carbon road bike
       - title: Guide
         value: No
       - title: Mechanical Assistance
@@ -160,15 +160,21 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.495 €
-      - title: June 26 to September 26 Prices
-        value: +100€
       - title: Min. Participants
-        value: "2"
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - value: 1.395€
+        title: "* Low season"
+      - title: "* Regular season"
+        value: 1.495€
+      - title: "* High Season"
+        value: 1.595€
+      - title: "* Summer Season"
+        value: 1.645€
     type: ""
     observations: ""
-    price: 195
+    price: 1395
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Guided Biketour
@@ -184,9 +190,9 @@ pricing:
       - title: Van Support
         value: minimum 8 pax
       - title: GPS With route per booking
-        value: \-
+        value: No
       - title: Bike rent
-        value: Yes (extra 150 € for road bike)
+        value: +150 € for carbon road bike
       - title: Guide
         value: Yes
       - title: Mechanical Assistance
@@ -199,16 +205,22 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 1.895 €
-      - title: June 26 to September 26 Prices
-        value: +100 €
       - title: Min. Participants
-        value: "2"
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.795€
+      - title: "* Regular season"
+        value: 1.895€
+      - title: "* High Season"
+        value: 1.955€
+      - title: "* Summer Season"
+        value: 2.045€
     type: ""
     observations: ""
     discount: 0
-    price: 1895
+    price: 1795
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Guided Biketour plus
@@ -224,9 +236,9 @@ pricing:
       - title: Van Support
         value: Yes
       - title: GPS With route per booking
-        value: \-
+        value: No
       - title: Bike rent
-        value: Yes (extra 150 € for road bike)
+        value: +150 € for carbon road bike
       - title: Guide
         value: Yes
       - title: Mechanical Assistance
@@ -239,14 +251,32 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.456 €
-      - title: June 26 to September 26 Prices
-        value: + 150 €
       - title: Min. Participants
-        value: "2"
-    price: 2456
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.356€
+      - title: "* Regular season"
+        value: 2.456€
+      - title: "* High Season"
+        value: 2.556€
+      - title: "* Summer Season"
+        value: 2.606€
+    price: 2356
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
@@ -264,7 +294,7 @@ afterpricing: >-
 
   * Electric bicycles price: 175€
 
-  * Supplement for single room: 400€
+  * Supplement for single room: LS: 350€, RS: 379€, HS: 410€, SS.440€
 
   * Extra nights: on request
 

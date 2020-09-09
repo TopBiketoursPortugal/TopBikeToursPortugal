@@ -160,19 +160,19 @@ pricing:
         value: No
       - title: Liability Insurance
         value: No
-      - title: 7 Nights / 8 Days ( price per person)
-        value: \--
-      - title: "Low season: Nov 01 to Mar 25"
-        value: 1.389€
-      - title: "Regular season: Mar 26 to 25 Jun"
-        value: 1.489€
-      - title: "Summer Season: Jun 26 to August 30"
-        value: 1.639 €
-      - title: "High Season: Set 01 to 25 Set"
-        value: 1.589€
       - title: Min. Participants
-        value: "2"
-    price: 1389
+        value: "1"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.409€
+      - title: "* Regular season"
+        value: 1.489€
+      - title: "* High Season"
+        value: 1.549€
+      - title: "* Summer Season"
+        value: 1.609€
+    price: 1409
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -204,19 +204,19 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: \--
-      - title: "Low season: Nov 01 to Mar 25"
-        value: 1.795€
-      - title: "Regular season: Mar 26 to 25 Jun"
-        value: 1.895€
-      - title: "Summer Season: Jun 26 to August 30"
-        value: 2.045€
-      - title: "High Season: Set 01 to 25 Set"
-        value: 1.995€
       - title: Min. Participants
         value: "4"
-    price: 1795
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1.790€
+      - title: "* Regular season"
+        value: 1.870€
+      - title: "* High Season"
+        value: 1.930€
+      - title: "* Summer Season"
+        value: 1.990€
+    price: 1790
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -248,20 +248,32 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: \--
-      - title: "Low season: Nov 01 to Mar 25"
-        value: 2.356€
-      - title: "Regular season: Mar 26 to 25 Jun"
-        value: 2.456€
-      - title: "Summer Season: Jun 26 to August 30"
-        value: 2.606€
-      - title: "High Season: Set 01 to 25 Set"
-        value: 2.556€
       - title: Min. Participants
         value: "4"
-    price: 2358
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2.351€
+      - title: "* Regular season"
+        value: 2.431€
+      - title: "* High Season"
+        value: 2.491€
+      - title: "* Summer Season"
+        value: 2.551€
+    price: 2351
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
@@ -279,7 +291,7 @@ afterpricing: >-
 
   * Electric bicycles price: 175€
 
-  * Supplement for single room: 329 €
+  * Supplement for single room: LS: 300€, RS: 329€, HS: 360€: SS.390€
 
   * Solo traveler: 200 €
 
