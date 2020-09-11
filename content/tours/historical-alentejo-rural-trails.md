@@ -22,7 +22,7 @@ distance: 99
 distanceUnit: km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 2
+difficulty: 3
 mapUrl: https://www.google.com/maps/d/embed?mid=1-I4LP1ywrOVBksuxUEKPamnUahXHfUwC
 itinerary:
   - day: "1"
