@@ -371,4 +371,4 @@ Explore Alto Minho by walking through its most prominent towns. Follow the water
 
 **Day 7:** Viana do Castelo – Ponte de Lima: 20 km or (26 km to the City center); optional transfer and loop route (17 km)
 
-**Day 8:**Departure
+**Day 8:** Departure
