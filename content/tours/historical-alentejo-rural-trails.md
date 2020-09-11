@@ -227,7 +227,7 @@ pricing:
       - title: 6 light Picnics
         value: Yes
       - title: 6 Dinners
-        value: Yes
+        value: No
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
