@@ -200,7 +200,7 @@ pricing:
       - title: "* Summer Season"
         value: 1.425€
       - title: 9 Nights / 10 Days ( price per person)
-        value: +796€
+        value: +686€
     price: 1175
   - bestValue: false
     package: Guided Hiking tour
@@ -271,7 +271,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
-        value: Yes
+        value: 6 Lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance
