@@ -160,7 +160,9 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
+        value: Yes
       - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
       - title: Van Support
         value: Yes (minimum 8 pax)
       - title: Roadbook + Briefing
@@ -202,6 +204,7 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
+        value: Yes
       - title: Train or Bus Tickets Back to Lisbon
         value: Yes
       - title: Van Support
@@ -217,7 +220,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
