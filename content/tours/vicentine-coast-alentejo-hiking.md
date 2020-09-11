@@ -284,7 +284,7 @@ feature:
   image: /img/vicentina-coast-walking-trail.jpg
   bokunLinkText: Book now
 ---
-# **Vicentine Coast Algarve Walking & Hiking tour**
+# **Vicentine West Coast Algarve Walking & Hiking tour**
 
 ## **Explore Algarve’s coast line and the fisherman trail**
 
