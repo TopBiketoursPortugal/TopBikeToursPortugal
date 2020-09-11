@@ -6,7 +6,7 @@ productcode: VC01
 featured: true
 language: en
 image: /img/zambujeira-do-mar-hike.webp
-title: Vicentine Coast in Alentejo Stage 1
+title: "Vicentine West Coast in Alentejo: Stage 1"
 packagetype: PackageTour
 tourtype: Walking
 meta:
