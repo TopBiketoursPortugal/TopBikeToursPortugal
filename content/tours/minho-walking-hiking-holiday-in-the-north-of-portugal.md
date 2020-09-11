@@ -223,7 +223,7 @@ pricing:
       - title: Roadbook + Briefing
         value: yes
       - title: GPS With route per booking
-        value: "-"
+        value: No
       - title: Bag and water bottle
         value: Yes
       - title: t-shirt
@@ -267,7 +267,7 @@ pricing:
       - title: Roadbook + Briefing
         value: Yes
       - title: GPS With route per booking
-        value: Yes
+        value: No
       - title: Bag and water bottle
         value: Yes
       - title: t-shirt
@@ -275,7 +275,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
-        value: Yes
+        value: 6 lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance
