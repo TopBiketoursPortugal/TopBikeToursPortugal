@@ -341,6 +341,7 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 \
 **Optional extra day route: 86 Km:**
 \
+\
 **Day 8:** Régua – Lamego: 18 km
 
 **Day 9:** Departure
