@@ -293,7 +293,7 @@ feature:
   image: /img/walking-pescadores-trail.jpg
   bokunLinkText: Book now
 ---
-# Vicentine Coast in Alentejo Hiking & walking tour
+# Vicentine West Coast in Alentejo Hiking & walking tour
 
 ## The south of Portugal through the coastline
 
