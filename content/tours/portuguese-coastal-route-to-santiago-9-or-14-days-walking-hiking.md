@@ -264,7 +264,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
@@ -310,7 +310,7 @@ afterpricing: >-
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
-  * In the option 8 nights/ 9 days, 8 light lunches are included in all packages, and 8 dinners are included only in the Guided Hiking tour Plus package
+  * In the option 8 nights/ 9 days, 8 lunches are included in all packages, and 8 dinners are included only in the Guided Hiking tour Plus package
 
 
   **Extras**
