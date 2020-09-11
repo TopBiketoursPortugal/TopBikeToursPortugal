@@ -185,7 +185,8 @@ pricing:
         value: Yes
       - title: 6 light Picnics
         value: Yes
-      - title: 6 light Picnics
+      - title: 6 Dinners
+        value: No
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -197,9 +198,9 @@ pricing:
       - title: "* Low season"
         value: 1.145€
       - title: "* Regular season"
-        value: 1.294€
+        value: 1.245€
       - title: "* High Season"
-        value: "1.345"
+        value: 1.345 €
       - title: "* Summer Season"
         value: 1.395€
     price: 1146
@@ -237,7 +238,7 @@ pricing:
       - title: Min. Participants
         value: " 8 Pax"
       - title: 7 Nights / 8 Days
-        value: 6 Nights / 7 Days
+        value: Price per person
       - title: "* Low season"
         value: 1.493€
       - title: "* Regular season"
@@ -271,7 +272,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
-        value: Yes
+        value: 6 Lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance
