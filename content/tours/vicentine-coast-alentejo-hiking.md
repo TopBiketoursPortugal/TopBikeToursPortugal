@@ -6,7 +6,7 @@ productcode: VC02
 featured: false
 language: en
 image: /img/vicentina-coast-walking-trail.jpg
-title: Vicentine Coast Algarve - Stage 2
+title: Vicentine West Coast in Algarve - Stage 2
 packagetype: PackageTour
 tourtype: Walking
 meta:
