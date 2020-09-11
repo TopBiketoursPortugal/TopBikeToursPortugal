@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 10
+order: 6
 path: /hiking-algarve-vicentine-southeast-portugal-coast
 productcode: VC02
 featured: false
