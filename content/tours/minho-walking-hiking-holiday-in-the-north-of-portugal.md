@@ -341,28 +341,27 @@ feature:
 ---
 # **Minho Hiking Holiday in the North of Portugal**
 
-## Walk near the sea and near the Minho and Lima Valley
+## **Explore the Minho and Lima River and have a taste of “vinho Verde” and “Alvarinho” Wine**
 
-The Walk Trail of Minho River, an old railway section, was ranked as the fourth best 2009 trail in Europe. That alone showcases all the amazing Portuguese landscapes, rivers and seaside views which you will be enjoying during this trip, hiking trough World Heritage villages, vineyards, farmed land and historical towns.
+Explore Alto Minho by walking through its most prominent towns. Follow the water both of rivers and sea in an easy hike towards Ponte de Lima. The region of Alto Minho is one of protected nature, ancient and present pilgrim passage and history connected to the birth of the country.
 
-The Minho River is also the perfect excuse for relaxing in the north of the country. Explore the trails and the Portuguese villages along this border river and its main highlights. The Minho River serves as a natural border between Portugal and Spain, travelling the entire way across Melgaço and Valença. Also, the journey will lead the walkers in part of the Santiago Coast Caminho and the Ecovia of Lima River.
 
-Taste the worldwide known gastronomy. Enjoy the delicious corn bread, sausages, codfish, lamb, cooked in many traditional ways. For those who enjoy good meat, you can´t miss out on the famous “sarrabulho” porridge *and the seasoned pieces of pork.*Relish on the regional wines that the country couldn´t go without. This will surely enrich your trip and give you the desire to come back and discover more of Portugal.
 
-\
-**Route description:**  
+**Route description:**
 
-* The major part of the tour is flat. 1st, 2nd, 4th, are walked with between 190 meters and 170 m of uphill’s
-* There is a strong mix of pavement roads, stone pavement and dirt roads. 
+* The majority of the tour is flat. 1st, 2nd and 4th days have between 190 meters and 170 meters of uphill hiking.
+* There is a strong mix of paved roads and dirt roads.
+
+
 
 **Itinerary:**
 
 \
-**Day 1:**Melgaço
+**Day 1:** Melgaço
 
-**Day 2:**Melgaço-Monção: 18 km
+**Day 2:** Melgaço-Monção: 18 km
 
-**Day 3:**Monção – Valença: 20 km
+**Day 3:** Monção – Valença: 20 km
 
 **Day 4:** Valença – Vila Nova de Cerveira: 16 km
 
