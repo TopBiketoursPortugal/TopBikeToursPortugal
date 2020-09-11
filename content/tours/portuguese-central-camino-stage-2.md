@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 11
+order: 9
 path: /santiago-Compostela-hiking-stage-2
 productcode: ST02
 featured: true
