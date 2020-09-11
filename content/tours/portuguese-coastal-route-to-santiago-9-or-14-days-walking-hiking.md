@@ -350,11 +350,9 @@ This hike is divided in two different stages. Stage 1 which goes through Portugu
 
 * All days are mostly flat with very few and minor hills
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-\
-\
+
 **Itinerary 6 Nights / 7 days:**
-\
-\
+
 **Day 1:** Porto
 
 **Day 2**: Transfer to Praia da memória – Póvoa: 20 km
@@ -371,20 +369,8 @@ This hike is divided in two different stages. Stage 1 which goes through Portugu
 \
 \
 \
-**Itinerary 8 Nights / 9 days, 140 Km:**
-
-**Day 1:** Porto
-
-**Day 2**: Transfer to Praia da memória – Póvoa: 20 km
-
-**Day 3:** Póvoa – Esposende: 25 km
-
-**Day 4**: Esposende – Viana do Castelo: 26 km
-
-**Day 5:** Viana do Castelo – Vila Praia de Âncora: 19 km
-
-**Day 6:** Vila Praia de Âncora – Caminha: 9 km
-
+**Extra 2 days route, 140 Km:**
+\
 **Day 7:**Caminha – Oia: 23 km
 
 **Day 8**: Oia – Baiona: 18 km
