@@ -322,8 +322,8 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 
 
 
-**Itinerary 6 Days:**  \
-\
+**Itinerary :**   
+
 **Day 1**: Arrival Porto
 
 **Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
@@ -337,21 +337,10 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 **Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho 
 
 **Day 7:** Departure
+\
+\
+**Optional extra day route: 86 Km:**
+\
+**Day 8:** Régua – Lamego: 18 km
 
-**Itinerary 7 Nights /8 Days, 86 Km:**
-
-**Day 1**: Arrival Porto
-
-**Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
-
-**Day 3:** Vilarinho de São Romão – Alijó: 18 km
-
-**Day 4:** Alijó loop- São Mamede Ribatua: 15 km
-
-**Day 5:** Alijó - Vale de Mendiz: 13 km
-
-**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho + Train To Régua
-
-**Day 7:** Régua – Lamego: 18 km
-
-**Day 8:** Departure
+**Day 9:** Departure
