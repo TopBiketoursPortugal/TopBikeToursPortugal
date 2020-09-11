@@ -118,7 +118,7 @@ pricing:
     package: Self Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -165,7 +165,7 @@ pricing:
     package: Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -209,7 +209,7 @@ pricing:
     package: Guided Hiking tour Plus
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -229,7 +229,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
