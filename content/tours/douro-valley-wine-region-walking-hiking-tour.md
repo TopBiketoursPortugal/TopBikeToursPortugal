@@ -287,7 +287,7 @@ afterpricing: >-
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
-  * In the option 7 nights/ 8 days, 6 light lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
+  * In the option 7 nights/ 8 days, 6 lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
 
 
   **Extras**
