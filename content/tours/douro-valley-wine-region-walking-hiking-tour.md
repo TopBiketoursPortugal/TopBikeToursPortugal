@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 3
 path: /hiking-douro-valley-wine-region
 productcode: DOURO01
 featured: true
