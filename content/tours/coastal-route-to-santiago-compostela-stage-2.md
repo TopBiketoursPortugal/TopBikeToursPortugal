@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 4
+order: 2
 path: /hiking-coast-santiago-compostela-stage-2
 productcode: ST04
 featured: false
