@@ -336,7 +336,7 @@ feature:
 ---
 # Portuguese Coastal route to Santiago de Compostela: Stage 1
 
-## The "easy" Coastal route to St. James hiking trail
+## **Follow the Atlantic breeze towards Santiago**
 
 Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside areas such as Póvoa, Esposende, Vila Praia de Âncora, Caminha and Baiona.
 
@@ -346,15 +346,15 @@ You may also consider our [Easy route North of Atlantic Coast](https://topwalkin
 
 This hike is divided in two different stages. Stage 1 which goes through Portuguese territory and [stage 2](https://topwalkingtoursportugal.com/hiking-coast-santiago-compostela-stage-2) which takes you through Spain to Santiago de Compostela. For a complete experience you might think to book the 2 stages,
 
-
-
 **Route description**
 
 * All days are mostly flat with very few and minor hills
 * The main roads are avoided for the majority of the time and as such every kind of terrain is used during this walk
-
+\
+\
 **Itinerary 6 Nights / 7 days:**
-
+\
+\
 **Day 1:** Porto
 
 **Day 2**: Transfer to Praia da memória – Póvoa: 20 km
