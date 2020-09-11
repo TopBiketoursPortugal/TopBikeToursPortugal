@@ -241,7 +241,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
