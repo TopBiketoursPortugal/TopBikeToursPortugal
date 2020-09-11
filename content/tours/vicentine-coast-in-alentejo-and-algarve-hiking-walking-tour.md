@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 4
 path: /hiking-alentejo-vicentine-southeast-portugal-coast
 productcode: VC01
 featured: true
