@@ -159,7 +159,7 @@ pricing:
         value: 1.425€
     type: ""
     observations: ""
-    price: 1177
+    price: 1175
     discount: 0
   - bestValue: false
     package: Guided Hiking tour
