@@ -239,6 +239,7 @@ pricing:
       - title: Min. Participants
         value: 8 Pax
       - title: 6 Nights / 7 Days
+        value: Price per person
       - title: "* Low season"
         value: 2.087€
       - title: "* Regular season"
