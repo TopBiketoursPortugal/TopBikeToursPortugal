@@ -157,7 +157,7 @@ pricing:
     package: " Self guided Option 2"
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 2 Nights (4 and 5 star)
+        value: 2 Night in 4 star hotel
       - title: Luggage shuttling
         value: yes
       - title: GPS With route per booking
