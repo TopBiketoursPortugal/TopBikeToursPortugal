@@ -28,8 +28,8 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1XlRdmzP_1pcMaHZxY4GOjww5Aks
 itinerary:
   - day: "0"
     title: Guided bike tour
-    description: "Pick up 8:30 am and estimated end ant 7 pm: Arco do Baúlhe -
-      Amarante: 40 km"
+    description: "Pick up 8:30 am and estimated end ant 7 pm: Vila Real - Régua -
+      Lamego - Pinhão: 25 km, 50 km or 77 km"
     location:
       lat: "1"
       lng: "1"
