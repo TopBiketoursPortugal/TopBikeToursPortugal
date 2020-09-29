@@ -35,13 +35,13 @@ itinerary:
       lng: "1"
   - day: "1"
     title: "Self guided Option 1: 8h00 Pick up in Porto district and transfer to
-      Vila real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
+      Vila Real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
       km"
     location:
       lat: "1"
       lng: "1"
     description: "Self guided Option 2: 8h00 Pick up in Porto district and transfer
-      to Vila real: Route: Vila Real - Régua - Lamego: 40 km"
+      to Vila Real: Route: Vila Real - Régua - Lamego: 40 km"
   - day: "2"
     title: "Self guided Option 1: Lamego - Pinhão: 35 km and Transfer back to Porto"
     description: "Self guided Option 2: extra day in Pinhão: Route: Lamego - Pinhão: 35 km"
