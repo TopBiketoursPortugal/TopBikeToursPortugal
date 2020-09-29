@@ -80,7 +80,7 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: GPS With route per booking
-        value: No
+        value: Yes
       - title: Bike rent
         value: Yes
       - title: Van Support
