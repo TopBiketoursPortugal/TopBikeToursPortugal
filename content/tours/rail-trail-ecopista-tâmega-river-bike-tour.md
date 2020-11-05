@@ -28,20 +28,20 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1XlRdmzP_1pcMaHZxY4GOjww5Aks
 itinerary:
   - day: "0"
     title: Guided bike tour
-    description: "Pick up 8:30 am and estimated end ant 7 pm: Arco do Baúlhe -
-      Amarante: 40 km"
+    description: "Pick up 8:30 am and estimated end ant 7 pm: Vila Real - Régua -
+      Lamego - Pinhão: 25 km, 50 km or 77 km"
     location:
       lat: "1"
       lng: "1"
   - day: "1"
     title: "Self guided Option 1: 8h00 Pick up in Porto district and transfer to
-      Vila real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
+      Vila Real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
       km"
     location:
       lat: "1"
       lng: "1"
     description: "Self guided Option 2: 8h00 Pick up in Porto district and transfer
-      to Vila real: Route: Vila Real - Régua - Lamego: 40 km"
+      to Vila Real: Route: Vila Real - Régua - Lamego: 40 km"
   - day: "2"
     title: "Self guided Option 1: Lamego - Pinhão: 35 km and Transfer back to Porto"
     description: "Self guided Option 2: extra day in Pinhão: Route: Lamego - Pinhão: 35 km"
@@ -80,7 +80,7 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: GPS With route per booking
-        value: No
+        value: Yes
       - title: Bike rent
         value: Yes
       - title: Van Support
@@ -157,7 +157,7 @@ pricing:
     package: " Self guided Option 2"
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: 2 Nights (4 and 5 star)
+        value: 2 Night in 4 star hotel
       - title: Luggage shuttling
         value: yes
       - title: GPS With route per booking
@@ -237,40 +237,42 @@ The views will be breathtaking...vineyards, farms and the famous Douro river in 
 In a full day it is possible to visit 2 Farms (with wine taste) and make a little boat tour if available. The plan is to cycle in the morning, lunch, visit some viewpoints and farms and make a little boat tour.
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
-
+\
+\
 **Route description:**
 
 * Routes available with 25 km, 50 km or 77 km
 * The first 22 km are going in a descent way and the rest of the route can be in a uphill till Lamedo or relatively flat till Pinhão. It is also possible to do all the route.
 * This easy bike tour can be adapted to be more challenged (difficult)
-* In Self guided the bike tour will have a moderate climb of 15 km. Book a electric bicycle to make the route very easy.\
-  \
+* In Self guided the bike tour will have a moderate climb of 15 km. Book a electric bicycle to make the route very easy.
+\
+\
   **Itinerary Supported Bike tour:**
-
+\
 **Day 1:**  Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77 km
 \
 \
 **Itinerary Self guided bike tour Option 1;**
-
+\
 **Day 1:** Transfer from Porto to Vila Real:
 
 * Vila Real - Régua - Lamego: 40 km
 * Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
-
+\
 **Day 2:** Lamego - Pinhão: 35 km
 
 * Trasnfer back to Porto
-  \
-  \
+\
+\
   **Itinerary Self guided bike tour Option 2:**
-
+\
 **Day 1:** Transfer from Porto to Vila Real:
 
 * Vila Real - Régua - Lamego: 40 km
 * Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
-
+\
 **Day 2:** Lamego - Pinhão: 35 km
 
 * Sleep in Farm: [](https://www.casadacalcada.com/)[Quinta de la Rosa](https://www.quintadelarosa.com/)
-
+\
 **Day 3:** Transfer back to Porto
