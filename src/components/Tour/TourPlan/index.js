@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import styled from "styled-components";
+import { HTMLMarkdownContent } from "../../Content";
 // import { compose, withProps } from "recompose";
 // import {
 //   withScriptjs,
@@ -67,6 +68,9 @@ const Description = styled.div`
   font-size: 1.2rem;
   margin-top: 10px;
   margin-bottom: 15px;
+    a {
+    text-decoration: underline;
+  }
 `;
 
 const TourPlan = ({ tour: { itinerary }, googleApiKey, location }) => {
@@ -80,7 +84,11 @@ const TourPlan = ({ tour: { itinerary }, googleApiKey, location }) => {
                 <Circle>{item.day}</Circle>
                 <div>
                   <Title>{item.title}</Title>
-                  <Description>{item.description}</Description>
+                  <Description>
+                    <HTMLMarkdownContent
+                      content={item.description}
+                    />
+                  </Description>
                 </div>
               </TourPlanContainer>
             ))}
