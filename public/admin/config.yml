@@ -458,7 +458,7 @@ collections:
           - {
               label: description,
               name: description,
-              widget: string,
+              widget: markdown,
               required: false,
             }
           - label: Location
