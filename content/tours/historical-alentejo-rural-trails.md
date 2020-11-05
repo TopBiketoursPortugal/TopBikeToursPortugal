@@ -22,7 +22,7 @@ distance: 99
 distanceUnit: km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 2
+difficulty: 3
 mapUrl: https://www.google.com/maps/d/embed?mid=1-I4LP1ywrOVBksuxUEKPamnUahXHfUwC
 itinerary:
   - day: "1"
@@ -200,7 +200,7 @@ pricing:
       - title: "* Summer Season"
         value: 1.425€
       - title: 9 Nights / 10 Days ( price per person)
-        value: +796€
+        value: +686€
     price: 1175
   - bestValue: false
     package: Guided Hiking tour
@@ -227,7 +227,7 @@ pricing:
       - title: 6 light Picnics
         value: Yes
       - title: 6 Dinners
-        value: Yes
+        value: No
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -271,7 +271,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
-        value: Yes
+        value: 6 Lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance

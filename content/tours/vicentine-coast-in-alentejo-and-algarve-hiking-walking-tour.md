@@ -1,12 +1,12 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 4
 path: /hiking-alentejo-vicentine-southeast-portugal-coast
 productcode: VC01
 featured: true
 language: en
 image: /img/zambujeira-do-mar-hike.webp
-title: Vicentine Coast in Alentejo Stage 1
+title: "Vicentine West Coast in Alentejo: Stage 1"
 packagetype: PackageTour
 tourtype: Walking
 meta:
@@ -118,7 +118,7 @@ pricing:
     package: Self Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -159,13 +159,13 @@ pricing:
         value: 1.425€
     type: ""
     observations: ""
-    price: 1177
+    price: 1175
     discount: 0
   - bestValue: false
     package: Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -209,7 +209,7 @@ pricing:
     package: Guided Hiking tour Plus
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
@@ -229,7 +229,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
@@ -239,6 +239,7 @@ pricing:
       - title: Min. Participants
         value: 8 Pax
       - title: 6 Nights / 7 Days
+        value: Price per person
       - title: "* Low season"
         value: 2.087€
       - title: "* Regular season"
@@ -292,7 +293,7 @@ feature:
   image: /img/walking-pescadores-trail.jpg
   bokunLinkText: Book now
 ---
-# Vicentine Coast in Alentejo Hiking & walking tour
+# Vicentine West Coast in Alentejo Hiking & walking tour
 
 ## The south of Portugal through the coastline
 

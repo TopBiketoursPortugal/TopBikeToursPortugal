@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 4
+order: 7
 path: /hiking-coast-santiago-compostela-stage-2
 productcode: ST04
 featured: false
@@ -258,7 +258,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
-        value: Yes
+        value: 6 Lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance

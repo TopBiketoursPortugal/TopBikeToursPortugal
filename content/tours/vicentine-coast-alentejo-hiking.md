@@ -1,12 +1,12 @@
 ---
 templateKey: tour-gen
-order: 10
+order: 6
 path: /hiking-algarve-vicentine-southeast-portugal-coast
 productcode: VC02
 featured: false
 language: en
 image: /img/vicentina-coast-walking-trail.jpg
-title: Vicentine Coast Algarve - Stage 2
+title: "Vicentine West Coast in Algarve: Stage 2"
 packagetype: PackageTour
 tourtype: Walking
 meta:
@@ -160,7 +160,9 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
+        value: Yes
       - title: Train or Bus Tickets Back to Lisbon
+        value: Yes
       - title: Van Support
         value: Yes (minimum 8 pax)
       - title: Roadbook + Briefing
@@ -202,6 +204,7 @@ pricing:
       - title: Luggage shuttling
         value: Yes
       - title: Lisbon Airport Transfers
+        value: Yes
       - title: Train or Bus Tickets Back to Lisbon
         value: Yes
       - title: Van Support
@@ -217,7 +220,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
@@ -281,7 +284,7 @@ feature:
   image: /img/vicentina-coast-walking-trail.jpg
   bokunLinkText: Book now
 ---
-# **Vicentine Coast Algarve Walking & Hiking tour**
+# **Vicentine West Coast Algarve Walking & Hiking tour**
 
 ## **Explore Algarve’s coast line and the fisherman trail**
 

@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 8
 path: /santiago-Compostela-hiking-original-route-porto
 productcode: ST01
 featured: true
@@ -263,6 +263,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 6 light Picnics
+        value: 6 Lunches
       - title: 6 Dinners
         value: Yes
       - title: Personal Accident Insurance

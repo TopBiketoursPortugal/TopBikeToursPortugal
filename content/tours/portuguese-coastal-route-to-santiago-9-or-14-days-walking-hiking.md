@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 2
 path: /hiking-coast-santiago-compostela
 productcode: ST03
 featured: false
@@ -152,7 +152,7 @@ pricing:
     package: Self Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4,/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Porto Airport Transfers
@@ -198,7 +198,7 @@ pricing:
     package: Guided Hiking tour
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4,/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Porto Airport Transfers
@@ -244,7 +244,7 @@ pricing:
     package: Guided Hiking tour Plus
     packageContents:
       - title: Accommodations W/ Breakfast
-        value: Yes (4 stars, farms or rural houses)
+        value: Yes (4,/3 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
       - title: Porto Airport Transfers
@@ -264,7 +264,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 Lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
@@ -310,7 +310,7 @@ afterpricing: >-
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
-  * In the option 8 nights/ 9 days, 8 light lunches are included in all packages, and 8 dinners are included only in the Guided Hiking tour Plus package
+  * In the option 8 nights/ 9 days, 8 lunches are included in all packages, and 8 dinners are included only in the Guided Hiking tour Plus package
 
 
   **Extras**
@@ -336,7 +336,7 @@ feature:
 ---
 # Portuguese Coastal route to Santiago de Compostela: Stage 1
 
-## The "easy" Coastal route to St. James hiking trail
+## **Follow the Atlantic breeze towards Santiago**
 
 Walk towards Santiago using the Portuguese coastal path. Cross sunny and seaside areas such as Póvoa, Esposende, Vila Praia de Âncora, Caminha and Baiona.
 
@@ -345,8 +345,6 @@ Be in mind this is the original route to Santiago de Compostela “near” the C
 You may also consider our [Easy route North of Atlantic Coast](https://topwalkingtoursportugal.com/hiking-atlantic-coast-porto).
 
 This hike is divided in two different stages. Stage 1 which goes through Portuguese territory and [stage 2](https://topwalkingtoursportugal.com/hiking-coast-santiago-compostela-stage-2) which takes you through Spain to Santiago de Compostela. For a complete experience you might think to book the 2 stages,
-
-
 
 **Route description**
 
@@ -371,20 +369,8 @@ This hike is divided in two different stages. Stage 1 which goes through Portugu
 \
 \
 \
-**Itinerary 8 Nights / 9 days, 140 Km:**
-
-**Day 1:** Porto
-
-**Day 2**: Transfer to Praia da memória – Póvoa: 20 km
-
-**Day 3:** Póvoa – Esposende: 25 km
-
-**Day 4**: Esposende – Viana do Castelo: 26 km
-
-**Day 5:** Viana do Castelo – Vila Praia de Âncora: 19 km
-
-**Day 6:** Vila Praia de Âncora – Caminha: 9 km
-
+**Extra 2 days route, 140 Km:**
+\
 **Day 7:**Caminha – Oia: 23 km
 
 **Day 8**: Oia – Baiona: 18 km

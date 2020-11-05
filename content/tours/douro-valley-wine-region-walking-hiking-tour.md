@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 1
+order: 3
 path: /hiking-douro-valley-wine-region
 productcode: DOURO01
 featured: true
@@ -241,7 +241,7 @@ pricing:
       - title: Guide
         value: Yes
       - title: 5 light Picnics
-        value: Yes
+        value: 5 lunches
       - title: 5 Dinners
         value: Yes
       - title: Personal Accident Insurance
@@ -287,7 +287,7 @@ afterpricing: >-
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
-  * In the option 7 nights/ 8 days, 6 light lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
+  * In the option 7 nights/ 8 days, 6 lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
 
 
   **Extras**
@@ -322,8 +322,8 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 
 
 
-**Itinerary 6 Days:**  \
-\
+**Itinerary :**   
+
 **Day 1**: Arrival Porto
 
 **Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
@@ -337,21 +337,11 @@ The region of Douro got its classification as a World Heritage Site in 2001 due 
 **Day 6:** Vale de Mendiz – Pinhão:  9 km +boat cruise to Pocinho 
 
 **Day 7:** Departure
+\
+\
+**Optional extra day route: 86 Km:**
+\
+\
+**Day 8:** Régua – Lamego: 18 km
 
-**Itinerary 7 Nights /8 Days, 86 Km:**
-
-**Day 1**: Arrival Porto
-
-**Day 2:** Walk from Pinhão - Vilarinho de São Romão: 13 km
-
-**Day 3:** Vilarinho de São Romão – Alijó: 18 km
-
-**Day 4:** Alijó loop- São Mamede Ribatua: 15 km
-
-**Day 5:** Alijó - Vale de Mendiz: 13 km
-
-**Day 6:** Vale de Mendiz – Pinhão: 9 km +boat cruise to Pocinho + Train To Régua
-
-**Day 7:** Régua – Lamego: 18 km
-
-**Day 8:** Departure
+**Day 9:** Departure
