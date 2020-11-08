@@ -63,27 +63,29 @@ itinerary:
       leisure and communion with nature. A particular note is the famous "Volta
       dos Sete": a course of approximately 7 km, which combines sea, woods and
       beach, with pure forest, parks, fountains and streams. The typical dishes
-      that stand out are the: "Vidreiro" soup, Cod soup and Rabbit stew.'
+      that stand out are the: "Vidreiro" soup, Cod soup and Rabbit stew. Hotel 4
+      *: [Hotel Mar e Sol ](http://www.hotelmaresol.com/)'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
     title: "Day 2: Figueira da Foz – São Pedro de Moel (65 KM)"
   - day: "3"
-    description: Heading towards Nazaré, a beautiful and quiet seaside town, with a
+    description: "Heading towards Nazaré, a beautiful and quiet seaside town, with a
       breathtaking view from the top of a big cliff, the ride today will be of
       shorter distance. Nowadays, the great attraction of this city are the
       waves and the surfing. This happens due to a submarine geomorphological
-      phenomenon, "Cannon of Nazaré", that allows the formation of giant and
+      phenomenon, \"Cannon of Nazaré\", that allows the formation of giant and
       perfect waves. It is the largest submerged gorge in Europe, with about 170
       kilometres along the coast, which is 5000 meters deep. The Hawaiian surfer
       Garrett McNamara gave it worldwide visibility when, in 2011, he surfed the
-      world's biggest wave.
+      world's biggest wave. Hotel 4 *: [Hotel
+      Praia](http://www.hotelpraia.com/)"
     location:
       lat: "39.60004501"
       lng: "-9.07155991"
     title: "Day 3: São Pedro de Moel – Nazaré (29 Km)"
   - day: "4"
-    description: Leaving Nazaré the next village is Óbidos. Without doubt this town
+    description: "Leaving Nazaré the next village is Óbidos. Without doubt this town
       is one of Portugal's most classic walled settlements and visitors can also
       enjoy amazing views of windmills, vineyards and surrounding farmlands. In
       the residential area below, narrow cobblestone streets are lined with
@@ -93,17 +95,18 @@ itinerary:
       medieval Europe. The second one is the Chocolate Festival. This one also
       attracts great interest from tourists, amazed by the real-life chocolate
       sculptures. São Martinho do Porto is the city of passage today. This
-      region constituted by the "Serra da Pescaria" and by the "Bouro" mountain.
-      In previous geological times they formed a single island. When it was
-      divided it gave rise to the bay of São Martinho do Porto. São Martinho do
-      Porto was even considered the best beach to go with the family in the
-      guide of 2015 beaches of eDreams.
+      region constituted by the \"Serra da Pescaria\" and by the \"Bouro\"
+      mountain. In previous geological times they formed a single island. When
+      it was divided it gave rise to the bay of São Martinho do Porto. São
+      Martinho do Porto was even considered the best beach to go with the family
+      in the guide of 2015 beaches of eDreams. Hotel 4 *: [Hotel real de Óbidos
+      ](http://www.hotelrealdobidos.com/pt/)"
     location:
       lat: "39.3680634"
       lng: "-9.18730437"
     title: "Day 4: Nazaré – Óbidos (47 Km)"
   - day: "5"
-    description: Returning to the coastal area, you will ride towards the city of
+    description: "Returning to the coastal area, you will ride towards the city of
       Peniche. The city was built on a rocky peninsula which is considered by
       geologists, a unique example of the Toarcian turnover during the worldwide
       Early Jurassic extinction. Peniche is known for its long beaches, which
@@ -112,36 +115,41 @@ itinerary:
       consistently windy, which allows for good surfing, with decent waves and
       supertubes. Berlengas islands, about 10 kilometres (6 mi) offshore from
       the peninsula, are part of the municipality. They form one of the world's
-      first nature reserves. You will also be able to make a stop at "Lagoa de
-      Óbidos", which is a lagoon that extends between the municipalities of
+      first nature reserves. You will also be able to make a stop at \"Lagoa de
+      Óbidos\", which is a lagoon that extends between the municipalities of
       Óbidos and Caldas da Rainha. It is a natural barrier that separate the
-      Atlantic Ocean and marine biome from the river ecosystem of "Foz do
-      Arelho" formed by lateral dunes.
+      Atlantic Ocean and marine biome from the river ecosystem of \"Foz do
+      Arelho\" formed by lateral dunes. Hotel 4 *: [MH
+      Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx)"
     location:
       lat: "39.33722515"
       lng: "-9.31285284"
     title: "Day 5: Óbidos – Peniche (35 Km)"
   - day: "6"
-    description: Leaving Peniche but continuing along the coast the next destination
-      is Ericeira. Ericeira is a civil parish and seaside resort/fishing
-      community on the western coast of Portugal, in the municipality of Mafra,
-      about 35 kilometres (22 mi) northwest of the capital, Lisbon. Ericeira was
-      a popular summer retreat for many of Lisbon's families in the 1940s and
-      1950s. Today, it is a popular destination for local and visiting tourists,
-      as well as surfers from around the world. Ericeira is also keen on its
-      musical culture. The local philharmonic, currently named Filarmónica
-      Cultural Ericeira, has existed since 1849 and pursues a path of success in
-      this villages's musical heritage with a permanent free musical school for
-      all who love this type of culture. The beach of Santa Cruz it´s the place
-      of passage during this day, and it is a place that is conducive to a large
-      part of wave sports. Every year there is the "Ocean Spirit" festival of
-      wave sports where international competitions of various kinds are held.
+    description: "Leaving Peniche but continuing along the coast the next
+      destination is Ericeira. Ericeira is a civil parish and seaside
+      resort/fishing community on the western coast of Portugal, in the
+      municipality of Mafra, about 35 kilometres (22 mi) northwest of the
+      capital, Lisbon. Ericeira was a popular summer retreat for many of
+      Lisbon's families in the 1940s and 1950s. Today, it is a popular
+      destination for local and visiting tourists, as well as surfers from
+      around the world. Ericeira is also keen on its musical culture. The local
+      philharmonic, currently named Filarmónica Cultural Ericeira, has existed
+      since 1849 and pursues a path of success in this villages's musical
+      heritage with a permanent free musical school for all who love this type
+      of culture. The beach of Santa Cruz it´s the place of passage during this
+      day, and it is a place that is conducive to a large part of wave sports.
+      Every year there is the \"Ocean Spirit\" festival of wave sports where
+      international competitions of various kinds are held. Hotel 4 *: [Vila
+      Galé
+      Ericeira](http://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-ericei\
+      ra)"
     location:
       lat: "38.9631655"
       lng: "-9.4170098"
     title: "Day 6: Peniche – Ericeira (68 Km)"
   - day: "7"
-    description: On this day, the route leaves the coast and goes to the city of
+    description: "On this day, the route leaves the coast and goes to the city of
       Sintra. This place is known for its many XIXth-century Romantic
       architectural monuments, which has resulted in Sintra's classification by
       UNESCO as a World Heritage Site. It has become a major tourist center,
@@ -149,7 +157,8 @@ itinerary:
       addition to the Sintra Mountains and Sintra-Cascais Nature Park, the
       parishes of the town of Sintra are places with royal retreats, estates,
       castles and other buildings, including the medievil Castelo dos Mouros,
-      the Pena National Palace and the Sintra National Palace.
+      the Pena National Palace and the Sintra National Palace. Hotel 4 *:
+      [Sintra Boutique Hotel  ](http://sintraboutiquehotel.com)"
     location:
       lat: "38.79846"
       lng: "-9.3881"
@@ -168,7 +177,9 @@ itinerary:
       golf destination, with over 10 golf courses nearby. The Sintra – Cascais
       Natural Park it´s a mandatory place to visit and admire, because it is one
       of the 13 Natural Parks of Portugal, it includes the \"Serra de Sintra\"
-      and extends all the way to the coast "
+      and extends all the way to the coast.Hotel 4 *: [Hotel Eurostars Cascais
+      ](https://www.eurostarshotels.com.pt/eurostars-cascais.html?td=l00rl00&id\
+      _referer=GMB&utm_source=google&utm_medium=gmb&utm_campaign=googlemb)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
