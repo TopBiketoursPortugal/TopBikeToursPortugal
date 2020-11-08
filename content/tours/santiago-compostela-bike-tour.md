@@ -46,7 +46,7 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/embed?mid=1xFumA-MEafLJTH8FdgLg6iTTmAnYVEc9
 itinerary:
   - day: "1"
-    description: Before starting this cycling journey towards Santiago de
+    description: "Before starting this cycling journey towards Santiago de
       Compostela, it's almost mandatory to explore Porto, classified as World
       Heritage and Capital of Culture and Tourism. Join us in a city walking
       tour and discover part of the heritage this city has to offer. Meet famous
@@ -54,8 +54,9 @@ itinerary:
       Rowling’s Harry Potter, the magnificent Stock Exchange Market, the blue
       and white tiles hiding at each corner and much more. Art, heritage and
       traditions are meant to be found and seen during this short city tour.
-      Accommodation, Hotel 4
-      stars:[https://www.portotrindadehotel.com/](https://www.portotrindadehotel.com/)
+      Accommodation, Hotel 4 stars: [https://www.portotrindadehotel.com/](Porto
+      Trindade Hotel)  [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
