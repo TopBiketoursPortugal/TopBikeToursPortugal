@@ -45,50 +45,54 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/embed?mid=1xFumA-MEafLJTH8FdgLg6iTTmAnYVEc9
 itinerary:
   - day: "1"
-    description: Antes de ser iniciada a jornada até Santiago de Compostela, é quase
-      obrigatório explorar o Porto, classificado como Património Mundial e
+    description: "Antes de ser iniciada a jornada até Santiago de Compostela, é
+      quase obrigatório explorar o Porto, classificado como Património Mundial e
       Capital da Cultura e Turismo. Junte-se a nós num passeio a pé pela cidade
       e descubra parte do património que esta cidade tem para oferecer. Conheça
       lugares famosos como a livraria que influenciou o livro Harry Potter de
       J.K. Rowling, o magnífico mercado da bolsa, os azulejos azuis e brancos
       que se escondem a cada esquina e muito mais. Arte, património e tradições
-      esperam por si ao longo deste pequeno passeio pela cidade.
+      esperam por si ao longo deste pequeno passeio pela cidade. Accommodation,
+      Hotel 4 stars: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
     title: "Dia 1: Recepção no Porto"
   - day: "2"
-    description: niciará a sua viagem em direcção a Esposende a partir da nossa loja
-      Top Bike Tours Portugal, sediada na Invicta cidade do Porto.  Durante este
-      primeiro dia, verá inúmeras paisagens à beira-mar, assim como pequenas
-      "rivieras portuguesas" Atravessará uma enorme variedade de vilas
+    description: 'niciará a sua viagem em direcção a Esposende a partir da nossa
+      loja Top Bike Tours Portugal, sediada na Invicta cidade do Porto.  Durante
+      este primeiro dia, verá inúmeras paisagens à beira-mar, assim como
+      pequenas "rivieras portuguesas" Atravessará uma enorme variedade de vilas
       piscatórias, como é o caso da Póvoa de Varzim, onde se pode testemunhar
       antigas tradições ligadas à pesca e onde poderá saborear esta famosa
       gastronomia. Em Vila do Conde irá perceber a razão, pela qual estas
       cidades costeiras foram tão importantes durante o período áureo dos
-      Descobrimentos Portugueses.
+      Descobrimentos Portugueses. Accommodation, Hotel 3 stars: [Suave Mar
+      Hotel](https://www.https://www.suavemar.com/)'
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Dia 2: Porto – Esposende (60 km)"
   - day: "3"
-    description: Viana do Castelo estabelece-se como a principal cidade por onde irá
-      passar. Esta serve como mais um belo exemplo de uma cidade de ancoragem à
-      beira-mar, e com uma conotação ancestral e uma enorme importância durante
-      os Descobrimentos. Durante os séculos XIV e XV, foi nesta cidade que foram
-      desenvolvidos os navios, que partiram para o Brasil, Índia, África e
-      outras colónias portuguesas.  O seu destino final será Caminha. Esta
-      cidade encontra o delta do rio Minho, sendo parte de uma paisagem
-      incrível. A cidade de Caminha é largamente conhecida pelo seu património
-      natural, como as áreas de passeios, cachoeiras, praias e parque de
-      campismo.
+    description: "Viana do Castelo estabelece-se como a principal cidade por onde
+      irá passar. Esta serve como mais um belo exemplo de uma cidade de
+      ancoragem à beira-mar, e com uma conotação ancestral e uma enorme
+      importância durante os Descobrimentos. Durante os séculos XIV e XV, foi
+      nesta cidade que foram desenvolvidos os navios, que partiram para o
+      Brasil, Índia, África e outras colónias portuguesas.  O seu destino final
+      será Caminha. Esta cidade encontra o delta do rio Minho, sendo parte de
+      uma paisagem incrível. A cidade de Caminha é largamente conhecida pelo seu
+      património natural, como as áreas de passeios, cachoeiras, praias e parque
+      de campismo. Accommodation, Hotel 4 stars: [Portas do Sol
+      Hotel](https://hotelportadosol.com/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Dia 3: Esposende – Caminha (50 km)"
   - day: "4"
-    description: Neste dia vamos começar por atravessar o rio minho e desembarcar em
-      território espanhol. O seu destino, Baiona, é uma cidade politicamente
+    description: "Neste dia vamos começar por atravessar o rio minho e desembarcar
+      em território espanhol. O seu destino, Baiona, é uma cidade politicamente
       ligada a Pontevedra, onde se pode respirar a brisa do mar. Para além da
       paisagem marítima, poderá perder-se no antigo centro da cidade, nascido a
       partir de raízes romanas e que cresceu sempre em direcção ao litoral
@@ -96,12 +100,16 @@ itinerary:
       durante o século XVI, Baiona foi invadida por navios britânicos liderados
       pelo grande corsário e explorador Francis Drake, que viu uma oportunidade
       para estabelecer um ponto comercial e mercantil neste território.
+      Accommodation, Hotel 4 stars: [Parador Baiona
+      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
+      oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
+      rm=organico&utm_content=ficha)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Dia 4: Caminha - Baiona (40 Km)"
   - day: "5"
-    description: Desde a ria de Vigo até à baía de San Simon terá uma paisagem
+    description: 'Desde a ria de Vigo até à baía de San Simon terá uma paisagem
       marítima para regalar os olhos. Seguindo sempre a linha da costa, este dia
       será dedicado a Arcade e às suas famosas ostras. Não obstante esta
       deliciosa iguaria, poderá ainda ver monumentos e pontos turísticos
@@ -112,12 +120,14 @@ itinerary:
       semana de abril ocorre um festival dedicado a esta gastronomia
       tradicional, a "Fiesta de la Ostra", onde a cidade se encontra repleta de
       turistas e peregrinos que vêm de longe para participar neste evento.
+      Accommodation, Hotel 4 stars: [Parador Pontevedra
+      Hotel](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedra&utm_term=organico&utm_content=ficha)'
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Dia 5: Baiona – Pontevedra (64 km)"
   - day: "6"
-    description: De acordo com os arquivos históricos, Caldas de rei tem a sua
+    description: 'De acordo com os arquivos históricos, Caldas de rei tem a sua
       origem numa comunidade pré-romana que vivia das fontes termais deste
       território. O seu nome está ligado ao local de nascimento de Afonso VII,
       altura em que actuava já como um caminho de peregrinação a Santiago de
@@ -126,20 +136,22 @@ itinerary:
       pão tradicional espanhol. Uma vez que as fontes de água quente
       acompanharam a evolução deste território, hoje em dia é um ponto de
       interesse turístico para quem procura tratamentos mais saudáveis para
-      diversas doenças.
+      diversas doenças. Accommodation, Rural House: [Torre do
+      Rio](https://torredorio.es/en/)'
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Dia 6: Pontevedra – Caldas dos Reis (26 km)"
   - day: "7"
-    description: O último e sétimo dia será percorrido desde Caldas de Reis até
+    description: "O último e sétimo dia será percorrido desde Caldas de Reis até
       Santiago de Compostela, o nosso destino final e um dos núcleos de
       peregrinação religiosa na Europa Ocidental.  Tal como Roma e Jerusalém, a
       cidade de Santiago de Compostela apresenta-se-nos como um ícone religioso
       único para os turistas, que encontram nesta viagem de ciclismo um acto de
       fé e de realização interna. Chegará à Praça de Obradoiro, onde terá a
       possibilidade de contemplar a majestosa catedral barroca, onde os restos
-      mortais do apóstolo estão localizados.
+      mortais do apóstolo estão localizados. Accommodation, Hotel 4 stars:
+      [Compostela Hotel](https://www.hotelcompostela.es/es/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
