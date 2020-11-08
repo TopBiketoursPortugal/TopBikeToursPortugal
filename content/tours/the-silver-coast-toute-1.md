@@ -44,12 +44,12 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dNH8SL7
 itinerary:
   - day: "1"
-    description: ""
+    description: "Accommodation, Hotel 4 stars: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
-    title: "Day 1: Reception at Porto. Accommodation, Hotel 4 stars: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+    title: "Day 1: Reception at Porto."
   - day: "2"
     description: "You will make the coast towards the small village of Furadouro.
       Leaving Porto, you will cross the city center of Porto, heading toward the
