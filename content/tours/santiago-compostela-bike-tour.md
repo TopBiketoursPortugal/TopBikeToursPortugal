@@ -54,54 +54,59 @@ itinerary:
       Rowling’s Harry Potter, the magnificent Stock Exchange Market, the blue
       and white tiles hiding at each corner and much more. Art, heritage and
       traditions are meant to be found and seen during this short city tour.
-      Accommodation, Hotel 4 stars: [https://www.portotrindadehotel.com/](Porto
-      Trindade Hotel)  [Porto Trindade
+      Accommodation, Hotel 4 stars: [Porto Trindade
       Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
     title: "Day 1: Reception at Porto"
   - day: "2"
-    description: From our store, based in the “Invicta” city of Porto, we will begin
-      our journey heading to Esposende, a seaside city located to the North.
-      During this day, you will be overwhelmed with seaside landscapes and small
-      “Portuguese rivieras”. A huge variety of fishing villages will be met by
-      us, where we can experience ancient traditions linked to the fish
-      exploration, as well as taste this famous gastronomy. In Vila do Conde,
-      you’ll know why these Portuguese coastal cities were so important during
-      the “el dorado” of the Portuguese Discoveries
+    description: "From our store, based in the “Invicta” city of Porto, we will
+      begin our journey heading to Esposende, a seaside city located to the
+      North. During this day, you will be overwhelmed with seaside landscapes
+      and small “Portuguese rivieras”. A huge variety of fishing villages will
+      be met by us, where we can experience ancient traditions linked to the
+      fish exploration, as well as taste this famous gastronomy. In Vila do
+      Conde, you’ll know why these Portuguese coastal cities were so important
+      during the “el dorado” of the Portuguese Discoveries. Accommodation, Hotel
+      3 stars: [Suave Mar Hotel](https://www.https://www.suavemar.com/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 2: Porto – Esposende (60 km)"
   - day: "3"
-    description: We’re reaching Viana do Castelo, another sea docking city that was
+    description: "We’re reaching Viana do Castelo, another sea docking city that was
       quite important during the Discoveries’ period. During the XIV-XVth
       Centuries it was in this precise city that the ships going to Brazil,
       India, Africa and other Portuguese Colonies were developed. Our final
       destination will be Caminha. This city finds the shore of the river Minho,
       making it part of an incredible landscape. Caminha is also very well known
       for its natural and green heritage, like the sightseeing areas,
-      waterfalls, beaches and the camping park.
+      waterfalls, beaches and the camping park.Accommodation, Hotel 4 stars:
+      [Portas do Sol Hotel](https://hotelportadosol.com/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 3: Esposende – Caminha (50 km)"
   - day: "4"
-    description: You are going to enter in Spanish territory, ending in Bayona. It’s
-      a city politically linked to Pontevedra, where you can breathe the sea
-      breeze. Away from the sea landscape, you can also get lost in the old city
-      center. Born from the Romans, the city kept growing towards the coast
-      during the Middle Ages, with an influence from the Catholic Church.
-      Curiously, during the XVI Century, Bayona was raided by British ships, led
-      by the great corsair and explorer Francis Drake who saw an opportunity to
-      establish a commercial and merchant point in this territory.
+    description: "You are going to enter in Spanish territory, ending in Bayona.
+      It’s a city politically linked to Pontevedra, where you can breathe the
+      sea breeze. Away from the sea landscape, you can also get lost in the old
+      city center. Born from the Romans, the city kept growing towards the coast
+      during the Middle Ages, with an influence frorancis Drake who saw an
+      opportunity to establish a commercial and merchant point in this
+      territory. Accommodation, Hotel 4 stars: [Parador Baiona
+      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
+      oogleMyBusiness&utm_medium=linkgoogle&um the Catholic Church. Curiously,
+      during the XVI Century, Bayona was raided by British ships, led by the
+      great corsair and explorer
+      Ftm_campaign=paradordebaiona&utm_term=organico&utm_content=ficha)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 4: Caminha – Baiona (40 km)"
   - day: "5"
-    description: This day will encompass the stream of Vigo and will end in San
+    description: "This day will encompass the stream of Vigo and will end in San
       Simon's bay with a watery landscape to feast your eyes on. Always
       following the coastline, this day will be dedicated to Arcade and its
       famous oysters. Apart from this delightful cuisine, you will see monuments
@@ -112,13 +117,16 @@ itinerary:
       in the waters of this region. Curiously, during April’s first week there
       is a festival dedicated to this traditional gastronomy – “Fiesta de la
       Ostra” – where the city is filled with tourists and pilgrims to attend
-      this event.
+      this event. Accommodation, Hotel 4 stars: [Parador Pontevedra
+      Hotel](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_sour\
+      ce=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedr\
+      a&utm_term=organico&utm_content=ficha)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 5: Baiona – Pontevedra (64 km)"
   - day: "6"
-    description: Heading to a pre-Roman city, Caldas de Reis, a province which
+    description: "Heading to a pre-Roman city, Caldas de Reis, a province which
       belongs to Pontevedra. According to historical archives, the first
       inhabitants were a pre-Roman community that lived from the hot springs of
       this territory. The name “Caldas de Reis” is connected to the birthplace
@@ -127,19 +135,21 @@ itinerary:
       de Reis holds a peculiar gastronomy, such as the “empanadas” of lamprey
       and the traditional Spanish bread. Since the hot springs accompanied the
       evolution of this territory, nowadays it is a hot spot for tourism who
-      seeks better healthy treatments for several illnesses
+      seeks better healthy treatments for several illnesses. Accommodation,
+      Rural House: [Torre do Rio](https://torredorio.es/en/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 6: Pontevedra – Caldas dos Reis (26 km)"
   - day: "7"
-    description: You will be met by Santiago de Compostela as your final
+    description: "You will be met by Santiago de Compostela as your final
       destination, one of the ultimate pilgrimage cores in Western Europe. Like
       Rome and Jerusalem, the city of Santiago de Compostela presents us an
       unique religious beacon for tourists who find in this cycling journey an
       act of faith and inner-self. Reach the Square of Obradoiro, where you will
       witness the majestic baroque cathedral where the remains of the apostle
-      are located.
+      are located. Accommodation, Hotel 4 stars: [Compostela
+      Hotel](https://www.hotelcompostela.es/es/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
