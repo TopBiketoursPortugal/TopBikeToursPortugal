@@ -52,9 +52,8 @@ itinerary:
       lugares famosos como a livraria que influenciou o livro Harry Potter de
       J.K. Rowling, o magnífico mercado da bolsa, os azulejos azuis e brancos
       que se escondem a cada esquina e muito mais. Arte, património e tradições
-      esperam por si ao longo deste pequeno passeio pela cidade. Accommodation,
-      Hotel 4 stars: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+      esperam por si ao longo deste pequeno passeio pela cidade. Alojamento,
+      Hotel 4 *: [Porto Trindade Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
@@ -68,8 +67,8 @@ itinerary:
       antigas tradições ligadas à pesca e onde poderá saborear esta famosa
       gastronomia. Em Vila do Conde irá perceber a razão, pela qual estas
       cidades costeiras foram tão importantes durante o período áureo dos
-      Descobrimentos Portugueses. Accommodation, Hotel 3 stars: [Suave Mar
-      Hotel](https://www.suavemar.com/)'
+      Descobrimentos Portugueses. Alojamento, Hotel 4 *: [Portas do Sol
+      Hotel](https://hotelportadosol.com/)'
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -84,8 +83,10 @@ itinerary:
       será Caminha. Esta cidade encontra o delta do rio Minho, sendo parte de
       uma paisagem incrível. A cidade de Caminha é largamente conhecida pelo seu
       património natural, como as áreas de passeios, cachoeiras, praias e parque
-      de campismo. Accommodation, Hotel 4 stars: [Portas do Sol
-      Hotel](https://hotelportadosol.com/)"
+      de campismo. Alojamento, Hotel 4 *: [Parador Baiona
+      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
+      oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
+      rm=organico&utm_content=ficha)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -100,7 +101,7 @@ itinerary:
       durante o século XVI, Baiona foi invadida por navios britânicos liderados
       pelo grande corsário e explorador Francis Drake, que viu uma oportunidade
       para estabelecer um ponto comercial e mercantil neste território.
-      Accommodation, Hotel 4 stars: [Parador Baiona
+      Alojamento, Hotel 4 *: [Parador Baiona
       Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
       oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
       rm=organico&utm_content=ficha)"
@@ -120,7 +121,7 @@ itinerary:
       semana de abril ocorre um festival dedicado a esta gastronomia
       tradicional, a "Fiesta de la Ostra", onde a cidade se encontra repleta de
       turistas e peregrinos que vêm de longe para participar neste evento.
-      Accommodation, Hotel 4 stars: [Parador Pontevedra
+      Alojamento, Hotel 4 *: [Parador Pontevedra
       Hotel](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedra&utm_term=organico&utm_content=ficha)'
     location:
       lat: "41.15591"
@@ -136,7 +137,7 @@ itinerary:
       pão tradicional espanhol. Uma vez que as fontes de água quente
       acompanharam a evolução deste território, hoje em dia é um ponto de
       interesse turístico para quem procura tratamentos mais saudáveis para
-      diversas doenças. Accommodation, Rural House: [Torre do
+      diversas doenças. Alojamento, Casa Rural: [Torre do
       Rio](https://torredorio.es/en/)'
     location:
       lat: "41.15591"
@@ -150,8 +151,8 @@ itinerary:
       único para os turistas, que encontram nesta viagem de ciclismo um acto de
       fé e de realização interna. Chegará à Praça de Obradoiro, onde terá a
       possibilidade de contemplar a majestosa catedral barroca, onde os restos
-      mortais do apóstolo estão localizados. Accommodation, Hotel 4 stars:
-      [Compostela Hotel](https://www.hotelcompostela.es/es/)"
+      mortais do apóstolo estão localizados. Alojamento, Hotel 4 *: [Compostela
+      Hotel](https://www.hotelcompostela.es/es/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
