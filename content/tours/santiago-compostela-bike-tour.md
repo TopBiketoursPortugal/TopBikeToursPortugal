@@ -54,6 +54,8 @@ itinerary:
       Rowling’s Harry Potter, the magnificent Stock Exchange Market, the blue
       and white tiles hiding at each corner and much more. Art, heritage and
       traditions are meant to be found and seen during this short city tour.
+      Accommodation, Hotel 4
+      stars:[https://www.portotrindadehotel.com/](https://www.portotrindadehotel.com/)
     location:
       lat: "41.15293"
       lng: "-8.61005"
