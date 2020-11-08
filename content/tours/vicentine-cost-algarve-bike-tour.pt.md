@@ -73,7 +73,7 @@ itinerary:
       guardados de Portugal. Grande parte do seu território está dentro dos
       limites da Reserva Natural do Estuário do Sado, um paraíso de vida
       selvagem protegido e com uma enorme variedade de pássaros. Hotel 5 *:
-      [Design Hotel Troia](Design Hotel Troia)'
+      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/)'
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
