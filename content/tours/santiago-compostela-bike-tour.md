@@ -90,17 +90,17 @@ itinerary:
     title: "Day 3: Esposende – Caminha (50 km)"
   - day: "4"
     description: "You are going to enter in Spanish territory, ending in Bayona.
-      It’s a city politically linked to Pontevedra, where you can breathe the
-      sea breeze. Away from the sea landscape, you can also get lost in the old
-      city center. Born from the Romans, the city kept growing towards the coast
-      during the Middle Ages, with an influence frorancis Drake who saw an
-      opportunity to establish a commercial and merchant point in this
-      territory. Accommodation, Hotel 4 stars: [Parador Baiona
+      It’s a city politically linked to Pontevedra where you can breathe the sea
+      breeze. Away from the sea landscape you can also get lost in the old city
+      center. Born from the Romans, the city kept growing towards the coast
+      during the Middle Ages, with an influence from the Catholic Church.
+      Curiously, during the XVI Century, Bayona was raided by British ships, led
+      by the great corsair and explorer Francis Drake who saw an opportunity to
+      establish a commercial and merchant point in this territory.Accommodation,
+      Hotel 4 stars: [Parador Baiona
       Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
-      oogleMyBusiness&utm_medium=linkgoogle&um the Catholic Church. Curiously,
-      during the XVI Century, Bayona was raided by British ships, led by the
-      great corsair and explorer
-      Ftm_campaign=paradordebaiona&utm_term=organico&utm_content=ficha)"
+      oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
+      rm=organico&utm_content=ficha) "
     location:
       lat: "41.15591"
       lng: "-8.60248"
