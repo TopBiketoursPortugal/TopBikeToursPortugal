@@ -69,7 +69,7 @@ itinerary:
       fish exploration, as well as taste this famous gastronomy. In Vila do
       Conde, you’ll know why these Portuguese coastal cities were so important
       during the “el dorado” of the Portuguese Discoveries. Accommodation, Hotel
-      3 stars: [Suave Mar Hotel](https://www.https://www.suavemar.com/)"
+      3 stars: [Suave Mar Hotel](https://www.suavemar.com/)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
