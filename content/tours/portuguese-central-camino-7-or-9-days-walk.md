@@ -29,106 +29,131 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1oVmYPIE-0FEOv07T8BxVmpvmL7d
 itinerary:
   - day: "1"
     title: "Day 1: Porto"
-    description: "Welcome to Porto, the city of the thousand histories and one of
-      the oldest city of Europe.   Surround by the Douro River, the city was
-      classified as the Unesco World Heritage in 1996, due to that, the façade
-      of the historical buildings cannot be changed, preserving, in this way,
-      the past of a city known for the wine, its bridges and its historic
-      center.  In the capital of culture and tourism, join us in a city walking
-      tour and discover part of the heritage this city has to offer. Meet famous
-      and well-known hot spots, such as, the bookstore that influenced J.K
-      Rowling´s Harry Potter, the church and tower of Clérigos, the São Bento
-      train station with the blue and white tiles hiding at each corner, the
+    description: >-
+      Welcome to Porto, the city of the thousand histories and one of the oldest
+      city of Europe.   Surround by the Douro River, the city was classified as
+      the Unesco World Heritage in 1996, due to that, the façade of the
+      historical buildings cannot be changed, preserving, in this way, the past
+      of a city known for the wine, its bridges and its historic center.  In the
+      capital of culture and tourism, join us in a city walking tour and
+      discover part of the heritage this city has to offer. Meet famous and
+      well-known hot spots, such as, the bookstore that influenced J.K Rowling´s
+      Harry Potter, the church and tower of Clérigos, the São Bento train
+      station with the blue and white tiles hiding at each corner, the
       magnificent Stock Exchange Market and more. Art, heritage and traditions
-      are meant to be found and seen during this short city tour. "
+      are meant to be found and seen during this short city tour. 
+
+
+      Hotel 4*: [Trindade Hotel](https://www.portotrindadehotel.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "2"
     title: "Day 2: Porto to Vilar do Pinheiro tranfer – Arcos: 18 km "
-    description: "The beginning of this journey will connect two villages of Vila do
-      Conde city. Starting in Vilar do Pinheiro, a 18km walk awaits. The highest
-      point at 108m and the lowest at 16m, the pathway will be made in national
-      and pavement roads or asphalt roads surrounded by corn fields or
+    description: >-
+      The beginning of this journey will connect two villages of Vila do Conde
+      city. Starting in Vilar do Pinheiro, a 18km walk awaits. The highest point
+      at 108m and the lowest at 16m, the pathway will be made in national and
+      pavement roads or asphalt roads surrounded by corn fields or
       florets.  Some of the areas that might spark your interest during the day
       are: church of Santa Maria de Vilar do Pinheiro, a 18th century temple and
       the bridge of São Miguel dos Arcos, an roman bridge with three-arch built
       in the XIII century that cross the Ave river. In this region it’s almost
-      mandatory to try the northern gastronomy. "
+      mandatory to try the northern gastronomy. 
+
+
+      Rural Farm: [Quinta São Miguel de Arcos](https://countryhotel-quintasaomiguel.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Arcos – Barcelos: 15 km "
-    description: "In this second day the destination is the medieval city of
-      Barcelos, known for the it’s symbol, the rooster of Barcelos. In fact, the
-      legend of the rooster it is well connected to a pilgrim of Santiago de
-      Compostela, so this will be a day to discover what is behind of this city.
-      During the day, the pilgrims, are going to pass by the Ecopista do ramal
-      de Famalicão and  discover the Sanctuary of Franqueira, considered a
-      sacred mount to the local people is a cultural, archaeological and
-      religious place surround by an amazing nature.  The journey is majorly
-      made in asphalt or pavement roads surround by corn fields or forests, very
-      similar with the day before.  In the Cavádo River, the walkers will have
-      the opportunity to cross the medieval bridge of Barcelos, which will open
-      the way to discover the Paço dos Condes an old castle from the XV century
-      now in ruins, classified as cultural heritage in 1910. In the city of
-      Barcelos, embrace the opportunity to visit the historic center surround by
-      gardens and discover the church of Bom Jesus da cruz an baroque church
-      with Italian influence, considered the main church of the city. "
+    description: >-
+      In this second day the destination is the medieval city of Barcelos, known
+      for the it’s symbol, the rooster of Barcelos. In fact, the legend of the
+      rooster it is well connected to a pilgrim of Santiago de Compostela, so
+      this will be a day to discover what is behind of this city. During the
+      day, the pilgrims, are going to pass by the Ecopista do ramal de Famalicão
+      and  discover the Sanctuary of Franqueira, considered a sacred mount to
+      the local people is a cultural, archaeological and religious place
+      surround by an amazing nature.  The journey is majorly made in asphalt or
+      pavement roads surround by corn fields or forests, very similar with the
+      day before.  In the Cavádo River, the walkers will have the opportunity to
+      cross the medieval bridge of Barcelos, which will open the way to discover
+      the Paço dos Condes an old castle from the XV century now in ruins,
+      classified as cultural heritage in 1910. In the city of Barcelos, embrace
+      the opportunity to visit the historic center surround by gardens and
+      discover the church of Bom Jesus da cruz an baroque church with Italian
+      influence, considered the main church of the city. 
+
+
+      Hotel: [Art Ótel Barcelos](http://www.artotelbarcelos.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "4"
     title: "Day 4: Barcelos – Balugães: 16 km"
-    description: The 16km of this day will be spent in Barcelos villages where the
-      walkers will have the chance to experiencing both Minho’s typical
-      countryside and the different little churches along the way. Until
-      Balugães, the roads are divided between paved road and dirt roads
-      surrounded by forests and pure ar. A degree of elevation will be noticed
-      in the middle of the way reaching the highest point at 194m. Crossing the
-      Neiva River on the top of the Tábuas Bridge, 30 minutes of walk waits
-      until you reach Balugães. To finishing the day, discover the Minho´s
-      gastronomy with the typical and most known wine of the region the vinho
-      verde. And, also, take your time to visit the Nossa Senhora da Aparecida
-      Santuary, in Balugães.  The Sanctuary was built on the top of a rock
-      where, according to the tradition, documented in historical archives,
-      Nossa Senhora would have appeared in 1702.
+    description: >-
+      The 16km of this day will be spent in Barcelos villages where the walkers
+      will have the chance to experiencing both Minho’s typical countryside and
+      the different little churches along the way. Until Balugães, the roads are
+      divided between paved road and dirt roads surrounded by forests and pure
+      ar. A degree of elevation will be noticed in the middle of the way
+      reaching the highest point at 194m. Crossing the Neiva River on the top of
+      the Tábuas Bridge, 30 minutes of walk waits until you reach Balugães. To
+      finishing the day, discover the Minho´s gastronomy with the typical and
+      most known wine of the region the vinho verde. And, also, take your time
+      to visit the Nossa Senhora da Aparecida Santuary, in Balugães.  The
+      Sanctuary was built on the top of a rock where, according to the
+      tradition, documented in historical archives, Nossa Senhora would have
+      appeared in 1702.
+
+
+      Rural House: [Casa do Rio](https://www.casasdoriobarcelos.com/?pg=1&lng=pt)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 5: Balugães – Ponte de Lima: 18 km"
     day: "5"
-    description: "Start this day in Balugães, the road will me made majorly in
-      pavements roads in a rural landscape, with the last 3km in stone pavement
-      notice when you arrive to Ponte de Lima.  Arriving to Ponte de Lima, take
+    description: >-
+      Start this day in Balugães, the road will me made majorly in pavements
+      roads in a rural landscape, with the last 3km in stone pavement notice
+      when you arrive to Ponte de Lima.  Arriving to Ponte de Lima, take
       opportunity to walk through the roman bridge and discover the legend
       behind it and the change to be embrace by the avenue of Plátanos where you
       are going to see plane trees with more than 200 years old. Also, in this
-      village it´s almost mandatory to try the Sarrabulo rice. "
+      village it´s almost mandatory to try the Sarrabulo rice. 
+
+
+      Hotel 4*: [Inlima](http://www.inlimahotel.com/en/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 6: Ponte de Lima – Cossourado: 22km"
     day: "6"
-    description: Start the first day crossing the famous Lima Bridge, the path in
-      the beginning is very smooth with a mix of nature and rural houses,
-      creating amazing landscapes. Continuing the walking, you will notice a
-      little church called Santa Marinha de Arcozelo dated in the XIII century
-      and also a bridge called Arco da Geia built in the roman time.  Along the
-      way you can see some yellow arrows related to the camino of Santiago, very
-      famous among the pilgrims.  Arriving to the final destination, take some
-      time to visit the São Bento da porta aberta Church and at the end of the
-      day enjoy the local gastronomy with the roasted codfish.
+    description: >-
+      Start the first day crossing the famous Lima Bridge, the path in the
+      beginning is very smooth with a mix of nature and rural houses, creating
+      amazing landscapes. Continuing the walking, you will notice a little
+      church called Santa Marinha de Arcozelo dated in the XIII century and also
+      a bridge called Arco da Geia built in the roman time.  Along the way you
+      can see some yellow arrows related to the camino of Santiago, very famous
+      among the pilgrims.  Arriving to the final destination, take some time to
+      visit the São Bento da porta aberta Church and at the end of the day enjoy
+      the local gastronomy with the roasted codfish.
+
+
+      Rural house: [Casa da Capela](http://www.casadacapela.pt/portal/)
     location:
       lat: "1"
       lng: "1"
   - day: "7"
     title: "Day 7: Cossourado – Valença do Minho: 13 km"
-    description: "The second day is the one with less kilometers and it continues
-      the Santiago Camino so prepare to see a lot of pilgrims hiking with you,
-      the road can be a little difficult because it is paved with stones. Along
-      the way you will notice the Matriz fontoura Church built in 1258.  In this
+    description: >-
+      The second day is the one with less kilometers and it continues the
+      Santiago Camino so prepare to see a lot of pilgrims hiking with you, the
+      road can be a little difficult because it is paved with stones. Along the
+      way you will notice the Matriz fontoura Church built in 1258.  In this
       journey, the last city of Portugal to be embrace is Valença or as known as
       Valença do Minho. This place represents since the pass an strategic area
       due to the border that connect the Minho river and Lugo in Spain, famous
@@ -138,7 +163,10 @@ itinerary:
       the population as an European military fortification surrounded by the
       green nature.   Fulfilling the day, the history and the beautiful
       landscape, with the gastronomy, the most typical dishes are the lamb and
-      the codfish known in the “Minho” gastronomy.  "
+      the codfish known in the “Minho” gastronomy.  
+
+
+      Hotel 4*: [Pousadas de Valença](https://www.pousadas.pt/pt/hotel/pousada-de-valenca)
     location:
       lat: "1"
       lng: "1"
