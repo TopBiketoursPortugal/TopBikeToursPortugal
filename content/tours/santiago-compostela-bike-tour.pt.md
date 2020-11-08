@@ -69,7 +69,7 @@ itinerary:
       gastronomia. Em Vila do Conde irá perceber a razão, pela qual estas
       cidades costeiras foram tão importantes durante o período áureo dos
       Descobrimentos Portugueses. Accommodation, Hotel 3 stars: [Suave Mar
-      Hotel](https://www.https://www.suavemar.com/)'
+      Hotel](https://www.suavemar.com/)'
     location:
       lat: "41.15591"
       lng: "-8.60248"
