@@ -33,62 +33,83 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+    description: "Hotel 4*: [Turim
+      Europa](https://www.turim-hotels.com/hoteis/Turim-Europa-Hotel)"
   - title: "Day 2: Trasnfer to Porto Covo – Vila Nova de Mil Fontes: 19 km"
     day: "2"
-    description: The day starts with an interesting ride towards the Vicentine
-      Coast. It does take two hours, so it may very well leave even the less
-      anxious of individuals ablaze and wanting to start exploring the
-      landscape. The walk itself starts in Porto Covo, made famous among the
-      Portuguese by a musician. It comprises a mixture of all types of terrain,
-      although the big majority is done under unpaved ones. There is no real
-      ascending or descending to get home and brag about, since the path crosses
-      nearby the ocean and the beaches all the time. Pay attention to the fort
-      of Santo Alberto do Pessegueiro, which you can’t visit, however you can
-      spot it on a close by island.
+    description: >-
+      The day starts with an interesting ride towards the Vicentine Coast. It
+      does take two hours, so it may very well leave even the less anxious of
+      individuals ablaze and wanting to start exploring the landscape. The walk
+      itself starts in Porto Covo, made famous among the Portuguese by a
+      musician. It comprises a mixture of all types of terrain, although the big
+      majority is done under unpaved ones. There is no real ascending or
+      descending to get home and brag about, since the path crosses nearby the
+      ocean and the beaches all the time. Pay attention to the fort of Santo
+      Alberto do Pessegueiro, which you can’t visit, however you can spot it on
+      a close by island.
+
+
+      Hotel 3*: [HS Mil Fontes](https://hsmilfontesbeach.com/) or [Casa do Adro](http://www.casadoadro.com.pt/)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Vila Nova de Mil Fontes – Almograve: 13 km "
-    description: Take time to enjoy nature in all its splendor as the journey
-      follows the coast towards south. Like the previous one, this walk remains
-      flat and keeps diving into nature’s heart by crossing the existing dirt
-      tracks along the coast. It is a short walk so that, by going slowly,
-      nature has her time to show and reveal all her wonders. Almograve stands
-      as a town that makes its living from agriculture, animal husbandry and
-      fishing.
+    description: >-
+      Take time to enjoy nature in all its splendor as the journey follows the
+      coast towards south. Like the previous one, this walk remains flat and
+      keeps diving into nature’s heart by crossing the existing dirt tracks
+      along the coast. It is a short walk so that, by going slowly, nature has
+      her time to show and reveal all her wonders. Almograve stands as a town
+      that makes its living from agriculture, animal husbandry and fishing.
+
+
+      House: [Monte Longueira](http://www.montenovolongueira.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "4"
     title: "Day 4: Almograve – Zambujeira do Mar: 17 km (or 21 Km)"
-    description: This day will end up in Zambujeira do Mar, a place very well known
-      between the Portuguese, as of one with pristine beaches and imposing
-      cliffs. Take time to enjoy the high viewpoints over the ocean as it runs
-      down in Atlantic fury against the rocks and lookout for the bird life that
-      roams and nests in this natural park. The walk will take you through
-      relatively flat areas. All kinds of terrain are to be expected.
+    description: >-
+      This day will end up in Zambujeira do Mar, a place very well known between
+      the Portuguese, as of one with pristine beaches and imposing cliffs. Take
+      time to enjoy the high viewpoints over the ocean as it runs down in
+      Atlantic fury against the rocks and lookout for the bird life that roams
+      and nests in this natural park. The walk will take you through relatively
+      flat areas. All kinds of terrain are to be expected.
+
+
+      Farm: [Herdade do Touril](https://herdadedotouril.com/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 5: Zambujeira do Mar – Azenhas do Mar: 14 Km"
     day: "5"
-    description: The beaches are beautiful and endless all along this region. The
-      walk this day will take you to Casa da Seiceira with a typical and
-      traditional blue line, near Azenhas do Mar. The walk keeps the tendency of
-      being flat and of exploring a myriad of dirt and unpaved paths, where
-      nature is still more genuine. Azenhas do Mar is a really small town which
-      keeps a functioning and simple non industrial fishing harbor.
+    description: >-
+      The beaches are beautiful and endless all along this region. The walk this
+      day will take you to Casa da Seiceira with a typical and traditional blue
+      line, near Azenhas do Mar. The walk keeps the tendency of being flat and
+      of exploring a myriad of dirt and unpaved paths, where nature is still
+      more genuine. Azenhas do Mar is a really small town which keeps a
+      functioning and simple non industrial fishing harbor.
+
+
+      House: [Casa da Seiceira](http://casadaseiceira.com/en/discover-casa-da-seiceira/)
     location:
       lat: "1"
       lng: "1"
   - day: "6"
     title: "Day 6: Azenhas do Mar – Odeceixe: 12 km"
-    description: The journey towards Odeceixe is done with the crossing of the
-      border between Alentejo and the Algarve. This whole journey is a marvelous
-      walk among the cliffs, until the river Seixe is in sight. The beach near
-      the town of Odeceixe, where the river meets the ocean, was awarded the
-      title of one of the 7 Wonder Beaches in Portugal.
+    description: >-
+      The journey towards Odeceixe is done with the crossing of the border
+      between Alentejo and the Algarve. This whole journey is a marvelous walk
+      among the cliffs, until the river Seixe is in sight. The beach near the
+      town of Odeceixe, where the river meets the ocean, was awarded the title
+      of one of the 7 Wonder Beaches in Portugal.
+
+
+      House: [Casas do Moinho](https://www.casasdomoinho.com/en/#/home)
     location:
       lat: "1"
       lng: "1"
