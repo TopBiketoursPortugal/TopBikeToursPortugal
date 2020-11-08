@@ -42,13 +42,13 @@ rating: []
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=12Ae-R3xcgPrCt6Pqsd8cMXKf0nT0uHsx
 itinerary:
   - day: "1"
-    description: ""
+    description: "Farm: [Reguengos de Melgaço](http://www.reguengodemelgaco.pt/)"
     location:
       lat: "42.1130412"
       lng: "-8.2593422"
     title: "Dia 1: Recepção no Porto e transfere até Melgaço"
   - day: "2"
-    description: Esta deslumbrante viagem de bicicleta inicia-se lado a lado com o
+    description: 'Esta deslumbrante viagem de bicicleta inicia-se lado a lado com o
       Rio Minho, em Melgaço. Pedale ao longo do Rio Minho, sempre com a vizinha
       Espanha do outro lado. Famosa pelas suas belas paisagens, história,
       gastronomia e também pela produção do conhecido e apreciado vinho de Casta
@@ -63,13 +63,14 @@ itinerary:
       histórica situada mesmo na fronteira com Espanha, separada pelo belo Rio
       Minho e cercada por muralhas no topo de uma colina.  Com origens muito
       antigas, a presença de comunidades humanas neste território pressupõe-se
-      que date desde a pré-história.
+      que date desde a pré-história. Hotel 4 *: [Pousada de Valença
+      Hotel](https://www.pousadas.pt/en/hotel/pousada-de-valenca?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-de-valenca)'
     location:
       lat: "42.0270455"
       lng: "-8.6428831"
     title: "Day 2: Melgaço – Valença,  (43 km) plus extra track to Tui (6 km)"
   - day: "3"
-    description: Deixando Valença para trás e continuando pelo rio Minho, o destino
+    description: "Deixando Valença para trás e continuando pelo rio Minho, o destino
       de hoje é Viana do Castelo, uma das mais belas cidades costeiras do norte
       de Portugal. Viana teve uma enorme importância para Portugal na Época dos
       Descobrimentos e, mais tarde, com a pesca do bacalhau. Esta cidade tem uma
@@ -80,13 +81,13 @@ itinerary:
       hortas deslumbrantes. Desde praias fluviais e atlânticas, às maravilhosas
       margens do rio Âncora, à gastronomia regional, às magníficas vistas do
       Monte do Calvário e ao património construído, esta aldeia certamente o
-      surpreenderá.
+      surpreenderá. Hotel 4 *: [Melo Alvim Hotel](https://casameloalvim.com/)"
     location:
       lat: "41.694867"
       lng: "-8.831088"
     title: "Dia 3: Valença – Viana do Castelo, 37 mi. (60 km)"
   - day: "4"
-    description: Continuando a sua jornada, hoje o caminho volta para o interior de
+    description: 'Continuando a sua jornada, hoje o caminho volta para o interior de
       Portugal, com o rio Lima a acompanhar. O destino é agora Ponte de Lima,
       uma cidade reconhecida como Património Mundial e como o último Norte de
       Portugal em toda a sua rusticidade e beleza. Esta terra cheia de história,
@@ -98,31 +99,33 @@ itinerary:
       milenares, e traça o perfil marcadamente rural desta cidade. Ponte de Lima
       é o berço do Turismo Habitacional, da variedade "Loureiro", que distingue
       o "Vinho Verde" e o Arroz de "Sarrabulho", apreciado nos lugares mais
-      distantes do mundo.
+      distantes do mundo. Hotel 4 *: [In Lima
+      Hotel](http://www.inlimahotel.com/pt/)'
     location:
       lat: "41.7675021"
       lng: "-8.5830992"
     title: "Dia 4: Viana do Castelo – Ponte de Lima, 16 mi. (25 km)"
   - day: "5"
-    description: Atravessando desta vez a margem sul do rio Lima e, posteriormente,
+    description: 'Atravessando desta vez a margem sul do rio Lima e, posteriormente,
       em direcção a sul pela costa Atlântica, o destino de hoje será Esposende,
       cidade costeira localizada no Norte do país. Aprecie todas as magníficas
       paisagens à beira-mar, assim como as várias "rivieras Portuguesas". O
       município de Esposende está repleto de pontos de interesse como é o caso
       do rio Neiva, das florestas de pinho de Ofir e das diversas vistas para a
       cidade de Esposende. Este é certamente uma das mais belas regiões do norte
-      de Portugal.
+      de Portugal. Hotel 3 *: [Suave Mar Hotel](https://www.suavemar.com/)'
     location:
       lat: "41.5455885"
       lng: "-8.75827562"
     title: "Dia 5: Ponte de Lima - Esposende, 31 mi. (50 km)"
   - day: "6"
-    description: Prosseguindo pelo Atlântico, as praias, as vistas para o oceano e
+    description: "Prosseguindo pelo Atlântico, as praias, as vistas para o oceano e
       as vilas piscatórias serão uma visão comum. Locais como a Póvoa de Varzim
       abrir-lhe-ão as portas a testemunhar antigas tradições ligadas à pesca e
       onde poderá saborear esta famosa gastronomia. Em Vila do Conde irá
       perceber a razão, pela qual estas cidades costeiras foram tão importantes
-      durante o período áureo dos Descobrimentos Portugueses.
+      durante o período áureo dos Descobrimentos Portugueses. Hotel 4 *: [Porto
+      Trindade Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
