@@ -31,102 +31,127 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+    description: "Hotel 4*: [Trindade Hotel](https://www.portotrindadehotel.com/)"
   - day: "2"
     title: "Day 2: Transfer to Praia da memória – Póvoa: 20 km"
-    description: "Starting at the monument in Praia da memória, which represents the
-      landing place of the troops that defended the city of Porto, during its
-      long siege in the first half of the XIX century, a 20km walk awaits. This
-      day’s walk is integrally flat with minor and imperceptible short climbs,
-      to which contributes the low coast level of this area. It ends in Póvoa de
-      Varzim, a city known to be historically connected to the sea.  Some of the
-      areas that might spark your interest during the day are: the fish market
-      at Angeiras, the almost imperceptible triangulation station of São Paio,
-      the small and protected landscape of Vila do Conde Coast and Mindelo
-      Ornithological reserve which you will pass through during your walk, Santa
-      Clara’s Monastery in Vila do Conde, a replica of a Portuguese vessel
-      called Nau in Vila do Conde and the fortress of Nossa Senhora da Conceição
-      in Póvoa de Varzim, right at the end of this day’s walk."
+    description: >-
+      Starting at the monument in Praia da memória, which represents the landing
+      place of the troops that defended the city of Porto, during its long siege
+      in the first half of the XIX century, a 20km walk awaits. This day’s walk
+      is integrally flat with minor and imperceptible short climbs, to which
+      contributes the low coast level of this area. It ends in Póvoa de Varzim,
+      a city known to be historically connected to the sea.  
+
+
+      Some of the areas that might spark your interest during the day are: the fish market at Angeiras, the almost imperceptible triangulation station of São Paio, the small and protected landscape of Vila do Conde Coast and Mindelo Ornithological reserve which you will pass through during your walk, Santa Clara’s Monastery in Vila do Conde, a replica of a Portuguese vessel called Nau in Vila do Conde and the fortress of Nossa Senhora da Conceição in Póvoa de Varzim, right at the end of this day’s walk.
+
+
+      Hotel 4*: [Grande Hotel da Póvoa](https://www.grandehoteldapovoa.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Póvoa – Esposende: 22 km"
-    description: "Another flat day. It goes from Póvoa de Varzim to Esposende.
-      Today, half of the day will be nearby the North Coast Natural Park, which
-      goes from south of Apúlia to the river mouth of the river Neiva. This walk
-      portraits an urbanized coastal area, with a decent amount of cobblestone
-      roads in the company of farmed land and path walks near the beach. Some of
-      the areas that might spark your interest during the day are: Masseira
+    description: >-
+      Another flat day. It goes from Póvoa de Varzim to Esposende. Today, half
+      of the day will be nearby the North Coast Natural Park, which goes from
+      south of Apúlia to the river mouth of the river Neiva. This walk portraits
+      an urbanized coastal area, with a decent amount of cobblestone roads in
+      the company of farmed land and path walks near the beach. Some of the
+      areas that might spark your interest during the day are: Masseira
       agriculture fields, which is a unique form of agriculture practiced in the
-      dunes around this area and the fort of São João Baptista in Esposende."
+      dunes around this area and the fort of São João Baptista in Esposende.
+
+
+      Hotel 3*: [Suave Mar](https://www.suavemar.com/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 4: Esposende – Viana do Castelo: 26 km"
     day: "4"
-    description: "Leaving Esposende in order to get to Viana do Castelo, you will
-      find a route with several ups and downs until your final destination.
-      Prepare to admire the surroundings with a lot of natural landscape.
-      Halfway you might notice the chapel of Senhora do Castro. In the same area
-      there is a sightseeing viewpoint that captures the beautiful mountainous
-      landscape. While in Viana do Castelo you can visit the Cathedral and the
-      Santa Lúzia Sanctuary. "
+    description: >-
+      Leaving Esposende in order to get to Viana do Castelo, you will find a
+      route with several ups and downs until your final destination. Prepare to
+      admire the surroundings with a lot of natural landscape. Halfway you might
+      notice the chapel of Senhora do Castro. In the same area there is a
+      sightseeing viewpoint that captures the beautiful mountainous landscape.
+      While in Viana do Castelo you can visit the Cathedral and the Santa Lúzia
+      Sanctuary. 
+
+
+      Hotel 4*:** [Melo Alvim](https://casameloalvim.com/)**
     location:
       lat: "1"
       lng: "1"
   - day: "5"
     title: "Day 5: Viana do Castelo – Vila Praia de Âncora: 19 km"
-    description: "Departing from Viana do Castelo this is the shortest walk so far.
-      Almost nineteen kilometers separate Viana and Vila Praia de Âncora. The
-      walk itself is flat done mainly on dirt paths and cobblestone roads. It
-      conveys a naturalistic feeling, being most of the walk done in a not so
-      urbanized coast, like in the previous one. Some of the areas that might
-      spark your interest during the day are: The several forts and windmills
-      you will find along the way, the lighthouse of Montedor and the Dolmen of
-      Barrosa in Vila Praia de Âncora."
+    description: >-
+      Departing from Viana do Castelo this is the shortest walk so far. Almost
+      nineteen kilometers separate Viana and Vila Praia de Âncora. The walk
+      itself is flat done mainly on dirt paths and cobblestone roads. It conveys
+      a naturalistic feeling, being most of the walk done in a not so urbanized
+      coast, like in the previous one. Some of the areas that might spark your
+      interest during the day are: The several forts and windmills you will find
+      along the way, the lighthouse of Montedor and the Dolmen of Barrosa in
+      Vila Praia de Âncora.
+
+
+      Hotel 4*: [Hotel Meira](http://www.hotelmeira.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "6"
     title: "Day 6: Vila Praia de Âncora – Caminha: 9 km"
-    description: "Continuing along the coast and keeping the same type of low land
-      terrain, the walk today gets to the heart of the river that divides
-      Portugal and Spain in their northernmost frontier. This is an easy walk,
-      short in distance and elevation. Spain can already be seen in the previous
-      walk, however today, it is clearly visible in a mountain which looks most
-      like a volcano. Some of the areas that might spark your interest during
-      the day are: The chapel of Santo Isidoro, the wayside cross of Santo
-      Isidoro, Camarido woods by which you will pass near the end of this walk,
-      the chapel of N. S. das Areias and the village of Caminha one and a half
-      kilometers away from the hotel."
+    description: >-
+      Continuing along the coast and keeping the same type of low land terrain,
+      the walk today gets to the heart of the river that divides Portugal and
+      Spain in their northernmost frontier. This is an easy walk, short in
+      distance and elevation. Spain can already be seen in the previous walk,
+      however today, it is clearly visible in a mountain which looks most like a
+      volcano. Some of the areas that might spark your interest during the day
+      are: The chapel of Santo Isidoro, the wayside cross of Santo Isidoro,
+      Camarido woods by which you will pass near the end of this walk, the
+      chapel of N. S. das Areias and the village of Caminha one and a half
+      kilometers away from the hotel.
+
+
+      Hotel 4*: [Portas do Sol](https://www.hotelportadosol.com/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 7: Caminha – Oia: 23 km"
     day: "7"
-    description: "The beginning of this walk leads to a fisherman boat, which will
-      take it to leave Portugal and enter Spain. While being slightly less flat,
-      the path follows the same tendency as the previous one, being majorly
-      plane, with its highest point at 60m and lowest at 0m. This walk follows
-      part of the road that connects Tui and Vigo through the coast, however
-      touching it only occasionally when no alternative path exists. This road
-      has a big shoulder in the form of a path for bicycles and pedestrians,
-      which makes it safe. Some of the areas that might spark your interest
-      during the day are: Sea Museum in Guarda, the several sightseeing points
-      along the way and the monastery and town of Oia."
+    description: >-
+      The beginning of this walk leads to a fisherman boat, which will take it
+      to leave Portugal and enter Spain. While being slightly less flat, the
+      path follows the same tendency as the previous one, being majorly plane,
+      with its highest point at 60m and lowest at 0m. This walk follows part of
+      the road that connects Tui and Vigo through the coast, however touching it
+      only occasionally when no alternative path exists. This road has a big
+      shoulder in the form of a path for bicycles and pedestrians, which makes
+      it safe. Some of the areas that might spark your interest during the day
+      are: Sea Museum in Guarda, the several sightseeing points along the way
+      and the monastery and town of Oia.
+
+
+      Hotel: [Glasgow](http://hglasgow.com/)
     location:
       lat: "1"
       lng: "1"
-  - description: "Walking between Oia and Baiona feels like the previous walk. The
-      same road is followed and in the same terms, although a big portion of the
-      walk is done on the main road. The same protective shoulder exists every
-      time the path stays on this road. A considerable portion of the path is
-      asphalted road. Some of the areas that might spark your interest during
-      the day are: The several sightseeing points along the way, the lighthouse
-      of Cabo Silleiro, the old lighthouse of Cabo Sileiro, the coastal
-      artillery of Cabo Silleiro, the statue of virxe da rocha, the castle of
-      Monterreal, which is the location of the hotel and the museum of the
-      Carabela La Pinta."
+  - description: >-
+      Walking between Oia and Baiona feels like the previous walk. The same road
+      is followed and in the same terms, although a big portion of the walk is
+      done on the main road. The same protective shoulder exists every time the
+      path stays on this road. A considerable portion of the path is asphalted
+      road. Some of the areas that might spark your interest during the day are:
+      The several sightseeing points along the way, the lighthouse of Cabo
+      Silleiro, the old lighthouse of Cabo Sileiro, the coastal artillery of
+      Cabo Silleiro, the statue of virxe da rocha, the castle of Monterreal,
+      which is the location of the hotel and the museum of the Carabela La
+      Pinta.
+
+
+      Hotel 4*: [Parador de Baiona](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_term=organico&utm_content=ficha)
     day: "8"
     title: "Day 8: Oia – Baiona: 18 km"
     location:
