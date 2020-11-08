@@ -30,14 +30,16 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1VhcZ4AWrcUlxin9KTIRDCP1QGqH
 itinerary:
   - day: "1"
     title: "Day 1: Valença do Minho"
-    description: "Hotel: Pousadas de Valença "
+    description: "Hotel 4*: [Pousadas de
+      Valença](https://www.pousadas.pt/pt/hotel/pousada-de-valenca)"
     location:
       lat: "1"
       lng: "1"
   - day: "2"
     title: "Day 2: Valença do Minho – Porrinõ: 20 km"
-    description: "This is the day where Spain is one step forward and where Portugal
-      will be well remained by the last city known by the green landscape, the
+    description: >-
+      This is the day where Spain is one step forward and where Portugal will be
+      well remained by the last city known by the green landscape, the
       historical monuments and the cobblestone. The 20 km of walking it going to
       be fetl in 110 m of highest point and 140 m of lowest point. The last
       remarkable moment will be crossing the border and enjoy the Minho river in
@@ -50,83 +52,100 @@ itinerary:
       last destination of this day, Porriño will bring you the feeling of an
       urban city with the church and the historical center. The city, it’s also
       known by the manufacture of granite production, the Rosa Porriño or the
-      Pink Porriño.  Hotel: Hotel Azul"
+      Pink Porriño.
+
+
+      Hotel 1*: [Hotel Azul](https://www.hotelazul.es/)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Porrinõ – Redondela: 23 km"
-    description: "Walking between Porriño and Redondela the road follow in paved and
-      asphalt pathways with the highest point at 260m and the lowest at
-      250m.   Near to the city of Redondela the nature will follow 331 meters of
-      the landscape in unpaved roads of the forest section. Walking in the last
-      city of this day will give you the chance to visit the famous church of
-      Santa Baia de Mos, a baroque church form the XVI century. The city of
-      Redondela it’s also known by its viaducts from the XIX century and due to
-      that the city it’s known as viaducts village.  Hotel: Pazo de Agrelo"
+    description: >-
+      Walking between Porriño and Redondela the road follow in paved and asphalt
+      pathways with the highest point at 260m and the lowest at 250m.   Near to
+      the city of Redondela the nature will follow 331 meters of the landscape
+      in unpaved roads of the forest section. Walking in the last city of this
+      day will give you the chance to visit the famous church of Santa Baia de
+      Mos, a baroque church form the XVI century. The city of Redondela it’s
+      also known by its viaducts from the XIX century and due to that the city
+      it’s known as viaducts village. 
+
+
+      Hotel: [Pazo de Agrelo](http://torresagrelo.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "4"
     title: " Day 4: Redondela – Pontevedra: 21 km"
-    description: "Near to the ocean coast but inserted in a rural city this day will
-      require some effort due to the 320 m of uphill insert in 156m at the
-      highest point, although the lowest point is 6m. The major parts of the
-      roads, in direction to Pontevedra, are pavement, however in the middle of
-      the way the walkers are going to be embrace by the forest and
-      nature.   The name of the city remits to the roman times where the major
-      part of the bridges were built, and due to that, we can translate the name
-      of the city to the old bridge. The most famous bridge that the way leads
-      to, is the bridge of Sampaio.  Never the last, in Pontevedra the walkers
-      can feel the breeze in the famous Tomaza river and be embrace by the
-      chapel of Virgem Peregrina, built in 1778, in honor to the saint of the
-      Santiago path. Hotel: Parador Pontevedra"
+    description: >-
+      Near to the ocean coast but inserted in a rural city this day will require
+      some effort due to the 320 m of uphill insert in 156m at the highest
+      point, although the lowest point is 6m. The major parts of the roads, in
+      direction to Pontevedra, are pavement, however in the middle of the way
+      the walkers are going to be embrace by the forest and nature.   The name
+      of the city remits to the roman times where the major part of the bridges
+      were built, and due to that, we can translate the name of the city to the
+      old bridge. The most famous bridge that the way leads to, is the bridge of
+      Sampaio.  Never the last, in Pontevedra the walkers can feel the breeze in
+      the famous Tomaza river and be embrace by the chapel of Virgem Peregrina,
+      built in 1778, in honor to the saint of the Santiago path. 
+
+
+      Hotel 4*: [Parador Pontevedra](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedra&utm_term=organico&utm_content=ficha)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 5: Pontevedra – Caldas de reis: 25 km"
     day: "5"
-    description: "The path departs from Pontevedra towards Caldas de reis. In this
-      hiking day, the walkers almost can throwback to the roman times with the
-      presence of the thermal baths and spas. The major part of the pathway is
-      flat and crosses paved road and asphalt with the highest point at 137m.
-      Some of the areas that might spark your interest during hiking to Caldas
-      de reis are: the walking in the bridge of Corrrentes where the beautiful
-      landscape of the river of Lérez will surround you; the river Gandara that
-      provide a feeling of hiking in the florest; the church of Santa Maria; the
-      river of Umía where they nature thermals are indicated for respiratory
-      diseases and skin infections, is the place that will lead you to the final
-      destination. Also, take the opportunity to be embrace by the Market of
-      Abastos where you will be inspired by the cultural gastronomy. Hotel:
-      Torre do Rio"
+    description: >-
+      The path departs from Pontevedra towards Caldas de reis. In this hiking
+      day, the walkers almost can throwback to the roman times with the presence
+      of the thermal baths and spas. The major part of the pathway is flat and
+      crosses paved road and asphalt with the highest point at 137m. Some of the
+      areas that might spark your interest during hiking to Caldas de reis are:
+      the walking in the bridge of Corrrentes where the beautiful landscape of
+      the river of Lérez will surround you; the river Gandara that provide a
+      feeling of hiking in the florest; the church of Santa Maria; the river of
+      Umía where they nature thermals are indicated for respiratory diseases and
+      skin infections, is the place that will lead you to the final destination.
+      Also, take the opportunity to be embrace by the Market of Abastos where
+      you will be inspired by the cultural gastronomy. 
+
+
+      House: [Torre do Rio](https://torredorio.es/en/)
     location:
       lat: "1"
       lng: "1"
   - title: " Day 6: Caldas de Reis – Padrón: 14 km"
     day: "6"
-    description: "Continuing the journey near by the river of Umía, this day will
-      start in Caldas de Reis and will lead to the new destination, Padrón. In
-      the beginning of the day, the city will be well remained by the thermal
-      baths in its last fountain, Burgas, with a temperature between 64 and
-      68ºC. As well as the medieval bridge in the river of Bermaña, that will
-      bring the final description of what the city represent.  During the
-      journey the highest point is at 161m and the lowest at 4 m, represented,
-      in paved and asphalt roads but also embrace by forests well present in
-      Monte Gandarón for example. Along the hiking to the city of Padrón, the
-      way will bring the chance to visit the Chapel of San Roque, the church of
-      Santa Mariña de Carracedo and the church of San Miguel de Valga  as the
-      walkers pass by the river of Ulla. The river of Ulla registered the large
-      number of artifacts dating from the time of the Neolithic.  The day will
-      be finished in Padrón, the city that according to the legend, the stone
-      ship with the apostle´s body was moored. The stone it’s now-a-days in
-      Padrón and due to the symbol present in the stone the city start to be
-      known as Padrón. Hotel: Pazo de Lestrove"
+    description: >-
+      Continuing the journey near by the river of Umía, this day will start in
+      Caldas de Reis and will lead to the new destination, Padrón. In the
+      beginning of the day, the city will be well remained by the thermal baths
+      in its last fountain, Burgas, with a temperature between 64 and 68ºC. As
+      well as the medieval bridge in the river of Bermaña, that will bring the
+      final description of what the city represent.  During the journey the
+      highest point is at 161m and the lowest at 4 m, represented, in paved and
+      asphalt roads but also embrace by forests well present in Monte Gandarón
+      for example. Along the hiking to the city of Padrón, the way will bring
+      the chance to visit the Chapel of San Roque, the church of Santa Mariña de
+      Carracedo and the church of San Miguel de Valga  as the walkers pass by
+      the river of Ulla. The river of Ulla registered the large number of
+      artifacts dating from the time of the Neolithic.  The day will be finished
+      in Padrón, the city that according to the legend, the stone ship with the
+      apostle´s body was moored. The stone it’s now-a-days in Padrón and due to
+      the symbol present in the stone the city start to be known as Padrón. 
+
+
+      Hotel 4*: [Pazo de Lestrove](https://www.pousadasdecompostela.com/alojamiento-santiago-compostela-catedral/hotel-pazo-de-lestrove/)
     location:
       lat: "1"
       lng: "1"
   - day: "7"
     title: "Day 7: Padrón – Santiago de Compostela: 25 km"
-    description: "The way between Padrón and the expected final destination is 25 km
+    description: >-
+      The way between Padrón and the expected final destination is 25 km
       forward. The day will be felt in the highest point at 259m, the lowest
       point at 6m and the emotion of arriving to the promise land of this
       journey: Santiago de Compostela. The pathway is majorly walked in unpaved,
@@ -142,8 +161,10 @@ itinerary:
       made with the Cathedral inside the walkers eyes. In the final destination,
       the place will embrace you with the catacombs of the Santiago, one of the
       apostles of Jesus Christ and the vibration of arriving to the famous
-      Cathedral, that inspired main of us, will be felt.  Hotel: Hotel
-      Compostela"
+      Cathedral, that inspired main of us, will be felt. 
+
+
+      Hotel4 *: [Hotel Compostela](https://www.hotelcompostela.es/en/)
     location:
       lat: "1"
       lng: "1"
