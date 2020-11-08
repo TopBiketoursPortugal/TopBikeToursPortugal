@@ -47,7 +47,7 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1ieK3MkKNSZ5im7KllAgWngvQiiWZksCn
 itinerary:
   - day: "1"
-    description: The journey starts in the city of Lisbon, Portugal's capital. This
+    description: "The journey starts in the city of Lisbon, Portugal's capital. This
       city has been influenced by many different cultures over the course of its
       history and it still maintains a village feeling in each historic
       neighborhood. The wide variety of landscapes and heritage is always close
@@ -55,15 +55,16 @@ itinerary:
       Lisbon, is a Portuguese traditional music style and is an expression of
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
-      neighborhood.
+      neighborhood. Hotel 4 *: [Turim Marquês
+      Hotel](https://www.turim-hotels.com/hoteis/-141)"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
     title: Dia 1 – Recepção em lisboa
   - day: "2"
-    description: Pedale por cidades portuguesas adoráveis, como a cidade do Montijo,
-      fortemente marcada pelo rio Tejo. Como quase todas as localidades do
-      Ribatejo, o Montijo tem excelentes tradições centradas na celebração
+    description: 'Pedale por cidades portuguesas adoráveis, como a cidade do
+      Montijo, fortemente marcada pelo rio Tejo. Como quase todas as localidades
+      do Ribatejo, o Montijo tem excelentes tradições centradas na celebração
       "brava", sendo os touros e as touradas uma característica essencial das
       festas da cidade. O Pinhal Novo, que costumava ter a maior vinha do país,
       é hoje em dia um centro urbano em expansão, encontrando-se localizado
@@ -71,15 +72,16 @@ itinerary:
       ferry boat até à Península de Tróia, sem dúvida um dos segredos mais bem
       guardados de Portugal. Grande parte do seu território está dentro dos
       limites da Reserva Natural do Estuário do Sado, um paraíso de vida
-      selvagem protegido e com uma enorme variedade de pássaros.
+      selvagem protegido e com uma enorme variedade de pássaros. Hotel 5 *:
+      [Design Hotel Troia](Design Hotel Troia)'
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
     title: Dia 2 - Lisboa – Troia (65 km) * dificuldade moderada
   - day: "3"
-    description: Santo André, o seu destino, é uma cidade multi-cultural que recebeu
-      muitas pessoas de antigas colónias portuguesas. A extensa floresta que
-      protege Santo André é um bom exemplo da possível harmonia entre a
+    description: "Santo André, o seu destino, é uma cidade multi-cultural que
+      recebeu muitas pessoas de antigas colónias portuguesas. A extensa floresta
+      que protege Santo André é um bom exemplo da possível harmonia entre a
       protecção do meio ambiente e o desenvolvimento industrial.  Pedale pela
       Comporta, uma reserva natural protegida e uma aldeia de pescadores única,
       famosa pelas suas praias paradisíacas de grande qualidade e pelo seu clima
@@ -87,12 +89,13 @@ itinerary:
       século XIX. Esta aldeia emergiu como um pequeno grupo de pescadores e
       agricultores. Os seus habitantes dedicam-se principalmente ao cultivo da
       terra e ao artesanato, como a cerâmica e o fabrico de rolhas de cortiça.
+      Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/)"
     location:
       lat: "38.06021165"
       lng: "-8.78451884"
     title: Dia 3 - Troia - Vila Nova de Santo André (66 Km)
   - day: "4"
-    description: Pedale em direcção a Vila Nova de Mil Fontes, onde encontrará a
+    description: 'Pedale em direcção a Vila Nova de Mil Fontes, onde encontrará a
       combinação perfeita entre a Natureza e a História. Situada na costa, esta
       região tende a ser muitas vezes associado a piratas.  De seguida, partirá
       à descoberta da cidade portuária de Sines, onde se pode ver parte da
@@ -102,24 +105,26 @@ itinerary:
       saírem do seu porto. Já na periferia de Sines poderá deslumbrar-se com a
       "Praia Grande", que graças a toda a área envolvente e aos seus notórios
       penhascos, esta encontra-se como uma praia abrigada do vento e ideal para
-      relaxar.
+      relaxar. Hotel 3 *: [Hotel HS
+      MIlfontes](https://hsmilfontesbeach.com/pt/)'
     location:
       lat: "37.72243336"
       lng: "-8.78589749"
     title: Dia 4 – Vila Nova de Santo André – Vila Nova de Mil Fontes (55 km)
   - day: "5"
-    description: Mais silenciosa de que Vila Nova de Mil Fontes, a Zambujeira do Mar
-      é uma cidade conhecida por atrair um grande número de surfistas. Esta
+    description: "Mais silenciosa de que Vila Nova de Mil Fontes, a Zambujeira do
+      Mar é uma cidade conhecida por atrair um grande número de surfistas. Esta
       pequena vila costeira tem famosas praias e apresenta por todo o lado a
       típica arquitectura tradicional alentejana. Entre os mais notáveis
       edifícios tradicionais encontram-se as fontes de Amores e Santa Catarina e
-      a pequena capela de Nossa Senhora do Mar.
+      a pequena capela de Nossa Senhora do Mar. Farm: [Herdade do
+      touril](https://herdadedotouril.com/)"
     location:
       lat: "37.52514173"
       lng: "-8.7853986"
     title: Dia 5 – Vila Nova de Mil Fontes – Zambujeira do Mar (40 km)
   - day: "6"
-    description: Pedale até Aljezur, uma aldeia atravessada por um ribeiro com o
+    description: "Pedale até Aljezur, uma aldeia atravessada por um ribeiro com o
       mesmo nome e que esconde, na sua parte ocidental, uma colecção de chalés,
       por baixo de um castelo arruinado do século XIII. Os vestígios do antigo
       porto podem ser vistos nas estreitas ruas que dão acesso à Ribeira de
@@ -133,13 +138,13 @@ itinerary:
       apresenta uma paisagem e uma biodiversidade de alta qualidade, podendo
       desfrutar de uma paisagem de beleza rara desde o topo das falésias. É
       também este o único lugar onde podem ser encontradas cegonhas que aninham
-      em falésias.
+      em falésias. Hotel 4 *: [Hotel vicentina](http://www.vicentinahotel.com/)"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
     title: Dia 6 – Zambujeira do Mar – Aljezur (45 km)
   - day: "7"
-    description: Seguirá em direcção ao centro do surf, a Carrapateira, uma vila
+    description: 'Seguirá em direcção ao centro do surf, a Carrapateira, uma vila
       tranquila com duas praias próximas, cuja falta de desenvolvimento e as
       fortes ondas, atraem tanto surfistas como o povo "Lisboeta". A vila
       apresenta uma linha costeira selvagem, com densos penhascos de cor cobre e
@@ -150,13 +155,14 @@ itinerary:
       Vicente, o canto sudoeste da costa Portuguesa, cerca de onze milhas mais
       ao sul. A corrente extremamente rápida do sul e o promontório, tornaram
       esta zona muito recíproca a naufrágios, porém criam também as condições
-      que a tornam um popular destino de surf nos últimos anos.
+      que a tornam um popular destino de surf nos últimos anos. Hotel 4 *: [Casa
+      fajara](https://www.casafajara.com/)'
     location:
       lat: "37.18373374"
       lng: "-8.89505267"
     title: Dia 7 – Aljezur – Carrapateira (30 km)
   - day: "8"
-    description: Uma região de cenário natural dramático, composta por mares
+    description: "Uma região de cenário natural dramático, composta por mares
       agrestes, penhascos e vastas praias, encontra-se agora a pedalar em
       Sagres. Existe pouco interesse histórico ou arquitectónico nesta cidade,
       já que a esta sucumbiu ao rude golpe que foi o terremoto de 1755. O surf é
@@ -167,13 +173,16 @@ itinerary:
       promontório. Até ao século XIV acreditava-se que este era o fim do mundo
       conhecido. As ruas estreitas que cercam a igreja principal contêm muitas
       casas típicas do antigo Algarve, com paredes caiadas de branco, faixas de
-      cor brilhante e pedras esculpidas em torno de portas e janelas.
+      cor brilhante e pedras esculpidas em torno de portas e janelas. Hotel 4 *:
+      [Pousada
+      Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
+      -my-business&utm_medium=organicsearch&utm_campaign=pousada-sagres)"
     location:
       lat: "37.00901414"
       lng: "-8.93903017"
     title: Dia 8 - Carrapateira – Sagres (54 km)
   - day: "9"
-    description: Ao longo da margem do Rio Bensafrim, com paredes do século XVI que
+    description: "Ao longo da margem do Rio Bensafrim, com paredes do século XVI que
       encerram a velha cidade, encontra-se Lagos. Esta é uma cidade histórica e
       animada que oferece aos visitantes belas praias, vida nocturna e um
       encantador centro histórico. Dentro desta região de Lagos poderá encontrar
@@ -188,7 +197,9 @@ itinerary:
       mar e amarram os seus barcos de pesca na costa. A praia de Salema é um dos
       segmentos de costa mais agradáveis e autênticos de Portugal. Terminando
       este passeio, será abençoado com uma bela praia com um clima glorioso, a
-      praia da Luz.
+      praia da Luz. Hotel 4 *: [Tivoli
+      Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gm\
+      b&utm_medium=organic_search&utm_source=google_gmb)"
     location:
       lat: "37.10029188"
       lng: "-8.67213964"
