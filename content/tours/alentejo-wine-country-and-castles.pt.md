@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 7
 path: /alentejo-vinho-tradicao-passseio-bicicleta
 productcode: AL01
 featured: false
