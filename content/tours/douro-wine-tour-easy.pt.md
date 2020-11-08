@@ -44,30 +44,32 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1FQ1YmZYlKWQxPwBQhEWF96TjtaowgG0C
 itinerary:
   - day: "1"
-    description: ""
+    description: "Hotel 4 *: [Quinta de La Rosa ](https://www.quintadelarosa.com/)"
     location:
       lat: "41.21223207"
       lng: "-7.42980301"
     title: "Dia 1: Porto - Pinhão (110 km, transfere)"
   - day: "2"
-    description: Comece este passeio no Pinhão. Irá começar a sua jornada em
+    description: "Comece este passeio no Pinhão. Irá começar a sua jornada em
       direcção a Ervedosa do Douro para São João da Pesqueira, onde poderá
       visitar o museu do vinho. Desfruta da paisagens que estas vilas do Douro
       tem para oferecer o passeio e, por fim, acabará em Vila Nova de Foz Côa,
       onde ficará acomodado, na presença da reconhecida região de herança
-      cultural de pinturas paleolíticas inseridas no património mundial.
+      cultural de pinturas paleolíticas inseridas no património mundial. Hotel 4
+      *: [Longroiva Hotel ](http://hoteldelongroiva.com/longroiva-hotel-termas)"
     location:
       lat: "41.07807865"
       lng: "-7.13896749"
     title: "Dia 2: Pinhão – Vila Nova de Foz Côa (74 km)"
   - day: "3"
-    description: Pedale em direcção a Figueira de Castelo Rodrigo, onde irá passar
+    description: "Pedale em direcção a Figueira de Castelo Rodrigo, onde irá passar
       por Castelo Melhor, Algodres e pela Vilar de Amargo. Uma vez, já no seu
       destino final, terá o prazer de visitar o planalto norte, uma vila
       preservada onde poderá-se deslumbrar com os castelos medievais que possuem
       uma vista para o ponto mais alto de Portugal. Entre a época anual de
       Fevereiro a Março na Figueira de Castelo Rodrigo, a paisagem natural
-      proporciona uma beleza natural de flores de amêndoa.
+      proporciona uma beleza natural de flores de amêndoa. Hotel 4 *: [Colmeia
+      Countriside ](http://colmealhotel.com/)"
     location:
       lat: "40.89676004"
       lng: "-6.96072578"
@@ -78,22 +80,24 @@ itinerary:
       escalar até Pinhel. A área de Marialva, não esconde o seu renome com a
       ligação ao título de nobreza do Marquês, que teve a sua origem depois da
       Restauração Portuguesa, em 1640, bem como, com a ligação que esta vila
-      possui em relação as artes equestres do século XVIII. "
+      possui em relação as artes equestres do século XVIII. Hotel 4 *: [Casas do
+      Coro ](http://www.casasdocoro.pt//)"
     location:
       lat: "40.90918386"
       lng: "-7.23094225"
     title: "Dia 4: Figueira de Castelo Rodrigo – Marialva (60 km)"
   - day: "5"
-    description: Espere alguns desafios a medida que passará por Mêda e Ranhados, os
-      pontos mais elevado deste percurso. Desde estes pontos, poderá desfrutar
-      das paisagens únicas das montanhas, que transborda o retrato dos
-      habitantes durienses, onde os vinhares resistem ao teste do tempo.
+    description: "Espere alguns desafios a medida que passará por Mêda e Ranhados,
+      os pontos mais elevado deste percurso. Desde estes pontos, poderá
+      desfrutar das paisagens únicas das montanhas, que transborda o retrato dos
+      habitantes durienses, onde os vinhares resistem ao teste do tempo. Hotel 4
+      *: [Penedono Hotel](http://www.hotelmedieval.pt/)"
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
     title: "Dia 5: Marialva – Penedono (27 km)"
   - day: "6"
-    description: Desfrute de um dia livre, circulando as vilas para conhecer a alma
+    description: 'Desfrute de um dia livre, circulando as vilas para conhecer a alma
       de Penedono. Em caso de optar por continuar a descobrir em bicicleta, irá
       sair de Penedono para a periferia e encontrará-se no meio de fazendas
       típicas e tradicionais. A paisagem predominante das vinhas e dos
@@ -103,7 +107,8 @@ itinerary:
       de produção que a mesma possui. Todas estas características são ainda mais
       realçadas pelo rio Távora, onde poderá desfrutar da maravilhosa geografia,
       com as montanhas e os vales, que são a imagem de marca deste município. E
-      por fim, visite a a igreja do século XII.
+      por fim, visite a a igreja do século XII. Hotel 4 *: [Penedono
+      Hotel](http://www.hotelmedieval.pt/)'
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
@@ -112,7 +117,8 @@ itinerary:
     description: "Desde Penedono irá pedalar ao longo do Rio Douro até a cidade
       imponente, Régua, que será a última área para visitar, onde pode
       contemplar uma das cidades que mais representa este passeio: a região
-      Duriense, para por fim regressar ao Porto."
+      Duriense, para por fim regressar ao Porto. Farm: [Quinta da
+      Pacheca](http://www.hotelmedieval.pt/)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"
