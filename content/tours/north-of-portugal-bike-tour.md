@@ -40,19 +40,20 @@ rating: []
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=12Ae-R3xcgPrCt6Pqsd8cMXKf0nT0uHsx
 itinerary:
   - day: "1"
-    description: The cycling trip starts in Melgaço, a city in the north of
+    description: "The cycling trip starts in Melgaço, a city in the north of
       Portugal, on the banks of the Minho River. It is a small, beautiful and
       historical town, overseen by the tower of Homage, located high up in the
       old medieval area. It overviews the beautiful Minho valley, filled with
       vineyards that surround Melgaço and the nearby Peneda Geres park. Today
       you will also be meeting our local partner, including a tour presentation
-      and explanation.
+      and explanation. Farm: [Reguengos de
+      Melgaço](http://www.reguengodemelgaco.pt/)"
     location:
       lat: "42.1130412"
       lng: "-8.2593422"
     title: "Day 1: Reception at Porto and transfer to Melgaço"
   - day: "2"
-    description: Melgaço is alongside the Minho River. Famous for its beautiful
+    description: "Melgaço is alongside the Minho River. Famous for its beautiful
       landscape, history, gastronomy and also for producing the well-known and
       much appreciated green wine caste, “Alvarinho”.Every year this city
       organizes the “Festa do Alvarinho e do Fumeiro”, a huge event which is
@@ -64,7 +65,10 @@ itinerary:
       passage of different communities through these lands. The city of Valença
       is a historical town in the north of Portugal. It is located right on the
       border with Spain, separated by the beautiful Minho River, and surrounded
-      by ramparts atop a hill, boasting a long defensive look.
+      by ramparts atop a hill, boasting a long defensive look. Hotel 4 *:
+      [Pousada de Valença
+      Hotel](https://www.pousadas.pt/en/hotel/pousada-de-valenca?utm_source=goo\
+      gle-my-business&utm_medium=organicsearch&utm_campaign=pousada-de-valenca)"
     location:
       lat: "42.0270455"
       lng: "-8.6428831"
@@ -90,13 +94,13 @@ itinerary:
       nowadays, mainly during the great festivity of “Nossa Senhora da Agonia”.
       It was also here that the ships were built and later deployed to Brazil,
       India, Africa and other Portuguese colonies, during the XVth and XVIth
-      centuries."
+      centuries. Hotel 4 *: [Melo Alvim Hotel](https://casameloalvim.com/)"
     location:
       lat: "41.694867"
       lng: "-8.831088"
     title: "Day 3: Valença – Viana do Castelo, 37 mi. (60 km)"
   - day: "4"
-    description: Leaving Viana, the cycling will be back to the interior of
+    description: "Leaving Viana, the cycling will be back to the interior of
       Portugal, with the beautiful Lima River alongside. The destination is now
       Ponte de Lima, a city recognized as world heritage and stands as the
       ultimate North of Portugal in all its rusticity and scenic beauty. This
@@ -106,13 +110,14 @@ itinerary:
       century, has always been a place of passage for the pilgrims who were
       going to Santiago. Ponte de Lima is the cradle of Housing Tourism, of the
       “Loureiro” variety that distinguishes the “Vinho Verde” and the Rice of
-      “Sarrabulho” appreciated in the most faraway places in the world.
+      “Sarrabulho” appreciated in the most faraway places in the world. Hotel 4
+      *: [In Lima Hotel](http://www.inlimahotel.com/pt/)"
     location:
       lat: "41.7675021"
       lng: "-8.5830992"
     title: "Day 4: Viana do Castelo – Ponte de Lima, 16 mi. (25 km)"
   - day: "5"
-    description: Today is a day to get to know the south bank of the river Lima for
+    description: "Today is a day to get to know the south bank of the river Lima for
       about 25 km. Then we will begin our journey heading to Esposende, a
       seaside city located in the North. During this day, you will be
       overwhelmed with seaside landscapes and small “Portuguese rivieras” until
@@ -123,19 +128,21 @@ itinerary:
       heritage built by human hand, as is the case of windmills, fields in the
       trough, the forts and mills, are combined in a unique harmony, forming
       landscapes of high scenic and environmental value and confirms Esposende
-      as one of the most beautiful counties in the North region.
+      as one of the most beautiful counties in the North region. Hotel 3 *:
+      [Suave Mar Hotel](https://www.suavemar.com/)"
     location:
       lat: "41.5455885"
       lng: "-8.75827562"
     title: "Day 5: Ponte de Lima - Esposende, 31 mi. (50 km)"
   - day: "6"
-    description: During the last day, you will be overwhelmed with seaside
+    description: "During the last day, you will be overwhelmed with seaside
       landscapes and small “Portuguese rivieras” until you reach Porto. You will
       have a chance to meet a huge variety of fishing villages, like Póvoa de
       Varzim, where you can experience ancient traditions linked to the fish
       exploration as well as tasting this famous gastronomy. In Vila do Conde,
       you’ll know why these Portuguese coastal cities were so important during
-      the “el dorado” of the Portuguese Discoveries.
+      the “el dorado” of the Portuguese Discoveries. Hotel 4 *: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
