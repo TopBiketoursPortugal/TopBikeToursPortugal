@@ -76,7 +76,7 @@ itinerary:
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
       wildlife haven with a wealth of bird-watching possibilities. Hotel 5 *:
-      [Design Hotel Troia](Design Hotel Troia)"
+      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/)"
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
