@@ -73,7 +73,7 @@ pricing:
       - title: Lunch
         value: No
     package: Half-Day price per person
-    price: 82
+    price: 80
   - bestValue: false
     package: Full-Day price per person
     packageContents:
@@ -91,7 +91,7 @@ pricing:
         value: Yes
       - title: Lunch
         value: Yes
-    price: 160
+    price: 140
 feature:
   align: center
   imageAlign: center center
