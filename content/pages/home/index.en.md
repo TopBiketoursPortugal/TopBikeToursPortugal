@@ -9,7 +9,7 @@ meta:
   keywords: walking tours portugal,hiking tours portugal,hike tours portugal, walk
     portugal tours
   robots: INDEX
-  title: Walking tours Portugal | Hiking tours portugal |TopWalkingtours
+  title: Walking Tours Portugal | Hiking Tours portugal |TopWalkingtours
 toursection:
   description: "## Popular hiking tours in Portugal"
   descriptionafter: "**Walking & Hiking tours in Portugal**:  In our walking &
