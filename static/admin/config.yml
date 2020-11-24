@@ -2,7 +2,7 @@ backend:
   name: github
   branch: TopBikeToursPorto
   repo: TopBiketoursPortugal/TopBikeToursPortugal
-  site_url: https://TopBikeToursPorto.netlify.app/
+  site_url: https://www.biketoursporto.com/
 # publish_mode: editorial_workflow
 media_folder: static/img
 public_folder: /img
