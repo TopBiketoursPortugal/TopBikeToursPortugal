@@ -31,28 +31,40 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-    description: "Start this journey in the city of Aljezur, a place that goes back
-      to prehistoric times and was founded by the Arabs in the 10th century. The
+    description: >-
+      Start this journey in the city of Aljezur, a place that goes back to
+      prehistoric times and was founded by the Arabs in the 10th century. The
       most famous historical site in Aljezur is its Castle. The castle was used
       by the Romans and the Arabs, and was latter on conquered by the Portuguese
       in the 12th century. This castle is one of those depicted in the middle of
-      the Portuguese flag. Hotel: Vicentina hotel"
+      the Portuguese flag. 
+
+
+      Hotel 4*: [Vicentina hotel](http://www.vicentinahotel.com/)
   - title: "Day 2: Aljezur – Arrifana: 16 Km"
     day: "2"
-    description: "This walk connects Aljezur and Arrifana. The route is of medium
+    description: >-
+      This walk connects Aljezur and Arrifana. The route is of medium
       difficulty, mainly because it has some uphills hills with dirt and loose
       stones. Enjoy the variety of trees found in the area like ash, tamarind
       and willow trees, and take some time to admire the bays near the ocean
-      that surrounds the village of Arrifana.  Hotel: Herdade Monte Sol"
+      that surrounds the village of Arrifana. 
+
+
+      Hotel 4*: [Herdade Monte Sol](http://www.herdademontedosol.com/)
     location:
       lat: "1"
       lng: "1"
-  - description: "With an average difficulty, this walk is composed of dirt paths
-      and a lot of ups and downs. Today’s journey takes you along untouched
-      natural areas in the Vicentine Coast. When reaching the village of
-      Carrapateira, dating back to the XIIth century, the main historical
-      monument is the Carrapateira Fort, which was built in the XVII century in
-      order to defend the village from pirate attacks. Hotel: Casa Fajara"
+  - description: >-
+      With an average difficulty, this walk is composed of dirt paths and a lot
+      of ups and downs. Today’s journey takes you along untouched natural areas
+      in the Vicentine Coast. When reaching the village of Carrapateira, dating
+      back to the XIIth century, the main historical monument is the
+      Carrapateira Fort, which was built in the XVII century in order to defend
+      the village from pirate attacks. 
+
+
+      Hotel 4*: [Casa Fajara](https://www.casafajara.com/)
     title: "Day 3: Arrifana – Carrapateira: 20 km"
     location:
       lat: "1"
@@ -60,30 +72,42 @@ itinerary:
     day: "3"
   - day: "4"
     title: "Day 4: Carrapateira – Pedralva: 8 Km"
-    description: "This day’s walk is one of the easiest ones, with only 8 km of road
-      ahead on flat dirt paths. Admire the beaches of the Vicentine Coast and,
-      if you are a fan of bird watching, this area is for you to discover. Enjoy
-      the rest of your day in Pedralva in the peace and privacy in that which is
-      a protected village of Portugal. Hotel: Aldeia Pedralva"
+    description: >-
+      This day’s walk is one of the easiest ones, with only 8 km of road ahead
+      on flat dirt paths. Admire the beaches of the Vicentine Coast and, if you
+      are a fan of bird watching, this area is for you to discover. Enjoy the
+      rest of your day in Pedralva in the peace and privacy in that which is a
+      protected village of Portugal. 
+
+
+      House: [Aldeia Pedralva](http://www.aldeiadapedralva.com/en/hotel-rooms.html)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 5: Pedralva – Vila do Bispo: 12 km"
     day: "5"
-    description: "The day takes you through a flat and easy walk where its
-      monumental cliffs provide the high point for stunning views over the
-      ocean. In Vila do Bispo you may visit the local church built in XVIII
-      century, and at the end of the day you may enjoy your meal with a dish of
-      roasted sardines or shellfish. Hotel: Hotel Mira Sagres"
+    description: >-
+      The day takes you through a flat and easy walk where its monumental cliffs
+      provide the high point for stunning views over the ocean. In Vila do Bispo
+      you may visit the local church built in XVIII century, and at the end of
+      the day you may enjoy your meal with a dish of roasted sardines or
+      shellfish.
+
+
+      Hotel 3*: [Hotel Mira Sagres](https://www.hotelmirasagres.com/)
     location:
       lat: "1"
       lng: "1"
-  - description: "This walk might be the hardest one so far with quite a few ups and
-      downs made in dirt paths and a substantial amount of kilometers to travel.
-      Upon arrival into Sagres take a shortcut to Cabo de São Vicente to its
-      Fort. This fort is consider one of the most important forts in Algarve,
-      mainly because in the past it was a crossing zone between the Atlantic
-      ocean and the Mediterranean sea. Hotel: Pousada Sagres"
+  - description: >-
+      This walk might be the hardest one so far with quite a few ups and downs
+      made in dirt paths and a substantial amount of kilometers to travel. Upon
+      arrival into Sagres take a shortcut to Cabo de São Vicente to its Fort.
+      This fort is consider one of the most important forts in Algarve, mainly
+      because in the past it was a crossing zone between the Atlantic ocean and
+      the Mediterranean sea. 
+
+
+      Hotel 4*: [Pousada Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-sagres)
     day: "6"
     title: "Day 6: Vila do Bispo – Sagres: 24 km"
     location:

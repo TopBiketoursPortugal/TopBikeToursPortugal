@@ -3,13 +3,13 @@ templateKey: home-page
 path: /
 title: Home
 meta:
-  description: "Walking & Hiking tours in Portugal: For those who want a true
-    walking & hiking holiday in portugal with no worry´s about transfer´s,
-    accommodations, food, places to visit in Portugal and other highlights"
+  description: "Walking tours in Portugal: For those who want a true walking &
+    hiking holiday in portugal with no worry´s about transfer´s, accommodations,
+    food, places to visit in Portugal and other highlights"
   keywords: walking tours portugal,hiking tours portugal,hike tours portugal, walk
     portugal tours
   robots: INDEX
-  title: Walking & Hiking Holiday tours in Portugal
+  title: Walking Tours Portugal | Hiking Tours portugal |TopWalkingtours
 toursection:
   description: "## Popular hiking tours in Portugal"
   descriptionafter: "**Walking & Hiking tours in Portugal**:  In our walking &

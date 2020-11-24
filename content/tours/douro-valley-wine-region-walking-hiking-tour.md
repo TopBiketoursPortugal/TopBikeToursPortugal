@@ -30,83 +30,107 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+    description: "Hotel 4*: [Trindade Hotel](https://www.portotrindadehotel.com/)"
   - title: "Day 2: Walk from Pinhão - Vilarinho de São Romão: 13 km "
     day: "2"
-    description: "A lot of the areas in the Douro region are intrinsically
-      mountainous. As such there will be a good quantity of opportunities for
-      appreciating wonderful views all along the way. This days walk is mainly
-      an uphill towards Vilarinho de São Romão done primarily on asphalt roads.
-      Starts at a height of 80m and ends at the 550m mark. Some of the areas
-      that might spark your interest during the day are: The numerous wine farms
-      and sightseeing points that exist throughout the way, the chapel of Santa
-      Maria and Sabrosa’s chapel near the place where your night will be spent."
+    description: >-
+      A lot of the areas in the Douro region are intrinsically mountainous. As
+      such there will be a good quantity of opportunities for appreciating
+      wonderful views all along the way. This days walk is mainly an uphill
+      towards Vilarinho de São Romão done primarily on asphalt roads. Starts at
+      a height of 80m and ends at the 550m mark. Some of the areas that might
+      spark your interest during the day are: The numerous wine farms and
+      sightseeing points that exist throughout the way, the chapel of Santa
+      Maria and Sabrosa’s chapel near the place where your night will be spent.
+
+
+      House: [Casa de Vilarinho de São Romão](http://www.casadevilarinho.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Vilarinho de São Romão – Alijó: 18 km"
-    description: "Continuing to cross the region this walk will finish in Alijó. The
-      walk itself keeps the same characteristics as the previous one. The
-      steepest of its portion last for roughly 10km while descending to cross
-      the river of Pinhão and then ascending back up again to around the same
-      height. The highest point during this walk is at 690m and the lowest at
-      240m. Some of the areas that might spark your interest during the day are:
-      The views and shapes of the Douro Valley region, the chapel of St.ª
-      Bárbara and the town of Alijó."
+    description: >-
+      Continuing to cross the region this walk will finish in Alijó. The walk
+      itself keeps the same characteristics as the previous one. The steepest of
+      its portion last for roughly 10km while descending to cross the river of
+      Pinhão and then ascending back up again to around the same height. The
+      highest point during this walk is at 690m and the lowest at 240m. Some of
+      the areas that might spark your interest during the day are: The views and
+      shapes of the Douro Valley region, the chapel of St.ª Bárbara and the town
+      of Alijó.
+
+
+      Hotel 4*: [Pousada de Alijó](https://www.pousadasofportugal.com/pousadas/alijo/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 4: Alijó loop- São Mamede Ribatua: 15 km"
     day: "4"
-    description: "The region of Douro does not stop to amaze and this walk is no
-      exception. The natural conjunction between the human made vineyard
-      production farms and the natural landscape is breathtaking. This walk
-      proceeds to make a loop between Alijó and São Mamede Ribatua, and it takes
-      you to the top of the hill of São Domingos at 700m high. This journey is
-      primarily made in paved roads similarly to the previous ones. Some of the
-      areas that might spark your interest during the day are: Roman bridge of
-      São Mamede, the church of São Mamede de Ribatua, the chapel of Nossa
-      Senhora da Lapa/Sr. do Calvário and the views and the triangulation
-      station of São Domingos’ hill."
+    description: >-
+      The region of Douro does not stop to amaze and this walk is no exception.
+      The natural conjunction between the human made vineyard production farms
+      and the natural landscape is breathtaking. This walk proceeds to make a
+      loop between Alijó and São Mamede Ribatua, and it takes you to the top of
+      the hill of São Domingos at 700m high. This journey is primarily made in
+      paved roads similarly to the previous ones. Some of the areas that might
+      spark your interest during the day are: Roman bridge of São Mamede, the
+      church of São Mamede de Ribatua, the chapel of Nossa Senhora da Lapa/Sr.
+      do Calvário and the views and the triangulation station of São Domingos’
+      hill.
+
+
+      Hotel 4*: [Pousada de Alijó](https://www.pousadasofportugal.com/pousadas/alijo/)
     location:
       lat: "1"
       lng: "1"
   - day: "5"
     title: "Day 5: Alijó - Vale de Mendiz: 13 km"
-    description: "Getting away from the usual trend so far, this walk is mainly done
+    description: >-
+      Getting away from the usual trend so far, this walk is mainly done
       downhill. It allows for a constant appreciation of the landscape, since by
       going majorly down it faces directly the hilly horizon. The path goes
       slightly uphill early on, only to descend roughly 300m for the big
       majority of the day. Once again the majority of the walk is made through
       paved roads. Some of the areas that might spark your interest during the
       day are: The beautiful views of the Douro region and the church of São
-      João Baptista."
+      João Baptista.
+
+
+      Farm: [Quinta do Silval](http://www.quintadosilval.pt/)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 6: Vale de Mendiz – Pinhão: 9 km + train or boat to Régua"
     day: "6"
-    description: "Small journey back to Pinhão in order to catch either the train or
-      a boat to Régua. The walk is slightly uphill in the first half, followed
-      by a fast decent towards Pinhão in the second half. It comprises a mixture
-      of several types of terrain and once again offers several areas for taking
-      in the insurmountable mountainous view. Some of the areas that might spark
+    description: >-
+      Small journey back to Pinhão in order to catch either the train or a boat
+      to Régua. The walk is slightly uphill in the first half, followed by a
+      fast decent towards Pinhão in the second half. It comprises a mixture of
+      several types of terrain and once again offers several areas for taking in
+      the insurmountable mountainous view. Some of the areas that might spark
       your interest during the day are: Sightseeing points, the church of São
       Bartolomeu and the connection to Régua either by train or boat, which
-      offer an interesting bottom view of the area."
+      offer an interesting bottom view of the area.
+
+
+      Farm: [Quinta da Pacheca](https://quintadapacheca.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "7"
     title: "Day 7: Régua – Lamego: 18 km"
-    description: "The last day in Douro Valley goes from Régua to an area near the
-      river Varosa belonging to Lamego. This last journey is predominantly
-      uphill, with a total cumulative height of 1110m of both uphill and
-      downhill areas. The maximum and minimum height for the day are 530m and
-      60m respectively. It portraits a mixture of all types of terrain, being
-      asphalt the most frequent. Some of the areas that might spark your
-      interest during the day are: Varosa’s Hydroelectric Power Station and
-      Varosa’s Water Dam."
+    description: >-
+      The last day in Douro Valley goes from Régua to an area near the river
+      Varosa belonging to Lamego. This last journey is predominantly uphill,
+      with a total cumulative height of 1110m of both uphill and downhill areas.
+      The maximum and minimum height for the day are 530m and 60m respectively.
+      It portraits a mixture of all types of terrain, being asphalt the most
+      frequent. Some of the areas that might spark your interest during the day
+      are: Varosa’s Hydroelectric Power Station and Varosa’s Water Dam.
+
+
+      Farm: [Visconde Várzea](https://www.hotelruralviscondesvarzea.com/)
     location:
       lat: "1"
       lng: "1"

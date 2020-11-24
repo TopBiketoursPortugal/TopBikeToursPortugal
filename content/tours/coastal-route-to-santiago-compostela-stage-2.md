@@ -32,26 +32,35 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
+    description: "Hotel 4 *: [Parador Baiona
+      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
+      oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
+      rm=organico&utm_content=ficha)"
   - day: "2"
     title: "Day 2: Baiona - Vigo: 25 km"
-    description: "The path departs from Baiona towards Vigo. This walk feels as a
-      densely urbanized area, with the ever present constructions and landscape
+    description: >-
+      The path departs from Baiona towards Vigo. This walk feels as a densely
+      urbanized area, with the ever present constructions and landscape
       alteration visible along the way. A big portion of the walk is made along
       side an asphalted road, inside a protective shoulder, which is used by
       both cyclists and pedestrians. Some of the areas that might spark your
       interest during the day are: Senda dos Lagares near Vigo, beautiful place
       near the river where the path passes by, the monument to Elduayen, the
       monument to Jules Verne, the hill fort of Vigo, the Stone Market and the
-      Co-Cathedral of Santa María."
+      Co-Cathedral of Santa María.
+
+
+      Hotel 4*: [Ac Hotel Palacio Universal](https://www.marriott.com/hotels/travel/vgopa-ac-hotel-palacio-universal/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2&y_source=1_NDIyOTYyNi03MTUtbG9jYXRpb24uZ29vZ2xlX3dlYnNpdGVfb3ZlcnJpZGU=)
     location:
       lat: "1"
       lng: "1"
   - day: "3"
     title: "Day 3: Vigo - Redondela: 17 km"
-    description: "The flat days are now left behind and the path starts to deviate
-      from the coastal side. This walk is quite more hilly than any of the other
-      ones so far. The first few kilometers are still made inside the busy and
-      always shifting Vigo area. A constant degree of elevation is noticeable
+    description: >-
+      The flat days are now left behind and the path starts to deviate from the
+      coastal side. This walk is quite more hilly than any of the other ones so
+      far. The first few kilometers are still made inside the busy and always
+      shifting Vigo area. A constant degree of elevation is noticeable
       throughout the majority of the first half of this walk while climbing
       Penide hill, until the highest point of this walk is reached, at 430
       meters. After that a quick downhill follows. The final quarter of this
@@ -59,53 +68,68 @@ itinerary:
       there are plenty natural areas at the higher elevations. Some of the areas
       that might spark your interest during the day are: The oyster nursery
       areas near Vigo at the ocean entrance, the zoo of Vigo called Vigozoo and
-      Mámoa do rei, a neolithic tumulus in the Penide hill."
+      Mámoa do rei, a neolithic tumulus in the Penide hill.
+
+
+      Hotel: [Pazo de Agrelo](http://torresagrelo.com/)
     location:
       lat: "1"
       lng: "1"
   - day: "4"
     title: "Day 4: Redondela – Pontevedra: 21 km"
-    description: "The hills are here to stay and as such this walk is not an
-      exception. With a cumulative total of 670m of uphill and downhill, a lot
-      of the walk is through dirt or secondary paths. Encountering the main road
-      is still expected, since the different paths divert from the main road and
-      go through low to no traffic areas. There are two main hills between 160
-      and 140m to cover during this walk. Some of the areas that might spark
-      your interest during the day are: Ponte de San Paio, romantic bridge from
-      the XIII century, church of Santa María de Ponte Sampaio. While in
-      Pontevedra there is a whole repertoire of places to visit, serves as an
-      example the monument to the heroes of the Sampaio bridge in Pontevedra,
-      the convent of Saint Francis of Pontevedra, the chapel of the pilgrim
-      virgin and the Spain plaza."
+    description: >-
+      The hills are here to stay and as such this walk is not an exception. With
+      a cumulative total of 670m of uphill and downhill, a lot of the walk is
+      through dirt or secondary paths. Encountering the main road is still
+      expected, since the different paths divert from the main road and go
+      through low to no traffic areas. There are two main hills between 160 and
+      140m to cover during this walk. Some of the areas that might spark your
+      interest during the day are: Ponte de San Paio, romantic bridge from the
+      XIII century, church of Santa María de Ponte Sampaio. While in Pontevedra
+      there is a whole repertoire of places to visit, serves as an example the
+      monument to the heroes of the Sampaio bridge in Pontevedra, the convent of
+      Saint Francis of Pontevedra, the chapel of the pilgrim virgin and the
+      Spain plaza.
+
+
+      Hotel 4 *: [Parador Pontevedra](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedra&utm_term=organico&utm_content=ficha)
     location:
       lat: "1"
       lng: "1"
   - title: "Day 5: Pontevedra – Caldas de reis: 25 km"
     day: "5"
-    description: "From this day forward it is noticeable a clear change on the type
-      of back roads that are taken to get to Santiago. There is a feeling of
-      being cared for and having roads practically for pilgrims use. There is
-      plentiful amount of dirt paths, mixed with paved secondary streets and the
+    description: >-
+      From this day forward it is noticeable a clear change on the type of back
+      roads that are taken to get to Santiago. There is a feeling of being cared
+      for and having roads practically for pilgrims use. There is plentiful
+      amount of dirt paths, mixed with paved secondary streets and the
       occasional visit to the main road. There are two main uphill areas, being
       the biggest right at the end of this walk in order to get to the hotel.
       Some of the areas that might spark your interest during the day are: The
       church of San Cristobal De Briallos, the thermal fountain of las Burgas in
       Caldas de Rei, the church of San Tomé Becket, the carballeira of Caldas de
       Reis, a small garden in the town, and the paths that follow along the
-      river, those of which you will cross while getting to the hotel."
+      river, those of which you will cross while getting to the hotel.
+
+
+      Rural hotel: [Torre do Rio](https://torredorio.es/en/)
     location:
       lat: "1"
       lng: "1"
-  - description: "With a total cumulative height of 530m, this walk has only one
-      major hill to cross and a big downhill at the start, while getting down
-      from the previous hotel. The walk feels much like the previous one in the
-      type of roads and paths that are crossed, although leaning a bit more to
-      the paved ones. The tendency of meeting the main road from time to time is
-      still verifiable, since the path follows mostly around it. Some of the
-      areas that might spark your interest during the day are: The church of San
+  - description: >-
+      With a total cumulative height of 530m, this walk has only one major hill
+      to cross and a big downhill at the start, while getting down from the
+      previous hotel. The walk feels much like the previous one in the type of
+      roads and paths that are crossed, although leaning a bit more to the paved
+      ones. The tendency of meeting the main road from time to time is still
+      verifiable, since the path follows mostly around it. Some of the areas
+      that might spark your interest during the day are: The church of San
       Miguel de Valga, the church of San Xulián de Requeixo at the entrance of
       the town of Padrón and the church of Santiago de Padrón where you can find
-      the stone that gives name to the town."
+      the stone that gives name to the town.
+
+
+      Hotel 4*: [Pazo de Lestrove](https://www.pousadasdecompostela.com/alojamiento-santiago-compostela-catedral/hotel-pazo-de-lestrove/)
     day: "6"
     title: "Day 6: Caldas de Reis – Padrón: 22 km"
     location:
@@ -113,15 +137,19 @@ itinerary:
       lng: "1"
   - title: "Day 7: Padrón – Santiago de Compostela: 25 km"
     day: "7"
-    description: "The last day is finally here. The walk towards Santiago might be
-      one of the most challenging so far. This walk has a cumulative height of
-      620m, being most of it uphill. The first half is relatively flat and only
-      after do the roads start going up. The added motivation of having the
-      final goal at reach certainly vitalizes the walker in order to help
-      getting to Santiago. Some of the areas that might spark your interest
-      during the day are: You certainly might want to pay a visit to the
-      cathedral of Santiago de Compostela and to the pilgrims reception office
-      in case you want to get a probate of your arrival to Santiago."
+    description: >-
+      The last day is finally here. The walk towards Santiago might be one of
+      the most challenging so far. This walk has a cumulative height of 620m,
+      being most of it uphill. The first half is relatively flat and only after
+      do the roads start going up. The added motivation of having the final goal
+      at reach certainly vitalizes the walker in order to help getting to
+      Santiago. Some of the areas that might spark your interest during the day
+      are: You certainly might want to pay a visit to the cathedral of Santiago
+      de Compostela and to the pilgrims reception office in case you want to get
+      a probate of your arrival to Santiago.
+
+
+      Hotel 4*: [Hotel Compostela](https://www.hotelcompostela.es/en/)
     location:
       lat: "1"
       lng: "1"
