@@ -242,8 +242,8 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                     backgroundColor={`#fff`}
                     style={{
                       backgroundPosition: feature.imageAlign || "center center",
-                      width:"100%",
-                      height:"100%"
+                      width: "100%",
+                      height: "100%",
                     }}
                   >
                     <div className="fBanner">
@@ -260,13 +260,11 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                       )}
                       {feature && feature.bokunLink && (
                         <div className="fBannerButton">
-                          <button
-                            className="bokunButton"
-                            id={feature.bokunId}
-                            data-src={feature.bokunLink}
-                          >
-                            {feature.bokunLinkText}
-                          </button>
+                          <a
+                            class="bokunButton"
+                            href={feature.bokunLink}
+                            target="_blank"
+                          >{feature.bokunLinkText}</a>
                         </div>
                       )}
                     </div>
