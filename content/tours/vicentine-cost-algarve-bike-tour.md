@@ -47,7 +47,7 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1ieK3MkKNSZ5im7KllAgWngvQiiWZksCn
 itinerary:
   - day: "1"
-    description: The journey starts in the city of Lisbon, Portugal's capital. This
+    description: "The journey starts in the city of Lisbon, Portugal's capital. This
       city has been influenced by many different cultures over the course of its
       history and it still maintains a village feeling in each historic
       neighborhood. The wide variety of landscapes and heritage is always close
@@ -55,13 +55,14 @@ itinerary:
       Lisbon, is a Portuguese traditional music style and is an expression of
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
-      neighborhood.
+      neighborhood. Hotel 4 *: [Turim Marquês
+      Hotel](https://www.turim-hotels.com/hoteis/-141)"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
     title: Day 1 – Lisbon
   - day: "2"
-    description: Cycle through some lovely Portuguese cities, like the city of
+    description: "Cycle through some lovely Portuguese cities, like the city of
       Montijo, strongly marked by the river. Like most of the localities of
       Ribatejo, Montijo has the tradition of the “brava” celebration, being
       bulls an bullfights an essential characteristic of the city's parties.
@@ -74,13 +75,14 @@ itinerary:
       comprised mostly of white sandy beaches fringed with shifting dunes and
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
-      wildlife haven with a wealth of bird-watching possibilities.
+      wildlife haven with a wealth of bird-watching possibilities. Hotel 5 *:
+      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/)"
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
     title: Day 2 -  Lisboa – Troia (65 km) * moderate dificulty
   - day: "3"
-    description: Starting the day with some extensive sandy beaches, you will head
+    description: "Starting the day with some extensive sandy beaches, you will head
       towards Vila Nova de Santo André. This is a very multicultural city, which
       received a lot of people from Portuguese former colonies. The extensive
       forest that protects Santo André is a good example of the harmonious
@@ -92,12 +94,13 @@ itinerary:
       XIXth century. This village emerged as a small clump of fishermen and
       farmers. Its inhabitants are mainly dedicated into farming the land and
       handcraft activities, such as pottery and the making of cork stoppers.
+      Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/)"
     location:
       lat: "38.06021165"
       lng: "-8.78451884"
     title: Day 3 - Troia - Vila Nova de Santo André (66 Km)
   - day: "4"
-    description: You will cycle in the direction of Milfontes. Milfontes is the
+    description: "You will cycle in the direction of Milfontes. Milfontes is the
       perfect combination of History and Nature, because it is situated on a
       beautiful coastline and it has been a region often raided by pirates. You
       will have the opportunity to discover the city of Sines where Vasco da
@@ -105,14 +108,15 @@ itinerary:
       by sea, connecting the West and the Orient in the 15th century. Nowadays
       it's remarkably known for receiving 50% of the countries’ exportations. In
       the village of Porto Covo is one of the most sought after by locals and
-      tourists. With a spacious and sheltered beach, "Praia Grande", it is one
-      of the busiest during the summer.
+      tourists. With a spacious and sheltered beach, \"Praia Grande\", it is one
+      of the busiest during the summer. Hotel 3 *: [Hotel HS
+      MIlfontes](https://hsmilfontesbeach.com/pt/)"
     location:
       lat: "37.72243336"
       lng: "-8.78589749"
     title: Day 4 – Vila Nova de Santo André – Vila Nova de Mil Fontes (55 km)
   - day: "5"
-    description: Quieter than Vila Nova de Milfontes, Zambujeira do Mar attracts
+    description: "Quieter than Vila Nova de Milfontes, Zambujeira do Mar attracts
       more of a backpacker and surf crowd. Being a small sea side town on the
       coast of Alentejo, in western Portugal, it has some lovely sandy beaches
       and picture perfect traditional architecture, making it a small but loved
@@ -121,12 +125,13 @@ itinerary:
       Santa Catarina and the small, whitewashed chapel of Nossa Senhora do Mar.
       The beach is about 500 meters from the town of Almograve. It is a shallow
       but extensive beach with low tide, providing authentic natural pools.
+      Farm: [Herdade do touril](https://herdadedotouril.com/)"
     location:
       lat: "37.52514173"
       lng: "-8.7853986"
     title: Day 5 – VNMF – Zambujeira do Mar (40 km)
   - day: "6"
-    description: First you will be passing by Aljezur, an attractive village that
+    description: "First you will be passing by Aljezur, an attractive village that
       straddles a river, its western part is Moorish, with a collection of
       cottages below a ruined 10th century hilltop castle. Vestiges of the old
       harbour can be seen in the narrow alleys that give access to the Ribeira
@@ -138,28 +143,30 @@ itinerary:
       The beach presents high quality landscape and biodiversity, being able to
       enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
       is in fact in this Natural Park, the only place in the world where you can
-      observe the storks that nest on the cliffs.
+      observe the storks that nest on the cliffs. Hotel 4 *: [Hotel
+      vicentina](http://www.vicentinahotel.com/)"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
     title: Day 6 – Zambujeira do Mar – Aljezur (45 km)
   - day: "7"
-    description: Leaving Aljezur to enter the surf-central Carrapateira, a  peaceful
-      village with two nearby beaches with strong swells, which commonly attract
-      surfers and visitors from Lisbon. The coast along this area is wild, with
-      copper-coloured and ash-grey cliffs. Its landmarks include an old fort, a
-      church and its high reddish rock formations, that look deceptively similar
-      to Cape St. Vincent, in the southwest corner of Portugal. Carrapateira was
-      traditionally a dangerous area for sailing ships. The extremely fast
-      southbound current and the jutting headland that made it a dangerous lure
-      for shipwrecks in the past, also creates the conditions which have made it
-      a popular surfing destination in recent years.
+    description: "Leaving Aljezur to enter the surf-central Carrapateira,
+      a  peaceful village with two nearby beaches with strong swells, which
+      commonly attract surfers and visitors from Lisbon. The coast along this
+      area is wild, with copper-coloured and ash-grey cliffs. Its landmarks
+      include an old fort, a church and its high reddish rock formations, that
+      look deceptively similar to Cape St. Vincent, in the southwest corner of
+      Portugal. Carrapateira was traditionally a dangerous area for sailing
+      ships. The extremely fast southbound current and the jutting headland that
+      made it a dangerous lure for shipwrecks in the past, also creates the
+      conditions which have made it a popular surfing destination in recent
+      years. Hotel 4 *: [Casa fajara](https://www.casafajara.com/)"
     location:
       lat: "37.18373374"
       lng: "-8.89505267"
     title: Day 7 – Aljezur – Carrapateira (30 km)
   - day: "8"
-    description: A region of dramatic natural scenery, comprising of raging seas,
+    description: "A region of dramatic natural scenery, comprising of raging seas,
       towering cliffs and vast beaches, you are now cycling towards Sagres.
       There is little of historical or architectural interest as the original
       town bore the full brunt of the 1755 earthquake. Situated within a few
@@ -169,30 +176,34 @@ itinerary:
       the existence of these dangerous cliffs. The narrow streets which surround
       the main church contain many houses typical of the old Algarve, with
       whitewashed walls, bands of bright color, carved stonework around doors
-      and windows.
+      and windows. Hotel 4 *: [Pousada
+      Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
+      -my-business&utm_medium=organicsearch&utm_campaign=pousada-sagres)"
     location:
       lat: "37.00901414"
       lng: "-8.93903017"
     title: Day 8 - Carrapateira – Sagres (54 km)
   - day: "9"
-    description: Lying along the bank of the Rio Bensafrim, with XVIth century walls
-      enclosing the old town, we have Lagos. Lagos is a historic and lively city
-      that offers visitors glorious beaches, nightlife and a charming historical
-      center. Extending to the east of Lagos, you can found the 4km long "Meia
-      Praia" Beach, which is the longest sandy beach on the western side of the
-      Algarve. Aside from its hedonistic appeal, Lagos has historical clout,
-      having launched many naval excursions during the Portuguese Age of
-      Discoveries. Located about halfway between Lagos and Sagres there’s a
-      picturesque fishing village, the little village of Salema. It is a
-      paradise to those who are seeking tranquility and an escape from the
-      crowded areas, where biking opportunities abound. The village is home to a
-      number of fishermen who still cast their nets daily and moor their fishing
-      boats on the shore. Finishing off this ride, blessed with both a beautiful
-      beach and glorious climate, the "Luz" beach has a welcoming and friendly
-      atmosphere, as the town has a significant permanent community of retired
-      or emigrated expats. You’ll surely enjoy having the last stop of this
-      fulfilling trip, in this amazingly, beautiful beach with lots of sights
-      that provide a lovely and relaxing place to rest.
+    description: 'Lying along the bank of the Rio Bensafrim, with XVIth century
+      walls enclosing the old town, we have Lagos. Lagos is a historic and
+      lively city that offers visitors glorious beaches, nightlife and a
+      charming historical center. Extending to the east of Lagos, you can found
+      the 4km long "Meia Praia" Beach, which is the longest sandy beach on the
+      western side of the Algarve. Aside from its hedonistic appeal, Lagos has
+      historical clout, having launched many naval excursions during the
+      Portuguese Age of Discoveries. Located about halfway between Lagos and
+      Sagres there’s a picturesque fishing village, the little village of
+      Salema. It is a paradise to those who are seeking tranquility and an
+      escape from the crowded areas, where biking opportunities abound. The
+      village is home to a number of fishermen who still cast their nets daily
+      and moor their fishing boats on the shore. Finishing off this ride,
+      blessed with both a beautiful beach and glorious climate, the "Luz" beach
+      has a welcoming and friendly atmosphere, as the town has a significant
+      permanent community of retired or emigrated expats. You’ll surely enjoy
+      having the last stop of this fulfilling trip, in this amazingly, beautiful
+      beach with lots of sights that provide a lovely and relaxing place to
+      rest. Hotel 4 *: [Tivoli
+      Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
     location:
       lat: "37.10029188"
       lng: "-8.67213964"

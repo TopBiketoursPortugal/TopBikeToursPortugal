@@ -43,7 +43,7 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dNH8SL7
 itinerary:
   - day: "1"
-    description: O primeiro dia será passado no Porto, uma antiga cidade portuária
+    description: "O primeiro dia será passado no Porto, uma antiga cidade portuária
       outrora um posto do Império Romano, impregnado de história e tradição.
       Localizado ao longo do Vale do Rio Douro, no norte de Portugal, o Porto é
       uma das cidades europeias mais antigas e o seu centro histórico foi
@@ -52,13 +52,14 @@ itinerary:
       como também os tradicionais azulejos azuis e brancos nas igrejas e casas.
       Inclui também  alguns destaques contemporâneos, incluindo a livraria que
       inspirou, com os seus belíssimos detalhes, J. K. Rowling enquanto escrevia
-      “Harry Potter” e o Palácio da Bolsa.
+      “Harry Potter” e o Palácio da Bolsa. Hotel 4 *: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
     title: Dia 1 - Recepção no Porto
   - day: "2"
-    description: A saída do Porto faz-se por uma das pontes mais famosas de
+    description: "A saída do Porto faz-se por uma das pontes mais famosas de
       Portugal, a Ponte Don Luís, entrando assim na cidade de Vila Nova de Gaia.
       A origem desta cidade remonta a um castro celta, posteriormente integrada
       no Império Romano. Aqui pode-se visitar as mundialmente famosas adegas de
@@ -73,13 +74,14 @@ itinerary:
       oportunidade de ver a famosa Capela dos Passos, classificada como
       Monumento de Interesse Nacional e ainda diversos exemplos de azulejos
       típicos portugueses, não só nas fachadas de edifícios públicos, como
-      também em casas de propriedade privada.
+      também em casas de propriedade privada. Hotel 4 *: [Furadouro
+      Hotel](https://www.furadourohotel.com/)"
     location:
       lat: "40.87313436"
       lng: "-8.67736816"
     title: Dia 2 - Porto - Furadouro ( 47 Km)
   - day: "3"
-    description: Seguindo pela costa em direcção ao sul, percorrerá uma estrada
+    description: "Seguindo pela costa em direcção ao sul, percorrerá uma estrada
       secundária durante grande parte do dia, atravessando várias aldeias de
       pescadores, incluindo a Torreira, possuidora de uma longa e fantástica
       praia. Atravessará ainda a famosa reserva natural das Dunas de São
@@ -88,36 +90,40 @@ itinerary:
       será iniciado via ferry boat, atravessando a ria, para finalmente realizar
       os quilómetros finais até Aveiro. Aqui pode-se visitar o Mosteiro de
       Jesus, observar os azulejos da estação de comboio e fazer um passeio de
-      barco pela Ria de Aveiro.
+      barco pela Ria de Aveiro. Hotel 4 *: [Moliceiro
+      Hotel](https://www.hotelmoliceiro.pt/)"
     location:
       lat: "40.640496"
       lng: "8.6537841"
     title: Dia 3 - Furadouro - Aveiro ( 45 KM)
   - day: "4"
-    description: Neste dia a rota leva-o a Ílhavo, localidade da empresa Vista
+    description: "Neste dia a rota leva-o a Ílhavo, localidade da empresa Vista
       Alegre, onde se fabrica porcelana portuguesa, fundada em 1815. Pode-se
       apreciar a fantástica paisagem da famosa Costa Nova do Prado, onde as
       praias se interligam com o ambiente rural, criando um ambiente único.
+      Hotel 4 *: [Maçarico Hotel](https://www.macaricobeachhotel.com/)"
     location:
       lat: "40.4556419"
       lng: "-8.8026211"
     title: Dia 4 - Aveiro - Praia de Mira (40 Km)
   - day: "5"
-    description: A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A
+    description: "A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A
       paisagem progride desde a beira-do-mar e da grande extensão de dunas de
       areia, até à lagoa e às florestas aromáticas de pinho. A Rainha da Costa
       de Prata, Figueira da Foz, é o destino do dia. É aqui que o belo Rio
-      Mondego se junta ao Oceano.
+      Mondego se junta ao Oceano. Hotel 4 *: [Sweet Atlantic
+      Hotel](http://www.sweethotels.pt/)"
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
     title: Dia 5 - Praia de Mira - Figueira da Foz ( 50 Km)
   - day: "6"
-    description: No último dia de ciclismo a rota afasta-se do mar, mas continua
+    description: 'No último dia de ciclismo a rota afasta-se do mar, mas continua
       sempre ao longo do rio Mondego, terminando em Coimbra. Esta cidade é muito
       famosa pela sua Universidade, a mais antiga de Portugal e uma das mais
       antigas da Europa. Ao longo do tempo Coimbra moldou a sua imagem para se
-      tornar a conhecida “Cidade dos estudantes ".
+      tornar a conhecida “Cidade dos estudantes ". Hotel 4 *: [Tivoli Coimbra
+      Hotel](https://www.tivolihotels.com/en/tivoli-coimbra?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
     location:
       lat: "40.2109801"
       lng: "-8.4292057"

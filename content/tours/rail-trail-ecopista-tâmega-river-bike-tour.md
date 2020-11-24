@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 10
+order: 8
 path: /douro-valley-full-day-bike-ride
 productcode: CT 09
 featured: false

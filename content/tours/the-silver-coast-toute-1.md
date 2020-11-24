@@ -44,13 +44,14 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dNH8SL7
 itinerary:
   - day: "1"
-    description: ""
+    description: "Accommodation, Hotel 4 stars: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
-    title: "Day 1: Reception at Porto"
+    title: "Day 1: Reception at Porto."
   - day: "2"
-    description: You will make the coast towards the small village of Furadouro.
+    description: "You will make the coast towards the small village of Furadouro.
       Leaving Porto, you will cross the city center of Porto, heading toward the
       river through one of the most famous bridges in Portugal. After crossing
       the Don Luis I bridge, you will enter the city of Vila Nova de Gaia, where
@@ -63,49 +64,54 @@ itinerary:
       sweets. Being Ovar a fishing ground can still taste the famous stews of
       fish or eels. You will have the opportunity to see the famous Chapel of
       the Steps, which is classified as a National Interest Monument.
+      Accommodation, Hotel 4 stars: [Furadouro
+      Hotel](https://www.furadourohotel.com/)"
     location:
       lat: "40.87313436"
       lng: "-8.67736816"
     title: Day 2 - Porto - Furadouro ( 47 Km)
   - day: "3"
-    description: Continuing the path along the coast, on the road N327, towards the
+    description: "Continuing the path along the coast, on the road N327, towards the
       city of Aveiro, known as the little Venice of Portugal. Ride by several
       fishing villages, one of which is the town of Torreira. Continuing our way
       see the famous natural reserve of S. Jacinto, where you can observe
       several species of birds. To accomplish the crossing to Aveiro, make the
       passage via Ferry Boat. Arrive at the famous city of Aveiro where you can
       visit the Jesus Monastery, observe the tiles from the train station and
-      make a boat tour on the Ria de Aveiro.
+      make a boat tour on the Ria de Aveiro. Accommodation, Hotel 4 stars:
+      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/)"
     location:
       lat: "40.640496"
       lng: "8.6537841"
     title: Day 3 - Furadouro - Aveiro ( 45 KM)
   - day: "4"
-    description: On this route of 48km, you shall know the city of Ílhavo, famous
+    description: "On this route of 48km, you shall know the city of Ílhavo, famous
       for the manufacture of porcelain, Vista Alegre. With over 200 years of
       tradition as well, you can observe the fantastic scenery of the famous
       Costa Nova do Prado, where the beaches are intertwined with the rural,
       creating a unique environment where there is the opportunity to view the
       famous haystack houses on the waterfront, easily recognizable by the
-      paintings on vertical colored bands.
+      paintings on vertical colored bands. Accommodation, Hotel 4 stars:
+      [Maçarico Hotel](https://www.macaricobeachhotel.com/)"
     location:
       lat: "40.4556419"
       lng: "-8.8026211"
     title: Day 4 - Aveiro  -  Praia de Mira (40 Km)
   - day: "5"
-    description: You will be pleased to meet the hidden and beautiful barrinha
+    description: 'You will be pleased to meet the hidden and beautiful barrinha
       lagoon, also "fed" by the Ria de Aveiro. The adventure follows the famous
       pine forest inserted in the dunes, where the aroma of the trees combines
       with the sea breeze, sea area that is quite exploited by sailing boats and
       windsurfing. Coming finally to the "Queen of the Silver Coast," Figueira
       da Foz, famous for its long beaches, where the beautiful River Mondego
-      flows.
+      flows. Accommodation, Hotel 4 stars: [Sweet Atlantic
+      Hotel](http://www.sweethotels.pt/)'
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
     title: Day 5 - Praia de Mira - Figueira da Foz ( 50 Km)
   - day: "6"
-    description: Move away from the seaside resort frequented by "Coimbrenses" and
+    description: 'Move away from the seaside resort frequented by "Coimbrenses" and
       the Spanish population of the area of Extremadura. In this path of 55km,
       you will go away from the coast, yet always accompanied by the Mondego
       River, with headwaters in the highest point of continental Portugal, Serra
@@ -114,7 +120,9 @@ itinerary:
       famous fado "(...) Coimbra has more charm in the time to say goodbye
       (...)", you will enjoy the cultural potential to its fullest and the
       endless monuments, full of nostalgic fado houses and "knowledge", imbued
-      in the university environment.
+      in the university environment. Accommodation, Hotel 4 stars: [Tivoli
+      Coimbra
+      Hotel](https://www.tivolihotels.com/en/tivoli-coimbra?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
     location:
       lat: "40.2109801"
       lng: "-8.4292057"
@@ -336,7 +344,7 @@ feature:
 \
 Silver Coast is the name given to the coastal region encompassing the coast of Portugal between the mouth of the river Douro in Vila Nova de Gaia and the municipality of Torres Vedras, in the district of Lisbon.
 
-This 7-day bike ride will take you through one of the most important links along the coast between the city of Porto and the "capital" of the central region of Portugal, Coimbra.
+This cycling holiday ride will take you through one of the most important links along the coast between the city of Porto and the "capital" of the central region of Portugal, Coimbra.
 
 See some characteristics that make Porto one of the most important cities (culturally and historically). You will be going down the Atlantic coast, visiting wonderful places (natural, historical and gastronomic), through several coastal cities, to the "city of knowledge" Coimbra, famous for its noble university, historical monuments and of course Coimbra's Fado.
 

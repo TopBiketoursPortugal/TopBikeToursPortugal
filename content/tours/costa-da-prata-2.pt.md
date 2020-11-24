@@ -66,13 +66,14 @@ itinerary:
       um percurso de aproximadamente 7 km, que combina mar, bosques e praia, a
       pureza das floresta, parques, fontes e riachos. Um ponto de atracção
       turística é a sua gastronomia única e vincada, como a sopa "Vidreiro", a
-      sopa de bacalhau e o ensopado de coelho.'
+      sopa de bacalhau e o ensopado de coelho. Hotel 4 *: [Hotel Mar e Sol
+      ](http://www.hotelmaresol.com/)'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
     title: "Dia 2: Figueira da Foz – São Pedro de Moel (65 KM)"
   - day: "3"
-    description: Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na
+    description: 'Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na
       sua paisagem, possui uma vista deslumbrante no topo de um elevado
       penhasco, cujo o acesso é facilitado por um elevador funicular ou
       carro.  O grande atractivo desta cidade são as ondas e o surf, graças ao
@@ -81,7 +82,8 @@ itinerary:
       habitantes, o maior desfiladeiro submerso na Europa, com cerca de 170
       quilómetros ao longo da costa e com 5000 metros de profundidade. Neste
       percurso irá pedalar por praias de renome e onde encontrará as maiores
-      ondas da Europa, como a Praia do Norte e a região da Nazaré.
+      ondas da Europa, como a Praia do Norte e a região da Nazaré. Hotel 4 *:
+      [Hotel Praia](http://www.hotelpraia.com/)'
     location:
       lat: "39.60004501"
       lng: "-9.07155991"
@@ -105,13 +107,14 @@ itinerary:
       uma única ilha. A sua divisão posterior deu origem à baía de São Martinho
       do Porto. Graças a todo este contexto histórico e à sua beleza natural,
       foi considerada a melhor praia para ir com a família no guia de 2015
-      praias de eDreams.'
+      praias de eDreams. Hotel 4 *: [Hotel real de Óbidos
+      ](http://www.hotelrealdobidos.com/pt/)'
     location:
       lat: "39.3680634"
       lng: "-9.18730437"
     title: "Dia 4: Nazaré – Óbidos (47 Km)"
   - day: "5"
-    description: Regressando à zona costeira em direcção à cidade de Peniche, terá
+    description: "Regressando à zona costeira em direcção à cidade de Peniche, terá
       oportunidade para uma paragem de bicicleta na Lagoa de Óbidos, com uma
       extensão entre os municípios de Óbidos e Caldas da Rainha. É uma barreira
       natural que separa o Oceano Atlântico e o bioma marinho do ecossistema
@@ -122,13 +125,13 @@ itinerary:
       ao nível do surf com supertubos. As ilhas das Berlengas, localizadas a
       acerca de 10 km de distância, ganharam grande distinção e reconhecimento
       visto que, historicamente, são uma das primeiras reservas naturais do
-      mundo.
+      mundo. Hotel 4 *: [MH Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx)"
     location:
       lat: "39.33722515"
       lng: "-9.31285284"
     title: " Dia 5: Óbidos – Peniche (35 Km)"
   - day: "6"
-    description: Deixando Peniche mas continuando ao longo da costa, o próximo
+    description: 'Deixando Peniche mas continuando ao longo da costa, o próximo
       destino é a Ericeira. Esta cidade foi um popular retiro de verão para
       muitas das famílias de Lisboa nas décadas de 40 e 50 do século XX. Hoje é
       um destino popular para turistas locais e visitantes, bem como surfistas
@@ -140,7 +143,8 @@ itinerary:
       passagem durante este dia e é um lugar que é propício para uma grande
       parte de desportos de onda. Todos os anos há o "Ocean Spirit" festival de
       desportos de onda, onde são realizadas competições internacionais de
-      vários tipos.
+      vários tipos. Hotel 4 *: [Vila Galé
+      Ericeira](http://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-ericeira)'
     location:
       lat: "38.9631655"
       lng: "-9.4170098"
@@ -153,14 +157,14 @@ itinerary:
       Natural de Sintra-Cascais, as freguesias da cidade de Sintra são locais
       com retiros reais, propriedades, castelos e outros edifícios, entre os
       quais o Castelo dos Mouros, o Palácio Nacional da Pena e o Palácio
-      Nacional de Sintra, onde a herança cultural se mantém até aos dias de hoje
-      "
+      Nacional de Sintra, onde a herança cultural se mantém até aos dias de
+      hoje.Hotel 4 *: [Sintra Boutique Hotel  ](http://sintraboutiquehotel.com)"
     location:
       lat: "38.79846"
       lng: "-9.3881"
     title: "Dia 7: Ericeira – Sintra (27 Km)"
   - day: "8"
-    description: Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um
+    description: "Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um
       subúrbio cosmopolita da capital portuguesa e um dos municípios mais ricos
       de Portugal. A antiga aldeia piscatória ganhou fama com a presença da
       família real de portuguesa no final do século XIX e início do século XX.
@@ -172,6 +176,9 @@ itinerary:
       obrigatório a visitar, visto que é um dos 13 Parques Naturais de Portugal
       e porque o mesmo inclui a Serra de Sintra, montanha que se estende até à
       costa e o Cabo da Roca, o ponto continental mais ocidental da Europa.
+      Hotel 4 *: [Hotel Eurostars Cascais
+      ](https://www.eurostarshotels.com.pt/eurostars-cascais.html?td=l00rl00&id\
+      _referer=GMB&utm_source=google&utm_medium=gmb&utm_campaign=googlemb)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"

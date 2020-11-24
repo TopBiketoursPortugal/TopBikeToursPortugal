@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 7
+order: 6
 path: /bike-tours-douro-valley/
 productcode: DOURO 02
 featured: false
@@ -44,57 +44,61 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1FQ1YmZYlKWQxPwBQhEWF96TjtaowgG0C
 itinerary:
   - day: "1"
-    description: ""
+    description: "Hotel 4 *: [Quinta de La Rosa ](https://www.quintadelarosa.com/)"
     location:
       lat: "41.21223207"
       lng: "-7.42980301"
-    title: "Day 1: Reception at Porto"
+    title: "Day 1: Reception at Porto and transfer to Pinhão"
   - day: "2"
-    description: Starting in Pinhão, you will begin your journey by heading towards
+    description: "Starting in Pinhão, you will begin your journey by heading towards
       Ervedosa do Douro and continuing to São João da Pesqueira, where you can
       visit a wine museum. The day will end with an accommodation in Vila Nova
       de Foz Côa, very well known site for its World Heritage Paleolithic
-      paintings.
+      paintings. Hotel 4 *: [Longroiva Hotel
+      ](http://hoteldelongroiva.com/longroiva-hotel-termas)"
     location:
       lat: "41.07807865"
       lng: "-7.13896749"
     title: "Day 2: Pinhão – Vila Nova de Foz Côa (74 km)"
   - day: "3"
-    description: Pedaling towards Figueira de Castelo Rodrigo, will pass through
+    description: "Pedaling towards Figueira de Castelo Rodrigo, will pass through
       Castelo Melhor, Algodres and Vilar de Amargo. Once in your final
       destination, you will be able to visit its Northern plateau, a preserved
       village with a medieval castle which overlooks the highest point of
       Portugal. Between February and March, in Figueira de Castelo Rodrigo, this
-      natural landscape provides a beautiful scenery of almond blossoms.
+      natural landscape provides a beautiful scenery of almond blossoms. Hotel 4
+      *: [Colmeia Countriside ](http://colmealhotel.com/)"
     location:
       lat: "40.89676004"
       lng: "-6.96072578"
     title: "Day 3: Vila Nova de Foz Côa – Figueira de Castelo Rodrigo (42 km)"
   - day: "4"
-    description: Continuing your cycling journey in the heart of Douro, you will now
-      be heading to Marialva. The day will start with the following of the
+    description: "Continuing your cycling journey in the heart of Douro, you will
+      now be heading to Marialva. The day will start with the following of the
       course of the Côa River, which will go up to Pinhel. Marialva is connected
       to a nobility title of Marquis, created after the Portuguese Restoration,
       in 1640, as well as connected to the equestrian art of the 18th Century.
+      Hotel 4 *: [Casas do Coro ](http://www.casasdocoro.pt//)"
     location:
       lat: "40.90918386"
       lng: "-7.23094225"
     title: "Day 4: Figueira de Castelo Rodrigo – Marialva (60 km)"
   - day: "5"
-    description: EspExpect some challenges as you will pass by Mêda and Ranhados,
+    description: "EspExpect some challenges as you will pass by Mêda and Ranhados,
       the highest points of this route. From this stage on, we will enjoy the
       unique mountain carved landscapes, that which portraits the inhabitants of
       Douro, where vineyards stand the test of time.ere alguns desafios a medida
       que passará por Mêda e Ranhados, os pontos mais elevado deste percurso.
       Desde estes pontos, poderá desfrutar das paisagens únicas das montanhas,
       que transborda o retrato dos habitantes durienses, onde os vinhares
-      resistem ao teste do tempo.
+      resistem ao teste do tempo. Hotel 4 *: [Penedono
+      Hotel](http://www.hotelmedieval.pt/)"
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
     title: "Day 5: Marialva – Penedono (27 km)"
   - day: "6"
-    description: Enjoy a free day, or cycle a loop, to get to know surrounding
+    description: 'Enjoy a free day, or cycle a loop, to get to know surrounding
       villages. In case you opt for cycling, you will leave Penedono and find
       yourself in the middle of traditional farmlands. The landscape is
       dominated by vineyards and chestnuts, so much so that "Sernancelhe" area
@@ -102,14 +106,16 @@ itinerary:
       the region actually produces on the road side scenery. With the river
       Távora by your side you can enjoy the wonderful geography, with mountains
       and valleys, which is a trademark image of this part of the country. If
-      you have the time, take a visit to the XIIth century church.
+      you have the time, take a visit to the XIIth century church. Hotel 4 *:
+      [Penedono Hotel](http://www.hotelmedieval.pt/)'
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
     title: "Day 6: Penedono loop (40 km)"
   - day: "7"
-    description: From Penedono we will once again ride along the Douro River. Régua
-      is the last frontier to overcome on your way to Porto.
+    description: "From Penedono we will once again ride along the Douro River. Régua
+      is the last frontier to overcome on your way to Porto. Farm: [Quinta da
+      Pacheca](http://www.hotelmedieval.pt/)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"

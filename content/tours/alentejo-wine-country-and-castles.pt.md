@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 7
 path: /alentejo-vinho-tradicao-passseio-bicicleta
 productcode: AL01
 featured: false
@@ -38,7 +38,9 @@ itinerary:
     description: "Explore Estremoz onde vários reis e rainhas de Portugal nasceram,
       como D. Dinis e a Rainha Isabel. Tire algum tempo para passear em Estremoz
       e apreciar as calçadas de mármore e os vários monumentos que compõe a
-      cidade. Hotel: Pousada de Estremoz"
+      cidade. Hotel 4 *: [Pousada de Estremoz
+      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
+      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
   - day: "2"
     title: "Dia 2: Circuito de Estremoz – Sousel – Estremoz: 46km"
     description: "O circuito deste primeiro dia é fácil, sendo a grande maioria do
@@ -46,7 +48,9 @@ itinerary:
       vinho onde pode provar o vinho que é produzido nesta zona. Este circuito
       passa por Sousel, uma vila típica do distrito de Portalegre. A população
       desta vila vive essencialmente da pastorícia e da produção de vinho e
-      azeite. Hotel: Pousada de Estremoz"
+      azeite. HHotel 4 *: [Pousada de Estremoz
+      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
+      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -59,8 +63,10 @@ itinerary:
       subida até Borba, bastante conhecida dos Portugueses, graças ao seu vinho.
       Um pouco mais à frente dará de caras com Vila Viçosa, o destino final
       deste dia. Explore esta vila conhecida como a princesa do Alentejo e
-      visite o Palácio Ducal e o seu castelo. Hotel: Pousada Convento Vila
-      Viçosa"
+      visite o Palácio Ducal e o seu castelo. Hotel 4 *: [Pousada Convento Vila
+      Viçosa
+      ](https://www.pousadas.pt/en/hotel/pousada-vila-vicosa?utm_source=google-\
+      my-business&utm_medium=organicsearch&utm_campaign=pousada-vila-vicosa)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -70,8 +76,9 @@ itinerary:
       lago artificial de Portugal, formado graças à barragem do Alqueva. Nesta
       zona, ao longo da maior parte do ano, as flores de loendro encontram-se a
       pintalgar a paisagem. Poderá ainda ver o Menir de Outeiro mesmo antes de
-      chegar ao seu destino final, Monsaraz. Hotel: Horta da Moura ou opção de
-      luxo (extra)  Herdade de S. Lourenço do Barrocal"
+      chegar ao seu destino final, Monsaraz. Hotel 4 *: [Horta da Moura Hotel
+      ](http://hortadamoura.pt/) or luxuary Option (extra quote) Farm: [Herdade
+      São lourenço do Barrocal ](https://barrocal.pt/estate/about/) "
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -86,19 +93,24 @@ itinerary:
       quilómetros mais, poderá ver o misterioso castelo de Valongo. O percurso
       será agora um constante repetir de pequenas subidas e descidas no meio do
       Olival. Antes de alcançar Évora, é ainda possível parar para tomar um café
-      na Nossa Senhora de Machete. Hotel: Pousada Convento Évora"
+      na Nossa Senhora de Machete. Hotel 4 *: [Pousada Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
   - day: "6"
     title: "Dia 6: Circuito de Évora – Arraiolos – Évora: 47km"
-    description: Este dia irá guiá-lo através de área vinícola para uma visita à
+    description: "Este dia irá guiá-lo através de área vinícola para uma visita à
       vila de Arraiolos. Esta é muito conhecida pela sua produção de tapetes e
       pelo seu peculiar castelo circular. As Oliveiras e Sobreiros serão as
       características dominantes do terreno. O regresso a Évora será rápido,
       sendo que terá mais tempo para explorar a cidade. Um dos principais pontos
       de interesse da cidade é a Capela dos Ossos construída no século XVIII e
-      que se encontra totalmente forrada com ossos humanos.
+      que se encontra totalmente forrada com ossos humanos. Hotel 4 *: [Pousada
+      Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -109,7 +121,9 @@ itinerary:
       esforço e pedale até ao maior cromeleque da Península Ibérica, já com mais
       de 5 mil anos. Se sentir que um cromeleque não compensa tantos
       quilómetros, poderá ainda visitar as ruínas de Tourega, aquela que foi uma
-      vila romana. Hotel: Pousada Convento Évora"
+      vila romana. Hotel 4 *: [Pousada Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"

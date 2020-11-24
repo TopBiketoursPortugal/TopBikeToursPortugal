@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 7
 path: /alentejo-wine-heritage-bicycle-tour
 productcode: AL01
 featured: false
@@ -38,7 +38,9 @@ itinerary:
     description: "Explore Estremoz (“white city”), house of many kings and queens of
       Portugal, especially king Dinis and Queen Isabel. Take a walk into the
       city, admire the marble cobblestones and visit the Castel and other
-      monuments that the city offers. Hotel: Pousada de Estremoz"
+      monuments that the city offers. Hotel 4 *: [Pousada de Estremoz
+      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
+      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
   - day: "2"
     title: "Day 2: Day 2: Estremoz Loop – Sousel – Estremoz : 46 km"
     description: "This easy cycling day will be mostly near agriculture fields and
@@ -46,7 +48,9 @@ itinerary:
       goes thru Sousel, a tipical Alentejana village in the district of
       Portalegre. The population of this village works essential on pastoral and
       agriculture of wine and olive oil. Go back to Estremoz and explore it once
-      more. Hotel: Pousada de Estremoz"
+      more. Hotel 4 *: [Pousada de Estremoz
+      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
+      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -60,7 +64,9 @@ itinerary:
       a little further finish your route in Vila Viçosa. These two places are
       also very connected to the marble industry. Explore Vila Viçosa, known as
       the “Princess of Alentejo”, and visit the Ducal Palace and the
-      Castle  Hotel: Pousada Convento Vila Viçosa"
+      Castle  Hotel 4 *: [Pousada Convento Vila Viçosa
+      ](https://www.pousadas.pt/en/hotel/pousada-vila-vicosa?utm_source=google-\
+      my-business&utm_medium=organicsearch&utm_campaign=pousada-vila-vicosa)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -70,8 +76,9 @@ itinerary:
       kilometers, a long descent will guide you to the biggest artificial
       Alqueva’s lake. On the way some oleander flowers will paint some trees and
       shrubs. The route will take you to Outeiro Menhir, right before reaching
-      Monsaraz Castle.  Hotel: Horta da Moura or Luxuary Option (extra
-      quote)  Herdade de S. Lourenço do Barrocal"
+      Monsaraz Castle.  Hotel 4 *: [Horta da Moura Hotel
+      ](http://hortadamoura.pt/) or luxuary Option (extra quote) Farm: [Herdade
+      São lourenço do Barrocal ](https://barrocal.pt/estate/about/) "
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -85,8 +92,10 @@ itinerary:
       Montoito village and some kilometers further is the mysterious Valongo
       Castle. At this point, half of the way is on your back and the route will
       be up and down in smooth climbs with a view of Olive trees. On the way to
-      Évora you still can have a coffe in Nossa Senhora de Machete. Hotel:
-      Pousada Convento Évora"
+      Évora you still can have a coffe in Nossa Senhora de Machete. Hotel 4 *:
+      [Pousada Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -97,7 +106,9 @@ itinerary:
       peculiar circular castle. The Olive Oil trees and Cork trees will be on
       your views again. The return to Évora will be fast, and you can have more
       time to explore it and visit on of the highlights that is the Bone Chapel
-      dated from the XIII century. Hotel: Pousada Convento Évora"
+      dated from the XIII century. Hotel 4 *: [Pousada Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -107,7 +118,9 @@ itinerary:
       historical sites and Roman ruins make the final effort and cycle to the
       biggest dolmen and a cromlech with over 5000 years. If that is not enough
       don´t miss the opportunity to go to the ruins of Tourega Roman village,
-      near the lake. Hotel: Pousada Convento Évora"
+      near the lake. Hotel 4 *: [Pousada Convento de Évora
+      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
+      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
