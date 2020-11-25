@@ -15,13 +15,13 @@ meta:
   robots: INDEX
 languagePages: []
 ---
-
-
 # Recommendations to pack for a cycling holiday with Top Bike tours Portugal.
 
 It is important to bring some important items for a bicycle holiday so your ride can be made in comfort.
 
-**Clothing:** A pair of *padded shorts* and *cycling Jerseys*. A pair because this way it is possible to have clean clothing every day, if at the end of each day the used shorts and jersey are washed.
+## **Clothing:**
+
+A pair of *padded shorts* and *cycling Jerseys*. A pair because this way it is possible to have clean clothing every day, if at the end of each day the used shorts and jersey are washed.
 
 An important note for the Jersey and their very useful pockets in the back where it is possible to put for example your phone, your gloves, money, documentation, etc
 
@@ -39,20 +39,24 @@ Although is not an essential item *arm and leg warms* are very useful if you nee
 
 
 
-## **GPS**
+## **GPS:**
 
 Although the maps are important to know the way, the GPS will make your journey more enjoyable and without the stress of knowing if you are doing a good reading of the maps. You will save time to enjoy more your moments in the nature.
 
 A GPS with battery’s will be provided by us.
 
-To solev some fificulties 
+A detailed experience will also be available for you on your mobile phone where it is also possible to use GPS and track the route. The information provided in this app called Ride with GPS will have all the information provided in your printed paper roadbook, and it is more detailed than the GPS provided by us. Although some mobile phones have good battery is an essential item a battery to recharge it during your ride if necessary.
 
-A detailed experience will also be available for you on your mobile phone where it is also possible to use GPS and track the route. The information provided in this app called Ride with GPS will have all the information provided in your printed paper roadbook, and it is more detailed than the GPS provided by us. Althought some mobile phones have good battery is an essential item a battery to recharge it during your ride if necessary.
+Advantage of using Ride With GPS app:
 
- The support for mobile phone on the handlebar is provided by us.
+* Get turn-by-turn voice navigation
+* offline maps
+* Customized route and event pages.
 
-
-
+The support for mobile phone on the handlebar is provided by us.
+\
+\
+\
 **Other essential items:**
 
 * Sunscreen
