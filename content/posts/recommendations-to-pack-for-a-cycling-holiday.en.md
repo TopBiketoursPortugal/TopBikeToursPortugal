@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /cycling-holiday-pack-recommendations
-showHome: false
+showHome: true
 title: Packing recommendations for a cycling holiday
 language: en
 date: 2020-11-25T15:25:38.939Z
