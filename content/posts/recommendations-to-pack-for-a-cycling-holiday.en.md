@@ -47,7 +47,7 @@ Even though maps are an important aspect of orientation, a GPS is going to make 
 
 A GPS is provided by us.
 
-Detailed information about the experience will also be available for you on your mobile phone. With it you can also use GPS and track the route. The information provided on your phone uses an app called Ride with GPS. Even though some mobile phones have good battery life, it is essential that you bring a battery to recharge it during your ride if necessary.
+Detailed information about the experience will also be available for you on your mobile phone. With it you can also use GPS and track the route. The information provided on your phone uses an app called Ride With GPS. Even though some mobile phones have good battery life, it is essential that you bring a battery to recharge it during your ride if necessary.
 
 Advantages of using Ride With GPS app:
 
