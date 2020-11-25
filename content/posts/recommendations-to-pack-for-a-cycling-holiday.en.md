@@ -39,6 +39,8 @@ Although is not an essential item *arm and leg warms* are very useful if you nee
 
 Your bicycle must have a place to keep your essential items. The bicycle provided in all our cycling packages will have installed one bag for your items.
 
+![kit for cycling holidays](/img/kit-for-cycling-holidays.jpg "kit for cycling holidays")
+
 ## **GPS:**
 
 Although the maps are important to know the way, the GPS will make your journey more enjoyable and without the stress of knowing if you are doing a good reading of the maps. You will save time to enjoy more your moments in the nature.
