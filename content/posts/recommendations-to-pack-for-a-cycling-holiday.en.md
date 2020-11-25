@@ -45,7 +45,7 @@ Most cyclists prefer to bring some items on their bike rides. As such, the bicyc
 
 Even though maps are an important aspect of orientation, a GPS is going to make your journey more enjoyable and without the stress of knowing if you are doing an exact reading of a map. The GPS is going to save you time so that you can enjoy more your moments in nature.
 
-A GPS battery is provided by us.
+A GPS is provided by us.
 
 Detailed information about the experience will also be available for you on your mobile phone. With it you can also use GPS and track the route. The information provided on your phone uses an app called Ride with GPS. Even though some mobile phones have good battery life, it is essential that you bring a battery to recharge it during your ride if necessary.
 
