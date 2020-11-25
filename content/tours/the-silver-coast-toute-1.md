@@ -134,6 +134,8 @@ itinerary:
       lng: "-8.4292057"
     title: "Day 7: Departure"
 gallery:
+  - alt: Silver coast photos resume
+    image: /img/top-photos-from-the-tour.jpg
   - alt: Coimbra group photo
     image: /img/20190920_135559.jpg
   - alt: furadouro forest in a bicycle
