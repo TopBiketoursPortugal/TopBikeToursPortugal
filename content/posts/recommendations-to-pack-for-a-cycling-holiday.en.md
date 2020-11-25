@@ -35,9 +35,9 @@ Although is not an essential item *arm and leg warms* are very useful if you nee
 
 *Helmet:* Although is not mandatory you should wear it. Bring your own or use the one that is provided by us.
 
-**Bicycle Bag:** Your bicycle must have a place to keep your essential items. The bicycle provided in all our cycling packages will have installed one bag for your needs.
+## **Bicycle Bag:**
 
-
+Your bicycle must have a place to keep your essential items. The bicycle provided in all our cycling packages will have installed one bag for your items.
 
 ## **GPS:**
 
