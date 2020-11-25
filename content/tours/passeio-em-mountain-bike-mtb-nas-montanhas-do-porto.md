@@ -99,7 +99,7 @@ pricing:
 feature:
   align: center
   imageAlign: center center
-  bokunLink: ""
+  bokunLink: https://fareharbor.com/embeds/book/topbiketoursportugal/items/268413/?full-items=yes&flow=479507
   bokunId: ""
   textcolor: white
   subtitle: "Mountain Bike Tour Porto "
