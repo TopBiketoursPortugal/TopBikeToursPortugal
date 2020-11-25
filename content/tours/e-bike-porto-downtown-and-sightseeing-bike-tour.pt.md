@@ -140,8 +140,8 @@ pricing:
 feature:
   align: center
   imageAlign: center center
-  bokunLink: https://widgets.bokun.io/online-sales/78235668-9ba3-43e0-b6a9-4b5322217da3/experience/270685?partialView=1
-  bokunId: bokun_0e96d140_057a_4ba8_9041_cd6a6e28079c
+  bokunLink: https://fareharbor.com/embeds/book/topbiketoursportugal/items/268411/calendar/2020/11/?flow=479507&full-items=yes
+  bokunId: ""
   textcolor: white
   subtitle: Bicycle day tours Portugal
   title: Day tours
