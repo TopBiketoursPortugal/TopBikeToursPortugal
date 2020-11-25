@@ -2,60 +2,60 @@
 templateKey: blog-post
 path: /cycling-holiday-pack-recommendations
 showHome: false
-title: Recommendations to pack for a cycling holiday
+title: Packing recommendations for a cycling holiday
 language: en
 date: 2020-11-25T15:25:38.939Z
 featuredImage: /img/kit-for-cycling-holidays.jpg
 featuredImagePosition: center center
 meta:
-  title: Recommendations to pack for a cycling holiday
+  title: Packing recommendations for a cycling holiday
   language: EN
-  description: Recommendations to pack for a cycling holiday
-  keywords: Recommendations to pack for a cycling holiday
+  description: Packing recommendations for a cycling holiday
+  keywords: Packing recommendations for a cycling holiday
   robots: INDEX
 languagePages: []
 ---
-# Recommendations to pack for a cycling holiday with Top Bike tours Portugal.
+# Packing recommendations for a cycling holiday with Top Bike Tours Portugal
 
-It is important to bring some important items for a bicycle holiday so your ride can be made in comfort.
+It is always important to bring some items for a bicycle holiday so that your ride can be made comfortably.
 
 ## **Clothing:**
 
-A pair of *padded shorts* and *cycling Jerseys*. A pair because this way it is possible to have clean clothing every day, if at the end of each day the used shorts and jersey are washed.
+A pair of *padded shorts* and *cycling Jerseys*. This way you can always have clean shorts to wear, as long as the used ones are washed at the end of each day.
 
-An important note for the Jersey and their very useful pockets in the back where it is possible to put for example your phone, your gloves, money, documentation, etc
+Cycling Jerseys always come in handy with its well design pockets which make them safe for placing your phone, gloves, money, documentation, etc.
 
-Although is not an essential item *arm and leg warms* are very useful if you need extra comfort levels.
+Although not an essential item, arm and Leg warmers are very useful if you need some extra comfort.
 
-*Cycling jacket* waterproof. Lightweight Jacket can fit into a jersey pocket, or just put it on the cycling bag.
+A light waterproof cycling jacket can fit into a jersey's pocket or into a cycling bag. It is always better to stay on the safe side on longer rides, just in case.
 
-*Cycling gloves*: Don´t let your hands become sore and raw if you don´t wear gloves
+Don't let your hands become sore and bring some cycling gloves with you.
 
-*Buff:* very useful to protect your neck or head from sunburn. It keeps your ears warm on cold days
+A Buff is very useful to protect your neck and ears from the cold or sunburn.
 
-*Helmet:* Although is not mandatory you should wear it. Bring your own or use the one that is provided by us.
+Bring a helmet. Although not mandatory, you should always wear one. If you don't have a helmet, we will provide you one.
 
 ## **Bicycle Bag:**
 
-Your bicycle must have a place to keep your essential items. The bicycle provided in all our cycling packages will have installed one bag for your items.
+Most cyclists prefer to bring some items on their bike rides. As such, the bicycles we provide on our cycling packages always come with an installed bag for any items you may carry.
 
 ![kit for cycling holidays](/img/kit-for-cycling-holidays.jpg "kit for cycling holidays")
 
 ## **GPS:**
 
-Although the maps are important to know the way, the GPS will make your journey more enjoyable and without the stress of knowing if you are doing a good reading of the maps. You will save time to enjoy more your moments in the nature.
+Even though maps are an important aspect of orientation, a GPS is going to make your journey more enjoyable and without the stress of knowing if you are doing an exact reading of a map. The GPS is going to save you time so that you can enjoy more your moments in nature.
 
-A GPS with battery’s will be provided by us.
+A GPS battery is provided by us.
 
-A detailed experience will also be available for you on your mobile phone where it is also possible to use GPS and track the route. The information provided in this app called Ride with GPS will have all the information provided in your printed paper roadbook, and it is more detailed than the GPS provided by us. Although some mobile phones have good battery is an essential item a battery to recharge it during your ride if necessary.
+Detailed information about the experience will also be available for you on your mobile phone. With it you can also use GPS and track the route. The information provided on your phone uses an app called Ride with GPS. Even though some mobile phones have good battery life, it is essential that you bring a battery to recharge it during your ride if necessary.
 
-Advantage of using Ride With GPS app:
+Advantages of using Ride With GPS app:
 
 * Get turn-by-turn voice navigation
 * offline maps
 * Customized route and event pages.
 
-The support for mobile phone on the handlebar is provided by us.
+The support for your mobile phone on the handlebar is provided by us.
 \
 \
 \
