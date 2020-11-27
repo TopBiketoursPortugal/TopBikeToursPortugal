@@ -260,6 +260,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       author: Author
       afterList: String
       afterpricing: String
+      packagetype: String
     }
     
   `;
