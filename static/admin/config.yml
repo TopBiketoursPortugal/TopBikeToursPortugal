@@ -335,11 +335,11 @@ collections:
       - {
           label: "Package Type",
           name: "packagetype",
-          widget: "select",
+          widget: "hidden",
           multiple: false,
-          options: ["PackageTour", "SingleTour"],
-          default: ["PackageTour"],
-          required: false,
+          options: ["SingleTour"],
+          default: ["SingleTour"],
+          required: true,
         }
       - {
           label: "Tour Type",
