@@ -7,8 +7,7 @@ featured: false
 language: en
 image: /img/tâmega-bike-tour.webp
 title: Rail trail - Ecopista Tâmega river bike tour
-packagetype:
-  - PackageTour
+packagetype: SingleTour
 tourtype: Bike
 meta:
   title: Rail trail - Ecopista Tâmega river
