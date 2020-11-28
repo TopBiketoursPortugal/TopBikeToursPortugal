@@ -211,7 +211,7 @@ afterpricing: |-
 feature:
   align: center
   imageAlign: center center
-  bokunLink: ""
+  bokunLink: https://fareharbor.com/embeds/book/topbiketoursportugal/items/268392/?flow=479509&full-items=yes
   bokunId: ""
   textcolor: white
   subtitle: Rail trail - Ecopista Dão river bike tour
