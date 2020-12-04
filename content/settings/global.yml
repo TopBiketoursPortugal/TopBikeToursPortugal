@@ -25,7 +25,7 @@ pt:
   keywords: passeios em bicicleta porto, tours em bicicleta porto, bike porto,
     porto em bicicleta
   title: Bike Tours Porto
-titleformat: "%s  | Top Bike tours Porto"
+titleformat: "%s  | Top Bike Tours Porto"
 location:
   lat: "41.152103"
   lng: "-8.610452"
@@ -34,7 +34,7 @@ mobile: (+351) 915 316 999​
 email: info@topbiketoursportugal.com
 tourOperator: 7/2014
 travelAgency: "7008"
-siteUrl: https://biketoursporo.com
+siteUrl: https://biketoursporto.com
 socialMediaCard:
   image: /img/logo.png
 socialNetworks:
