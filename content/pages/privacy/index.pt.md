@@ -3,8 +3,10 @@ templateKey: about-page
 path: /politica-de-privacidade/
 title: politica de privacidade
 meta:
-  robots: NOINDEX
+  robots: INDEX
   description: politica de privacidade
+  title: politica de privacidade
+  keywords: politica de privacidade
 ---
 # **Política de Privacidade**
 
