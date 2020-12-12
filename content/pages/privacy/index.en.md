@@ -3,8 +3,10 @@ templateKey: about-page
 path: /privacy-policy/
 title: Privacy Policy
 meta:
-  robots: NOINDEX
+  robots: INDEX
   description: Privacy Policy
+  title: Privacy Policy
+  keywords: Privacy Policy
 ---
 # **Privacy Policy**
 
