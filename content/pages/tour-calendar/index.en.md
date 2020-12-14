@@ -18,12 +18,6 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2021-05-07T23:00:00.000Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
     date: 2021-05-22T14:20:05.422Z
     body: >-
       [The Way of St. James - Porto to Santiago de Compostela along
