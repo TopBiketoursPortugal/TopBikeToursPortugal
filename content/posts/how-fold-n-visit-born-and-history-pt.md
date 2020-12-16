@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /single-post/2017/10/29/How-Fold-n-Visit-Born-and-History-pt/
-title: Como Fold n visit Nsaceu e Historia
+title: Como Fold n visit Nasceu e Historia
 language: pt
 date: 2017-10-28T23:00:00.000Z
 featuredImage: /img/dahon-bicycle.png
@@ -20,7 +20,7 @@ languagePages:
   - path: /'historia da empresa /
     language: pt
 ---
-# Como Fold n visit Nsaceu e Historia
+# Como Fold n visit Nasceu e Historia
 
 Como o Fold n Visit nasceu e evoluiu: Tudo começou quando Sergio comprou uma bicicleta dobrável para levá-lo ao trabalho. Eventualmente, alguns de seus amigos o desafiaram a fazer uma viagem de bicicleta do Porto a Santiago de Compostela. Ele aceitou com entusiasmo e, depois do que se tornou uma grande aventura, Sergio começou um blog:
 
