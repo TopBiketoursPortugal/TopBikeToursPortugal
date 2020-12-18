@@ -1,22 +1,22 @@
 ---
 templateKey: blog-post
 path: /pt/blog/pedalar-em-portugal-o-que-saber/
-title: 'Pedalar em Portugal: O que saber!'
+showHome: true
+title: "Pedalar em Portugal: O que saber!"
 language: pt
 date: 2020-01-15T18:06:37.897Z
-featuredImage: /img/henrique-1-.jpg
+featuredImage: /img/henrique-1-1-.jpg
 featuredImagePosition: center center
 meta:
-  description: >-
-    Venha pedalar em Portugal. Tudo o que saber sobre o clima, tipo de terreno,
-    melhor mês para andar de bicicleta e regiões escrito neste excelente artigo
-    feito por Henrique, nosso guia.
-  keywords: ' melhor mês para andar de bicicleta em portugal,Pedalar de bicicleta em Portugal'
+  description: Venha pedalar em Portugal. Tudo o que saber sobre o clima, tipo de
+    terreno, melhor mês para andar de bicicleta e regiões escrito neste
+    excelente artigo feito por Henrique, nosso guia.
+  keywords: " melhor mês para andar de bicicleta em portugal,Pedalar de bicicleta
+    em Portugal"
   robots: INDEX
-  title: 'Pedalar em Portugal: O que saber!'
+  title: "Pedalar em Portugal: O que saber!"
   language: PT
 languagePages: []
-showHome: true
 ---
 # Pedalar em Portugal
 
@@ -40,6 +40,6 @@ Uma das maiores preocupações da maioria dos ciclistas é o tráfego. Garantimo
 
 Ao participar num dos nossos bike tours, apenas necessita de vontade para aproveitar e desfrutar da melhor maneira possível, sabendo que tudo foi organizado para si.
 
-Créditos: [**Henrique Vareta**](https://topbiketoursportugal.com/about-us-biking-travel/)
+Créditos: **[Henrique Vareta](https://topbiketoursportugal.com/about-us-biking-travel/)**
 
-![guia turístico em bicicleta Henrique Vareta](/img/henrique-1-.jpg "guia turístico em bicicleta Henrique Vareta")
+![guia turístico em bicicleta Henrique Vareta](/img/henrique-1-1-.jpg "guia turístico em bicicleta Henrique Vareta")
