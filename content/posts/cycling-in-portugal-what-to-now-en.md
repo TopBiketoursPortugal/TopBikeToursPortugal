@@ -23,7 +23,7 @@ languagePages: []
 
 ## Why would you visit Portugal?
 
-Portugal has been progressively cementing itself as a country worth visiting. With each passing visit, more news spread to the international community of the wonders that this country contains, from the widely known coastal cities, like Porto and Lisbon, up to the less known confines of this historical and ancient land, that is Portugal.
+Portugal has been progressively cementing itself as a country worth visiting and recognized by UNESCO world heritage list. With each passing visit, more news spread to the international community of the wonders that this country contains, from the widely known coastal cities, like Porto and Lisbon, up to the less known confines of this historical and ancient land, that is Portugal.
 
 It is a very old country, in fact the first in Europe to have its current borders defined. This gave the country an immense time to strengthen its culture and even to explore the unknown, by setting sail to the sea. Such a wonderful gastronomy couldn’t have appeared out of thin air. Both from the sea or land, the food in Portugal is known for its rich backgrounds and excellent taste, changing what it is served to you, with every new region you visit.
 
