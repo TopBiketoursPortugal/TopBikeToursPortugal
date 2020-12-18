@@ -107,7 +107,7 @@ Em 2017 o nome da empresa foi alterado de "Fold n' Visit" para "Top Biketours Po
 
 Desde 2013 que apresentamos uma grande oferta de passeios pela cidade do Porto. Hoje em dia o principal negócio da empresa é a criação de pacotes de passeios em bicicleta. Como tal, a oferta de passeios citadinos tem vindo a ser reduzida, assim como o aluguer de bicicletas para longas distâncias. É possível seguir a nossa história nas reviews do Tripadvisor.
 
-![Group photo bike tour in douro valley](/img/guided-bike-tour-in-douro-valley.jpg "Group photo bike tour in douro valley")
+![foto de grupo bike tour douro valley](/img/guided-bike-tour-in-douro-valley.jpg "foto de grupo bike tour douro valley")
 
 # O que fazemos?
 
