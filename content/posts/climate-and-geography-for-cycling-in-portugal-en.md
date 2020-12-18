@@ -37,7 +37,9 @@ The summer in the southern Portugal and Algarve is very hot and dry, and it is v
 ![weather in Alentejo for a bike tour](/img/average-temperature-portugal-vila-nova-de-milfontes.png "weather in Alentejo for a bike tour")
 
 \
-The important rivers in Portugal are **Mondego**, **Douro**, **Minho** and **Tejo**. The Mondego begins in Serra da Estrela where is the highest mountain in Portugal. This river crosses Coimbra (the third big city in the country after Lisbon and Porto), and ends in the sea at Figueira da Foz. Douro and Minho both rise in Spain and flow into the Atlantic. Tejo also rise in Spain is the main river and meets the Atlantic in Lisbon.
+The important rivers in Portugal are **Mondego**, **Douro**, **Minho** and **Tejo**. The Mondego begins in Serra da Estrela where is the highest mountain in Portugal. This river crosses Coimbra (the third big city in the country after Lisbon and Porto), and ends in the sea at Figueira da Foz. Douro and Minho both rise in Spain and flow into the Atlantic. 
+
+Tejo also rise in Spain is the main river and meets the Atlantic in Lisbon.
 
 ![Climate and Geography for cycling in Portugal](/img/mapa_final_novologo_-04-100-pixeis-1-.png "Climate and Geography for cycling in Portugal")
 
