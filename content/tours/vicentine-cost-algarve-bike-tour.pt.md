@@ -476,5 +476,3 @@ Dia 6 - Carrapateira – Sagres (37 km)
 Dia 7 - Sagres – Lagos (45 km)
 
 Dia 8 - Transfere
-
-![](/img/vicentine-cost-and-algarve-bike-tour-short.png)
