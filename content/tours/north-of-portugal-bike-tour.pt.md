@@ -81,7 +81,7 @@ itinerary:
       hortas deslumbrantes. Desde praias fluviais e atlânticas, às maravilhosas
       margens do rio Âncora, à gastronomia regional, às magníficas vistas do
       Monte do Calvário e ao património construído, esta aldeia certamente o
-      surpreenderá. Hotel 4 *: [Melo Alvim Hotel](https://casameloalvim.com/)"
+      surpreenderá. Hotel 4 *: [Melo Alvim Hotel](https://hotelmeloalvim.com/)"
     location:
       lat: "41.694867"
       lng: "-8.831088"
