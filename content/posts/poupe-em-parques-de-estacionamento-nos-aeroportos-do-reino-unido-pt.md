@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/Poupe-em-parques-estacionamento-Aeroportos-Reino-Unido
+path: /Poupe-em-parques-estacionamento-Aeroportos-Reino-Unido
 title: Poupe em parques de estacionamento nos Aeroportos do Reino Unido
 language: pt
 date: 2019-12-01T18:46:32.224Z
