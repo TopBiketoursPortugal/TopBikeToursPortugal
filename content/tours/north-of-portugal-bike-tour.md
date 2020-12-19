@@ -94,7 +94,7 @@ itinerary:
       nowadays, mainly during the great festivity of “Nossa Senhora da Agonia”.
       It was also here that the ships were built and later deployed to Brazil,
       India, Africa and other Portuguese colonies, during the XVth and XVIth
-      centuries. Hotel 4 *: [Melo Alvim Hotel](https://casameloalvim.com/)"
+      centuries. Hotel 4 *: [Melo Alvim Hotel](https://hotelmeloalvim.com/)"
     location:
       lat: "41.694867"
       lng: "-8.831088"
