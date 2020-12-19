@@ -33,6 +33,8 @@ Don't let your hands become sore and bring some cycling gloves with you.
 
 A Buff is very useful to protect your neck and ears from the cold or sunburn.
 
+
+
 Bring a helmet. Although not mandatory, you should always wear one. If you don't have a helmet, we will provide you one.
 
 ## **Bicycle Bag:**
