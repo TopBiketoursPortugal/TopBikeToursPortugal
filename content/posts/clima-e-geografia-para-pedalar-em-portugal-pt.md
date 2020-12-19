@@ -5,7 +5,7 @@ showHome: true
 title: Clima e Geografia para pedalar em Portugal
 language: pt
 date: 2020-02-24T18:03:05.525Z
-featuredImage: /img/mapa_final_novologo_-04-100-pixeis.png
+featuredImage: /img/mapa_final_novologo_-04-100-pixeis-1-.png
 featuredImagePosition: center center
 meta:
   description: Clima e Geografia para pedalar em Portugal
