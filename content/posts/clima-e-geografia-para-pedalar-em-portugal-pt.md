@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 path: pt/blog/Clima-e-Geografia-para-pedalar-em-Portugal
+showHome: true
 title: Clima e Geografia para pedalar em Portugal
 language: pt
 date: 2020-02-24T18:03:05.525Z
@@ -13,7 +14,6 @@ meta:
   title: Clima e Geografia para pedalar em Portugal
   language: PT
 languagePages: []
-showHome: true
 ---
 # Clima e Geografia para pedalar em Portugal
 
@@ -36,8 +36,6 @@ O verão no Sul de Portugal é muito quente e seco. Esta área do país é basta
 ![clima no sul de portugal para pedalar](/img/average-temperature-portugal-vila-nova-de-milfontes.png "clima no sul de portugal para pedalar")
 
 Os principais rios do país são o **Mondego, Douro,** **Minho,** e **Tejo**. O Mondego tem origem no coração da serra da Estrela. Este rio atravessa Coimbra, terminando a sua jornada na Figueira da Foz. É o maior rio que nasce em Portugal. Todos os restantes rios nascem em Espanha e terminam no Atlântico.
-
-![nosso passeios em bicicleta pela costa de portugal](/img/mapa_final_novologo_-04-100-pixeis.png "nosso passeios em bicicleta pela costa de portugal")
 
 O **Norte de Portugal** é uma região montanhosa, onde é comum encontrar pequenas quintas e um sem fim número de vinhas. Apesar de todas as montanhas e colinas, os nossos passeios no Norte de Portugal são praticamente planos, visto que seguem os percursos do rio Minho e Lima.
 
