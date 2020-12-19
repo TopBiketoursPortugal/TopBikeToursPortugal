@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/Clima-e-Geografia-para-pedalar-em-Portugal
+path: /Clima-e-Geografia-para-pedalar-em-Portugal
 showHome: true
 title: Clima e Geografia para pedalar em Portugal
 language: pt
