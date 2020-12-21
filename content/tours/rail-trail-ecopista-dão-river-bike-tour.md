@@ -229,7 +229,7 @@ It is optional to add 1 more day route to your package. This route of 46 km goes
 
 * Viseu - Santa Comba Dão: 49 km
 
-**Day 2:** Trasnfer back to Porto
+**Day 2:** Transfer back to Porto
 
 **Itinerary Self guided bike tour Option 2:**
 
@@ -239,4 +239,4 @@ It is optional to add 1 more day route to your package. This route of 46 km goes
 
 **Day 2:** Santa Comba Dão - Viseu: 49 km
 
-**Day 3:** Trasnfer back to Porto
+**Day 3:** Transfer back to Porto

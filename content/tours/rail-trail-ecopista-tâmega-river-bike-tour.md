@@ -234,7 +234,7 @@ To have a more relaxing time to explore the area 3 different options are offered
 * Arco do Baúlhe - Amarante: 40 km
 * Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
-**Day 2:** Trasnfer back to Porto
+**Day 2:** Transfer back to Porto
 
 **Itinerary Self guided bike tour Option 2:**
 
@@ -247,4 +247,4 @@ To have a more relaxing time to explore the area 3 different options are offered
 
 * Sleep in a 5 star hotel: [Casa da Calçada](https://www.casadacalcada.com/)
 
-**Day 3:** Trasnfer back to Porto
+**Day 3:** Transfer back to Porto

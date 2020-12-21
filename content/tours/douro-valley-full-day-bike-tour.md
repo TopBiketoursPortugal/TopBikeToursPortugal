@@ -254,7 +254,7 @@ To have a more relaxing time to explore the area 3 different options are offered
 * Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
   \
   **Day 2:** Lamego - Pinhão: 35 km
-* Trasnfer back to Porto
+* Transfer back to Porto
   \
   \
     **Itinerary Self guided bike tour Option 2:**

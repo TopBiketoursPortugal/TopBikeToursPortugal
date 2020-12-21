@@ -164,7 +164,7 @@ pricing:
         value: Yes
       - title: Ticket cellar of Porto wine
         value: Yes
-      - title: Van trasnfer back to Porto
+      - title: Van transfer back to Porto
         value: Yes
       - title: Personal accident insurance
         value: Yes
@@ -188,7 +188,7 @@ pricing:
         value: Yes
       - title: Ticket cellar of Porto wine
         value: Yes
-      - title: Van trasnfer back to Porto
+      - title: Van transfer back to Porto
         value: Yes
       - title: Personal accident insurance
         value: Yes
@@ -197,7 +197,7 @@ pricing:
 feature:
   align: center
   imageAlign: center center
-  bokunLink: https://fareharbor.com/embeds/book/topbiketoursportugal/items/268406/calendar/2020/11/?flow=479507&full-items=yes
+  bokunLink: "https://fareharbor.com/embeds/book/topbiketoursportugal/items/268406/calendar/2020/11/?flow=479507&full-items=yes"
   bokunId: ""
   textcolor: white
   subtitle: Bicycle day tours Portugal
@@ -226,7 +226,7 @@ Experience the unmatched Portuguese northern coast, where you can find various c
 
 * Visit the cellar of Porto wine
 * Lunch in Matosinhos - Find out the true flavors of the sea!
-* Van trasnfer back to Porto at the end of the bike tour 
+* Van transfer back to Porto at the end of the bike tour 
 * Alcoholic beverages not included
 
 **Observations:**
