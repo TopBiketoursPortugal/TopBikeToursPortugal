@@ -3,12 +3,12 @@ const languages = require("./src/data/languages");
 module.exports = {
   siteMetadata: {
     title: "Top Bike Tours Portugal",
-    siteUrl: "https://topwaklingtoursportugal.com/",
+    siteUrl: "https://topwalkingtoursportugal.com/",
     description: `
     Top Bike Tours Portugal is a provider of holiday’s packages and routes, which offers an incredible holiday experience, entertainment and leisure activities based on quality and value.
     `,
-    canonicalUrl: "https://topwaklingtoursportugal.com/",
-    image: "https://topwaklingtoursportugal.com/images/jason-lengstorf.jpg",
+    canonicalUrl: "https://topwalkingtoursportugal.com/",
+    image: "https://topwalkingtoursportugal.com/images/jason-lengstorf.jpg",
     author: {
       name: "Top Bike Tours Portugal",
       minibio: `
@@ -17,8 +17,8 @@ module.exports = {
     },
     organization: {
       name: "Top Bike Tours Portugal",
-      url: "https://topwaklingtoursportugal.com",
-      logo: "https://topwaklingtoursportugal.com/android-chrome-512x512.png",
+      url: "https://topwalkingtoursportugal.com",
+      logo: "https://topwalkingtoursportugal.com/android-chrome-512x512.png",
     },
     social: {
       twitter: "https://twitter.com/FoldnVisit",
