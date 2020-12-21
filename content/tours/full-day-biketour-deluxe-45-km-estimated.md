@@ -176,7 +176,6 @@ pricing:
     observations: ""
     package: Private price per person
     price: 260
-    type: ""
     packageContents:
       - title: Bicycle and Helmet
         value: Yes
@@ -199,11 +198,11 @@ feature:
   imageAlign: center center
   bokunLink: "https://fareharbor.com/embeds/book/topbiketoursportugal/items/268406/calendar/2020/11/?flow=479507&full-items=yes"
   bokunId: ""
+  bokunLinkText: Book now
   textcolor: white
   subtitle: Bicycle day tours Portugal
   title: Day tours
   image: /img/44817961982_440e783762_o.jpg
-  bokunLinkText: Book now
 ---
 # Full Day Biketour: Porto to Póvoa de Varzim
 
