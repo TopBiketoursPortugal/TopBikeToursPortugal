@@ -10,7 +10,7 @@ title: "Full Day Biketour: Porto to Póvoa de Varzim"
 packagetype: SingleTour
 tourtype: Bike
 tourcategory:
-  - ""
+  - Bike
 tags:
   - city tour
   - biketour
