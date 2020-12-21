@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /climate-and-geography-in-portugal-for-cycling/
+path: /pt/blog/climate-and-geography-in-portugal-for-cycling/
 showHome: true
 title: Climate and Geography for cycling in Portugal
 language: en
