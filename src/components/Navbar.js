@@ -99,9 +99,9 @@ const NavbarComponent = class extends React.Component {
                 <a href="/">
                   <PhoneAlt size="18" /> (+351) 915 316 999​
                 </a>
-                <a href="mailto:info@topbiketoursportugal.com">
+                <a href="mailto:info@www.biketoursporto.com">
                   {/* <AlternateEmail size="18" /> */}
-                  info@topbiketoursportugal.com
+                  info@www.biketoursporto.com
                 </a>
               </div>
               <div>

@@ -240,13 +240,13 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
                   )}
 
                   {feature.bokunLink && (
-                    <button
-                      class="bokunButton"
-                      id={feature.bokunId}
-                      data-src={feature.bokunLink}
+                    <a
+                      className="bokunButton"
+                      href={feature.bokunLink}
+                      target="_blank"
                     >
                       {feature.bokunLinkText}
-                    </button>
+                    </a>
                   )}
                 </BackgroundImage>
               </div>

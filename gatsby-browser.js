@@ -12,6 +12,14 @@
 //   );
 // };
 
-// exports.onInitialClientRender = () => {
-//   insertJS();
-// };
+exports.onInitialClientRender = () => {
+  insertJS();
+};
+
+function insertJS() {
+  const script = document.createElement("script");
+  script.src =
+    "https://fareharbor.com/embeds/script/calendar/topbiketoursportugal/items/268395/?fallback=simple&full-items=yes&flow=479507";
+//   script.async = true;
+  document.getElementById("demo").appendChild(script);
+}

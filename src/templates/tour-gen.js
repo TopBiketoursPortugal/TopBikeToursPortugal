@@ -189,7 +189,7 @@ function TourGen({ data }) {
           </Tabs>
         </StyledPaper>
       </div>
-      <div className="container">
+      <div className="container-fluid">
         <div className="row">
           <div className="col-12 col-md-8">
             <ScrollableAnchor id={"information"}>
@@ -237,166 +237,14 @@ function TourGen({ data }) {
                 )}
               </div>
               <div className="tour-booking-form">
-                <form
-                  action="https://formspree.io/xzbalqpw"
-                  method="POST"
-                  className="tour-booking-enquiry-form tour-booking-form-field tour-booking-with-border"
-                  id="tour-booking-enquiry-form"
-                >
-                  <input
-                    type="hidden"
-                    name="product-code"
-                    value={tour.productcode}
-                  />
-                  <input
-                    type="hidden"
-                    name="product-title"
-                    value={tour.title}
-                  />
-
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-full-name tour-booking-type-text">
-                    <div className="tour-booking-head">
-                      Name<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input type="text" name="full-name" required />
-                    </div>
-                  </div>
-
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-full-name tour-booking-type-text">
-                    <div className="tour-booking-head">Country</div>
-                    <div className="tour-booking-tail">
-                      <input type="text" name="country" />
-                    </div>
-                  </div>
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-email-address tour-booking-type-email">
-                    <div className="tour-booking-head">
-                      Email Address<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input type="email" name="email-address" required />
-                    </div>
-                  </div>
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-phone-address tour-booking-type-phone">
-                    <div className="tour-booking-head">
-                      Phone<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input type="phone" name="tel" />
-                    </div>
-                  </div>
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-date-address tour-booking-type-date">
-                    <div className="tour-booking-head">
-                      Tour date<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input type="date" name="tour-date" required />
-                    </div>
-                  </div>
-                  {/* <div className="tour-booking-enquiry-field tour-booking-enquiry-field-full-name tour-booking-type-text">
-                    <div className="tour-booking-head">Phone</div>
-                    <div className="tour-booking-tail">
-                      <input type="text" name="phone" />
-                    </div>
-                  </div> */}
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-full-name tour-booking-type-text">
-                    <div className="tour-booking-head">
-                      Where did you find us?
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input type="text" name="found" />
-                    </div>
-                  </div>
-                  <div className="form-group">
-                    <div className="tour-booking-head">Tour Type</div>
-                    <div className="tour-booking-tail">
-                      <div className="tour-booking-combobox-wrap">
-                        <select
-                          name="package"
-                          data-required=""
-                          className="form-control"
-                          defaultValue=""
-                        >
-                          <option value="">-</option>
-                          <option value="Guided">Guided</option>
-                          <option value="Unguided">Unguided</option>
-                        </select>
-                      </div>
-                    </div>
-                  </div>
-                  {/* <div className="tour-booking-enquiry-field tour-booking-enquiry-field-travel-date tour-booking-type-datepicker">
-                    <div className="tour-booking-head">
-                      Travel Date<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <input
-                        type="text"
-                        className="tour-booking-datepicker hasDatepicker"
-                        name="travel-date"
-                        value=""
-                        id="dp1573393342902"
-                      />
-                      <i className="fa fa-calendar"></i>
-                    </div>
-                  </div> */}
-                  <div className="form-group">
-                    <div className="tour-booking-head">Person</div>
-                    <div className="tour-booking-tail">
-                      <div className="tour-booking-combobox-wrap">
-                        <select
-                          name="person"
-                          data-required=""
-                          className="form-control"
-                          defaultValue=""
-                        >
-                          <option value="">-</option>
-                          <option value="1">1</option>
-                          <option value="2">2</option>
-                          <option value="3">3</option>
-                          <option value="4">4</option>
-                          <option value="5">5</option>
-                          <option value="6">6</option>
-                          <option value="7">7</option>
-                          <option value="8">8</option>
-                          <option value="9">9</option>
-                          <option value="10">10</option>
-                        </select>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="tour-booking-enquiry-field tour-booking-enquiry-field-your-enquiry tour-booking-type-textarea">
-                    <div className="tour-booking-head">
-                      Your Enquiry<span className="tour-booking-req">*</span>
-                    </div>
-                    <div className="tour-booking-tail">
-                      <textarea name="your-enquiry" required></textarea>
-                    </div>
-                  </div>
-                  <div className="tour-booking-enquiry-term">
-                    <input
-                      type="checkbox"
-                      name="tour-booking-require-acceptance"
-                    />
-                    *{" "}
-                    <a href="#" target="_blank">
-                      Terms and conditions
-                    </a>{" "}
-                    and{" "}
-                    <a href="#" target="_blank">
-                      Privacy policy
-                    </a>
-                    .
-                  </div>
-                  <div className="tour-booking-enquiry-form-message"></div>
-                  <input
-                    type="submit"
-                    className="btn btn-primary tour-booking-button"
-                    value="Submit Enquiry"
-                  />
-                </form>
+                <div id="demo" style="width:100%;height:400px"></div>
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div className="container">
+        <div className="row">
           <div className="col-12">
             {tour && tour.mapUrl && (
               <iframe

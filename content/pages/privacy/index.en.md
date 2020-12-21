@@ -8,7 +8,7 @@ meta:
 ---
 # **Privacy Policy**
 
-Top Bike tours Portugal, Unip, Lda (referred to herein as “Top Bike tours Porto”) respects your privacy and is committed to protecting the personal information you share with us. Using www.topbiketoursporto.com implies your agreement to the terms of our Privacy Policy. We reserve the right to add to, remove, or otherwise modify these terms at any time, and therefore encourage you to check this page periodically for changes.
+Top Bike tours Portugal, Unip, Lda (referred to herein as “Top Bike tours Porto”) respects your privacy and is committed to protecting the personal information you share with us. Using www.biketoursporto.com implies your agreement to the terms of our Privacy Policy. We reserve the right to add to, remove, or otherwise modify these terms at any time, and therefore encourage you to check this page periodically for changes.
 
 **Personal Information**
 
@@ -18,7 +18,7 @@ When you browse this website and have not registered for any online service from
 
 **Aggregate and Usage Information**
 
-Top Biketours Porto automatically tracks certain information while you use our website, including (but not limited to) the URL you visited before www.topbiketoursporto.com, the URL you visit after www.topbiketoursporto.com, and your IP address. We may also record data about which pages you visit on our site and how long you spend on each page.
+Top Biketours Porto automatically tracks certain information while you use our website, including (but not limited to) the URL you visited before www.biketoursporto.com, the URL you visit after www.biketoursporto.com, and your IP address. We may also record data about which pages you visit on our site and how long you spend on each page.
 
 Top Biketours Porto may also collect aggregate and usage information to generate market research reports. Demographic data such as age, gender, and interests provided by Google are collected and used to analyze our website visitors through Google Analytics Demographics and Interest Reporting. Google Remarketing ads are advertised to website users that have visited specific pages on the website.
 
@@ -28,7 +28,7 @@ Top Biketours Portowebsite uses “cookies,” small data files that are placed 
 
 **Links to Other Sites**
 
-Our website contains links to other websites outside of our domain, and therefore www.topbiketoursporto.com cannot claim responsibility for the privacy practices of such external sites. We encourage our users to be aware when they are leaving our site and read the privacy statements of other websites collecting personal or credit card information—including affiliated sites who may post or bear Top Biketours Porto logo.
+Our website contains links to other websites outside of our domain, and therefore www.biketoursporto.com cannot claim responsibility for the privacy practices of such external sites. We encourage our users to be aware when they are leaving our site and read the privacy statements of other websites collecting personal or credit card information—including affiliated sites who may post or bear Top Biketours Porto logo.
 
 **Privacy Commitment**
 
@@ -40,4 +40,4 @@ Top Biketours Porto customers may, at any time, request further information abou
 
 **Security**
 
-www.topbiketoursporto.com is protected by security technology called SSL encryption to prevent the loss, misuse, and alteration of the information under our control. While no internet data transmission is ever completely secure, all credit card payments submitted via www.topbiketoursporto.com are automatically encrypted. If your preferred web browser does not support SSL encryption, you will receive instant notification. Top Biketours Portol does not use credit cards for any purpose other than intended payment.
+www.biketoursporto.com is protected by security technology called SSL encryption to prevent the loss, misuse, and alteration of the information under our control. While no internet data transmission is ever completely secure, all credit card payments submitted via www.biketoursporto.com are automatically encrypted. If your preferred web browser does not support SSL encryption, you will receive instant notification. Top Biketours Portol does not use credit cards for any purpose other than intended payment.

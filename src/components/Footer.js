@@ -81,7 +81,7 @@ export default class Footer extends React.Component {
                   ​Telm: (+351) 915 316 999​
                   <br />
                   <br />
-                  email: info@topbiketoursportugal.com
+                  email: info@www.biketoursporto.com
                 </FooterContentText>
               </FooterContentContainer>
               <FooterContentContainer></FooterContentContainer>
