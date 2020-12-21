@@ -25,7 +25,7 @@ const icons = {
   twitter: Twitter,
   instagram: Instagram,
   youtube: Youtube,
-  tripadvisor: StyledTripAdvisor,
+  tripadvisor: StyledTripAdvisor
 };
 
 let lastScrollY = 0;
@@ -34,11 +34,10 @@ let ticking = false;
 const NavbarComponent = class extends React.Component {
   constructor(props) {
     super(props);
-    this.setState({
+    this.state = {
       hidden: false,
-      stickyNav: false,
-    });
-
+      stickyNav: false
+    };
     this.navBar = React.createRef();
   }
 
@@ -56,22 +55,10 @@ const NavbarComponent = class extends React.Component {
     if (!ticking) {
       window.requestAnimationFrame(() => {
         if (lastScrollY > 10) {
-          this.setState((prevState) => {
-            return {
-              ...prevState,
-              stickyNav: true,
-            };
-          });
-
-          // this.state.stickyNav = true;
+          this.state.stickyNav = true;
           document.body.classList.add("fixed-nav");
         } else {
-          this.setState((prevState) => {
-            return {
-              ...prevState,
-              stickyNav: false,
-            };
-          });
+          this.state.stickyNav = false;
           document.body.classList.remove("fixed-nav");
         }
         // this.navBar.current.style.top = `${lastScrollY}px`;
@@ -105,16 +92,16 @@ const NavbarComponent = class extends React.Component {
             }
           }
         `}
-        render={(data) => (
+        render={data => (
           <div className="topContainer">
             <div className="languageSwitcherContainer d-none d-sm-flex">
               <div className="contactsContainer">
                 <a href="/">
                   <PhoneAlt size="18" /> (+351) 915 316 999​
                 </a>
-                <a href="mailto:info@www.biketoursporto.com">
+                <a href="mailto:info@topbiketoursportugal.com">
                   {/* <AlternateEmail size="18" /> */}
-                  info@www.biketoursporto.com
+                  info@topbiketoursportugal.com
                 </a>
               </div>
               <div>
