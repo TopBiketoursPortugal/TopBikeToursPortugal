@@ -34,10 +34,11 @@ let ticking = false;
 const NavbarComponent = class extends React.Component {
   constructor(props) {
     super(props);
-    this.useState({
+    this.setState({
       hidden: false,
       stickyNav: false,
     });
+
     this.navBar = React.createRef();
   }
 
