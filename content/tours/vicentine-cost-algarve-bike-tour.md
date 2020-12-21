@@ -55,8 +55,7 @@ itinerary:
       Lisbon, is a Portuguese traditional music style and is an expression of
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
-      neighborhood. Hotel 4 *: [Turim Marquês
-      Hotel](https://www.turim-hotels.com/hoteis/-141)"
+      neighborhood. Hotel 4 *: Turim Marquês Hotel"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
@@ -76,7 +75,7 @@ itinerary:
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
       wildlife haven with a wealth of bird-watching possibilities. Hotel 5 *:
-      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/)"
+      Design Hotel Troia"
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
@@ -94,7 +93,7 @@ itinerary:
       XIXth century. This village emerged as a small clump of fishermen and
       farmers. Its inhabitants are mainly dedicated into farming the land and
       handcraft activities, such as pottery and the making of cork stoppers.
-      Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/)"
+      Hotel 4 *: Vila Parque Hotel"
     location:
       lat: "38.06021165"
       lng: "-8.78451884"
@@ -109,8 +108,7 @@ itinerary:
       it's remarkably known for receiving 50% of the countries’ exportations. In
       the village of Porto Covo is one of the most sought after by locals and
       tourists. With a spacious and sheltered beach, \"Praia Grande\", it is one
-      of the busiest during the summer. Hotel 3 *: [Hotel HS
-      MIlfontes](https://hsmilfontesbeach.com/pt/)"
+      of the busiest during the summer. Hotel 3 *: Hotel HS MIlfontes"
     location:
       lat: "37.72243336"
       lng: "-8.78589749"
@@ -125,7 +123,7 @@ itinerary:
       Santa Catarina and the small, whitewashed chapel of Nossa Senhora do Mar.
       The beach is about 500 meters from the town of Almograve. It is a shallow
       but extensive beach with low tide, providing authentic natural pools.
-      Farm: [Herdade do touril](https://herdadedotouril.com/)"
+      Farm: Herdade do touril"
     location:
       lat: "37.52514173"
       lng: "-8.7853986"
@@ -143,8 +141,7 @@ itinerary:
       The beach presents high quality landscape and biodiversity, being able to
       enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
       is in fact in this Natural Park, the only place in the world where you can
-      observe the storks that nest on the cliffs. Hotel 4 *: [Hotel
-      vicentina](http://www.vicentinahotel.com/)"
+      observe the storks that nest on the cliffs. Hotel 4 *: Hotel Vicentina"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
@@ -160,7 +157,7 @@ itinerary:
       ships. The extremely fast southbound current and the jutting headland that
       made it a dangerous lure for shipwrecks in the past, also creates the
       conditions which have made it a popular surfing destination in recent
-      years. Hotel 4 *: [Casa fajara](https://www.casafajara.com/)"
+      years. Hotel 4 *: Casa Fajara"
     location:
       lat: "37.18373374"
       lng: "-8.89505267"
@@ -176,9 +173,7 @@ itinerary:
       the existence of these dangerous cliffs. The narrow streets which surround
       the main church contain many houses typical of the old Algarve, with
       whitewashed walls, bands of bright color, carved stonework around doors
-      and windows. Hotel 4 *: [Pousada
-      Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
-      -my-business&utm_medium=organicsearch&utm_campaign=pousada-sagres)"
+      and windows. Hotel 4 *: Pousada Sagres"
     location:
       lat: "37.00901414"
       lng: "-8.93903017"
@@ -202,8 +197,7 @@ itinerary:
       permanent community of retired or emigrated expats. You’ll surely enjoy
       having the last stop of this fulfilling trip, in this amazingly, beautiful
       beach with lots of sights that provide a lovely and relaxing place to
-      rest. Hotel 4 *: [Tivoli
-      Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
+      rest. Hotel 4 *: Tivoli Lagos'
     location:
       lat: "37.10029188"
       lng: "-8.67213964"
