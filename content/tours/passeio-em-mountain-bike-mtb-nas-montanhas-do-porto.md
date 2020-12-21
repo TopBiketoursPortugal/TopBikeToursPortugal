@@ -95,7 +95,7 @@ pricing:
 feature:
   align: center
   imageAlign: center center
-  bokunLink: ""
+  bokunLink: https://fareharbor.com/embeds/book/topbiketoursportugal/items/268413/calendar/2020/11/?flow=479507&full-items=yes
   bokunId: ""
   textcolor: Mountain Bike Tour in Porto mountains
   subtitle: Mountain Bike Tour in Porto mountains
