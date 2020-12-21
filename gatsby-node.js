@@ -1,6 +1,6 @@
 const languages = require("./src/data/languages");
 const _ = require("lodash");
-const path = require("path");
+const path = require(`path`)
 const { createFilePath } = require("gatsby-source-filesystem");
 const { fmImagesToRelative } = require("gatsby-remark-relative-images");
 
@@ -240,6 +240,10 @@ exports.createSchemaCustomization = ({ actions }) => {
       value: String
     }
 
+    type Category @dontInfer {
+      category: String
+    }
+
     type Frontmatter @infer {
       minAge: Int
       distance: Int
@@ -261,7 +265,14 @@ exports.createSchemaCustomization = ({ actions }) => {
       afterList: String
       afterpricing: String
       packagetype: String
+      subtitle: String
+      categories: [Category]
+      relatedProduct: String
+      featuredImage: File
+      langKey: String
     }
+
+    
     
   `;
   createTypes(typeDefs);

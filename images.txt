@@ -1,0 +1,114 @@
+
+    Directory: C:\p\TopBikeToursPorto\content\banners
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            21.12.20    18:07            456 banner1.md
+
+    Directory: C:\p\TopBikeToursPorto\content\languages
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            07.07.20    21:24             55 english.md
+-a---            07.07.20    21:24             59 português.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\about
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            09.09.20    14:01           7752 index.en.md
+-a---            09.09.20    14:01           8586 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\bike-hollidays
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            07.07.20    21:24           4863 index.en.md
+-a---            07.07.20    21:24           5228 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\bikes
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            07.07.20    21:24           2880 index.en.md
+-a---            07.07.20    21:24           2539 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\blog
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            07.07.20    21:24            411 index.md
+-a---            07.07.20    21:24            470 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\contact
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            09.09.20    14:01            403 index.en.md
+-a---            09.09.20    14:01            456 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\day-tours
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            09.09.20    14:01           1364 index.en.md
+-a---            09.09.20    14:01           1458 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\home
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            09.09.20    14:01           3323 index.en.md
+-a---            09.09.20    14:01           3562 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\privacy
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            21.12.20    12:49           4010 index.en.md
+-a---            07.07.20    21:24           4545 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\terms
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            26.08.20    22:02           2547 index.en.md
+-a---            07.07.20    21:24           6162 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\pages\tour-calendar
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            07.07.20    21:24           2927 index.en.md
+-a---            07.07.20    21:24           2801 index.pt.md
+
+    Directory: C:\p\TopBikeToursPorto\content\testimonials
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            10.07.20    16:56           3403 an-enjoyable-bike-ride-of-porto-and-the-nearby-seaside.md
+-a---            10.07.20    16:56           1302 great-sunday-morning-ride.md
+
+    Directory: C:\p\TopBikeToursPorto\content\tours
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            21.12.20    12:50           7565 bike-tour-wine-and-gastournomy.md
+-a---            21.12.20    12:50           7814 bike-tour-wine-and-gastournomy.pt.md
+-a---            21.12.20    13:42           9371 douro-valley-full-day-bike-tour.md
+-a---            21.12.20    12:50           6989 downtown-and-sightseeing-bike-tour.md
+-a---            21.12.20    12:50           6783 downtown-and-sightseeing-bike-tour.pt.md
+-a---            21.12.20    12:50           6292 e-bike-porto-downtown-and-sightseeing-bike-tour.md
+-a---            21.12.20    12:50           6412 e-bike-porto-downtown-and-sightseeing-bike-tour.pt.md
+-a---            21.12.20    15:04           8868 full-day-biketour-deluxe-45-km-estimated.md
+-a---            21.12.20    15:03           8552 full-day-biketour-deluxe-45-km-estimated.pt.md
+-a---            21.12.20    12:50           3931 mountain-bike-tour-in-porto-mountains.md
+-a---            21.12.20    12:50           4040 passeio-em-mountain-bike-mtb-nas-montanhas-do-porto.md
+-a---            21.12.20    13:42           8575 rail-trail-ecopista-dão-river-bike-tour.md
+-a---            21.12.20    13:42           8508 rail-trail-ecopista-tâmega-river-bike-tour.md
+
+    Directory: C:\p\TopBikeToursPorto\content
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---            21.12.20    18:26            919 _optional.md

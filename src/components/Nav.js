@@ -5,6 +5,7 @@ import { Menu, X } from "react-feather";
 // import Img from "gatsby-image";
 
 // import Logo from "./Logo";
+import Img from "gatsby-image";
 
 import "./Nav.scss";
 
@@ -12,7 +13,7 @@ export class Navigation extends Component {
   state = {
     active: false,
     activeSubNav: false,
-    currentPath: false
+    currentPath: false,
   };
 
   componentDidMount = () =>
@@ -23,14 +24,14 @@ export class Navigation extends Component {
   // Only close nav if it is open
   handleLinkClick = () => this.state.active && this.handleMenuToggle();
 
-  toggleSubNav = subNav =>
+  toggleSubNav = (subNav) =>
     this.setState({
-      activeSubNav: this.state.activeSubNav === subNav ? false : subNav
+      activeSubNav: this.state.activeSubNav === subNav ? false : subNav,
     });
 
   render() {
     const { active } = this.state,
-      // { subNav, menu } = this.props,
+      { logo, logoWhite } = this.props,
       NavLink = ({ to, className, children, ...props }) => (
         <Link
           to={to}
@@ -48,15 +49,24 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? "Nav-active" : ""}`}>
         <div className="Nav--Container container-fluid">
-          <Link to="/" onClick={this.handleLinkClick} onKeyDown={this.handleLinkClick} className="logo">
-            <img
+          <Link
+            to="/"
+            onClick={this.handleLinkClick}
+            onKeyDown={this.handleLinkClick}
+            className="logo"
+          >
+            <Img
+              fixed={logo.childImageSharp.fixed}
               className="white"
-              src="/img/logo_white.png"
+              placeholderClassName="white"
               alt="Top Bike Tours Portugal"
+              loading="eager"
             />
-            <img
+            <Img
+              loading="eager"
+              fixed={logoWhite.childImageSharp.fixed}
               className="black"
-              src="/img/logo.png"
+              placeholderClassName="black"
               alt="Top Bike Tours Portugal"
             />
           </Link>
@@ -116,8 +126,16 @@ export class Navigation extends Component {
   }
 }
 
-export default ({ subNav, menu }) => (
+export default ({ subNav, menu, logo, logoWhite }) => (
   <Location>
-    {route => <Navigation menu={menu} subNav={subNav} {...route} />}
+    {(route) => (
+      <Navigation
+        menu={menu}
+        logo={logo}
+        logoWhite={logoWhite}
+        subNav={subNav}
+        {...route}
+      />
+    )}
   </Location>
 );

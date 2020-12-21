@@ -24,6 +24,7 @@ btnTextColor: '#fff'
 packagetype: SingleTour
 featured: true
 tourtype: Bike
+categories: []
 tourcategory:  
   - Bike
 minAge: 0

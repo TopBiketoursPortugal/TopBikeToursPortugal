@@ -217,14 +217,14 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          // {
+          //   resolve: "gatsby-remark-relative-images",
+          //   options: {
+          //     name: "uploads",
+          //   },
+          // },
           {
-            resolve: "gatsby-remark-relative-images",
-            options: {
-              name: "uploads",
-            },
-          },
-          {
-            resolve: "gatsby-remark-images",
+            resolve: "gatsby-remark-responsive-image",
             options: {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
@@ -272,12 +272,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Top Bike Tours Porto`,
-        short_name: `TopBikeTours`,
+        name: `Bike Tours Porto`,
+        short_name: `Bike Tours Porto`,
         start_url: `/`,
         background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        theme_color: `#a4bb28`,
         display: `standalone`,
+        icon: `src/img/logo.png`,
       },
     },
     `gatsby-transformer-json`,
@@ -299,26 +300,27 @@ module.exports = {
     //     ignore: ["react-image-lightbox/style.css","/banner.scss", "/banner.css","/tourPricing.mod.scss","/tourPricing.mod.css"],
     //   },
     // },
-    
+
     // {
     //   resolve: 'gatsby-plugin-sw',
     //   options: {
     //     swPath: 'src/utils/my-service-worker.js', // Default to 'src/sw.js'
     //   },
     // },
-    
-    {
-      resolve: "gatsby-plugin-nprogress",
-      options: {
-        // Setting a color is optional.
-        color: "white",
-        // Disable the loading spinner.
-        showSpinner: true,
-      },
-    },
+
+    // {
+    //   resolve: "gatsby-plugin-nprogress",
+    //   options: {
+    //     // Setting a color is optional.
+    //     color: "white",
+    //     // Disable the loading spinner.
+    //     showSpinner: true,
+    //   },
+    // },
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
+        siteUrl: "https://biketoursporto.com/",
         output: `/sitemap.xml`,
         // Exclude specific pages or groups of pages using glob parameters
         // See: https://github.com/isaacs/minimatch
