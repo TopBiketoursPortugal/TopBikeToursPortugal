@@ -13,10 +13,6 @@ export class TourGallery extends React.Component {
     isOpen: false,
   };
 
-  constructor(props) {
-    super(props);
-  }
-
   clickOpen(isOpen, photoIndex) {
     if (typeof photoIndex === "undefined") photoIndex = 0;
     this.setState({ isOpen, photoIndex });
@@ -27,13 +23,13 @@ export class TourGallery extends React.Component {
   render() {
     const { photoIndex, isOpen } = this.state;
     var gallery = this.props.tour.gallery;
-    const sliderImages = gallery.map((item) => {
-      return {
-        src: item.image.childImageSharp.fluid.src,
-        w: item.image.childImageSharp.fluid.presentationWidth,
-        h: item.image.childImageSharp.fluid.presentationHeight,
-      };
-    });
+    // const sliderImages = gallery.map((item) => {
+    //   return {
+    //     src: item.image.childImageSharp.fluid.src,
+    //     w: item.image.childImageSharp.fluid.presentationWidth,
+    //     h: item.image.childImageSharp.fluid.presentationHeight,
+    //   };
+    // });
 
     const images = gallery.map((item) => item.image.childImageSharp.high.src);
 
@@ -46,6 +42,7 @@ export class TourGallery extends React.Component {
           {gallery &&
             gallery.map((item, i) => (
               <div
+                role="img"
                 onClick={() => this.clickOpen(true, i)}
                 onKeyDown={() => this.clickOpen(true, i)}
                 className="col-xs-1 col-4 imgwrapper"

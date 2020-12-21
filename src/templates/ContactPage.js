@@ -182,11 +182,11 @@ export const ContactPageTemplate = ({
                 required
               />
               *{" "}
-              <a href="#" target="_blank">
+              <a href="#" target="_blank" rel="nofollow noopener noreferrer">
                 Terms and conditions
               </a>{" "}
               and{" "}
-              <a href="#" target="_blank">
+              <a href="#" target="_blank" rel="nofollow noopener noreferrer">
                 Privacy policy
               </a>
               .

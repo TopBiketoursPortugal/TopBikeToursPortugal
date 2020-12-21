@@ -1,15 +1,15 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql } from "gatsby";
-import { HTMLContent } from "../components/Content";
-import Layout from "../layout/LayoutBootstrap";
-import Scroll from "../components/Scroll";
-import Tourhighlights from "../components/Tourhighlights/index";
-import ReviewsHighlights from "../components/ReviewsHighlights";
 // import Partners from "../components/Partners";
 import { ChevronCircleDown } from "@styled-icons/fa-solid/ChevronCircleDown";
+import { graphql } from "gatsby";
+import PropTypes from "prop-types";
+import React from "react";
+// import showdown from "showdown";
+import { HTMLContent } from "../components/Content";
+// import Tourhighlights from "../components/Tourhighlights/index";
+import ReviewsHighlights from "../components/ReviewsHighlights";
+import Scroll from "../components/Scroll";
+import Layout from "../layout/LayoutBootstrap";
 import "./home-page.mod.scss";
-import showdown from "showdown";
 export const HomePageTemplate = ({
   title,
   content,
@@ -20,7 +20,7 @@ export const HomePageTemplate = ({
   reviews,
 }) => {
   // const PageContent = contentComponent || Content;
-  const converter = new showdown.Converter();
+  // const converter = new showdown.Converter();
   return (
     <>
       <Scroll type="class" element="home" offset={-100}>
@@ -28,7 +28,7 @@ export const HomePageTemplate = ({
           <button
             className="scrollButton animatedScrollButton"
             aria-label="Go to tourhighlights"
-            role="navigation"
+            // role="navigation"
             resource="scroll.nav.gototourhighlights"
           >
             <ChevronCircleDown />
@@ -42,7 +42,7 @@ export const HomePageTemplate = ({
         <button
           className="scrollButton"
           aria-label="Go to tourhighlights"
-          role="navigation"
+          // role="navigation"
         >
           <ChevronCircleDown />
         </button>

@@ -1,10 +1,11 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link } from "gatsby";
+// import { Link } from "gatsby";
 // import { pure } from "recompose";
 
-function Breadcrumb({ routes }) {
-  return (<></>
+const Breadcrumb = ({ routes }) => {
+  return (
+    <></>
     // <nav aria-label="breadcrumb">
     //   <ol className="breadcrumb">
     //     {routes.map((r, i) => (
@@ -27,7 +28,7 @@ function Breadcrumb({ routes }) {
     //   </ol>
     // </nav>
   );
-}
+};
 
 Breadcrumb.propTypes = {
   routes: PropTypes.arrayOf(

@@ -92,7 +92,7 @@ function TourGen({ data }) {
 
   const { settings } = data;
   const [value, setValue] = React.useState(0);
-  const [stickyNav, setNavState] = React.useState(false);
+  const [stickyNav /*, setNavState*/] = React.useState(false);
 
   const anchors = ["information", "tour-plan", "gallery", "pricing", "reviews"];
 
@@ -237,7 +237,7 @@ function TourGen({ data }) {
                 )}
               </div>
               <div className="tour-booking-form">
-                <div id="demo" style="width:100%;height:400px"></div>
+                <div id="demo" style={{ widt: "100%", height: "400px" }}></div>
               </div>
             </div>
           </div>

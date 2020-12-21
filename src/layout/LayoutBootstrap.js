@@ -264,6 +264,7 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                             className="bokunButton"
                             href={feature.bokunLink}
                             target="_blank"
+                            rel="nofollow noopener noreferrer"
                           >
                             {feature.bokunLinkText}
                           </a>

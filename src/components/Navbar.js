@@ -25,7 +25,7 @@ const icons = {
   twitter: Twitter,
   instagram: Instagram,
   youtube: Youtube,
-  tripadvisor: StyledTripAdvisor
+  tripadvisor: StyledTripAdvisor,
 };
 
 let lastScrollY = 0;
@@ -34,10 +34,10 @@ let ticking = false;
 const NavbarComponent = class extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
+    this.useState({
       hidden: false,
-      stickyNav: false
-    };
+      stickyNav: false,
+    });
     this.navBar = React.createRef();
   }
 
@@ -55,10 +55,22 @@ const NavbarComponent = class extends React.Component {
     if (!ticking) {
       window.requestAnimationFrame(() => {
         if (lastScrollY > 10) {
-          this.state.stickyNav = true;
+          this.setState((prevState) => {
+            return {
+              ...prevState,
+              stickyNav: true,
+            };
+          });
+
+          // this.state.stickyNav = true;
           document.body.classList.add("fixed-nav");
         } else {
-          this.state.stickyNav = false;
+          this.setState((prevState) => {
+            return {
+              ...prevState,
+              stickyNav: false,
+            };
+          });
           document.body.classList.remove("fixed-nav");
         }
         // this.navBar.current.style.top = `${lastScrollY}px`;
@@ -92,7 +104,7 @@ const NavbarComponent = class extends React.Component {
             }
           }
         `}
-        render={data => (
+        render={(data) => (
           <div className="topContainer">
             <div className="languageSwitcherContainer d-none d-sm-flex">
               <div className="contactsContainer">
