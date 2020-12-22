@@ -3,7 +3,7 @@ templateKey: about-page
 path: /politica-de-privacidade/
 title: politica de privacidade
 meta:
-  robots: NOINDEX
+  robots: INDEX
   description: politica de privacidade
   canonicalLink: https://topbiketoursportugal.com//politica-de-privacidade/
 ---
