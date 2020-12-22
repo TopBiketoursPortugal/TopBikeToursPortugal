@@ -5,10 +5,10 @@ slug: blog
 path: /pt/blog/
 title: Página do Blog
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: Página Blog Top Bike tours Portugal
   keywords: Página Blog Top Bike tours Portugal
-  robots: INDEX
+  robots: NOINDEX
   title: Página Blog Top Bike tours Portugal
 feature:
   align: center
