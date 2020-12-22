@@ -5,6 +5,7 @@ title: Privacy Policy
 meta:
   robots: NOINDEX
   description: Privacy Policy
+  canonicalLink: https://topbiketoursportugal.com/privacy-policy/
 ---
 # **Privacy Policy**
 
