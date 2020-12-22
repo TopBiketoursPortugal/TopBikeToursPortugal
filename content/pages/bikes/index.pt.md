@@ -81,7 +81,7 @@ meta:
   description: Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto
   keywords: RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
     PORTUGAL,RENTAL BIKE OPORTO
-  robots: NOINDEX
+  robots: INDEX
   title: ALUGUER BICICLETAS PORTO
   canonicalLink: https://topbiketoursportugal.com/pt/bicicletas/
 feature:
