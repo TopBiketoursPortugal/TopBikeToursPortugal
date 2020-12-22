@@ -5,10 +5,10 @@ slug: blog
 path: /blog/
 title: Blog Page
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: Blog Page
   keywords: Blog Page
-  robots: INDEX
+  robots: NOINDEX
   title: Blog Page
 feature:
   align: center
