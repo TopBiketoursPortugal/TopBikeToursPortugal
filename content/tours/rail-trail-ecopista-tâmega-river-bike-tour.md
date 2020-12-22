@@ -18,7 +18,7 @@ meta:
   keywords: ecopista tãmega bike tour, rail trail tãmega bike tour, bike tour in
     the northern area of portugal
   robots: INDEX
-  canonicalLink: https://topbiketoursportugal.com/bike-tours-porto-portugal/
+  canonicalLink: https://topbiketoursportugal.com/rail-trail-ecopista-tamega
 minAge: 16
 skillLevel: 1
 distance: 49
