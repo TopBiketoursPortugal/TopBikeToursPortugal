@@ -95,7 +95,7 @@ meta:
     cyclists or challenge routes
   keywords: Cycling Tours Portugal, cycling holidays in nature,bike tours, bike
     tours portugal,guided bike tours
-  robots: NOINDEX
+  robots: INDEX
   title: Bike tours Portugal - Bicycle tours Portugal
   canonicalLink: https://topbiketoursportugal.com/rent-bike-porto-portugal/
 feature:
