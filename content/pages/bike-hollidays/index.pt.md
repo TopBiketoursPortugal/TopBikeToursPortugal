@@ -15,8 +15,9 @@ meta:
     disponiveis.
   keywords: Passeios de bicicleta Portugal, bike tours portugal, ferias em
     bicicleta, cycling tours portugal
-  robots: NOINDEX
+  robots: INDEX
   title: "Tours de bicicleta em Portugal "
+  canonicalLink: https://topbiketoursportugal.com/passeios-bicicleta-porto/
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
