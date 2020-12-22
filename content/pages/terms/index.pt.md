@@ -5,6 +5,7 @@ title: Termos e condições
 meta:
   description: Termos e condições
   robots: NOINDEX
+  canonicalLink: https://topbiketoursportugal.com/termos-e-condicoes/
 ---
 # **Termos e Condições:**
 
