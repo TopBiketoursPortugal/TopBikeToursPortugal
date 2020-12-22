@@ -16,5 +16,6 @@ feature:
   imageAlign: bottom
   textcolor: Black
   title: blog
+  subtitle: blog
 ---
 # Top Bike tours in Portugal Blog
