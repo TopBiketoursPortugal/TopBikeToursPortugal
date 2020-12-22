@@ -3,7 +3,7 @@ templateKey: tour-calendar
 path: /guided-bike-tours-calendar-portugal/
 title: Tour Calendar
 meta:
-  canonicalLink: ""
+  canonicalLink: https://topbiketoursportugal.com/guided-bike-tours-calendar-portugal/
   description: Explore with us so guided our packages by bicycle specially
     prepared for you! Calendar now available!
   keywords: PORTUGAL BIKE TOURS CALENDAR, guided bike tour calendar, self guide
