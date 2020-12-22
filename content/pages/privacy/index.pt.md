@@ -6,6 +6,8 @@ meta:
   robots: INDEX
   description: politica de privacidade
   canonicalLink: https://topbiketoursportugal.com//politica-de-privacidade/
+  title: politica de privacidade
+  keywords: politica de privacidade
 ---
 # **Política de Privacidade**
 
