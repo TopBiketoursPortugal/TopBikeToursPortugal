@@ -4,7 +4,7 @@ language: pt
 path: /pt/calendario-tours/
 title: Calendário
 meta:
-  canonicalLink: ""
+  canonicalLink: https://topbiketoursportugal.com/pt/calendario-tours/
   description: Explore connosco em modo guiado os nossos pacotes em bicicleta
     especialmente preparados para si! Calendário 2017 já disponivel
   keywords: calendario passeios guiados portugal
