@@ -97,6 +97,7 @@ meta:
     tours portugal,guided bike tours
   robots: NOINDEX
   title: Bike tours Portugal - Bicycle tours Portugal
+  canonicalLink: https://topbiketoursportugal.com/rent-bike-porto-portugal/
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg
