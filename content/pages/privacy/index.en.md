@@ -3,7 +3,7 @@ templateKey: about-page
 path: /privacy-policy/
 title: Privacy Policy
 meta:
-  robots: NOINDEX
+  robots: INDEX
   description: Privacy Policy
   canonicalLink: https://topbiketoursportugal.com/privacy-policy/
 ---
