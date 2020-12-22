@@ -5,10 +5,10 @@ slug: blog
 path: /blog/
 title: Blog Page
 meta:
-  canonicalLink: ""
+  canonicalLink: https://topbiketoursportugal.com/blog/
   description: Blog Page
   keywords: Blog Page
-  robots: NOINDEX
+  robots: INDEX
   title: Blog Page
 feature:
   align: center
