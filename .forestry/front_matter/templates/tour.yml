@@ -59,6 +59,9 @@ fields:
   - type: text
     name: title
     label: title
+    showOnly:
+      field: noindex
+      value: true
   - type: text
     name: canonicalLink
     label: canonicalLink
@@ -150,6 +153,9 @@ fields:
     name: bokunLink
     label: bokunLink
   - type: text
+    name: bokunLinkText
+    label: bokunLinkText
+  - type: text
     name: bokunId
     label: bokunId
   - type: text
@@ -164,6 +170,3 @@ fields:
   - type: file
     name: image
     label: image
-  - type: text
-    name: bokunLinkText
-    label: bokunLinkText
