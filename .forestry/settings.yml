@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/tours
   label: Tours
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
