@@ -5,6 +5,12 @@ fields:
 - type: text
   name: templateKey
   label: templateKey
+  config:
+    required: true
+    min: 1
+  showOnly:
+    value: false
+  hidden: true
 - type: number
   name: order
   label: order
