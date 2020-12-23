@@ -5,13 +5,15 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/settings/**/*
+  path: content/settings/global.yml
   label: Settings
 - type: directory
   path: content/tours
   label: Tours
   create: documents
   match: "**/*"
+  templates:
+  - tour
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
