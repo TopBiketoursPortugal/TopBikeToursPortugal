@@ -203,6 +203,13 @@ module.exports = {
       },
     },
     {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        path: `${__dirname}/static/img`,
+        name: "images",
+      },
+    },
+    {
       resolve: `gatsby-plugin-material-ui`,
       options: {
         stylesProvider: {
@@ -366,6 +373,14 @@ module.exports = {
     //     pixelId: "2701463496558439"
     //   }
     // },
+    {
+      resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
+      options: {
+        devMode: true,
+        analyzerPort: "8888",
+        defaultSizes: "gzip"
+      },
+    },
     "gatsby-plugin-offline",
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-netlify", // make sure to keep it last in the array
