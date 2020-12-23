@@ -3,6 +3,10 @@ templateKey: bikes-page
 language: pt
 path: /pt/bicicletas/
 title: Bicicletas
+afterEquipment: |-
+  
+
+  * interest
 bikes:
   - image: /img/bike.png
     type: Hybrid bicycle
@@ -26,18 +30,17 @@ bikes:
     type: Electric bicycles
 equipment:
   - description: >-
-
+      
 
       **Kross TRANS 5.0**
 
 
       * 24 gears with V-brake
 
-      * E-bike kit available with 80 km autonomy in level 2 (of 5) of
-      assistance.
+      * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
     type: Hybrid bike
   - description: |-
-
+      
 
       **Kross Vento 2**
 
@@ -57,7 +60,7 @@ equipment:
       * 27 gears with shimano group set
     type: Mountain Bike - MTB
   - description: |-
-
+      
 
       **KTM Macina electric bicycle 500 wh**
 
@@ -75,12 +78,12 @@ equipment:
       * Bosch electric motor
     type: Electric Bicycles
 meta:
-  description: 'Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto'
-  keywords: >-
-    RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
+  description: Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto
+  keywords: RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
     PORTUGAL,RENTAL BIKE OPORTO
   robots: INDEX
   title: ALUGUER BICICLETAS PORTO
+  canonicalLink: https://topbiketoursportugal.com/pt/bicicletas/
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg

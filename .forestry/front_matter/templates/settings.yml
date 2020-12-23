@@ -1,0 +1,125 @@
+---
+label: Settings
+hide_body: true
+fields:
+- type: field_group
+  name: en
+  label: en
+  fields:
+  - type: field_group
+    name: address
+    label: address
+    fields:
+    - type: text
+      name: city
+      label: city
+    - type: text
+      name: country
+      label: country
+    - type: text
+      name: hint
+      label: hint
+    - type: text
+      name: postalCode
+      label: postalCode
+    - type: text
+      name: street
+      label: street
+  - type: textarea
+    name: description
+    label: description
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: pt
+  label: pt
+  fields:
+  - type: field_group
+    name: address
+    label: address
+    fields:
+    - type: text
+      name: city
+      label: city
+    - type: text
+      name: country
+      label: country
+    - type: text
+      name: hint
+      label: hint
+    - type: text
+      name: postalCode
+      label: postalCode
+    - type: text
+      name: street
+      label: street
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: title
+    label: title
+- type: text
+  name: titleformat
+  label: titleformat
+- type: field_group
+  name: location
+  label: location
+  fields:
+  - type: text
+    name: lat
+    label: lat
+  - type: text
+    name: lng
+    label: lng
+- type: text
+  name: phone
+  label: phone
+- type: text
+  name: mobile
+  label: mobile
+- type: text
+  name: email
+  label: email
+- type: text
+  name: tourOperator
+  label: tourOperator
+- type: text
+  name: travelAgency
+  label: travelAgency
+- type: text
+  name: siteUrl
+  label: siteUrl
+- type: field_group
+  name: socialMediaCard
+  label: socialMediaCard
+  fields:
+  - type: file
+    name: image
+    label: image
+- type: field_group_list
+  name: socialNetworks
+  label: socialNetworks
+  fields:
+  - type: text
+    name: display
+    label: display
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: link
+    label: link
+- type: text
+  name: googleTrackingId
+  label: googleTrackingId
+- type: text
+  name: googleApiKey
+  label: googleApiKey

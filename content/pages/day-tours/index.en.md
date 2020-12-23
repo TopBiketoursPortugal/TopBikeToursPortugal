@@ -14,7 +14,7 @@ meta:
     porto, biking in porto
   robots: INDEX
   title: Bike tours Porto
-  canonicalLink: https://www.biketoursporto.com/bike-tours-porto-portugal/
+  canonicalLink: https://topbiketoursportugal.com/bike-tours-porto-portugal/
 feature:
   align: center
   image: /img/44817961982_440e783762_o.jpg

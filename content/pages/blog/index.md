@@ -5,7 +5,7 @@ slug: blog
 path: /blog/
 title: Blog Page
 meta:
-  canonicalLink: ''
+  canonicalLink: https://topbiketoursportugal.com/blog/
   description: Blog Page
   keywords: Blog Page
   robots: INDEX
@@ -16,5 +16,6 @@ feature:
   imageAlign: bottom
   textcolor: Black
   title: blog
+  subtitle: blog
 ---
 # Top Bike tours in Portugal Blog
