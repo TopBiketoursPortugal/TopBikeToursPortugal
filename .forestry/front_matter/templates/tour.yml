@@ -17,6 +17,8 @@ fields:
 - type: text
   name: path
   label: path
+  config:
+    min: 1
 - type: text
   name: productcode
   label: productcode
