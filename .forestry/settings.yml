@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: content/settings/settings.yml
+  path: content/settings/**/*
   label: Settings
-  match: "**/*"
 - type: directory
   path: content/tours
   label: Tours
