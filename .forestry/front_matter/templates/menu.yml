@@ -2,34 +2,31 @@
 label: Menu
 hide_body: false
 fields:
-- type: field_group
-  name: blogsection
-  label: blogsection
-  fields:
-  - type: text
-    name: description
-    label: description
-  - type: textarea
-    name: descriptionafter
-    label: descriptionafter
-  - type: text
-    name: heading
-    label: heading
 - type: text
   name: templateKey
   label: templateKey
-- type: text
-  name: language
-  label: language
-- type: text
-  name: lang
-  label: lang
 - type: text
   name: path
   label: path
 - type: text
   name: title
   label: title
+- type: field_group
+  name: meta
+  label: meta
+  fields:
+  - type: textarea
+    name: description
+    label: description
+  - type: textarea
+    name: keywords
+    label: keywords
+  - type: text
+    name: robots
+    label: robots
+  - type: text
+    name: title
+    label: title
 - type: field_group
   name: toursection
   label: toursection
@@ -44,18 +41,15 @@ fields:
     name: heading
     label: heading
 - type: field_group
-  name: meta
-  label: meta
+  name: blogsection
+  label: blogsection
   fields:
-  - type: textarea
+  - type: text
     name: description
     label: description
+  - type: textarea
+    name: descriptionafter
+    label: descriptionafter
   - type: text
-    name: keywords
-    label: keywords
-  - type: text
-    name: robots
-    label: robots
-  - type: text
-    name: title
-    label: title
+    name: heading
+    label: heading
