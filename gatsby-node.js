@@ -226,6 +226,13 @@ exports.createSchemaCustomization = ({ actions }) => {
       avatar: File
     }
 
+    type Calendar @infer {
+      body: String
+      date: String
+      type: String
+    }
+
+
     type Pricing @infer {
       discount: Float
       price: Float
@@ -270,6 +277,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       relatedProduct: String
       featuredImage: File
       langKey: String
+      dates: [Calendar]
+
     }
 
     
