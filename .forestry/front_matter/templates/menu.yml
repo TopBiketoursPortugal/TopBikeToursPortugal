@@ -1,59 +1,61 @@
 ---
 label: Menu
-hide_body: true
+hide_body: false
 fields:
+- type: field_group
+  name: blogsection
+  label: blogsection
+  fields:
+  - type: text
+    name: description
+    label: description
+  - type: textarea
+    name: descriptionafter
+    label: descriptionafter
+  - type: text
+    name: heading
+    label: heading
+- type: text
+  name: templateKey
+  label: templateKey
+- type: text
+  name: language
+  label: language
+- type: text
+  name: lang
+  label: lang
+- type: text
+  name: path
+  label: path
 - type: text
   name: title
   label: title
 - type: field_group
-  name: en
-  label: en
+  name: toursection
+  label: toursection
   fields:
-  - type: field_group_list
-    name: links
-    label: links
-    fields:
-    - type: text
-      name: display
-      label: display
-    - type: text
-      name: link
-      label: link
-    - type: text
-      name: description
-      label: description
-    - type: boolean
-      name: enabled
-      label: enabled
-    - type: boolean
-      name: isHome
-      label: isHome
-    - type: number
-      name: order
-      label: order
+  - type: text
+    name: description
+    label: description
+  - type: textarea
+    name: descriptionafter
+    label: descriptionafter
+  - type: text
+    name: heading
+    label: heading
 - type: field_group
-  name: pt
-  label: pt
+  name: meta
+  label: meta
   fields:
-  - type: field_group_list
-    name: links
-    label: links
-    fields:
-    - type: text
-      name: display
-      label: display
-    - type: text
-      name: link
-      label: link
-    - type: text
-      name: description
-      label: description
-    - type: boolean
-      name: enabled
-      label: enabled
-    - type: boolean
-      name: isHome
-      label: isHome
-    - type: number
-      name: order
-      label: order
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: keywords
+    label: keywords
+  - type: text
+    name: robots
+    label: robots
+  - type: text
+    name: title
+    label: title
