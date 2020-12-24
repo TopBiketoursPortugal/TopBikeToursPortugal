@@ -19,11 +19,15 @@ sections:
   label: Menus
   create: documents
   match: "**/*"
+  templates:
+  - m1
 - type: directory
   path: content/languages
   label: Languages
   create: documents
   match: "**/*"
+  templates:
+  - languages
 - type: directory
   path: content/banners
   label: Banners
