@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Languages
+  create: all
+  match: "**/*"
+- type: directory
   path: content/banners
   label: Banners
   create: all
