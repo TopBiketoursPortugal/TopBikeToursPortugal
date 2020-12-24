@@ -5,8 +5,19 @@ fields:
 - type: text
   name: key
   label: key
-- type: text
-  name: language
+- name: language
+  type: select
+  default: EN
+  config:
+    required: true
+    options:
+    - EN
+    - PT
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: language
 - type: boolean
   name: banner
