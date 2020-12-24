@@ -1,0 +1,59 @@
+---
+label: Menu
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: en
+  label: en
+  fields:
+  - type: field_group_list
+    name: links
+    label: links
+    fields:
+    - type: text
+      name: display
+      label: display
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: description
+      label: description
+    - type: boolean
+      name: enabled
+      label: enabled
+    - type: boolean
+      name: isHome
+      label: isHome
+    - type: number
+      name: order
+      label: order
+- type: field_group
+  name: pt
+  label: pt
+  fields:
+  - type: field_group_list
+    name: links
+    label: links
+    fields:
+    - type: text
+      name: display
+      label: display
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: description
+      label: description
+    - type: boolean
+      name: enabled
+      label: enabled
+    - type: boolean
+      name: isHome
+      label: isHome
+    - type: number
+      name: order
+      label: order
