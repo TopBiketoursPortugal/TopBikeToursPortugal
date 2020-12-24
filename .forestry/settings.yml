@@ -7,22 +7,22 @@ sections:
 - type: directory
   path: content/pages
   label: Pages
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content/testemonials
   label: Testemonials
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content/menus
   label: Menus
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content/languages
   label: Languages
-  create: all
+  create: documents
   match: "**/*"
 - type: directory
   path: content/banners
