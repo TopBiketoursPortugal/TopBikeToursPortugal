@@ -1,0 +1,50 @@
+---
+label: Banner
+hide_body: true
+fields:
+- type: text
+  name: key
+  label: key
+- type: text
+  name: language
+  label: language
+- type: boolean
+  name: banner
+  label: banner
+- type: number
+  name: order
+  label: order
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: field_group
+  name: goto
+  label: goto
+  fields:
+  - type: text
+    name: link
+    label: link
+  - type: text
+    name: linktext
+    label: linktext
+  - type: text
+    name: linktitle
+    label: linktitle
+- type: file
+  name: image
+  label: image
+- type: text
+  name: titleColor
+  label: titleColor
+- type: text
+  name: subtitleColor
+  label: subtitleColor
+- type: text
+  name: btnColor
+  label: btnColor
+- type: text
+  name: btnTextColor
+  label: btnTextColor
