@@ -9,6 +9,8 @@ sections:
   label: Banners
   create: all
   match: "**/*"
+  templates:
+  - banner
 - type: document
   path: content/settings/global.yml
   label: Settings
