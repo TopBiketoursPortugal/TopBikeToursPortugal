@@ -18,12 +18,11 @@ pt:
     hint: Perto estação trindade
     postalCode: 4000-057
     street: Rua Alferes Malheiro nº 139
-  description: "Passeios pedestres em Portugal: Confira nossos passeios pedestres
-    pela cidade do Porto, bem como nossas férias de bicicleta guiadas e
-    auto-guiadas em Portugal.As rotas de passeios de bicicleta estão disponíveis
-    para serem feitas em uma bicicleta híbrida, mountain bike ou road bike."
-  keywords: passeios bicicleta porto, portugal, passeios em bicicleta
-    portugal,cicloturismo portugal, ferias em bicicleta
+  description: "Passeios a pé Portugal: Para quem pretende um verdadeiro passeio a
+    pé e de caminhadas em Portugal sem se preocupar com transferes, alojamento,
+    alimentação, locais a visitar em Portugal e outros destaques"
+  keywords: Passeios pedestres em Portugal, Passeios pedestres em Portugal,
+    Passeios pedestres em Portugal
   title: Walking Tours Portugal - Férias a caminhar
 titleformat: "%s  | Top Walking tours Portugal"
 location:
@@ -44,12 +43,6 @@ socialNetworks:
   - display: Instagram
     icon: instagram
     link: https://www.instagram.com/topwalkingtoursportugal
-  - display: Twitter
-    icon: twitter
-    link: https://twitter.com/FoldnVisit
-  - display: Youtube
-    icon: youtube
-    link: https://www.youtube.com/channel/UCqryPkh_snkIAqvDXFvaK7A
   - display: Tripadvisor
     icon: tripadvisor
     link: https://www.tripadvisor.com/Attraction_Review-g189180-d4105907-Reviews-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
