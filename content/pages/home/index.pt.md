@@ -12,26 +12,22 @@ lang: pt
 path: /pt/
 title: Home
 toursection:
-  description: |-
-    ## TOURS PEDESTRES EM PORTUGAL
-
-    ## NORTE E SUL | BIKE TOURS PORTUGAL
-  descriptionafter: "**Tours em Bicicleta Portugal:** A experiência combinada de
-    nossa equipa permite-nos combinar ciclismo com os componentes histórico e
-    gastronómico. Conhecedores de excelentes serviços de hotelaria e catering,
-    assim como, de caminhos e paisagens que surpreendem e superam as
-    expectativas."
+  description: "## TOURS PEDESTRES EM PORTUGAL"
+  descriptionafter: "**Passeios de caminhada e caminhadas em Portugal:** Em nossos
+    passeios de férias a pé e caminhadas, não espere nenhuma transferência de
+    carro entre as rotas. Acreditamos que uma verdadeira semana de férias de
+    caminhadas e passeios pedestres sem ajuda mecânica é a melhor forma de
+    desfrutar da natureza. Esteja com você mesmo e aprecie o momento em que
+    estiver."
   heading: "## Tours populares"
 meta:
-  description: "Passeios de bicicleta em Portugal: Confira nossos passeios de
-    bicicleta pela cidade do Porto, bem como nossas férias de bicicleta guiadas
-    e auto-guiadas em Portugal.As rotas de passeios de bicicleta estão
-    disponíveis para serem feitas em uma bicicleta híbrida, mountain bike ou
-    road bike."
-  keywords: passeios em bicicleta portugal, viagnes em biciclea, passeios em
-    bicicleta guiados, bike tours, cycling holidays
+  description: "Passeios a pé Portugal: Para quem pretende um verdadeiro passeio a
+    pé e de caminhadas em Portugal sem se preocupar com transferes, alojamento,
+    alimentação, locais a visitar em Portugal e outros destaques"
+  keywords: Passeios pedestres em Portugal, Passeios pedestres em Portugal,
+    Passeios pedestres em Portugal
   robots: INDEX
-  title: Bike Tours Portugal - Férias em bicicleta
+  title: Walking Tours Portugal - Férias a caminhar
 ---
 # Passeios a pé e caminhadas em Portugal
 
