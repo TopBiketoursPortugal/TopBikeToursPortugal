@@ -5,7 +5,7 @@ path: /porto-santiago-compostela-bike-tour/
 productcode: SANTIAGO 01
 featured: true
 language: en
-image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3582-1280x853.jpg
+image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3582-1280x853-1-.jpg
 title: Porto to Santiago de Compostela Bike Tour - Costal Path
 packagetype: PackageTour
 tourtype: Bike
