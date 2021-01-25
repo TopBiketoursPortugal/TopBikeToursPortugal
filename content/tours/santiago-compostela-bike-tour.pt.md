@@ -5,7 +5,7 @@ path: /santiago-compostela-pela-costa/
 productcode: SANTIAGO 01
 featured: true
 language: pt
-image: /img/The-Way-of-St.-James-Bike-Tour-Fold-N-Visit-Cycling-Holidays-3582-1280x853.jpg
+image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-3582-1280x853.jpg
 title: Caminho de Santiago em Bicicleta - Caminho da Costa - "fácil"
 packagetype: PackageTour
 tourtype: Bike

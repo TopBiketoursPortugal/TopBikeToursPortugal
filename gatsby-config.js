@@ -1,19 +1,15 @@
-const languages = require("./src/data/languages");
+// import  * as languages from "./src/data/languages";
 
 module.exports = {
   siteMetadata: {
     title: "Top Bike Tours Portugal",
     siteUrl: "https://topbiketoursportugal.com/",
-    description: `
-    Top Bike Tours Portugal is a provider of holiday’s packages and routes, which offers an incredible holiday experience, entertainment and leisure activities based on quality and value.
-    `,
+    description: "Top Bike Tours Portugal is a provider of holiday’s packages and routes, which offers an incredible holiday experience, entertainment and leisure activities based on quality and value.",
     canonicalUrl: "https://topbiketoursportugal.com/",
     image: "https://topbiketoursportugal.com/images/jason-lengstorf.jpg",
     author: {
       name: "Top Bike Tours Portugal",
-      minibio: `
-      Founded in 2013, Top Bike Tours Portugal formerly Fold n 'Visit is a very young company, with experience in pedestrian and cycling tours in Porto and long distance cycling routes to the north of the Iberian Peninsula. Our activities are coordinated by tourism professionals, with a huge knowledge of heritage and sports.
-      `,
+      minibio: "Founded in 2013, Top Bike Tours Portugal formerly Fold n 'Visit is a very young company, with experience in pedestrian and cycling tours in Porto and long distance cycling routes to the north of the Iberian Peninsula. Our activities are coordinated by tourism professionals, with a huge knowledge of heritage and sports.",
     },
     organization: {
       name: "Top Bike Tours Portugal",
@@ -167,6 +163,29 @@ module.exports = {
         },
       },
     },
+    // {
+    //   resolve: "gatsby-plugin-prettier-eslint",
+    //   options: {
+    //     prettier: {
+    //       patterns: [
+    //         // the pattern "**/*.{js,jsx,ts,tsx}" is not used because we will rely on `eslint --fix`
+    //         "**/*.{css,scss,less}",
+    //         "**/*.{json,json5}",
+    //         "**/*.{graphql}",
+    //         "**/*.{md,mdx}",
+    //         "**/*.{html}",
+    //         "**/*.{yaml,yml}",
+    //       ],
+    //     },
+    //     eslint: {
+    //       patterns: "**/*.{js,jsx,ts,tsx}",
+    //       customOptions: {
+    //         fix: true,
+    //         cache: true,
+    //       },
+    //     },
+    //   },
+    // },
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -278,6 +297,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
+        icon: `static/img/logo.png`,
       },
     },
     

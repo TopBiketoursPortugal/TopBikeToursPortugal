@@ -62,19 +62,19 @@ export const ReviewCite = styled.cite`
   }
 `;
 
-const buildGroupedArray = (array, chunk = 10) => {
-  var i,
-    j,
-    temparray = [];
-  for (i = 0, j = array.length; i < j; i += chunk) {
-    temparray.push(array.slice(i, i + chunk));
-    // do whatever
-  }
-  return temparray;
-};
+// const buildGroupedArray = (array, chunk = 10) => {
+//   var i,
+//     j,
+//     temparray = [];
+//   for (i = 0, j = array.length; i < j; i += chunk) {
+//     temparray.push(array.slice(i, i + chunk));
+//     // do whatever
+//   }
+//   return temparray;
+// };
 
 const ReviewsHighlights = ({ reviews, className }) => {
-  var sliderArray = buildGroupedArray(reviews, 2);
+  // var sliderArray = buildGroupedArray(reviews, 2);
   return (
     <div className="containerReview">
       <div className="row">

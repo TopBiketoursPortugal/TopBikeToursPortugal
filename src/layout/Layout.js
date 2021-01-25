@@ -5,7 +5,7 @@ import NavbarComponent from "../components/Navbar";
 import Footer from "../components/Footer";
 import Meta from "../components/Meta";
 import BackgroundImage from "gatsby-background-image";
-// import Img from "gatsby-image";
+import Img from "gatsby-image";
 // import styled from "styled-components";
 import { createGlobalStyle } from "styled-components";
 // import { ChevronUp } from "@styled-icons/feather/ChevronUp";
@@ -216,12 +216,16 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
                   color: (feature.textcolor || "white") + `!important`,
                 }}
               >
-                {/* <Img
+                {
+                  <Img
+                    loading="eager"
+                    style={{ display: "none" }}
                     objectFit="cover"
                     objectPosition="50% 50%"
                     fluid={feature.image.childImageSharp.fluid}
                     alt={feature.title}
-                  /> */}
+                  />
+                }
                 <BackgroundImage
                   fluid={feature.image.childImageSharp.fluid}
                   backgroundColor={`#fff`}
@@ -244,7 +248,10 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
                       class="bokunButton"
                       href={feature.bokunLink}
                       target="_blank"
-                    >{feature.bokunLinkText}</a>
+                      rel="noreferrer"
+                    >
+                      {feature.bokunLinkText}
+                    </a>
                   )}
                 </BackgroundImage>
               </div>

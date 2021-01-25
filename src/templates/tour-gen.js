@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import { filter } from "lodash-es";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
@@ -84,6 +85,7 @@ function TourGen({ data }) {
     ...data.tour,
     ...data.tour.frontmatter,
   };
+
   // console.log(JSON.stringify(reviews));
   // console.log(JSON.stringify(data?.reviews?.nodes));
   // console.log(JSON.stringify(tour));
@@ -92,7 +94,7 @@ function TourGen({ data }) {
 
   const { settings } = data;
   const [value, setValue] = React.useState(0);
-  const [stickyNav, setNavState] = React.useState(false);
+  const [stickyNav] = React.useState(false);
 
   const anchors = ["information", "tour-plan", "gallery", "pricing", "reviews"];
 
@@ -378,13 +380,13 @@ function TourGen({ data }) {
                       name="tour-booking-require-acceptance"
                     />
                     *{" "}
-                    <a href="#" target="_blank">
+                    <Link to="/terms-and-conditions/" target="_blank">
                       Terms and conditions
-                    </a>{" "}
+                    </Link>{" "}
                     and{" "}
-                    <a href="#" target="_blank">
+                    <Link to="/privacy-policy/" target="_blank">
                       Privacy policy
-                    </a>
+                    </Link>
                     .
                   </div>
                   <div className="tour-booking-enquiry-form-message"></div>

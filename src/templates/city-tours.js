@@ -33,7 +33,9 @@ export const TourTemplate = ({
   return (
     <div
       className="row tour"
-      role="navigation"
+      aria-label="Go to"
+      role="link"
+      tabIndex={0}
       onClick={(event) => {
         event.preventDefault();
         navigate(path);
@@ -82,7 +84,7 @@ export const ToursListTemplate = ({ tours }) => (
   <>
     {tours &&
       tours.map((tour, jindex) => (
-        <TourTemplate key={`ct_${jindex}`} {...tour} {...tour.frontmatter} />
+        <TourTemplate key={`ctt_${jindex}`} {...tour} {...tour.frontmatter} />
       ))}
   </>
 );

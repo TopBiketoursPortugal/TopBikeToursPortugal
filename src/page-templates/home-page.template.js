@@ -1,20 +1,20 @@
-import React from "react"
+import React from "react";
 
-import { Heading, SEO } from "../components"
-import { RenderMarkdown } from "../core"
+import { Heading, SEO } from "../components";
+import { RenderMarkdown } from "../core";
 import {
   safelyGetFrontMatter,
   withFallback,
   CMS_SCOPE,
   CMS_COMPONENTS,
-} from "../cms"
+} from "../cms";
 
 export const HomePageTemplate = ({ title, sections }) => (
   <article>
     <SEO title={title} />
     <Heading tag={1}>{title}</Heading>
-    {withFallback(sections, []).map((section, i) => {
-      return (
+    {sections &&
+      withFallback(sections, []).map((section, i) => (
         <section key={i}>
           <h2>{section.title}</h2>
           <RenderMarkdown
@@ -24,10 +24,9 @@ export const HomePageTemplate = ({ title, sections }) => (
           />
           <hr />
         </section>
-      )
-    })}
+      ))}
   </article>
-)
+);
 
 const HomePage = ({ pageContext }) => {
   return (
@@ -35,7 +34,7 @@ const HomePage = ({ pageContext }) => {
       {...safelyGetFrontMatter(pageContext)}
       isPreview={false}
     />
-  )
-}
+  );
+};
 
-export default HomePage
+export default HomePage;

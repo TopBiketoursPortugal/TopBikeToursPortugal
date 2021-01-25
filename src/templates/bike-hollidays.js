@@ -149,11 +149,11 @@ const TourDiscountPrice = styled.div`
 
 /*https://www.gatsbyjs.org/docs/adding-pagination*/
 function ToursListPage({ data }) {
-  const tours = data.allTourJson.nodes.map(t => {
+  const tours = data.allTourJson.nodes.map((t) => {
     return {
       ...t,
       ...t.frontmatter,
-      ...t.fields
+      ...t.fields,
     };
   });
 
@@ -171,12 +171,12 @@ function ToursListPage({ data }) {
         <Container>
           <Row>
             {tours &&
-              tours.map(tour => {
+              tours.map((tour) => {
                 var tourRating = 0;
 
                 if (tour && tour.rating)
                   tourRating = Math.round(
-                    sum(tour.rating.map(r => r.rating || 0)) /
+                    sum(tour.rating.map((r) => r.rating || 0)) /
                       tour.rating.length
                   );
 
@@ -185,7 +185,12 @@ function ToursListPage({ data }) {
                     <TourLink to={tour.path || tour.localizedPath || tour.slug}>
                       <Tour>
                         <TourImageContainer>
-                          <Img fluid={tour.image.childImageSharp.fluid} alt={tour.title} />
+                          {tour.image && (
+                            <Img
+                              fluid={tour.image.childImageSharp.fluid}
+                              alt={tour.title}
+                            />
+                          )}
                         </TourImageContainer>
                         <div style={{ padding: "25px" }}>
                           <TourTitle>{tour.title}</TourTitle>
@@ -257,7 +262,7 @@ function ToursListPage({ data }) {
 }
 
 ToursListPage.propTypes = {
-  data: PropTypes.any
+  data: PropTypes.any,
 };
 
 export default ToursListPage;

@@ -1,10 +1,10 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 // import PropTypes from "prop-types";
 import LanguageSwitcher from "./LanguageSwitcher";
 // import _filter from "lodash/filter";
 // import _first from "lodash/first";
 
-import { StaticQuery, graphql } from "gatsby";
+import { graphql, useStaticQuery } from "gatsby";
 // import { Button } from "styled-button-component";
 import styled from "styled-components";
 import { Facebook } from "@styled-icons/boxicons-logos/Facebook";
@@ -25,115 +25,100 @@ const icons = {
   twitter: Twitter,
   instagram: Instagram,
   youtube: Youtube,
-  tripadvisor: StyledTripAdvisor
+  tripadvisor: StyledTripAdvisor,
 };
 
-let lastScrollY = 0;
-let ticking = false;
+const NavbarComponent = ({ menu }) => {
+  // const [hidden, setHidden] = useState(false);
+  const [stickyNav, setStickyNav] = useState(false);
+  const data = useStaticQuery(query);
 
-const NavbarComponent = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      hidden: false,
-      stickyNav: false
-    };
-    this.navBar = React.createRef();
-  }
+  useEffect(() => {
+    let lastScrollY = 0;
+    let ticking = false;
+    const handleScroll = () => {
+      lastScrollY = window.scrollY;
 
-  componentDidMount = () => {
-    window.addEventListener("scroll", this.handleScroll, { passive: true });
-  };
-
-  componentWillUnmount = () => {
-    window.removeEventListener("scroll", this.handleScroll);
-  };
-
-  handleScroll = () => {
-    lastScrollY = window.scrollY;
-
-    if (!ticking) {
-      window.requestAnimationFrame(() => {
-        if (lastScrollY > 10) {
-          this.state.stickyNav = true;
-          document.body.classList.add("fixed-nav");
-        } else {
-          this.state.stickyNav = false;
-          document.body.classList.remove("fixed-nav");
-        }
-        // this.navBar.current.style.top = `${lastScrollY}px`;
-        ticking = false;
-      });
-
-      ticking = true;
-    }
-  };
-  // var hidden = this.state.hidden;
-  render() {
-    return (
-      <StaticQuery
-        query={graphql`
-          query LogoQuery {
-            file(relativePath: { eq: "logo2.png" }) {
-              childImageSharp {
-                # Specify the image processing specifications right in the query.
-                # Makes it trivial to update as your page's design changes.
-                fixed(width: 208, height: 143) {
-                  ...GatsbyImageSharpFixed
-                }
-              }
-            }
-            settings: settingsYaml {
-              socialNetworks {
-                display
-                icon
-                link
-              }
-            }
+      if (!ticking) {
+        window.requestAnimationFrame(() => {
+          if (lastScrollY > 10) {
+            setStickyNav(true);
+            document.body.classList.add("fixed-nav");
+          } else {
+            setStickyNav(false);
+            document.body.classList.remove("fixed-nav");
           }
-        `}
-        render={data => (
-          <div className="topContainer">
-            <div className="languageSwitcherContainer d-none d-sm-flex">
-              <div className="contactsContainer">
-                <a href="/">
-                  <PhoneAlt size="18" /> (+351) 915 316 999​
+          ticking = false;
+        });
+
+        ticking = true;
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll, { passive: true });
+
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
+
+  return (
+    <div className="topContainer">
+      <div className="languageSwitcherContainer d-none d-sm-flex">
+        <div className="contactsContainer">
+          <a href="/">
+            <PhoneAlt size="18" /> (+351) 915 316 999​
+          </a>
+          <a href="mailto:info@topbiketoursportugal.com">
+            {/* <AlternateEmail size="18" /> */}
+            info@topbiketoursportugal.com
+          </a>
+        </div>
+        <div>
+          {data &&
+            data.settings &&
+            data.settings.socialNetworks &&
+            data.settings.socialNetworks.map((social, index) => {
+              const SocialIcon = icons[social.icon];
+              return (
+                <a
+                  rel="nofollow noopener noreferrer"
+                  key={`sli${index}`}
+                  href={social.link}
+                  target="_blank"
+                  title={social.display}
+                >
+                  <SocialIcon size="18" title={social.display} />
                 </a>
-                <a href="mailto:info@topbiketoursportugal.com">
-                  {/* <AlternateEmail size="18" /> */}
-                  info@topbiketoursportugal.com
-                </a>
-              </div>
-              <div>
-                {data &&
-                  data.settings &&
-                  data.settings.socialNetworks &&
-                  data.settings.socialNetworks.map((social, index) => {
-                    const SocialIcon = icons[social.icon];
-                    return (
-                      <a
-                        rel="nofollow noopener noreferrer"
-                        key={`sli${index}`}
-                        href={social.link}
-                        target="_blank"
-                        title={social.display}
-                      >
-                        <SocialIcon size="18" title={social.display} />
-                      </a>
-                    );
-                  })}
-                <LanguageSwitcher></LanguageSwitcher>
-              </div>
-            </div>
-            <Nav
-              menu={this.props.menu}
-              className={this.state.stickyNav ? "sticky" : ""}
-            ></Nav>
-          </div>
-        )}
-      ></StaticQuery>
-    );
-  }
+              );
+            })}
+          <LanguageSwitcher></LanguageSwitcher>
+        </div>
+      </div>
+      <Nav menu={menu} className={stickyNav ? "sticky" : ""}></Nav>
+    </div>
+  );
 };
+
+const query = graphql`
+  query LogoQuery {
+    file(relativePath: { eq: "logo2.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fixed(width: 208, height: 143) {
+          ...GatsbyImageSharpFixed
+        }
+      }
+    }
+    settings: settingsYaml {
+      socialNetworks {
+        display
+        icon
+        link
+      }
+    }
+  }
+`;
 
 export default NavbarComponent;

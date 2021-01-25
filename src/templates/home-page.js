@@ -30,7 +30,6 @@ export const HomePageTemplate = ({
           <button
             className="scrollButton animatedScrollButton"
             aria-label="Go to tourhighlights"
-            role="navigation"
             resource="scroll.nav.gototourhighlights"
           >
             <ChevronCircleDown />
@@ -41,11 +40,7 @@ export const HomePageTemplate = ({
         <HTMLContent className="home" content={content} />
       </div>
       <Scroll type="class" element="tourHighlights" offset={-95}>
-        <button
-          className="scrollButton"
-          aria-label="Go to tourhighlights"
-          role="navigation"
-        >
+        <button className="scrollButton" aria-label="Go to tourhighlights">
           <ChevronCircleDown />
         </button>
       </Scroll>

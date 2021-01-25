@@ -1,13 +1,14 @@
 import React from "react";
 import { MapPin, Smartphone, Mail } from "react-feather";
 import { graphql } from "gatsby";
-
 // import PageHeader from "../components/PageHeader";
 import { HTMLContent } from "../components/Content";
 // import FormSimpleAjax from "../components/FormSimpleAjax";
 // import Content from "../components/Content";
 import GoogleMap from "../components/GoogleMap";
 import Layout from "../layout/LayoutBootstrap";
+import { Link } from "gatsby";
+
 import "./ContactPage.scss";
 
 // Export Template for use in CMS preview
@@ -182,13 +183,13 @@ export const ContactPageTemplate = ({
                 required
               />
               *{" "}
-              <a href="#" target="_blank">
+              <Link to="/terms-and-conditions/" target="_blank">
                 Terms and conditions
-              </a>{" "}
+              </Link>{" "}
               and{" "}
-              <a href="#" target="_blank">
+              <Link to="/privacy-policy/" target="_blank">
                 Privacy policy
-              </a>
+              </Link>
               .
             </div>
             <div className="tour-booking-enquiry-form-message"></div>

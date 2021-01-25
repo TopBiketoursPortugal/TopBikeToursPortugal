@@ -12,7 +12,7 @@ const Tourhighlights = ({
   description,
   descriptionafter,
   heading,
-  language
+  language,
 }) => {
   const converter = new showdown.Converter();
   const query = graphql`
@@ -52,7 +52,7 @@ const Tourhighlights = ({
   return (
     <StaticQuery
       query={query}
-      render={data => (
+      render={(data) => (
         <div className="tourHighlights">
           <HTMLContent
             className="container tourTitle"
@@ -69,14 +69,18 @@ const Tourhighlights = ({
                 data.tours.nodes &&
                 filter(
                   data.tours.nodes,
-                  t => t.frontmatter.language === language
+                  (t) => t.frontmatter.language === language
                 )
                   .slice(0, 3)
                   .map((tour, index) => (
                     <div
                       key={"featured" + tour.id}
+                      role="link"
+                      aria-label={`Go to ${tour.frontmatter}`}
+                      tab={index}
+                      tabIndex={index}
                       className="col col-12 col-md-4"
-                      onClick={event => {
+                      onClick={(event) => {
                         event.preventDefault();
                         navigate(
                           tour.frontmatter.path ||
@@ -84,7 +88,7 @@ const Tourhighlights = ({
                             tour.fields.slug
                         );
                       }}
-                      onKeyDown={event => {
+                      onKeyDown={(event) => {
                         event.preventDefault();
                         navigate(
                           tour.frontmatter.path ||
@@ -102,12 +106,14 @@ const Tourhighlights = ({
                           }
                         >
                           <Style.ToursImageContainer>
-                            <Img
-                              fluid={
-                                tour.frontmatter.image.childImageSharp.fluid
-                              }
-                              alt={tour.frontmatter.title}
-                            />
+                            {tour?.frontmatter?.image && (
+                              <Img
+                                fluid={
+                                  tour.frontmatter.image.childImageSharp.fluid
+                                }
+                                alt={tour.frontmatter.title}
+                              />
+                            )}
                           </Style.ToursImageContainer>
                           <Style.TourTitle>
                             {tour.frontmatter.title}

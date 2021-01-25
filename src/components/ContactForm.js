@@ -191,13 +191,13 @@ export default function ContactForm() {
           onChange={handleChange}
         />
         *{" "}
-        <a href="#" target="_blank">
+        <Link to="/terms-and-conditions/" target="_blank">
           Terms and conditions
-        </a>{" "}
+        </Link>{" "}
         and{" "}
-        <a href="#" target="_blank">
+        <Link to="/privacy-policy/" target="_blank">
           Privacy policy
-        </a>
+        </Link>
         .
       </div>
       <div className="tour-booking-enquiry-form-message"></div>
