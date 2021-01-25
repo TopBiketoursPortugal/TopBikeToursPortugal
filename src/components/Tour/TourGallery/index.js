@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import PropTypes from "prop-types";
 import Img from "gatsby-image";
 import "./tourgallery.scss";
@@ -8,24 +8,34 @@ import "react-image-lightbox/style.css";
 // public class TourGallery ({ tour: { gallery } }) => {
 
 const TourGallery = (props) => {
+  const [gallery] = useState(props.tour.gallery);
+  const [image, setImage] = useState(null);
+  const [nextImage, setNextImage] = useState(null);
+  const [prevImage, setPrevImage] = useState(null);
   const [photoIndex, setPhotoIndex] = useState(0);
   const [isOpen, setIsOpen] = useState(false);
 
   const clickOpen = (isOpen, photoIndex) => {
-    if (typeof photoIndex === "undefined") setPhotoIndex(0);
-    setPhotoIndex(photoIndex);
-    isOpen(isOpen);
+    setPhotoIndex(photoIndex ?? 0);
+    setIsOpen(isOpen);
   };
 
-  let { gallery } = props.tour.gallery;
-
-  const images = gallery.map((item) => item.image.childImageSharp.high.src);
+  useEffect(() => {
+    setImage(gallery[photoIndex].image.childImageSharp.high.src);
+    setPrevImage(
+      gallery[(photoIndex + gallery.length - 1) % gallery.length].image
+        .childImageSharp.high.src
+    );
+    setNextImage(
+      gallery[(photoIndex + 1) % gallery.length].image.childImageSharp.high.src
+    );
+  }, [gallery, photoIndex]);
 
   return (
     <div className="container">
-      {gallery && <h2 className="row col-12">Gallery</h2>}
+      {!!gallery.length && <h2 className="row col-12">Gallery</h2>}
       <div className="row">
-        {gallery &&
+        {!!gallery.length &&
           gallery.map((item, i) => (
             <div
               role="button"
@@ -46,15 +56,15 @@ const TourGallery = (props) => {
       {isOpen && (
         <Lightbox
           className="imageZoom"
-          mainSrc={images[photoIndex]}
-          nextSrc={images[(photoIndex + 1) % images.length]}
-          prevSrc={images[(photoIndex + images.length - 1) % images.length]}
+          mainSrc={image}
+          nextSrc={nextImage}
+          prevSrc={prevImage}
           onCloseRequest={() => setIsOpen(false)}
           onMovePrevRequest={() =>
-            setPhotoIndex((photoIndex + images.length - 1) % images.length)
+            setPhotoIndex((photoIndex + gallery.length - 1) % gallery.length)
           }
           onMoveNextRequest={() =>
-            setPhotoIndex((photoIndex + 1) % images.length)
+            setPhotoIndex((photoIndex + 1) % gallery.length)
           }
         />
       )}
