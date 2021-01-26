@@ -30,8 +30,8 @@ const icons = {
 
 const NavbarComponent = ({ menu }) => {
   // const [hidden, setHidden] = useState(false);
-  const [stickyNav, setStickyNav] = useState(false);
-  const data = useStaticQuery(query);
+  // const [stickyNav, setStickyNav] = useState(false);
+  const { settings, logo_white, logo } = useStaticQuery(query);
 
   useEffect(() => {
     let lastScrollY = 0;
@@ -42,10 +42,10 @@ const NavbarComponent = ({ menu }) => {
       if (!ticking) {
         window.requestAnimationFrame(() => {
           if (lastScrollY > 10) {
-            setStickyNav(true);
+            // setStickyNav(true);
             document.body.classList.add("fixed-nav");
           } else {
-            setStickyNav(false);
+            // setStickyNav(false);
             document.body.classList.remove("fixed-nav");
           }
           ticking = false;
@@ -75,39 +75,50 @@ const NavbarComponent = ({ menu }) => {
           </a>
         </div>
         <div>
-          {data &&
-            data.settings &&
-            data.settings.socialNetworks &&
-            data.settings.socialNetworks.map((social, index) => {
-              const SocialIcon = icons[social.icon];
-              return (
-                <a
-                  rel="nofollow noopener noreferrer"
-                  key={`sli${index}`}
-                  href={social.link}
-                  target="_blank"
-                  title={social.display}
-                >
-                  <SocialIcon size="18" title={social.display} />
-                </a>
-              );
-            })}
-          <LanguageSwitcher></LanguageSwitcher>
+          {settings?.socialNetworks?.map((social, index) => {
+            const SocialIcon = icons[social.icon];
+            return (
+              <a
+                rel="nofollow noopener noreferrer"
+                key={`sli${index}`}
+                href={social.link}
+                target="_blank"
+                title={social.display}
+              >
+                <SocialIcon size="18" title={social.display} />
+              </a>
+            );
+          })}
+          <LanguageSwitcher />
         </div>
       </div>
-      <Nav menu={menu} className={stickyNav ? "sticky" : ""}></Nav>
+      <Nav
+        logo={logo}
+        logoWhite={logo_white}
+        menu={menu}
+        // className={stickyNav ? "sticky" : ""}
+      />
     </div>
   );
 };
 
 const query = graphql`
   query LogoQuery {
-    file(relativePath: { eq: "logo2.png" }) {
+    logo: file(relativePath: { eq: "logo.png" }) {
       childImageSharp {
         # Specify the image processing specifications right in the query.
         # Makes it trivial to update as your page's design changes.
-        fixed(width: 208, height: 143) {
-          ...GatsbyImageSharpFixed
+        fluid(maxWidth: 148) {
+          ...GatsbyImageSharpFluid_withWebp
+        }
+      }
+    }
+    logo_white: file(relativePath: { eq: "logo_white.png" }) {
+      childImageSharp {
+        # Specify the image processing specifications right in the query.
+        # Makes it trivial to update as your page's design changes.
+        fluid(maxWidth: 148) {
+          ...GatsbyImageSharpFluid_withWebp
         }
       }
     }

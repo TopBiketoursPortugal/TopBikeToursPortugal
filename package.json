@@ -112,7 +112,7 @@
     "react-scroll-to-element": "0.2.0",
     "react-scrollable-anchor": "0.6.1",
     "react-scrollspy": "3.4.3",
-    "react-transition-group": "4.4.1",
+    "react-transition-group": "^4.4.1",
     "react-truncate": "2.4.0",
     "react-waypoint": "9.0.3",
     "reactcss": "1.2.3",

@@ -1,8 +1,10 @@
+import ReactCSSTransitionGroup from "react-transition-group";
 import React, { useState } from "react";
 import { Location } from "@reach/router";
 import { Link } from "gatsby";
 import { Menu, X } from "react-feather";
-// import Img from "gatsby-image";
+// import Img from "gatsby-image/withIEPolyfill";
+import Img from "gatsby-image";
 
 // import Logo from "./Logo";
 
@@ -42,14 +44,14 @@ const Navigation = (props) => {
           onKeyDown={handleLinkClick}
           className="logo"
         >
-          <img
-            className="white"
-            src="/img/logo_white.png"
+          <Img
+            className="black"
+            fluid={props.logo.childImageSharp.fluid}
             alt="Top Bike Tours Portugal"
           />
-          <img
-            className="black"
-            src="/img/logo.png"
+          <Img
+            className="white"
+            fluid={props.logoWhite.childImageSharp.fluid}
             alt="Top Bike Tours Portugal"
           />
         </Link>
@@ -72,8 +74,16 @@ const Navigation = (props) => {
   );
 };
 
-export default ({ subNav, menu }) => (
+export default ({ subNav, menu, logo, logoWhite }) => (
   <Location>
-    {(route) => <Navigation menu={menu} subNav={subNav} {...route} />}
+    {(route) => (
+      <Navigation
+        logo={logo}
+        logoWhite={logoWhite}
+        menu={menu}
+        subNav={subNav}
+        {...route}
+      />
+    )}
   </Location>
 );

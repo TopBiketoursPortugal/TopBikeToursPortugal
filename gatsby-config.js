@@ -4,12 +4,14 @@ module.exports = {
   siteMetadata: {
     title: "Top Bike Tours Portugal",
     siteUrl: "https://topbiketoursportugal.com/",
-    description: "Top Bike Tours Portugal is a provider of holiday’s packages and routes, which offers an incredible holiday experience, entertainment and leisure activities based on quality and value.",
+    description:
+      "Top Bike Tours Portugal is a provider of holiday’s packages and routes, which offers an incredible holiday experience, entertainment and leisure activities based on quality and value.",
     canonicalUrl: "https://topbiketoursportugal.com/",
     image: "https://topbiketoursportugal.com/images/jason-lengstorf.jpg",
     author: {
       name: "Top Bike Tours Portugal",
-      minibio: "Founded in 2013, Top Bike Tours Portugal formerly Fold n 'Visit is a very young company, with experience in pedestrian and cycling tours in Porto and long distance cycling routes to the north of the Iberian Peninsula. Our activities are coordinated by tourism professionals, with a huge knowledge of heritage and sports.",
+      minibio:
+        "Founded in 2013, Top Bike Tours Portugal formerly Fold n 'Visit is a very young company, with experience in pedestrian and cycling tours in Porto and long distance cycling routes to the north of the Iberian Peninsula. Our activities are coordinated by tourism professionals, with a huge knowledge of heritage and sports.",
     },
     organization: {
       name: "Top Bike Tours Portugal",
@@ -235,6 +237,7 @@ module.exports = {
     {
       resolve: "gatsby-transformer-remark",
       options: {
+        checkSupportedExtensions: false,
         plugins: [
           {
             resolve: "gatsby-remark-relative-images",
@@ -300,7 +303,7 @@ module.exports = {
         icon: `static/img/logo.png`,
       },
     },
-    
+
     `gatsby-transformer-json`,
     {
       resolve: `gatsby-source-filesystem`,
@@ -320,14 +323,14 @@ module.exports = {
     //     ignore: ["react-image-lightbox/style.css","/banner.scss", "/banner.css","/tourPricing.mod.scss","/tourPricing.mod.css"],
     //   },
     // },
-    
+
     // {
     //   resolve: 'gatsby-plugin-sw',
     //   options: {
     //     swPath: 'src/utils/my-service-worker.js', // Default to 'src/sw.js'
     //   },
     // },
-    
+
     {
       resolve: "gatsby-plugin-nprogress",
       options: {
