@@ -18,3 +18,5 @@ languagePages: []
 **Partners Link**
 
 [LASIK visão recuperação](http://excel.sub.jp/)
+
+[Relax Bike tours](https://relaxbiketours.com/): Your Canal Du Midi Cycling Holidays Experts!
