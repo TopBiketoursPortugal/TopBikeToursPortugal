@@ -1,13 +1,13 @@
-import React from "react";
+import React from 'react'
 
-import { Heading, SEO } from "../components";
-import { RenderMarkdown } from "../core";
+import { Heading, SEO } from '../components'
+import { RenderMarkdown } from '../core'
 import {
   safelyGetFrontMatter,
   withFallback,
   CMS_SCOPE,
   CMS_COMPONENTS,
-} from "../cms";
+} from '../cms'
 
 export const HomePageTemplate = ({ title, sections }) => (
   <article>
@@ -26,7 +26,7 @@ export const HomePageTemplate = ({ title, sections }) => (
         </section>
       ))}
   </article>
-);
+)
 
 const HomePage = ({ pageContext }) => {
   return (
@@ -34,7 +34,7 @@ const HomePage = ({ pageContext }) => {
       {...safelyGetFrontMatter(pageContext)}
       isPreview={false}
     />
-  );
-};
+  )
+}
 
-export default HomePage;
+export default HomePage

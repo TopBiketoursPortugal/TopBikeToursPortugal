@@ -1,4 +1,4 @@
-import { graphql } from "gatsby";
+import { graphql } from 'gatsby'
 export const query = graphql`
   fragment TourPricing on MarkdownRemark {
     frontmatter {
@@ -17,4 +17,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

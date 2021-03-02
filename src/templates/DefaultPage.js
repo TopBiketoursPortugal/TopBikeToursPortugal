@@ -11,7 +11,7 @@ export const DefaultPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  body
+  body,
 }) => (
   <main className="DefaultPage">
     <PageHeader
@@ -47,7 +47,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         subtitle
-        featuredImage{
+        featuredImage {
           childImageSharp {
             fluid(quality: 85, maxWidth: 1444) {
               ...GatsbyImageSharpFluid_withWebp_noBase64

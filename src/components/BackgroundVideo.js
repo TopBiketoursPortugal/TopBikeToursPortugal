@@ -11,7 +11,7 @@ class BackgroundVideo extends Component {
   }
   state = {
     playing: false,
-    mobileWidth: false
+    mobileWidth: false,
   }
 
   updateDimensions() {
@@ -29,7 +29,7 @@ class BackgroundVideo extends Component {
   componentDidMount() {
     this.updateDimensions()
     window.addEventListener('resize', () => this.updateDimensions())
-    ReactDOM.findDOMNode(this.ref.current).addEventListener('playing', e =>
+    ReactDOM.findDOMNode(this.ref.current).addEventListener('playing', (e) =>
       this.handelPlay(e)
     )
   }

@@ -1,17 +1,17 @@
-import React from "react";
-import Img from "gatsby-image";
-import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
-import Layout from "../layout/LayoutBootstrap";
-import Rating from "../components/Rating";
-import { HTMLMarkdownContent, HTMLContent } from "../components/Content";
+import React from 'react'
+import Img from 'gatsby-image'
+import PropTypes from 'prop-types'
+import { graphql, Link } from 'gatsby'
+import Layout from '../layout/LayoutBootstrap'
+import Rating from '../components/Rating'
+import { HTMLMarkdownContent, HTMLContent } from '../components/Content'
 // import { Helmet } from "react-helmet";
-import styled from "styled-components";
-import { Col, Row, Container } from "@bootstrap-styled/v4";
-import { Time } from "@styled-icons/boxicons-regular/Time";
-import { Mountain } from "@styled-icons/fa-solid/Mountain";
-import { Road } from "@styled-icons/fa-solid/Road";
-import { sum } from "lodash-es";
+import styled from 'styled-components'
+import { Col, Row, Container } from '@bootstrap-styled/v4'
+import { Time } from '@styled-icons/boxicons-regular/Time'
+import { Mountain } from '@styled-icons/fa-solid/Mountain'
+import { Road } from '@styled-icons/fa-solid/Road'
+import { sum } from 'lodash-es'
 
 // import { display } from "@material-ui/system";
 // import { CenterFocusStrong } from "@styled-icons/material";
@@ -39,11 +39,11 @@ const TourLink = styled(Link)`
     text-decoration: none;
     color: #000;
   }
-`;
+`
 
 const TourColumn = styled(Col)`
   padding-bottom: 30px;
-`;
+`
 
 const TourImageContainer = styled.div`
   overflow: hidden;
@@ -60,7 +60,7 @@ const TourImageContainer = styled.div`
   &:hover img {
     transform: scale3d(1.05, 1.05, 1.05);
   }
-`;
+`
 
 const Tour = styled.article`
   box-shadow: 0 0 10px rgb(220, 220, 220);
@@ -84,18 +84,18 @@ const Tour = styled.article`
     max-width: 100%;
     vertical-align: middle;
   }
-`;
+`
 
 const TourTitle = styled.h2`
   margin: 0;
   font-size: 1.25rem;
   text-align: center;
   margin-bottom: 15px;
-`;
+`
 
 const TourSpecificationContainer = styled.div`
   display: flex;
-`;
+`
 
 // const TourSpecificationFull = styled.div`
 //   display: flex;
@@ -130,7 +130,7 @@ const TourSpecPrice = styled.div`
   display: flex;
   flex: 0 0 50%;
   flex-direction: column;
-`;
+`
 
 const TourPrice = styled.span`
   font-size: 2rem;
@@ -138,14 +138,14 @@ const TourPrice = styled.span`
   font-weight: 700;
   width: 100%;
   text-align: right;
-`;
+`
 
 const TourDiscountPrice = styled.div`
   font-size: 1.5rem;
   text-decoration: line-through;
   text-align: right;
   color: #aaa;
-`;
+`
 
 /*https://www.gatsbyjs.org/docs/adding-pagination*/
 function ToursListPage({ data }) {
@@ -154,11 +154,11 @@ function ToursListPage({ data }) {
       ...t,
       ...t.frontmatter,
       ...t.fields,
-    };
-  });
+    }
+  })
 
   // console.log(JSON.stringify(tours));
-  const toursPage = data.toursPage;
+  const toursPage = data.toursPage
   return (
     <Layout
       language={toursPage.frontmatter.language}
@@ -172,13 +172,13 @@ function ToursListPage({ data }) {
           <Row>
             {tours &&
               tours.map((tour) => {
-                var tourRating = 0;
+                var tourRating = 0
 
                 if (tour && tour.rating)
                   tourRating = Math.round(
                     sum(tour.rating.map((r) => r.rating || 0)) /
                       tour.rating.length
-                  );
+                  )
 
                 return (
                   <TourColumn key={tour.id} xs="12" sm="4" md="4" my={10}>
@@ -192,7 +192,7 @@ function ToursListPage({ data }) {
                             />
                           )}
                         </TourImageContainer>
-                        <div style={{ padding: "25px" }}>
+                        <div style={{ padding: '25px' }}>
                           <TourTitle>{tour.title}</TourTitle>
                           <div className="row">
                             <div className="col-12 colDuration">
@@ -216,7 +216,7 @@ function ToursListPage({ data }) {
                               <TourSpecificationContainer>
                                 <TourSpecPrice>
                                   <Rating
-                                    style={{ color: "#fa7500" }}
+                                    style={{ color: '#fa7500' }}
                                     value={tourRating}
                                     total={5}
                                     size={24}
@@ -243,7 +243,7 @@ function ToursListPage({ data }) {
                       </Tour>
                     </TourLink>
                   </TourColumn>
-                );
+                )
               })}
           </Row>
         </Container>
@@ -258,14 +258,14 @@ function ToursListPage({ data }) {
         )}
       </section>
     </Layout>
-  );
+  )
 }
 
 ToursListPage.propTypes = {
   data: PropTypes.any,
-};
+}
 
-export default ToursListPage;
+export default ToursListPage
 
 export const pageQuery = graphql`
   query ToursQuery($id: String!, $language: String!) {
@@ -341,4 +341,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

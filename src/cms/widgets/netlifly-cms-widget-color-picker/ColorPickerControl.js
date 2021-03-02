@@ -1,17 +1,17 @@
-import React, { Component } from "react";
-import PropTypes from "prop-types";
-import { SketchPicker } from "react-color";
+import React, { Component } from 'react'
+import PropTypes from 'prop-types'
+import { SketchPicker } from 'react-color'
 
 export default class ColorPickerControl extends Component {
   state = {
     displayColorPicker: false,
     color: {
-      r: "241",
-      g: "112",
-      b: "19",
-      a: "1"
-    }
-  };
+      r: '241',
+      g: '112',
+      b: '19',
+      a: '1',
+    },
+  }
 
   static propTypes = {
     onChange: PropTypes.func.isRequired,
@@ -19,25 +19,25 @@ export default class ColorPickerControl extends Component {
     value: PropTypes.string,
     classNameWrapper: PropTypes.string.isRequired,
     setActiveStyle: PropTypes.func.isRequired,
-    setInactiveStyle: PropTypes.func.isRequired
-  };
+    setInactiveStyle: PropTypes.func.isRequired,
+  }
 
   static defaultProps = {
-    value: "#fff"
-  };
+    value: '#fff',
+  }
 
   handleClick = () => {
-    this.setState({ displayColorPicker: !this.state.displayColorPicker });
-  };
+    this.setState({ displayColorPicker: !this.state.displayColorPicker })
+  }
 
   handleClose = () => {
-    this.setState({ displayColorPicker: false });
-  };
+    this.setState({ displayColorPicker: false })
+  }
 
   handleChange = (color, onChange) => {
-    this.setState({ color: color.rgb });
-    onChange(color.hex);
-  };
+    this.setState({ color: color.rgb })
+    onChange(color.hex)
+  }
 
   render() {
     const {
@@ -46,8 +46,8 @@ export default class ColorPickerControl extends Component {
       onChange,
       classNameWrapper,
       setActiveStyle,
-      setInactiveStyle
-    } = this.props;
+      setInactiveStyle,
+    } = this.props
 
     return (
       // <input
@@ -64,13 +64,13 @@ export default class ColorPickerControl extends Component {
         id={forID}
         className={classNameWrapper}
         color={value}
-        onChange={e => this.handleChange(e, onChange)}
+        onChange={(e) => this.handleChange(e, onChange)}
       />
-      
+
       // onChangeComplete={this.handleChangeComplete}
 
       // onFocus={setActiveStyle}
       // onBlur={setInactiveStyle}
-    );
+    )
   }
 }

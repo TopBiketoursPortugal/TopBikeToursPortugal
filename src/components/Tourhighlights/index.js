@@ -1,12 +1,12 @@
-import React from "react";
-import Img from "gatsby-image";
-import * as Style from "./Tourhighlights.styled";
+import React from 'react'
+import Img from 'gatsby-image'
+import * as Style from './Tourhighlights.styled'
 // import BackgroundImage from 'gatsby-background-image'
-import { StaticQuery, navigate, graphql, Link } from "gatsby";
-import { HTMLContent } from "../Content";
-import showdown from "showdown";
-import "./tourhighlights.scss";
-import { filter } from "lodash-es";
+import { StaticQuery, navigate, graphql, Link } from 'gatsby'
+import { HTMLContent } from '../Content'
+import showdown from 'showdown'
+import './tourhighlights.scss'
+import { filter } from 'lodash-es'
 
 const Tourhighlights = ({
   description,
@@ -14,7 +14,7 @@ const Tourhighlights = ({
   heading,
   language,
 }) => {
-  const converter = new showdown.Converter();
+  const converter = new showdown.Converter()
   const query = graphql`
     query featuredToursQuery {
       tours: allMarkdownRemark(
@@ -48,7 +48,7 @@ const Tourhighlights = ({
         }
       }
     }
-  `;
+  `
   return (
     <StaticQuery
       query={query}
@@ -74,27 +74,27 @@ const Tourhighlights = ({
                   .slice(0, 3)
                   .map((tour, index) => (
                     <div
-                      key={"featured" + tour.id}
+                      key={'featured' + tour.id}
                       role="link"
                       aria-label={`Go to ${tour.frontmatter}`}
                       tab={index}
                       tabIndex={index}
                       className="col col-12 col-md-4"
                       onClick={(event) => {
-                        event.preventDefault();
+                        event.preventDefault()
                         navigate(
                           tour.frontmatter.path ||
                             tour.fields.localizedPath ||
                             tour.fields.slug
-                        );
+                        )
                       }}
                       onKeyDown={(event) => {
-                        event.preventDefault();
+                        event.preventDefault()
                         navigate(
                           tour.frontmatter.path ||
                             tour.fields.localizedPath ||
                             tour.fields.slug
-                        );
+                        )
                       }}
                     >
                       <Style.Tour>
@@ -132,7 +132,7 @@ const Tourhighlights = ({
         </div>
       )}
     ></StaticQuery>
-  );
-};
+  )
+}
 
-export default Tourhighlights;
+export default Tourhighlights

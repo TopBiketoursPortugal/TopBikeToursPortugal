@@ -1,32 +1,32 @@
-import React from "react";
-import { orderBy, uniq, filter } from "lodash-es";
-import showdown from "showdown";
-import { HTMLContent } from "../Content";
+import React from 'react'
+import { orderBy, uniq, filter } from 'lodash-es'
+import showdown from 'showdown'
+import { HTMLContent } from '../Content'
 
-import "./timeline.scss";
+import './timeline.scss'
 export const Timeline = ({ dates }) => {
   // console.log(JSON.stringify(dates));
   var monthName = [
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun",
-    "Jul",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec"
-  ];
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Nov',
+    'Dec',
+  ]
 
-  var years = uniq(dates.map(i => new Date(i.date).getFullYear())).sort(
+  var years = uniq(dates.map((i) => new Date(i.date).getFullYear())).sort(
     (a, b) => a - b
-  );
+  )
   // console.log(JSON.stringify(years));
 
-  const converter = new showdown.Converter();
+  const converter = new showdown.Converter()
 
   return (
     <div className="page">
@@ -39,11 +39,11 @@ export const Timeline = ({ dates }) => {
               orderBy(
                 filter(
                   dates,
-                  d =>
-                    d.type === "Date" && new Date(d.date).getFullYear() === year
+                  (d) =>
+                    d.type === 'Date' && new Date(d.date).getFullYear() === year
                 ),
-                ["date"],
-                ["asc"]
+                ['date'],
+                ['asc']
               ).map((item, jindex) => (
                 <div
                   key={`tl` + year + `_` + index + `_` + jindex}
@@ -51,7 +51,9 @@ export const Timeline = ({ dates }) => {
                 >
                   <div className="timeline__date">
                     <span className="timeline__day">
-                      {new Date(item.date).toLocaleString("pt-PT", {timeZone: "Europe/Lisbon"}).substring(0,2)}
+                      {new Date(item.date)
+                        .toLocaleString('pt-PT', { timeZone: 'Europe/Lisbon' })
+                        .substring(0, 2)}
                     </span>
                     <span className="timeline__month">
                       {monthName[new Date(item.date).getMonth()]}
@@ -144,5 +146,5 @@ export const Timeline = ({ dates }) => {
     //     </div>
     //   </div>
     // </div>
-  );
-};
+  )
+}

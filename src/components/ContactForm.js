@@ -1,47 +1,47 @@
-import React from "react";
-import { navigate } from "gatsby";
-import Recaptcha from "react-google-recaptcha";
+import React from 'react'
+import { navigate } from 'gatsby'
+import Recaptcha from 'react-google-recaptcha'
 
-const RECAPTCHA_KEY = process.env.GATSBY_APP_SITE_RECAPTCHA_KEY;
-if (typeof RECAPTCHA_KEY === "undefined") {
+const RECAPTCHA_KEY = process.env.GATSBY_APP_SITE_RECAPTCHA_KEY
+if (typeof RECAPTCHA_KEY === 'undefined') {
   throw new Error(`
   Env var GATSBY_APP_SITE_RECAPTCHA_KEY is undefined! 
   You probably forget to set it in your Netlify build environment variables. 
   Make sure to get a Recaptcha key at https://www.netlify.com/docs/form-handling/#custom-recaptcha-2-with-your-own-settings
   Note this demo is specifically for Recaptcha v2
-  `);
+  `)
 }
 
 function encode(data) {
   return Object.keys(data)
-    .map((key) => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-    .join("&");
+    .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
+    .join('&')
 }
 
 export default function ContactForm() {
-  const [state, setState] = React.useState({});
-  const recaptchaRef = React.createRef();
+  const [state, setState] = React.useState({})
+  const recaptchaRef = React.createRef()
 
   const handleChange = (e) => {
-    setState({ ...state, [e.target.name]: e.target.value });
-  };
+    setState({ ...state, [e.target.name]: e.target.value })
+  }
 
   const handleSubmit = (e) => {
-    e.preventDefault();
-    const form = e.target;
-    const recaptchaValue = recaptchaRef.current.getValue();
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    e.preventDefault()
+    const form = e.target
+    const recaptchaValue = recaptchaRef.current.getValue()
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
-        "form-name": form.getAttribute("name"),
-        "g-recaptcha-response": recaptchaValue,
+        'form-name': form.getAttribute('name'),
+        'g-recaptcha-response': recaptchaValue,
         ...state,
       }),
     })
-      .then(() => navigate(form.getAttribute("action")))
-      .catch((error) => alert(error));
-  };
+      .then(() => navigate(form.getAttribute('action')))
+      .catch((error) => alert(error))
+  }
 
   return (
     <form
@@ -190,11 +190,11 @@ export default function ContactForm() {
           required
           onChange={handleChange}
         />
-        *{" "}
+        *{' '}
         <Link to="/terms-and-conditions/" target="_blank">
           Terms and conditions
-        </Link>{" "}
-        and{" "}
+        </Link>{' '}
+        and{' '}
         <Link to="/privacy-policy/" target="_blank">
           Privacy policy
         </Link>
@@ -208,5 +208,5 @@ export default function ContactForm() {
         value="Submit Enquiry"
       />
     </form>
-  );
+  )
 }

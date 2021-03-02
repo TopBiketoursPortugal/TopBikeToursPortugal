@@ -1,16 +1,16 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { graphql } from "gatsby";
-import { HTMLContent } from "../components/Content";
-import Layout from "../layout/LayoutBootstrap";
-import Scroll from "../components/Scroll";
-import Tourhighlights from "../components/Tourhighlights/index";
-import ReviewsHighlights from "../components/ReviewsHighlights";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
+import { HTMLContent } from '../components/Content'
+import Layout from '../layout/LayoutBootstrap'
+import Scroll from '../components/Scroll'
+import Tourhighlights from '../components/Tourhighlights/index'
+import ReviewsHighlights from '../components/ReviewsHighlights'
 // import Partners from "../components/Partners";
-import { ChevronCircleDown } from "@styled-icons/fa-solid/ChevronCircleDown";
-import "./home-page.mod.scss";
-import PostSection from "../components/PostSection";
-import showdown from "showdown";
+import { ChevronCircleDown } from '@styled-icons/fa-solid/ChevronCircleDown'
+import './home-page.mod.scss'
+import PostSection from '../components/PostSection'
+import showdown from 'showdown'
 export const HomePageTemplate = ({
   title,
   content,
@@ -22,7 +22,7 @@ export const HomePageTemplate = ({
   reviews,
 }) => {
   // const PageContent = contentComponent || Content;
-  const converter = new showdown.Converter();
+  const converter = new showdown.Converter()
   return (
     <>
       <Scroll type="class" element="home" offset={-100}>
@@ -89,8 +89,8 @@ export const HomePageTemplate = ({
 
       {/* <Partners className="partners" /> */}
     </>
-  );
-};
+  )
+}
 
 HomePageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
@@ -98,13 +98,13 @@ HomePageTemplate.propTypes = {
   contentComponent: PropTypes.func,
   toursection: PropTypes.any,
   language: PropTypes.string,
-};
+}
 
 const HomePage = ({ data }) => {
-  const { markdownRemark: post } = data;
-  const posts = data.posts.nodes;
-  const reviews = data.reviews.nodes;
-  const language = post.frontmatter.language || `en`;
+  const { markdownRemark: post } = data
+  const posts = data.posts.nodes
+  const reviews = data.reviews.nodes
+  const language = post.frontmatter.language || `en`
   return (
     <Layout language={language} meta={post.frontmatter.meta || false}>
       <HomePageTemplate
@@ -118,14 +118,14 @@ const HomePage = ({ data }) => {
         reviews={reviews}
       />
     </Layout>
-  );
-};
+  )
+}
 
 HomePage.propTypes = {
   data: PropTypes.object.isRequired,
-};
+}
 
-export default HomePage;
+export default HomePage
 
 export const homePageQuery = graphql`
   query HomePage($id: String!, $language: String!) {
@@ -220,4 +220,4 @@ export const homePageQuery = graphql`
       }
     }
   }
-`;
+`

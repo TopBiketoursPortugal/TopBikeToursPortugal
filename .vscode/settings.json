@@ -1,5 +1,8 @@
 {
-    "files.associations": {
-        "*.yaml": "home-assistant"
-    }
+  "files.associations": {
+    "*.yaml": "home-assistant"
+  },
+  "rules": {
+    "sort-imports": "off"
+  }
 }

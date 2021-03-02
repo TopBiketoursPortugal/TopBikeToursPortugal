@@ -1,31 +1,31 @@
-import React from "react";
+import React from 'react'
 
-import PostCard from "../components/PostCard";
-import "./PostSection.scss";
+import PostCard from '../components/PostCard'
+import './PostSection.scss'
 
 class PostSection extends React.Component {
   static defaultProps = {
     posts: [],
-    title: "",
+    title: '',
     limit: 12,
     showLoadMore: true,
-    loadMoreTitle: "Load More",
-    perPageLimit: 12
-  };
+    loadMoreTitle: 'Load More',
+    perPageLimit: 12,
+  }
 
   state = {
-    limit: this.props.limit
-  };
+    limit: this.props.limit,
+  }
 
   increaseLimit = () =>
-    this.setState(prevState => ({
-      limit: prevState.limit + this.props.perPageLimit
-    }));
+    this.setState((prevState) => ({
+      limit: prevState.limit + this.props.perPageLimit,
+    }))
 
   render() {
     const { posts, title, showLoadMore, loadMoreTitle } = this.props,
       { limit } = this.state,
-      visiblePosts = posts.slice(0, limit || posts.length);
+      visiblePosts = posts.slice(0, limit || posts.length)
 
     return (
       <>
@@ -39,7 +39,10 @@ class PostSection extends React.Component {
         {!!visiblePosts.length && (
           <div className="row">
             {visiblePosts.map((post, index) => (
-              <div key={post.title + index} className="col-12 col-sm-12 col-md-4">
+              <div
+                key={post.title + index}
+                className="col-12 col-sm-12 col-md-4"
+              >
                 <PostCard {...post} />
               </div>
             ))}
@@ -47,14 +50,18 @@ class PostSection extends React.Component {
         )}
         {showLoadMore && visiblePosts.length < posts.length && (
           <div className="taCenter">
-            <button className="button" onClick={this.increaseLimit} onKeyDown={this.increaseLimit}>
+            <button
+              className="button"
+              onClick={this.increaseLimit}
+              onKeyDown={this.increaseLimit}
+            >
               {loadMoreTitle}
             </button>
           </div>
         )}
       </>
-    );
+    )
   }
 }
 
-export default PostSection;
+export default PostSection

@@ -1,7 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
-import styled from "styled-components";
-import { HTMLMarkdownContent } from "../../Content";
+import React from 'react'
+import PropTypes from 'prop-types'
+import styled from 'styled-components'
+import { HTMLMarkdownContent } from '../../Content'
 // import { compose, withProps } from "recompose";
 // import {
 //   withScriptjs,
@@ -18,7 +18,7 @@ const TourPlanWrapper = styled.div`
   position: relative;
 
   &:after {
-    content: "";
+    content: '';
     position: absolute;
     z-index: -1;
     top: 0;
@@ -27,7 +27,7 @@ const TourPlanWrapper = styled.div`
     border-left: 4px dotted #ff0000;
     // transform: translate(-50%);
   }
-`;
+`
 
 const TourPlanContainer = styled.div`
   display: flex;
@@ -37,7 +37,7 @@ const TourPlanContainer = styled.div`
   // flex-wrap: wrap-reverse;
   // justify-content: space-around;
   align-items: stretch;
-`;
+`
 
 const Circle = styled.div`
   border: solid 1px red;
@@ -56,13 +56,13 @@ const Circle = styled.div`
   color: #fff;
   margin-right: 20px;
   font-size: 1.75rem;
-`;
+`
 
 const Title = styled.div`
   font-size: 1.5rem;
   margin-top: 10px;
   margin-bottom: 15px;
-`;
+`
 
 const Description = styled.div`
   font-size: 1.2rem;
@@ -71,7 +71,7 @@ const Description = styled.div`
   a {
     text-decoration: underline;
   }
-`;
+`
 
 const TourPlan = ({ tour: { itinerary }, googleApiKey, location }) => {
   return (
@@ -85,9 +85,7 @@ const TourPlan = ({ tour: { itinerary }, googleApiKey, location }) => {
                 <div>
                   <Title>{item.title}</Title>
                   <Description>
-                    <HTMLMarkdownContent
-                      content={item.description}
-                    />
+                    <HTMLMarkdownContent content={item.description} />
                   </Description>
                 </div>
               </TourPlanContainer>
@@ -95,8 +93,8 @@ const TourPlan = ({ tour: { itinerary }, googleApiKey, location }) => {
         </TourPlanWrapper>
       </div>
     </div>
-  );
-};
+  )
+}
 
 TourPlan.propsTypes = {
   tour: PropTypes.shape({
@@ -112,6 +110,6 @@ TourPlan.propsTypes = {
       })
     ),
   }),
-};
+}
 
-export default TourPlan;
+export default TourPlan

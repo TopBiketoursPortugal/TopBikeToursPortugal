@@ -11,7 +11,7 @@ class Popup extends Component {
 
   togglePopup() {
     this.setState({
-      showPopup: !this.state.showPopup
+      showPopup: !this.state.showPopup,
     })
   }
 
@@ -21,9 +21,11 @@ class Popup extends Component {
       <Fragment>
         <div className="taCenter">
           <h3> Simple Popup Example</h3>
-          <div className="Button" onClick={this.togglePopup.bind(this)} 
-                onKeyDown={this.togglePopup.bind(this)}
-                >
+          <div
+            className="Button"
+            onClick={this.togglePopup.bind(this)}
+            onKeyDown={this.togglePopup.bind(this)}
+          >
             Click To Launch Popup
           </div>
         </div>
@@ -32,10 +34,15 @@ class Popup extends Component {
           <div className="Popup-Overlay">
             <div
               className="Popup-Background"
-              onClick={this.togglePopup.bind(this)}  onKeyDown={this.togglePopup.bind(this)}
+              onClick={this.togglePopup.bind(this)}
+              onKeyDown={this.togglePopup.bind(this)}
             ></div>
             <div className="Popup-Inner">
-              <X className="Popup-Close" onClick={this.togglePopup.bind(this)} onKeyDown={this.togglePopup.bind(this)} />
+              <X
+                className="Popup-Close"
+                onClick={this.togglePopup.bind(this)}
+                onKeyDown={this.togglePopup.bind(this)}
+              />
               {children}
             </div>
           </div>

@@ -1,82 +1,13 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import { StaticQuery, graphql } from "gatsby";
-import NavbarComponent from "../components/Navbar";
-import Footer from "../components/Footer";
-import Meta from "../components/Meta";
-import BackgroundImage from "gatsby-background-image";
-import Img from "gatsby-image";
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import { StaticQuery, graphql } from 'gatsby'
+import NavbarComponent from '../components/Navbar'
+import Footer from '../components/Footer'
+import Meta from '../components/Meta'
+import Img from 'gatsby-image'
+import BackgroundImage from 'gatsby-background-image'
 // import styled from "styled-components";
-import { createGlobalStyle } from "styled-components";
-// import { ChevronUp } from "@styled-icons/feather/ChevronUp";
-// import Scroll from "../components/Scroll";
-import Banners from "../components/Banners";
-
-// import "../sass/style.scss";
-
-// const ScrollUpButton = styled.button`
-//   opacity: 0.7;
-//   position: fixed;
-//   bottom: 10px;
-//   right: 10px;
-//   width: 60px;
-//   border: none;
-//   background: #2e2f2e;
-//   color: #fff;
-//   padding: 7px;
-//   border-radius: 4px;
-//   padding-bottom: 9px;
-//   &:hover {
-//     opacity: 1;
-//     cursor: pointer;
-//     span {
-//       // display:none;
-//       opacity: 0;
-//     }
-//     svg {
-//       transform: translateY(7px);
-//     }
-//   }
-//   svg {
-//     width: 30px;
-//     margin-top: 0;
-//     margin-bottom: -7px;
-//     transition: all 200ms linear;
-//   }
-//   span {
-//     font: 12px Lato, sans-serif;
-//     opacity: 1;
-//     transition: all 200ms linear;
-//   }
-// `;
-
-const GlobalStyle = createGlobalStyle`
-  body {
-    margin: 0;
-    background: #f9f9f9;
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  }
-  h2 {
-    font-size: 2rem;
-  }
-  p {
-    font-size: 1.25rem;
-  }
-  header{
-    min-height:115px;
-  }
-   @-webkit-keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-`;
+import Banners from '../components/Banners'
 
 const TemplateWrapper = ({ children, meta, title, language, feature }) => (
   <StaticQuery
@@ -155,12 +86,12 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
       }
     `}
     render={(data) => {
-      const { socialMediaCard, googleTrackingId } = data.settingsYaml || {};
-      const menu = data.menu[language || "en"].links;
-      const defaultMetadata = data.settingsYaml[language || "en"];
+      const { socialMediaCard, googleTrackingId } = data.settingsYaml || {}
+      const menu = data.menu[language || 'en'].links
+      const defaultMetadata = data.settingsYaml[language || 'en']
       return (
-        <React.Fragment>
-          <GlobalStyle />
+        <>
+          {/*<GlobalStyle />*/}
           <Helmet titleTemplate={data.settingsYaml.titleformat}>
             <html lang={language || `en`} />
             <title>{title || defaultMetadata.title}</title>
@@ -213,30 +144,31 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
               <div
                 className="feature"
                 style={{
-                  color: (feature.textcolor || "white") + `!important`,
+                  color: (feature.textcolor || 'white') + `!important`,
                 }}
               >
                 {
                   <Img
                     loading="eager"
-                    style={{ display: "none" }}
+                    style={{ display: 'none' }}
                     objectFit="cover"
                     objectPosition="50% 50%"
                     fluid={feature.image.childImageSharp.fluid}
                     alt={feature.title}
                   />
                 }
+                <Img fluid={feature?.image?.childImageSharp.fluid} />
                 <BackgroundImage
                   fluid={feature.image.childImageSharp.fluid}
                   backgroundColor={`#fff`}
                   style={{
-                    backgroundPosition: feature.imageAlign || "center center",
+                    backgroundPosition: feature.imageAlign || 'center center',
                   }}
                 >
                   {feature.title && (
                     <h2
                       style={{
-                        color: feature.textcolor || "white",
+                        color: feature.textcolor || 'white',
                       }}
                     >
                       {feature.title}
@@ -266,10 +198,10 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => (
               <span>Top</span>
             </ScrollUpButton>
           </Scroll> */}
-        </React.Fragment>
-      );
+        </>
+      )
     }}
   />
-);
+)
 
-export default TemplateWrapper;
+export default TemplateWrapper

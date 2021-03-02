@@ -1,9 +1,9 @@
-import path from 'path';
-import React from 'react';
-import {Helmet} from "react-helmet";
-import { StaticQuery, graphql } from 'gatsby';
-import PropTypes from 'prop-types';
-import SchemaOrg from './SchemaOrg';
+import path from 'path'
+import React from 'react'
+import { Helmet } from 'react-helmet'
+import { StaticQuery, graphql } from 'gatsby'
+import PropTypes from 'prop-types'
+import SchemaOrg from './SchemaOrg'
 
 const SEO = ({ postData, postImage, isBlogPost }) => (
   <StaticQuery
@@ -32,16 +32,16 @@ const SEO = ({ postData, postImage, isBlogPost }) => (
       }
     `}
     render={({ site: { siteMetadata: seo } }) => {
-      const postMeta = postData.childMarkdownRemark.frontmatter || {};
+      const postMeta = postData.childMarkdownRemark.frontmatter || {}
 
-      const title = postMeta.title || seo.title;
+      const title = postMeta.title || seo.title
       const description =
-        postMeta.description || postData.excerpt || seo.description;
-      const image = postImage ? `${seo.canonicalUrl}${postImage}` : seo.image;
+        postMeta.description || postData.excerpt || seo.description
+      const image = postImage ? `${seo.canonicalUrl}${postImage}` : seo.image
       const url = postMeta.slug
         ? `${seo.canonicalUrl}${path.sep}${postMeta.slug}`
-        : seo.canonicalUrl;
-      const datePublished = isBlogPost ? postMeta.datePublished : false;
+        : seo.canonicalUrl
+      const datePublished = isBlogPost ? postMeta.datePublished : false
 
       return (
         <React.Fragment>
@@ -80,10 +80,10 @@ const SEO = ({ postData, postImage, isBlogPost }) => (
             defaultTitle={seo.defaultTitle}
           />
         </React.Fragment>
-      );
+      )
     }}
   />
-);
+)
 
 SEO.propTypes = {
   isBlogPost: PropTypes.bool,
@@ -94,12 +94,12 @@ SEO.propTypes = {
     }),
   }),
   postImage: PropTypes.string,
-};
+}
 
 SEO.defaultProps = {
   isBlogPost: false,
   postData: { childMarkdownRemark: {} },
   postImage: null,
-};
+}
 
-export default SEO;
+export default SEO

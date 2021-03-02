@@ -21,14 +21,14 @@ class Image extends React.Component {
     '1200',
     '1500',
     '1600',
-    '2000'
+    '2000',
   ] // image sizes used for image source sets
 
   state = {
-    isIntersecting: false
+    isIntersecting: false,
   }
 
-  handleIntersection = e => {
+  handleIntersection = (e) => {
     if (e.isIntersecting) {
       this.setState({ isIntersecting: true })
     }
@@ -63,7 +63,7 @@ class Image extends React.Component {
       onClick,
       title = '',
       alt = '',
-      lazy = true
+      lazy = true,
     } = this.props
 
     const isUploadcare = this.checkIsUploadcare(src),
@@ -71,7 +71,7 @@ class Image extends React.Component {
 
     /* create source set for images */
     if (isUploadcare) {
-      secSet = this.imageSizes.map(size => {
+      secSet = this.imageSizes.map((size) => {
         return `${src}-/progressive/yes/-/format/auto/-/preview/${size}x${size}/-/quality/lightest/${size}.jpg ${size}w`
       })
     }
@@ -93,7 +93,7 @@ class Image extends React.Component {
         backgroundImage: `url(${
           this.state.isIntersecting ? fullSrc : smallSrc
         })`,
-        backgroundSize
+        backgroundSize,
       }
     }
 
@@ -106,7 +106,7 @@ class Image extends React.Component {
               ref={this.ref}
               style={{
                 backgroundImage: `url(${smallSrc})`,
-                backgroundSize: 'cover'
+                backgroundSize: 'cover',
               }}
             >
               {!background && (
@@ -162,7 +162,7 @@ class Image extends React.Component {
 }
 
 Image.propTypes = {
-  alt: PropTypes.string.isRequired
+  alt: PropTypes.string.isRequired,
 }
 
 export default Image

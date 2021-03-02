@@ -1,14 +1,14 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react'
+import styled from 'styled-components'
 // import LinesEllipsis from "react-lines-ellipsis";
-import ReadMore from "./ReadMore";
-import Rating from "./Rating";
-import "./ReviewsHighlights.scss";
-import { HTMLContent } from "./Content";
+import ReadMore from './ReadMore'
+import Rating from './Rating'
+import './ReviewsHighlights.scss'
+import { HTMLContent } from './Content'
 
 export const ReviewList = styled.div`
   display: flex;
-`;
+`
 
 export const ReviewQuote = styled.blockquote`
   .tourTitle {
@@ -44,12 +44,12 @@ export const ReviewQuote = styled.blockquote`
     font-size: 25px;
     justify-content: flex-end;
   }
-`;
+`
 
 export const ReviewContainer = styled.div`
   text-align: center;
   margin: 35px 0;
-`;
+`
 
 export const ReviewCite = styled.cite`
   padding: 20px;
@@ -60,7 +60,7 @@ export const ReviewCite = styled.cite`
   .rating {
     padding: 18px 0 0 10px;
   }
-`;
+`
 
 // const buildGroupedArray = (array, chunk = 10) => {
 //   var i,
@@ -101,8 +101,8 @@ const ReviewsHighlights = ({ reviews, className }) => {
           ))}
       </div>
     </div>
-  );
-};
+  )
+}
 
 // export default class ReviewsHighlights extends React.Component {
 //   render({ reviews }) {
@@ -127,7 +127,7 @@ const ReviewsHighlights = ({ reviews, className }) => {
 //     );
 //   }
 // }
-export default ReviewsHighlights;
+export default ReviewsHighlights
 // {
 //   /* <ReviewQuote key={index}>
 //             <TextTruncate

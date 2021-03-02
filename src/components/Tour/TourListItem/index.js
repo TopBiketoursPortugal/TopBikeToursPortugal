@@ -1,6 +1,6 @@
-import PropTypes from "prop-types";
-import * as Style from "./styled";
-import { Col, Row, Container } from "@bootstrap-styled/v4";
+import PropTypes from 'prop-types'
+import * as Style from './styled'
+import { Col, Row, Container } from '@bootstrap-styled/v4'
 
 export default function TourListItem({ tour: { title, excerpt, image } }) {
   return (
@@ -18,13 +18,13 @@ export default function TourListItem({ tour: { title, excerpt, image } }) {
         <Style.StyledTime />
       </Style.TourChart>
     </Style.Tour>
-  );
+  )
 }
 
 TourListItem.propTypes = {
   tour: PropTypes.shape({
     title: PropTypes.string,
     excerpt: PropTypes.string,
-    image: PropTypes.any
-  })
-};
+    image: PropTypes.any,
+  }),
+}

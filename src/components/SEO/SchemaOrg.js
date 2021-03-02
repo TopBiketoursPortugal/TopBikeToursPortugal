@@ -1,5 +1,5 @@
-import React from 'react';
-import {Helmet} from "react-helmet";
+import React from 'react'
+import { Helmet } from 'react-helmet'
 
 export default React.memo(
   ({
@@ -22,7 +22,7 @@ export default React.memo(
         name: title,
         alternateName: defaultTitle,
       },
-    ];
+    ]
 
     const schema = isBlogPost
       ? [
@@ -71,13 +71,13 @@ export default React.memo(
             datePublished,
           },
         ]
-      : baseSchema;
+      : baseSchema
 
     return (
       <Helmet>
         {/* Schema.org tags */}
         <script type="application/ld+json">{JSON.stringify(schema)}</script>
       </Helmet>
-    );
-  },
-);
+    )
+  }
+)

@@ -1,5 +1,6 @@
-import React from "react";
-import { StaticQuery, graphql, Link } from "gatsby";
+import { graphql, Link, StaticQuery } from "gatsby";
+import Img from "gatsby-image";
+import { React } from "react";
 import Slider from "react-animated-slider";
 import "./banner.scss";
 
@@ -60,10 +61,15 @@ const Banners = ({ className }) => (
               <div
                 key={`banner` + item.id}
                 className={`slider-content`}
-                style={{
-                  backgroundImage: `url('${item.image.childImageSharp.fluid.src}')`,
-                }}
+                // style={{
+                //   backgroundImage: `url('${item.image.childImageSharp.fluid.src}')`,
+                // }}
               >
+                <Img
+                  fluid={item.image.childImageSharp.fluid}
+                  objectFit="cover"
+                  objectPosition="-50% 50%"
+                />
                 {/* <Content> */}
                 <div className={`inner`}>
                   {item.description && <h2>{item.title}</h2>}

@@ -1,38 +1,38 @@
-import React, { useRef } from "react";
-import PropTypes from "prop-types";
-import { Map as BaseMap, TileLayer, ZoomControl } from "react-leaflet";
+import React, { useRef } from 'react'
+import PropTypes from 'prop-types'
+import { Map as BaseMap, TileLayer, ZoomControl } from 'react-leaflet'
 
-import { useConfigureLeaflet, useMapServices, useRefEffect } from "../hooks";
-import { isDomAvailable } from "../lib/util";
-import "./map.scss";
+import { useConfigureLeaflet, useMapServices, useRefEffect } from '../hooks'
+import { isDomAvailable } from '../lib/util'
+import './map.scss'
 
-const Map = props => {
+const Map = (props) => {
   const {
     children,
     className,
-    defaultBaseMap = "OpenStreetMap",
+    defaultBaseMap = 'OpenStreetMap',
     mapEffect,
     ...rest
-  } = props;
+  } = props
 
-  const mapRef = useRef();
+  const mapRef = useRef()
 
-  useConfigureLeaflet();
+  useConfigureLeaflet()
 
   useRefEffect({
     ref: mapRef,
-    effect: mapEffect
-  });
+    effect: mapEffect,
+  })
 
   const services = useMapServices({
-    names: ["OpenStreetMap"]
-  });
-  const basemap = services.find(service => service.name === defaultBaseMap);
+    names: ['OpenStreetMap'],
+  })
+  const basemap = services.find((service) => service.name === defaultBaseMap)
 
-  let mapClassName = `map`;
+  let mapClassName = `map`
 
   if (className) {
-    mapClassName = `${mapClassName} ${className}`;
+    mapClassName = `${mapClassName} ${className}`
   }
 
   if (!isDomAvailable()) {
@@ -40,14 +40,14 @@ const Map = props => {
       <div className={mapClassName}>
         <p className="map-loading">Loading map...</p>
       </div>
-    );
+    )
   }
 
   const mapSettings = {
-    className: "map-base",
+    className: 'map-base',
     zoomControl: false,
-    ...rest
-  };
+    ...rest,
+  }
 
   return (
     <div className={mapClassName}>
@@ -57,14 +57,14 @@ const Map = props => {
         <ZoomControl position="bottomright" />
       </BaseMap>
     </div>
-  );
-};
+  )
+}
 
 Map.propTypes = {
   children: PropTypes.node,
   className: PropTypes.string,
   defaultBaseMap: PropTypes.string,
-  mapEffect: PropTypes.func
-};
+  mapEffect: PropTypes.func,
+}
 
-export default Map;
+export default Map

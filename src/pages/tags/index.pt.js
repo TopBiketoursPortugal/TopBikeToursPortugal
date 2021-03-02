@@ -1,15 +1,23 @@
 import React from 'react'
 import { kebabCase } from 'lodash'
-import {Helmet} from "react-helmet"
+import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../../layout/LayoutBootstrap'
 
 const TagsPagePT = ({
-  data: { allMarkdownRemark: { group }, site: { siteMetadata: { title } } },
+  data: {
+    allMarkdownRemark: { group },
+    site: {
+      siteMetadata: { title },
+    },
+  },
 }) => (
   <Layout>
     <section className="section">
-      <Helmet title={`Tags | ${title}`}  description="Tags para encontrar a tour perfeita." />
+      <Helmet
+        title={`Tags | ${title}`}
+        description="Tags para encontrar a tour perfeita."
+      />
       <div className="container content">
         <div className="columns">
           <div
@@ -18,7 +26,7 @@ const TagsPagePT = ({
           >
             <h1 className="title is-size-2 is-bold-light">Tags</h1>
             <ul className="taglist">
-              {group.map(tag => (
+              {group.map((tag) => (
                 <li key={tag.fieldValue}>
                   <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                     {tag.fieldValue} ({tag.totalCount})

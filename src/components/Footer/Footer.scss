@@ -1,0 +1,39 @@
+.footerContainer {
+  position: relative;
+  background-color: #2b2b2b;
+  color: #999;
+  font-size: 12px;
+  padding-top: 30px;
+}
+
+.footer {
+  padding: 2rem 0;
+  background: var(--lightGrey);
+  font-size: 1.2rem;
+
+  .title {
+    font-size: 15px;
+    color: #ccc;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+  }
+
+  .text {
+    outline: none !important;
+    margin: 0 0 10px;
+  }
+}
+
+.footer a {
+  color: black;
+  text-decoration: none;
+}
+
+.terms {
+  background-color: #222;
+  padding: 30px;
+  color: #999;
+  a {
+    color: #999;
+  }
+}

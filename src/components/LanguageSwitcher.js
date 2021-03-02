@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react'
 // import './Logo.css'
 // import languages from "../data/languages";
-import { Link } from "gatsby";
+import { Link } from 'gatsby'
 // import FlagIconFactory from "react-flag-icon-css";
 
-import "./LanguageSwitcher.scss";
+import './LanguageSwitcher.scss'
 
 const LanguageSwitcher = ({ language, languageAlternateLinks }) => (
   <>
@@ -20,8 +20,8 @@ const LanguageSwitcher = ({ language, languageAlternateLinks }) => (
       <span code="pt" className="flag-icon flag-icon-pt" />
     </Link>
   </>
-);
+)
 
 // const FlagIcon = FlagIconFactory(React, { useCssModules: false });
 
-export default LanguageSwitcher;
+export default LanguageSwitcher

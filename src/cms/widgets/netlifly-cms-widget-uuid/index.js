@@ -1,17 +1,17 @@
-import controlComponent from "./UUIDControl";
-import previewComponent from "./UUIDPreview";
+import controlComponent from './UUIDControl'
+import previewComponent from './UUIDPreview'
 
 const Widget = (opts = {}) => ({
-  name: "uuid",
+  name: 'uuid',
   controlComponent,
   previewComponent,
-  ...opts
-});
+  ...opts,
+})
 
 export const NetlifyCmsWidgetUUID = {
   Widget,
   controlComponent,
-  previewComponent
-};
+  previewComponent,
+}
 
-export default NetlifyCmsWidgetUUID;
+export default NetlifyCmsWidgetUUID

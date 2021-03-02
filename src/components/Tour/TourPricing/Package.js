@@ -1,12 +1,12 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const Package = ({ data }) => {
   // console.log(JSON.stringify(data));
 
   return (
     <div className="pt-col">
-      <div className={"pt-block" + (data.bestValue ? " pt-selected" : "")}>
+      <div className={'pt-block' + (data.bestValue ? ' pt-selected' : '')}>
         <div className="pt-back"></div>
         <div className="pt-title">{data.packageName}</div>
         <div className="pt-price-block">
@@ -21,13 +21,13 @@ const Package = ({ data }) => {
           {data &&
             data.packageContents &&
             (data.packageContents || []).map((pc, index) => (
-              <PackageItem key={"pi" + index} {...pc} />
+              <PackageItem key={'pi' + index} {...pc} />
             ))}
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
 const PackageItem = ({ title, value, icon }) => (
   <div className="pt-list-item">
@@ -48,7 +48,7 @@ const PackageItem = ({ title, value, icon }) => (
     </div>
     <div className="pt-value">{value || icon || `-`}</div>
   </div>
-);
+)
 
 Package.propTypes = {
   data: PropTypes.shape({
@@ -58,10 +58,10 @@ Package.propTypes = {
       PropTypes.shape({
         title: PropTypes.string,
         value: PropTypes.string,
-        icon: PropTypes.string
+        icon: PropTypes.string,
       })
-    )
-  })
-};
+    ),
+  }),
+}
 
-export default Package;
+export default Package

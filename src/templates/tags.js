@@ -1,12 +1,12 @@
 import React from 'react'
-import {Helmet} from "react-helmet"
+import { Helmet } from 'react-helmet'
 import { Link, graphql } from 'gatsby'
 import Layout from '../layout/Layout'
 
 class TagRoute extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    const postLinks = posts.map(post => (
+    const postLinks = posts.map((post) => (
       <li key={post.node.fields.slug}>
         <Link to={post.node.frontmatter.path || post.node.fields.slug}>
           <h2 className="is-size-2">{post.node.frontmatter.title}</h2>
@@ -23,7 +23,10 @@ class TagRoute extends React.Component {
     return (
       <Layout>
         <section className="section">
-          <Helmet title={`${tag} | ${title}`} description="Tags to find the perfect bike tour"/>
+          <Helmet
+            title={`${tag} | ${title}`}
+            description="Tags to find the perfect bike tour"
+          />
           <div className="container content">
             <div className="columns">
               <div

@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { graphql } from 'gatsby'
-import {Helmet} from "react-helmet"
+import { Helmet } from 'react-helmet'
 
 export const query = graphql`
   fragment Meta on MarkdownRemark {
@@ -29,7 +29,7 @@ export default class Meta extends Component {
       canonicalLink,
       siteTitle,
       siteDescription,
-      googleTrackingId
+      googleTrackingId,
       // overwrite { title, description } if in fields or fields.meta
     } = this.props
 

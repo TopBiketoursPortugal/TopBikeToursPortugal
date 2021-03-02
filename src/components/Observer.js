@@ -10,8 +10,8 @@ export default class Observer extends Component {
     return supportPageOffset
       ? window.pageYOffset
       : isCSS1Compat
-        ? document.documentElement.scrollTop
-        : document.body.scrollTop
+      ? document.documentElement.scrollTop
+      : document.body.scrollTop
   }
 
   handleScroll() {
@@ -30,7 +30,7 @@ export default class Observer extends Component {
 
   componentDidMount() {
     this.ref = this.props.children.ref
-    window.addEventListener('scroll', e => this.handleScroll(e))
+    window.addEventListener('scroll', (e) => this.handleScroll(e))
     this.handleScroll()
   }
 

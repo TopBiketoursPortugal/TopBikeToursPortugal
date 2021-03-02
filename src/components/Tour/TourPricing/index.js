@@ -1,43 +1,43 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 // import { Check } from "@styled-icons/boxicons-regular/Check";
 // import { X } from "@styled-icons/boxicons-regular/X";
 // import { CalendarCheck } from "@styled-icons/boxicons-regular/CalendarCheck";
 // import { TimeFive } from "@styled-icons/boxicons-regular/TimeFive";
-import "./tourPricing.mod.scss";
-import uniq from "lodash-es/uniq";
+import './tourPricing.mod.scss'
+import uniq from 'lodash-es/uniq'
 // import filter from "lodash-es/filter";
-import Package from "./Package.js";
+import Package from './Package.js'
 
 const TourPricing = ({ tour: { pricing } }) => {
   if (!pricing || pricing.length === 0) {
-    return <div></div>;
+    return <div></div>
   }
 
   // console.log(JSON.stringify(pricing));
 
   const packagePricingKeys = uniq(
     (pricing || [])
-      .map(p => (p.packageContents || []).map(pc => pc.title))
+      .map((p) => (p.packageContents || []).map((pc) => pc.title))
       .reduce(
         (accumulator, currentValue) => accumulator.concat(currentValue),
         []
       )
-  );
+  )
 
   // console.log(JSON.stringify(packagePricingKeys));
 
   const packages = uniq(
-    (pricing || []).map(p => {
+    (pricing || []).map((p) => {
       return {
         packageName: p.package,
         price: p.price,
         discount: p.discount,
         bestValue: p.besValue,
-        packageContents: p.packageContents || []
-      };
+        packageContents: p.packageContents || [],
+      }
     })
-  );
+  )
 
   //  console.log(JSON.stringify(packages));
 
@@ -47,12 +47,12 @@ const TourPricing = ({ tour: { pricing } }) => {
         id="pt-pricing-table"
         className="crpt-flat crpt-flat-candlelight pt-animation-default"
       >
-        <div className={"pt-cols pt-cols-" + packages.length}>
+        <div className={'pt-cols pt-cols-' + packages.length}>
           <div className="pt-cols-side">
             <div className="pt-list-block">
               {packagePricingKeys &&
                 packagePricingKeys.map((key, index) => (
-                  <div key={"pk" + index} className="pt-list-item">
+                  <div key={'pk' + index} className="pt-list-item">
                     {key}
                     <span className="pt-tooltip-show-icon">
                       <span className="pt-tooltip-show">
@@ -80,8 +80,8 @@ const TourPricing = ({ tour: { pricing } }) => {
         </div>
       </div>
     </div>
-  );
-};
+  )
+}
 
 TourPricing.propsTypes = {
   tour: PropTypes.shape({
@@ -94,10 +94,10 @@ TourPricing.propsTypes = {
         price: PropTypes.number,
         discount: PropTypes.number,
         bestValue: PropTypes.bool,
-        packageContents: PropTypes.any
+        packageContents: PropTypes.any,
       })
-    )
-  })
-};
+    ),
+  }),
+}
 
-export default TourPricing;
+export default TourPricing

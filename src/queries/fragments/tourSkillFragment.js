@@ -1,4 +1,4 @@
-import { graphql } from "gatsby";
+import { graphql } from 'gatsby'
 export const query = graphql`
   fragment TourSkill on MarkdownRemark {
     frontmatter {
@@ -15,4 +15,4 @@ export const query = graphql`
       skillLevel
     }
   }
-`;
+`

@@ -1,5 +1,5 @@
-import React from "react";
-import Img from "gatsby-image";
+import React from 'react'
+import Img from 'gatsby-image'
 // import {
 //   CarouselProvider,
 //   Slider,
@@ -8,8 +8,8 @@ import Img from "gatsby-image";
 //   ButtonNext
 // } from "pure-react-carousel";
 
-import ReadMore from "../ReadMore";
-import "./team.scss";
+import ReadMore from '../ReadMore'
+import './team.scss'
 
 export const TeamMember = ({ image, name, role, bio }) => (
   <div className="team">
@@ -23,7 +23,7 @@ export const TeamMember = ({ image, name, role, bio }) => (
       <ReadMore>{bio}</ReadMore>
     </div>
   </div>
-);
+)
 
 export const TeamListComponent = ({ team }) => (
   <div className="teamList">
@@ -47,7 +47,7 @@ export const TeamListComponent = ({ team }) => (
             ))} */}
     </div>
   </div>
-);
+)
 
 // function groupArr(data, n) {
 //   var group = [];

@@ -1,17 +1,17 @@
-import controlComponent from "./ColorPickerControl";
-import previewComponent from "./ColorPickerPreview";
+import controlComponent from './ColorPickerControl'
+import previewComponent from './ColorPickerPreview'
 
 const Widget = (opts = {}) => ({
-  name: "color",
+  name: 'color',
   controlComponent,
   previewComponent,
-  ...opts
-});
+  ...opts,
+})
 
 export const NetlifyCmsWidgetColorPicker = {
   Widget,
   controlComponent,
-  previewComponent
-};
+  previewComponent,
+}
 
-export default NetlifyCmsWidgetColorPicker;
+export default NetlifyCmsWidgetColorPicker

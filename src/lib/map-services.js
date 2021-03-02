@@ -1,4 +1,4 @@
-import { mapServices } from '../data/map-services';
+import { mapServices } from '../data/map-services'
 
 /**
  * getMapServicesByName
@@ -6,7 +6,7 @@ import { mapServices } from '../data/map-services';
  */
 
 export function getMapServices() {
-  return mapServices || [];
+  return mapServices || []
 }
 
 /**
@@ -14,7 +14,7 @@ export function getMapServices() {
  * @description Tries to find a service given the name. Allows additional services passed in.
  */
 
-export function getMapServiceByName( name, userServices = []) {
-  const services = [...getMapServices(), ...userServices];
-  return services.find(( service ) => service.name === name );
+export function getMapServiceByName(name, userServices = []) {
+  const services = [...getMapServices(), ...userServices]
+  return services.find((service) => service.name === name)
 }

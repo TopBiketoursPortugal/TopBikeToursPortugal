@@ -1,18 +1,18 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { Star } from "@styled-icons/boxicons-solid/Star";
-import { StarHalf } from "@styled-icons/boxicons-solid/StarHalf";
-import { Star as StarEmpty } from "@styled-icons/boxicons-regular/Star";
+import React from 'react'
+import PropTypes from 'prop-types'
+import { Star } from '@styled-icons/boxicons-solid/Star'
+import { StarHalf } from '@styled-icons/boxicons-solid/StarHalf'
+import { Star as StarEmpty } from '@styled-icons/boxicons-regular/Star'
 // import { pure } from "recompose";
 
 function Rating({ className, value, total = 5, size = 24, style, direction }) {
-  const fullStars = [...Array(Math.floor(Math.abs(value))).keys()];
+  const fullStars = [...Array(Math.floor(Math.abs(value))).keys()]
   // console.log(fullStars);
-  const halfStars = Math.abs(value) === Math.round(value) ? 0 : 1;
+  const halfStars = Math.abs(value) === Math.round(value) ? 0 : 1
   // console.log(halfStars);
-  const emptyCount = total - Math.round(value);
+  const emptyCount = total - Math.round(value)
   // console.log(emptyCount);
-  const emptyStars = [...Array(emptyCount < 0 ? 0 : emptyCount).keys()];
+  const emptyStars = [...Array(emptyCount < 0 ? 0 : emptyCount).keys()]
   // console.log(emptyStars);
 
   return (
@@ -27,7 +27,7 @@ function Rating({ className, value, total = 5, size = 24, style, direction }) {
           <StarEmpty key={`se${index}`} size={size} />
         ))}
     </div>
-  );
+  )
 }
 
 Rating.propTypes = {
@@ -35,8 +35,8 @@ Rating.propTypes = {
   value: PropTypes.number,
   total: PropTypes.number,
   size: PropTypes.number,
-  direction: PropTypes.oneOf(["Vertical", "Horizontal"]),
-};
+  direction: PropTypes.oneOf(['Vertical', 'Horizontal']),
+}
 
 // Rating.defaultProps = {
 //   value: 0,
@@ -45,4 +45,4 @@ Rating.propTypes = {
 //   direction: "Horizontal"
 // };
 
-export default Rating;
+export default Rating

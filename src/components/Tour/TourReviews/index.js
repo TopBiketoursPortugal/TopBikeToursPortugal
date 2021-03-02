@@ -1,5 +1,5 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 
 const TourReviews = ({ reviews }) => {
   // console.log(JSON.stringify(reviews));
@@ -9,13 +9,13 @@ const TourReviews = ({ reviews }) => {
       {reviews &&
         reviews.length > 0 &&
         reviews.map((review, index) => (
-          <div key={"review" + index}>
+          <div key={'review' + index}>
             <h1>{review.title}</h1>
           </div>
         ))}
     </>
-  );
-};
+  )
+}
 
 TourReviews.propsTypes = {
   reviews: PropTypes.arrayOf(
@@ -23,6 +23,6 @@ TourReviews.propsTypes = {
       title: PropTypes.string,
     })
   ),
-};
+}
 
-export default TourReviews;
+export default TourReviews

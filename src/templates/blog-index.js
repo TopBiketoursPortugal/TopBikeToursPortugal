@@ -1,12 +1,12 @@
-import React from "react";
-import { graphql } from "gatsby";
-import { Location } from "@reach/router";
-import qs from "qs";
+import React from 'react'
+import { graphql } from 'gatsby'
+import { Location } from '@reach/router'
+import qs from 'qs'
 
 // import PageHeader from '../components/PageHeader'
-import PostSection from "../components/PostSection";
-import PostCategoriesNav from "../components/PostCategoriesNav";
-import Layout from "../layout/LayoutBootstrap";
+import PostSection from '../components/PostSection'
+import PostCategoriesNav from '../components/PostCategoriesNav'
+import Layout from '../layout/LayoutBootstrap'
 
 /**
  * Filter posts by date. Feature dates will be fitered
@@ -14,10 +14,10 @@ import Layout from "../layout/LayoutBootstrap";
  *
  * @param {posts} object
  */
-export const byDate = posts => {
-  const now = Date.now();
-  return posts.filter(post => Date.parse(post.date) <= now);
-};
+export const byDate = (posts) => {
+  const now = Date.now()
+  return posts.filter((post) => Date.parse(post.date) <= now)
+}
 
 /**
  * filter posts by category.
@@ -27,12 +27,12 @@ export const byDate = posts => {
  * @param {contentType} string
  */
 export const byCategory = (posts, title, contentType) => {
-  const isCategory = contentType === "postCategories";
-  const byCategory = post =>
+  const isCategory = contentType === 'postCategories'
+  const byCategory = (post) =>
     post.categories &&
-    post.categories.filter(cat => cat.category === title).length;
-  return isCategory ? posts.filter(byCategory) : posts;
-};
+    post.categories.filter((cat) => cat.category === title).length
+  return isCategory ? posts.filter(byCategory) : posts
+}
 
 // Export Template for use in CMS preview
 export const BlogIndexTemplate = ({
@@ -42,23 +42,23 @@ export const BlogIndexTemplate = ({
   posts = [],
   postCategories = [],
   enableSearch = true,
-  contentType
+  contentType,
 }) => (
   <Location>
     {({ location }) => {
       let filteredPosts =
         posts && !!posts.length
           ? byCategory(byDate(posts), title, contentType)
-          : [];
+          : []
 
-      let queryObj = location.search.replace("?", "");
-      queryObj = qs.parse(queryObj);
+      let queryObj = location.search.replace('?', '')
+      queryObj = qs.parse(queryObj)
 
       if (enableSearch && queryObj.s) {
-        const searchTerm = queryObj.s.toLowerCase();
-        filteredPosts = filteredPosts.filter(post =>
+        const searchTerm = queryObj.s.toLowerCase()
+        filteredPosts = filteredPosts.filter((post) =>
           post.frontmatter.title.toLowerCase().includes(searchTerm)
-        );
+        )
       }
 
       return (
@@ -79,10 +79,10 @@ export const BlogIndexTemplate = ({
             </section>
           )}
         </main>
-      );
+      )
     }}
   </Location>
-);
+)
 
 // Export Default BlogIndex for front-end
 const BlogIndex = ({ data: { page, posts, postCategories } }) => (
@@ -96,21 +96,21 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      posts={posts.edges.map(post => ({
+      posts={posts.edges.map((post) => ({
         ...post.node,
         ...post.node.frontmatter,
-        ...post.node.fields
+        ...post.node.fields,
       }))}
-      postCategories={postCategories.edges.map(post => ({
+      postCategories={postCategories.edges.map((post) => ({
         ...post.node,
         ...post.node.frontmatter,
-        ...post.node.fields
+        ...post.node.fields,
       }))}
     />
   </Layout>
-);
+)
 
-export default BlogIndex;
+export default BlogIndex
 
 export const pageQuery = graphql`
   ## Query for BlogIndex data
@@ -195,4 +195,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

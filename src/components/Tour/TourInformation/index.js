@@ -1,6 +1,6 @@
-import React from "react";
-import PropTypes from "prop-types";
-import "./tourInformation.scss";
+import React from 'react'
+import PropTypes from 'prop-types'
+import './tourInformation.scss'
 
 const TourInformation = ({ tour: { title, subtitle, description } }) => (
   <div className="container">
@@ -10,14 +10,14 @@ const TourInformation = ({ tour: { title, subtitle, description } }) => (
       <p>{description}</p>
     </div>
   </div>
-);
+)
 
 TourInformation.propTypes = {
   tour: PropTypes.shape({
     title: PropTypes.string.isRequired,
     subtitle: PropTypes.string.isRequired,
-    description: PropTypes.string.isRequired
-  })
-};
+    description: PropTypes.string.isRequired,
+  }),
+}
 
-export default TourInformation;
+export default TourInformation

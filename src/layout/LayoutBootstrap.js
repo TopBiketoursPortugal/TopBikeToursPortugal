@@ -1,24 +1,24 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 
-import { Helmet } from "react-helmet";
-import { StaticQuery, graphql } from "gatsby";
-import NavbarComponent from "../components/Navbar";
-import Banners from "../components/Banners";
-import Footer from "../components/Footer";
-import Meta from "../components/Meta";
+import { Helmet } from 'react-helmet'
+import { StaticQuery, graphql } from 'gatsby'
+import NavbarComponent from '../components/Navbar'
+import Banners from '../components/Banners'
+import Footer from '../components/Footer'
+import Meta from '../components/Meta'
 
 // import { SEO, Heading } from "../components/SEO/SEO";
 
-import BackgroundImage from "gatsby-background-image";
-import Img from "gatsby-image";
+import BackgroundImage from 'gatsby-background-image'
+import Img from 'gatsby-image'
 // import styled from "styled-components";
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 // import { ChevronUp } from "@styled-icons/feather/ChevronUp";
 // import Scroll from "../components/Scroll";
 
-import "../sass/style.global.scss";
-import "./layoutboostrap.scss";
+import '../sass/style.global.scss'
+import './layoutboostrap.scss'
 
 // const ScrollUpButton = styled.button`
 //   opacity: 0.7;
@@ -82,7 +82,7 @@ const GlobalStyle = createGlobalStyle`
       transform: translateY(-15px);
     }
   }
-`;
+`
 
 const TemplateWrapper = ({ children, meta, title, language, feature }) => {
   // console.log(language);
@@ -163,9 +163,9 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
         }
       `}
       render={(data) => {
-        const { socialMediaCard, googleTrackingId } = data.settingsYaml || {};
-        const menu = data.menu[language || "en"].links;
-        const defaultMetadata = data.settingsYaml[language || "en"];
+        const { socialMediaCard, googleTrackingId } = data.settingsYaml || {}
+        const menu = data.menu[language || 'en'].links
+        const defaultMetadata = data.settingsYaml[language || 'en']
 
         // console.log(JSON.stringify(language));
         // console.log(JSON.stringify(data));
@@ -228,12 +228,12 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                 <div
                   className="feature"
                   style={{
-                    color: (feature.textcolor || "white") + `!important`,
+                    color: (feature.textcolor || 'white') + `!important`,
                   }}
                 >
                   <Img
                     loading="eager"
-                    style={{ display: "none" }}
+                    style={{ display: 'none' }}
                     objectFit="cover"
                     objectPosition="50% 50%"
                     fluid={feature.image.childImageSharp.fluid}
@@ -243,9 +243,9 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                     fluid={feature.image.childImageSharp.fluid}
                     backgroundColor={`#fff`}
                     style={{
-                      backgroundPosition: feature.imageAlign || "center center",
-                      width: "100%",
-                      height: "100%",
+                      backgroundPosition: feature.imageAlign || 'center center',
+                      width: '100%',
+                      height: '100%',
                     }}
                   >
                     <div className="fBanner">
@@ -253,7 +253,7 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
                         <div className="fBannerTitle">
                           <h2
                             style={{
-                              color: feature.textcolor || "white",
+                              color: feature.textcolor || 'white',
                             }}
                           >
                             {feature.title}
@@ -287,11 +287,11 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
               </ScrollUpButton>
             </Scroll> */}
           </React.Fragment>
-        );
+        )
       }}
     />
-  );
-};
+  )
+}
 
 TemplateWrapper.propsTypes = {
   menu: PropTypes.arrayOf(
@@ -302,6 +302,6 @@ TemplateWrapper.propsTypes = {
       link: PropTypes.string,
     })
   ),
-};
+}
 
-export default TemplateWrapper;
+export default TemplateWrapper

@@ -1,8 +1,8 @@
-import MDX from "@mdx-js/runtime"
-import React from "react"
-import PropTypes from "prop-types"
+import MDX from "@mdx-js/runtime";
+import React from "react";
+import PropTypes from "prop-types";
 
-import { CatchError } from "./catch-error.component"
+import { CatchError } from "./catch-error.component";
 
 /* Use this component to parse markdown using MDX. See MDX runtime for details.
  *
@@ -25,16 +25,16 @@ export const RenderMarkdown = ({ md, scope, components }) => (
       {md}
     </MDX>
   </CatchError>
-)
+);
 
 RenderMarkdown.defaultProps = {
   md: "",
   scope: {},
   components: {},
-}
+};
 
 RenderMarkdown.propTypes = {
   md: PropTypes.string.isRequired,
   scope: PropTypes.object,
   components: PropTypes.object,
-}
+};

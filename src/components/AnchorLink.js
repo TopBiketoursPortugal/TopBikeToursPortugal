@@ -8,17 +8,17 @@ const AnchorLink = ({
   className = '',
   options,
   onClick = () => {},
-  toleranceElement // elementQuery e.g. '.Nav' – element height will be used as tolerance
+  toleranceElement, // elementQuery e.g. '.Nav' – element height will be used as tolerance
 }) => {
   const defaultOptions = {
     tolerance: 50,
     duration: 800,
-    easing: 'easeOutQuart'
+    easing: 'easeOutQuart',
   }
 
   const target = href.replace(/^\//, '')
 
-  const handleClick = e => {
+  const handleClick = (e) => {
     e.preventDefault()
     if (toleranceElement) {
       defaultOptions.tolerance =
@@ -30,8 +30,12 @@ const AnchorLink = ({
   }
 
   return (
-    <a href={href} className={`AnchorLink ${className}`} onClick={handleClick}
-    onKeyDown={this.handleClick}>
+    <a
+      href={href}
+      className={`AnchorLink ${className}`}
+      onClick={handleClick}
+      onKeyDown={this.handleClick}
+    >
       {children}
     </a>
   )
@@ -42,7 +46,7 @@ AnchorLink.propTypes = {
   onClick: PropTypes.func,
   options: PropTypes.object,
   className: PropTypes.string,
-  toleranceElement: PropTypes.string
+  toleranceElement: PropTypes.string,
 }
 
 export default AnchorLink

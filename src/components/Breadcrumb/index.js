@@ -1,9 +1,9 @@
-import React from "react";
-import PropTypes from "prop-types";
+import React from 'react'
+import PropTypes from 'prop-types'
 // import { Link } from "gatsby";
 // import { pure } from "recompose";
 
-const Breadcrumb = ({ routes }) => <></>;
+const Breadcrumb = ({ routes }) => <></>
 // <nav aria-label="breadcrumb">
 //   <ol className="breadcrumb">
 //     {routes.map((r, i) => (
@@ -32,6 +32,6 @@ Breadcrumb.propTypes = {
       url: PropTypes.string.isRequired,
     })
   ),
-};
+}
 
-export default Breadcrumb;
+export default Breadcrumb

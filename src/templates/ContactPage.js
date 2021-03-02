@@ -1,15 +1,15 @@
-import React from "react";
-import { MapPin, Smartphone, Mail } from "react-feather";
-import { graphql } from "gatsby";
+import React from 'react'
+import { MapPin, Smartphone, Mail } from 'react-feather'
+import { graphql } from 'gatsby'
 // import PageHeader from "../components/PageHeader";
-import { HTMLContent } from "../components/Content";
+import { HTMLContent } from '../components/Content'
 // import FormSimpleAjax from "../components/FormSimpleAjax";
 // import Content from "../components/Content";
-import GoogleMap from "../components/GoogleMap";
-import Layout from "../layout/LayoutBootstrap";
-import { Link } from "gatsby";
+import GoogleMap from '../components/GoogleMap'
+import Layout from '../layout/LayoutBootstrap'
+import { Link } from 'gatsby'
 
-import "./ContactPage.scss";
+import './ContactPage.scss'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -182,11 +182,11 @@ export const ContactPageTemplate = ({
                 name="tour-booking-require-acceptance"
                 required
               />
-              *{" "}
+              *{' '}
               <Link to="/terms-and-conditions/" target="_blank">
                 Terms and conditions
-              </Link>{" "}
-              and{" "}
+              </Link>{' '}
+              and{' '}
               <Link to="/privacy-policy/" target="_blank">
                 Privacy policy
               </Link>
@@ -207,7 +207,7 @@ export const ContactPageTemplate = ({
       <GoogleMap center={location} location={location} mapkey={googleApiKey} />
     )}
   </main>
-);
+)
 
 const ContactPage = ({ data: { page, settings } }) => (
   <Layout
@@ -218,14 +218,14 @@ const ContactPage = ({ data: { page, settings } }) => (
   >
     <ContactPageTemplate
       {...settings}
-      {...settings[page.language || "en"]}
+      {...settings[page.language || 'en']}
       {...page.frontmatter}
       body={page.html}
     />
   </Layout>
-);
+)
 
-export default ContactPage;
+export default ContactPage
 
 export const pageQuery = graphql`
   query ContactPage($id: String!) {
@@ -285,4 +285,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`;
+`

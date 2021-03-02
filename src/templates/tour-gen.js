@@ -1,24 +1,24 @@
-import React from "react";
-import { Link } from "gatsby";
-import { filter } from "lodash-es";
-import PropTypes from "prop-types";
-import { graphql } from "gatsby";
-import Layout from "../layout/LayoutBootstrap";
-import styled from "styled-components";
-import { TourGallery, TourPlan, TourPricing } from "../components/Tour/index";
-import Paper from "@material-ui/core/Paper";
-import Tabs from "@material-ui/core/Tabs";
-import Tab from "@material-ui/core/Tab";
-import Typography from "@material-ui/core/Typography";
-import { HTMLContent, HTMLMarkdownContent } from "../components/Content";
-import ScrollableAnchor, { goToAnchor } from "react-scrollable-anchor";
-import { Clock } from "@styled-icons/fa-solid/Clock";
-import { Mountain } from "@styled-icons/fa-solid/Mountain";
-import { Road } from "@styled-icons/fa-solid/Road";
-import { Tag } from "@styled-icons/fa-solid/Tag";
-import ReviewsHighlights from "../components/ReviewsHighlights";
+import React from 'react'
+import { Link } from 'gatsby'
+import { filter } from 'lodash-es'
+import PropTypes from 'prop-types'
+import { graphql } from 'gatsby'
+import Layout from '../layout/LayoutBootstrap'
+import styled from 'styled-components'
+import { TourGallery, TourPlan, TourPricing } from '../components/Tour/index'
+import Paper from '@material-ui/core/Paper'
+import Tabs from '@material-ui/core/Tabs'
+import Tab from '@material-ui/core/Tab'
+import Typography from '@material-ui/core/Typography'
+import { HTMLContent, HTMLMarkdownContent } from '../components/Content'
+import ScrollableAnchor, { goToAnchor } from 'react-scrollable-anchor'
+import { Clock } from '@styled-icons/fa-solid/Clock'
+import { Mountain } from '@styled-icons/fa-solid/Mountain'
+import { Road } from '@styled-icons/fa-solid/Road'
+import { Tag } from '@styled-icons/fa-solid/Tag'
+import ReviewsHighlights from '../components/ReviewsHighlights'
 
-import "./tour-gen.scss";
+import './tour-gen.scss'
 
 // import { CancelCircle } from "@styled-icons/icomoon/CancelCircle";
 
@@ -38,7 +38,7 @@ const StyledPaper = styled(Paper)`
     z-index: 9999;
     width: 100%;
   }
-`;
+`
 
 function TabPanel({ children, value, index, ...other }) {
   // const  = props;
@@ -54,62 +54,62 @@ function TabPanel({ children, value, index, ...other }) {
     >
       {children}
     </Typography>
-  );
+  )
 }
 
 TabPanel.propTypes = {
   children: PropTypes.node,
   index: PropTypes.any.isRequired,
   value: PropTypes.any.isRequired,
-};
+}
 
 function a11yProps(index) {
   return {
     id: `simple-tab-${index}`,
-    "aria-controls": `simple-tabpanel-${index}`,
-  };
+    'aria-controls': `simple-tabpanel-${index}`,
+  }
 }
 
 function TourGen({ data }) {
-  console.log(data.tour.frontmatter.productcode);
+  console.log(data.tour.frontmatter.productcode)
 
   var reviews = filter(
     data.reviews.nodes,
     (review) =>
       review.frontmatter.relatedProduct === data.tour.frontmatter.productcode
   ).map((r) => {
-    return { ...r, ...r.frontmatter, ...r.fields };
-  });
+    return { ...r, ...r.frontmatter, ...r.fields }
+  })
 
   let tour = {
     ...data.tour,
     ...data.tour.frontmatter,
-  };
+  }
 
   // console.log(JSON.stringify(reviews));
   // console.log(JSON.stringify(data?.reviews?.nodes));
   // console.log(JSON.stringify(tour));
 
-  tour.reviews = reviews;
+  tour.reviews = reviews
 
-  const { settings } = data;
-  const [value, setValue] = React.useState(0);
-  const [stickyNav] = React.useState(false);
+  const { settings } = data
+  const [value, setValue] = React.useState(0)
+  const [stickyNav] = React.useState(false)
 
-  const anchors = ["information", "tour-plan", "gallery", "pricing", "reviews"];
+  const anchors = ['information', 'tour-plan', 'gallery', 'pricing', 'reviews']
 
   function getDifficultyText(language, difficulty) {
     switch (language) {
-      case "pt":
-        return difficultyText.pt[difficulty];
+      case 'pt':
+        return difficultyText.pt[difficulty]
       default:
-        return difficultyText.en[difficulty];
+        return difficultyText.en[difficulty]
     }
   }
 
   function handleChange(_, newValue) {
-    setValue(newValue);
-    goToAnchor(anchors[newValue]);
+    setValue(newValue)
+    goToAnchor(anchors[newValue])
   }
 
   // function _handleWaypointEnter(_, newValue) {
@@ -121,15 +121,15 @@ function TourGen({ data }) {
   // }
 
   var difficultyText = {
-    en: ["Easy", "Easy to moderate", "Moderate", "Moderate to hard", "Hard"],
+    en: ['Easy', 'Easy to moderate', 'Moderate', 'Moderate to hard', 'Hard'],
     pt: [
-      "Fácil",
-      "Fácil a moderado",
-      "Moderado",
-      "Moderade a difícil",
-      "Difícil",
+      'Fácil',
+      'Fácil a moderado',
+      'Moderado',
+      'Moderade a difícil',
+      'Difícil',
     ],
-  };
+  }
 
   // console.log(JSON.stringify(tour));
 
@@ -169,7 +169,7 @@ function TourGen({ data }) {
       )}
       {/* <Waypoint onEnter={_handleWaypointEnter} onLeave={_handleWaypointLeave} /> */}
       <div className="container">
-        <StyledPaper className={stickyNav ? "sticky" : ""}>
+        <StyledPaper className={stickyNav ? 'sticky' : ''}>
           <Tabs
             value={value}
             onChange={handleChange}
@@ -194,7 +194,7 @@ function TourGen({ data }) {
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-8">
-            <ScrollableAnchor id={"information"}>
+            <ScrollableAnchor id={'information'}>
               <HTMLContent
                 id={a11yProps(0).id}
                 className="container"
@@ -211,15 +211,15 @@ function TourGen({ data }) {
                     <span className="tour-booking-tour-price">
                       <span className="tour-booking-head">
                         <Tag size={24} className="price" />
-                        From{" "}
+                        From{' '}
                       </span>
                       <span
                         className={
                           tour.pricing[0] &&
                           tour.pricing[0].discount &&
                           tour.pricing[0].discount > 0
-                            ? "tour-booking-tail hasDiscount"
-                            : "tour-booking-tail"
+                            ? 'tour-booking-tail hasDiscount'
+                            : 'tour-booking-tail'
                         }
                       >
                         {tour.pricing[0].price} €
@@ -379,11 +379,11 @@ function TourGen({ data }) {
                       type="checkbox"
                       name="tour-booking-require-acceptance"
                     />
-                    *{" "}
+                    *{' '}
                     <Link to="/terms-and-conditions/" target="_blank">
                       Terms and conditions
-                    </Link>{" "}
-                    and{" "}
+                    </Link>{' '}
+                    and{' '}
                     <Link to="/privacy-policy/" target="_blank">
                       Privacy policy
                     </Link>
@@ -404,12 +404,12 @@ function TourGen({ data }) {
               <iframe
                 title="tour"
                 src={tour.mapUrl}
-                width={"100%"}
-                height={"480"}
+                width={'100%'}
+                height={'480'}
               ></iframe>
             )}
             {tour.itinerary && (
-              <ScrollableAnchor id={"tour-plan"}>
+              <ScrollableAnchor id={'tour-plan'}>
                 <div id={a11yProps(1).id} className="container">
                   <TourPlan tour={tour} {...settings}></TourPlan>
                 </div>
@@ -417,7 +417,7 @@ function TourGen({ data }) {
             )}
 
             {tour.pricing && (
-              <ScrollableAnchor id={"pricing"}>
+              <ScrollableAnchor id={'pricing'}>
                 <div id={a11yProps(4).id} className="container">
                   <TourPricing tour={tour}></TourPricing>
                   {tour.afterpricing && (
@@ -434,7 +434,7 @@ function TourGen({ data }) {
             )}
 
             {tour.gallery && (
-              <ScrollableAnchor id={"gallery"}>
+              <ScrollableAnchor id={'gallery'}>
                 <div id={a11yProps(2).id} className="container">
                   <TourGallery tour={tour} />
                 </div>
@@ -442,7 +442,7 @@ function TourGen({ data }) {
             )}
 
             {!!reviews.length && (
-              <ScrollableAnchor id={"reviews"}>
+              <ScrollableAnchor id={'reviews'}>
                 <div id={a11yProps(5).id} className="container">
                   {/* <TourReviews reviews={reviews}></TourReviews> */}
                   <ReviewsHighlights
@@ -460,10 +460,10 @@ function TourGen({ data }) {
         </div>
       </div>
     </Layout>
-  );
+  )
 }
 
-export default TourGen;
+export default TourGen
 
 export const tourGenQuery = graphql`
   query TourGenByID($id: String!) {
@@ -557,4 +557,4 @@ export const tourGenQuery = graphql`
       }
     }
   }
-`;
+`

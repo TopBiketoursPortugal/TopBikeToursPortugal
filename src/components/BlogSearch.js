@@ -14,7 +14,7 @@ export default ({ pageCount }) => {
             type="text"
             value={search.s || ''}
             placeholder="Search..."
-            onChange={e => {
+            onChange={(e) => {
               let search = {}
               search.s = e.target.value
               search = qs.stringify(search)
