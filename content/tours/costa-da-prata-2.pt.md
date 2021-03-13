@@ -66,8 +66,7 @@ itinerary:
       um percurso de aproximadamente 7 km, que combina mar, bosques e praia, a
       pureza das floresta, parques, fontes e riachos. Um ponto de atracção
       turística é a sua gastronomia única e vincada, como a sopa "Vidreiro", a
-      sopa de bacalhau e o ensopado de coelho. Hotel 4 *: [Hotel Mar e Sol
-      ](http://www.hotelmaresol.com/)'
+      sopa de bacalhau e o ensopado de coelho. Hotel 4 *: Hotel Mar e Sol'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
