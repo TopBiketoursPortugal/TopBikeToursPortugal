@@ -115,6 +115,25 @@
 
 @media (max-width: 600px) {
   .Nav--Container {
+    .btn {
+      color: #fff;
+    }
+
+    .Nav-active {
+      .btn {
+        color: #000 !important;
+      }
+    }
+  }
+
+  .fixed-nav {
+    .Nav--Container {
+      .btn {
+        color: #000 !important;
+      }
+    }
+  }
+  .Nav--Container {
     display: flex;
   }
 
@@ -123,7 +142,8 @@
     margin-left: auto;
     z-index: 1;
   }
-  .Nav .Logo {
+
+  .fixed-nav .Nav .Logo {
     z-index: 1;
   }
 
@@ -147,17 +167,21 @@
     margin-top: 1rem;
   }
 
-  .Nav-active .Nav--Links {
-    display: flex;
-    color: #000 !important;
-    a {
+  .Nav-active {
+    .Nav--Links {
+      display: flex;
       color: #000 !important;
+      a {
+        color: #000 !important;
+      }
     }
-  }
-
-  .Nav-active .NavLink {
-    animation: Nav--Link 0.3s ease-out;
-    animation-fill-mode: both;
+    .NavLink {
+      animation: Nav--Link 0.3s ease-out;
+      animation-fill-mode: both;
+    }
+    .Nav--MenuButton {
+      color: #000;
+    }
   }
 
   .Nav .NavLink {
@@ -217,4 +241,3 @@
     opacity: 0;
   }
 }
-

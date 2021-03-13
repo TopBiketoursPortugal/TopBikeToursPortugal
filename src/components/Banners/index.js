@@ -1,103 +1,105 @@
-import { graphql, Link, StaticQuery } from "gatsby";
+import React from "react";
 import Img from "gatsby-image";
-import { React } from "react";
+import BackgroundImage from "gatsby-background-image";
+import { graphql, Link, useStaticQuery } from "gatsby";
+
 import Slider from "react-animated-slider";
 import "./banner.scss";
+import Helmet from "react-helmet";
 
-const Banners = ({ className }) => (
-  <StaticQuery
-    query={graphql`
-      query {
-        allBannerJson: allMarkdownRemark(
-          filter: { frontmatter: { banner: { eq: true } } }
-          sort: { fields: frontmatter___order, order: ASC }
-        ) {
-          nodes {
-            id
-            frontmatter {
-              language
-              banner
-              goto {
-                link
-                linktext
-                linktitle
-              }
-              image {
-                childImageSharp {
-                  fluid(quality: 85, maxWidth: 1444) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
-                  }
+const Banners = () => {
+  const data = useStaticQuery(graphql`
+    {
+      allBannerJson: allMarkdownRemark(
+        filter: { frontmatter: { banner: { eq: true } } }
+        sort: { fields: frontmatter___order, order: ASC }
+      ) {
+        banners: nodes {
+          id
+          frontmatter {
+            language
+            banner
+            goto {
+              link
+              linktext
+              linktitle
+            }
+            image {
+              childImageSharp {
+                fluid(quality: 90, maxWidth: 1444) {
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
-              title
-              subtitle
-              description
-              btnColor
-              btnTextColor
-              subtitleColor
-              titleColor
             }
+            title
+            description
+            btnColor
+            btnTextColor
+            subtitleColor
+            titleColor
           }
         }
       }
-    `}
-    render={(data) => {
-      // Set ImageData.
-      var banners = data.allBannerJson.nodes.map((b) => {
-        return { ...b.frontmatter, ...b };
-      });
-      return (
-        <Slider
-          className={`slider-wrapper`}
-          duration={4000}
-          autoplay={4000}
-          infinite={true}
-        >
-          {/* {banners.map(item => (
-            <BannerSlide key={`b${item.id}`} banner={item} />
-          ))} */}
-          {banners &&
-            banners.map((item) => (
-              <div
-                key={`banner` + item.id}
-                className={`slider-content`}
-                // style={{
-                //   backgroundImage: `url('${item.image.childImageSharp.fluid.src}')`,
-                // }}
-              >
-                <Img
-                  fluid={item.image.childImageSharp.fluid}
-                  objectFit="cover"
-                  objectPosition="-50% 50%"
+    }
+  `);
+
+  // const {banners = data?.allBannerJson?.nodes?.map(b => ({
+  //   ...b.frontmatter, b.id
+  // }));
+
+  const { banners } = data?.allBannerJson;
+
+  return (
+    <Slider className="slider-wrapper" duration={4000} autoplay={4000} infinite>
+      {!!banners &&
+        banners?.length > 0 &&
+        banners.map(({ frontmatter, id }, index) => {
+          const item = frontmatter;
+          const priority = index === 0 ? "eager" : "lazy";
+          return (
+            <div key={`banner${id}`} className="slider-content">
+              <Helmet>
+                <link
+                  rel="preload"
+                  as="image"
+                  href={item?.image?.childImageSharp?.srcWebp}
+                  type="image/webp"
                 />
-                {/* <Content> */}
-                <div className={`inner`}>
-                  {item.description && <h2>{item.title}</h2>}
-                  {item.description && <p>{item.description}</p>}
-                  {item.goto && item.goto.link && (
-                    <Link className={`action`} to={item.goto.link}>
+                <link
+                  rel="preload"
+                  as="image"
+                  href="/static/c265ccf4c72743163dac1657fde9f906/f28db/canadian-bike-tour-group.webp"
+                  type="image/webp"
+                  imageSrcSet="/static/c265ccf4c72743163dac1657fde9f906/6f100/canadian-bike-tour-group.webp 361w,\n/static/c265ccf4c72743163dac1657fde9f906/2c395/canadian-bike-tour-group.webp 722w,\n/static/c265ccf4c72743163dac1657fde9f906/f28db/canadian-bike-tour-group.webp 1444w"
+                  imageSizes="(max-width: 1444px) 100vw, 1444px"
+                />
+              </Helmet>
+              <Img
+                loading={priority}
+                style={{ display: "none" }}
+                fadeIn={false}
+                fluid={item?.image?.childImageSharp?.fluid}
+              />
+              <BackgroundImage
+                critical={index === 0}
+                className="hero-image"
+                fluid={item?.image?.childImageSharp?.fluid}
+              >
+                <div className="inner">
+                  {item?.title && <h2>{item.title}</h2>}
+                  {item?.description && <p>{item.description}</p>}
+                  {item?.goto?.link && (
+                    <Link className="action" to={item.goto.link}>
                       {item.goto.linktext}
                     </Link>
                   )}
                 </div>
-                {/* </Content> */}
-              </div>
-            ))}
-        </Slider>
-      );
-    }}
-  />
-);
+              </BackgroundImage>
+            </div>
+          );
+        })}
+    </Slider>
+  );
+};
 
-// const BannerSlide = ({ banner: { id, image, title, description, button } }) => (
-//   <Container>
-//     <BackgroundImage fluid={image.childImageSharp.fluid}>
-//       <Content>
-//         <Title>{title}</Title>
-//         <Subtitle>{description}</Subtitle>
-//         <Action>{button}</Action>
-//       </Content>
-//     </BackgroundImage>
-//   </Container>
-// );
 export default Banners;

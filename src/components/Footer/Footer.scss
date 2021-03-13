@@ -6,16 +6,20 @@
   padding-top: 30px;
 }
 
-.footer {
+footer {
   padding: 2rem 0;
   background: var(--lightGrey);
   font-size: 1.2rem;
 
-  .title {
-    font-size: 15px;
-    color: #ccc;
+  .title,
+  h4 {
+    position: relative;
+    font-size: 1.2rem;
+    text-align: left;
+    color: rgb(204, 204, 204);
     text-transform: uppercase;
     margin-bottom: 15px;
+    padding: 0;
   }
 
   .text {
@@ -33,6 +37,7 @@
   background-color: #222;
   padding: 30px;
   color: #999;
+  text-align: center;
   a {
     color: #999;
   }

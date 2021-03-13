@@ -1,24 +1,24 @@
-import ReactCSSTransitionGroup from 'react-transition-group'
-import React, { useState } from 'react'
-import { Location } from '@reach/router'
-import { Link } from 'gatsby'
-import { Menu, X } from 'react-feather'
+import ReactCSSTransitionGroup from "react-transition-group";
+import React, { useState } from "react";
+import { Location } from "@reach/router";
+import { Link } from "gatsby";
+import { Menu, X } from "react-feather";
 // import Img from "gatsby-image/withIEPolyfill";
-import Img from 'gatsby-image'
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 // import Logo from "./Logo";
 
-import './Nav.scss'
+import "./Nav.scss";
 
 const Navigation = (props) => {
-  const [active, setActive] = useState(false)
+  const [active, setActive] = useState(false);
   // const [activeSubNav, setActiveSubNav] = useState(false);
-  const [currentPath] = useState(props.location.pathname)
+  const [currentPath] = useState(props.location.pathname);
 
-  const handleMenuToggle = () => setActive(!active)
+  const handleMenuToggle = () => setActive(!active);
 
   // Only close nav if it is open
-  const handleLinkClick = () => active && handleMenuToggle()
+  const handleLinkClick = () => active && handleMenuToggle();
 
   // const toggleSubNav = (subNav) =>
   //   setActiveSubNav(activeSubNav === subNav ? false : subNav);
@@ -26,17 +26,17 @@ const Navigation = (props) => {
   const NavLink = ({ to, className, children, ...props }) => (
     <Link
       to={to}
-      className={`NavLink ${to === currentPath ? 'active' : ''} ${className}`}
+      className={`NavLink ${to === currentPath ? "active" : ""} ${className}`}
       onClick={handleLinkClick}
       onKeyDown={handleLinkClick}
       {...props}
     >
       {children}
     </Link>
-  )
+  );
 
   return (
-    <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
+    <nav className={`Nav ${active ? "Nav-active" : ""}`}>
       <div className="Nav--Container container-fluid">
         <Link
           to="/"
@@ -44,16 +44,14 @@ const Navigation = (props) => {
           onKeyDown={handleLinkClick}
           className="logo"
         >
-          <Img
-            fadeIn="false"
+          <GatsbyImage
             className="black"
-            fluid={props.logo.childImageSharp.fluid}
+            fluid={getImage(props.logo)}
             alt="Top Bike Tours Portugal"
           />
-          <Img
-            fadeIn="false"
+          <GatsbyImage
             className="white"
-            fluid={props.logoWhite.childImageSharp.fluid}
+            image={getImage(props.logoWhite)}
             alt="Top Bike Tours Portugal"
           />
         </Link>
@@ -73,8 +71,8 @@ const Navigation = (props) => {
         </button>
       </div>
     </nav>
-  )
-}
+  );
+};
 
 export default ({ subNav, menu, logo, logoWhite }) => (
   <Location>
@@ -88,4 +86,4 @@ export default ({ subNav, menu, logo, logoWhite }) => (
       />
     )}
   </Location>
-)
+);

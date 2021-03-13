@@ -1,13 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../layout/LayoutBootstrap'
-import { HTMLContent, HTMLMarkdownContent } from '../components/Content'
-import Img from 'gatsby-image'
-import { groupBy } from 'lodash-es'
-import './bikes-page.scss'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../layout/LayoutBootstrap";
+import { HTMLContent, HTMLMarkdownContent } from "../components/Content";
+import Img from "gatsby-image";
+import { groupBy } from "lodash-es";
+import "./bikes-page.scss";
 
-export const BikesPageTemplate = ({
+const BikesPageTemplate = ({
   html,
   title,
   bikes,
@@ -15,8 +15,8 @@ export const BikesPageTemplate = ({
   afterequipment,
 }) => {
   // const PageContent = contentComponent || Content;
-  var groups = groupBy(bikes, (b) => b.type)
-  var groupsKeys = Object.keys(groups)
+  var groups = groupBy(bikes, (b) => b.type);
+  var groupsKeys = Object.keys(groups);
 
   return (
     <div className="container">
@@ -29,7 +29,7 @@ export const BikesPageTemplate = ({
             <h2>{g}</h2>
             {groups[g].map((item, index2) => (
               <Img
-                key={'gi_' + index + '_' + index2}
+                key={"gi_" + index + "_" + index2}
                 fluid={item.image.childImageSharp.fluid}
                 alt={item.type}
               />
@@ -58,8 +58,8 @@ export const BikesPageTemplate = ({
         </div>
       )}
     </div>
-  )
-}
+  );
+};
 
 BikesPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
@@ -76,11 +76,11 @@ BikesPageTemplate.propTypes = {
       description: PropTypes.string,
     })
   ),
-}
+};
 
 const BikesPage = ({ data }) => {
   // console.log(JSON.stringify(data));
-  const { page } = data
+  const { page } = data;
   return (
     <Layout
       language={page.frontmatter.language}
@@ -90,14 +90,12 @@ const BikesPage = ({ data }) => {
     >
       <BikesPageTemplate html={page.html} {...page.frontmatter} />
     </Layout>
-  )
-}
+  );
+};
 
 BikesPage.propTypes = {
   data: PropTypes.object.isRequired,
-}
-
-export default BikesPage
+};
 
 export const bikesPageQuery = graphql`
   query BikesPage($id: String!) {
@@ -126,4 +124,6 @@ export const bikesPageQuery = graphql`
       }
     }
   }
-`
+`;
+
+export default BikesPage;

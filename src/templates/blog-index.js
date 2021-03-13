@@ -1,12 +1,12 @@
-import React from 'react'
-import { graphql } from 'gatsby'
-import { Location } from '@reach/router'
-import qs from 'qs'
+import React from "react";
+import { graphql } from "gatsby";
+import { Location } from "@reach/router";
+import qs from "qs";
 
 // import PageHeader from '../components/PageHeader'
-import PostSection from '../components/PostSection'
-import PostCategoriesNav from '../components/PostCategoriesNav'
-import Layout from '../layout/LayoutBootstrap'
+import PostSection from "../components/PostSection";
+import PostCategoriesNav from "../components/PostCategoriesNav";
+import Layout from "../layout/LayoutBootstrap";
 
 /**
  * Filter posts by date. Feature dates will be fitered
@@ -14,10 +14,10 @@ import Layout from '../layout/LayoutBootstrap'
  *
  * @param {posts} object
  */
-export const byDate = (posts) => {
-  const now = Date.now()
-  return posts.filter((post) => Date.parse(post.date) <= now)
-}
+const byDate = (posts) => {
+  const now = Date.now();
+  return posts.filter((post) => Date.parse(post.date) <= now);
+};
 
 /**
  * filter posts by category.
@@ -26,16 +26,17 @@ export const byDate = (posts) => {
  * @param {title} string
  * @param {contentType} string
  */
-export const byCategory = (posts, title, contentType) => {
-  const isCategory = contentType === 'postCategories'
-  const byCategory = (post) =>
+const byCategory = (posts, title, contentType) => {
+  const isCategory = contentType === "postCategories";
+  const byCategoryFilter = (post) =>
     post.categories &&
-    post.categories.filter((cat) => cat.category === title).length
-  return isCategory ? posts.filter(byCategory) : posts
-}
+    post.categories.filter((cat) => cat.category === title).length;
+
+  return isCategory ? posts.filter(byCategoryFilter) : posts;
+};
 
 // Export Template for use in CMS preview
-export const BlogIndexTemplate = ({
+const BlogIndexTemplate = ({
   title,
   subtitle,
   featuredImage,
@@ -49,16 +50,16 @@ export const BlogIndexTemplate = ({
       let filteredPosts =
         posts && !!posts.length
           ? byCategory(byDate(posts), title, contentType)
-          : []
+          : [];
 
-      let queryObj = location.search.replace('?', '')
-      queryObj = qs.parse(queryObj)
+      let queryObj = location.search.replace("?", "");
+      queryObj = qs.parse(queryObj);
 
       if (enableSearch && queryObj.s) {
-        const searchTerm = queryObj.s.toLowerCase()
+        const searchTerm = queryObj.s.toLowerCase();
         filteredPosts = filteredPosts.filter((post) =>
           post.frontmatter.title.toLowerCase().includes(searchTerm)
-        )
+        );
       }
 
       return (
@@ -79,10 +80,10 @@ export const BlogIndexTemplate = ({
             </section>
           )}
         </main>
-      )
+      );
     }}
   </Location>
-)
+);
 
 // Export Default BlogIndex for front-end
 const BlogIndex = ({ data: { page, posts, postCategories } }) => (
@@ -108,9 +109,7 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
       }))}
     />
   </Layout>
-)
-
-export default BlogIndex
+);
 
 export const pageQuery = graphql`
   ## Query for BlogIndex data
@@ -195,4 +194,5 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
+export default BlogIndex;

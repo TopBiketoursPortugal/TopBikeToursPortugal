@@ -1,66 +1,62 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from "react";
 // import PropTypes from "prop-types";
-import LanguageSwitcher from './LanguageSwitcher'
+import LanguageSwitcher from "./LanguageSwitcher";
 // import _filter from "lodash/filter";
 // import _first from "lodash/first";
 
-import { graphql, useStaticQuery } from 'gatsby'
+import { graphql, useStaticQuery } from "gatsby";
 // import { Button } from "styled-button-component";
-import styled from 'styled-components'
-import { Facebook } from '@styled-icons/boxicons-logos/Facebook'
-import { Twitter } from '@styled-icons/boxicons-logos/Twitter'
-import { Youtube } from '@styled-icons/boxicons-logos/Youtube'
-import { Instagram } from '@styled-icons/boxicons-logos/Instagram'
-import { Tripadvisor } from '@styled-icons/fa-brands/Tripadvisor'
+import { Facebook } from "@styled-icons/boxicons-logos/Facebook";
+import { Twitter } from "@styled-icons/boxicons-logos/Twitter";
+import { Youtube } from "@styled-icons/boxicons-logos/Youtube";
+import { Instagram } from "@styled-icons/boxicons-logos/Instagram";
+import { Tripadvisor } from "@styled-icons/fa-brands/Tripadvisor";
 // import { AlternateEmail } from "@styled-icons/material/AlternateEmail";
-import { PhoneAlt } from '@styled-icons/fa-solid/PhoneAlt'
-import Nav from './Nav'
-import './Navbar.scss'
-const StyledTripAdvisor = styled(Tripadvisor)`
-  vertical-align: -0.3em;
-`
+import { PhoneAlt } from "@styled-icons/fa-solid/PhoneAlt";
+import Nav from "./Nav";
+import "./Navbar.scss";
 
 const icons = {
   facebook: Facebook,
   twitter: Twitter,
   instagram: Instagram,
   youtube: Youtube,
-  tripadvisor: StyledTripAdvisor,
-}
+  tripadvisor: Tripadvisor
+};
 
 const NavbarComponent = ({ menu }) => {
   // const [hidden, setHidden] = useState(false);
   // const [stickyNav, setStickyNav] = useState(false);
-  const { settings, logo_white, logo } = useStaticQuery(query)
+  const { settings, logo_white, logo } = useStaticQuery(query);
 
   useEffect(() => {
-    let lastScrollY = 0
-    let ticking = false
+    let lastScrollY = 0;
+    let ticking = false;
     const handleScroll = () => {
-      lastScrollY = window.scrollY
+      lastScrollY = window.scrollY;
 
       if (!ticking) {
         window.requestAnimationFrame(() => {
           if (lastScrollY > 10) {
             // setStickyNav(true);
-            document.body.classList.add('fixed-nav')
+            document.body.classList.add("fixed-nav");
           } else {
             // setStickyNav(false);
-            document.body.classList.remove('fixed-nav')
+            document.body.classList.remove("fixed-nav");
           }
-          ticking = false
-        })
+          ticking = false;
+        });
 
-        ticking = true
+        ticking = true;
       }
-    }
+    };
 
-    window.addEventListener('scroll', handleScroll, { passive: true })
+    window.addEventListener("scroll", handleScroll, { passive: true });
 
     return () => {
-      window.removeEventListener('scroll', handleScroll)
-    }
-  }, [])
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, []);
 
   return (
     <div className="topContainer">
@@ -76,7 +72,7 @@ const NavbarComponent = ({ menu }) => {
         </div>
         <div>
           {settings?.socialNetworks?.map((social, index) => {
-            const SocialIcon = icons[social.icon]
+            const SocialIcon = icons[social.icon];
             return (
               <a
                 rel="nofollow noopener noreferrer"
@@ -87,7 +83,7 @@ const NavbarComponent = ({ menu }) => {
               >
                 <SocialIcon size="18" title={social.display} />
               </a>
-            )
+            );
           })}
           <LanguageSwitcher />
         </div>
@@ -99,27 +95,31 @@ const NavbarComponent = ({ menu }) => {
         // className={stickyNav ? "sticky" : ""}
       />
     </div>
-  )
-}
+  );
+};
 
 const query = graphql`
   query LogoQuery {
     logo: file(relativePath: { eq: "logo.png" }) {
       childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 148) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
+        gatsbyImageData(
+          width: 129
+          placeholder: NONE
+          pngOptions: { quality: 8 }
+          webpOptions: { quality: 8 }
+          formats: [WEBP, PNG]
+        )
       }
     }
     logo_white: file(relativePath: { eq: "logo_white.png" }) {
       childImageSharp {
-        # Specify the image processing specifications right in the query.
-        # Makes it trivial to update as your page's design changes.
-        fluid(maxWidth: 148) {
-          ...GatsbyImageSharpFluid_withWebp
-        }
+        gatsbyImageData(
+          width: 129
+          placeholder: NONE
+          pngOptions: { quality: 8 }
+          webpOptions: { quality: 8 }
+          formats: [WEBP, PNG]
+        )
       }
     }
     settings: settingsYaml {
@@ -130,6 +130,6 @@ const query = graphql`
       }
     }
   }
-`
+`;
 
-export default NavbarComponent
+export default NavbarComponent;

@@ -1,15 +1,58 @@
-@import "~bootstrap/scss/functions";
-@import "~bootstrap/scss/variables";
-@import "~bootstrap/scss/mixins";
-@import "~bootstrap/scss/grid";
 .reviewTitle {
   text-align: center;
   margin: 35px 0;
 }
 
 .containerReview {
-  @extend .container;
   margin-bottom: 35px;
+
+  //blockquote
+  blockquote {
+    .tourTitle {
+      text-align: justify;
+    }
+    /* width: 33%;*/
+    position: relative;
+    padding-left: 0.5rem;
+    border-left: 0.2rem solid #4d91b3;
+    font-size: 2rem;
+    line-height: 1.5rem;
+    font-weight: 100;
+    display: flex;
+    flex-direction: column;
+    .quote {
+      text-align: justify;
+      margin-bottom: 20px;
+      line-height: 2rem;
+    }
+
+    .quote.collapsed::before {
+      content: '"';
+      color: #4d91b3;
+    }
+    .quote.collapsed::after {
+      content: '"';
+      color: #4d91b3;
+    }
+
+    cite {
+      padding: 15px 0 0 15px;
+      text-align: left;
+      font-size: 25px;
+      justify-content: flex-end;
+    }
+  }
+
+  cite {
+    padding: 20px;
+    display: flex;
+    span {
+      padding: 15px 0 0 15px;
+    }
+    .rating {
+      padding: 18px 0 0 10px;
+    }
+  }
 }
 
 .rating {
@@ -25,10 +68,3 @@
     cursor: pointer;
   }
 }
-
-// .slider-wrapper {
-//   height: 300px;
-//   width: 100%;
-//   margin-top: 40px;
-//   margin-bottom: 40px;
-// }

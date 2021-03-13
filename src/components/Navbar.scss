@@ -57,7 +57,6 @@
     }
   }
 }
-
 .languageSwitcherContainer {
   width: 100%;
   position: relative;
@@ -66,22 +65,35 @@
   background-color: rgba(0, 0, 0, 0.45) !important;
   align-items: center;
   z-index: 1000;
+
   div {
     align-items: center;
-    flex: auto;
-    flex: 50%;
-    padding: 20px 35px 0 20px;
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-end;
+    height: 50px;
+    padding-top: 20px;
+    padding-right: 20px;
   }
 
   .contactsContainer {
     text-align: left;
-    flex: 50%;
+    height: 50px;
+    padding-top: 20px;
+    padding-left: 27px;
+    justify-content: flex-start;
+    flex: 1;
   }
 
   a {
     margin: 0 !important;
-    padding: 10px;
+    padding: 0 5px;
     color: #fff;
     text-decoration: none !important;
+    display: flex;
+    align-items: center;
+    .Nav--Container &:hover {
+      color: #fff;
+    }
   }
 }

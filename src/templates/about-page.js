@@ -1,18 +1,13 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { graphql } from 'gatsby'
-import Layout from '../layout/LayoutBootstrap'
-import Content, { HTMLContent } from '../components/Content'
-import { TeamListComponent } from '../components/team'
-import './about-page.scss'
+import React from "react";
+import PropTypes from "prop-types";
+import { graphql } from "gatsby";
+import Layout from "../layout/LayoutBootstrap";
+import Content, { HTMLContent } from "../components/Content";
+import { TeamListComponent } from "../components/team";
+import "./about-page.scss";
 
-export const AboutPageTemplate = ({
-  title,
-  content,
-  contentComponent,
-  team,
-}) => {
-  const PageContent = contentComponent || Content
+const AboutPageTemplate = ({ title, content, contentComponent, team }) => {
+  const PageContent = contentComponent || Content;
   return (
     <section className="section section--gradient">
       <div className="container">
@@ -29,8 +24,8 @@ export const AboutPageTemplate = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 AboutPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
@@ -44,10 +39,10 @@ AboutPageTemplate.propTypes = {
       image: PropTypes.any,
     })
   ),
-}
+};
 
 const AboutPage = ({ data }) => {
-  const { page } = data
+  const { page } = data;
 
   return (
     <Layout
@@ -63,14 +58,12 @@ const AboutPage = ({ data }) => {
         team={page.frontmatter.team}
       />
     </Layout>
-  )
-}
+  );
+};
 
 AboutPage.propTypes = {
   data: PropTypes.object.isRequired,
-}
-
-export default AboutPage
+};
 
 export const pageQuery = graphql`
   query AboutPage($id: String!) {
@@ -96,4 +89,6 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
+
+export default AboutPage;

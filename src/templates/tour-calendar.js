@@ -1,20 +1,19 @@
-import React from 'react'
-import { graphql } from 'gatsby'
-import Layout from '../layout/LayoutBootstrap'
-import { Timeline } from '../components/Timeline'
-import './tour-calendar.scss'
+import React from "react";
+import { graphql } from "gatsby";
+import Layout from "../layout/LayoutBootstrap";
+import { Timeline } from "../components/Timeline";
+import "./tour-calendar.scss";
 // import { orderBy } from "lodash-es";
-export const TourCalendarTemplate = ({ title, description, ...other }) => {
+const TourCalendarTemplate = ({ title, description }) => {
   return (
     <>
       <h1>{title}</h1>
       <div>{description}</div>
     </>
-  )
-}
+  );
+};
 
-export const TourCalendarPage = ({ data: { tourCalendar } }) => {
-  //   console.log(JSON.stringify(tourCalendar));
+const TourCalendarPage = ({ data: { tourCalendar } }) => {
   return (
     <Layout
       meta={tourCalendar.frontmatter.meta || false}
@@ -23,19 +22,17 @@ export const TourCalendarPage = ({ data: { tourCalendar } }) => {
       language={tourCalendar.frontmatter.language}
     >
       <div className="container tourCalendar">
-        <TourCalendarTemplate {...tourCalendar.frontmatter} />
-        {/* <Timeline
-          dates={[
-            ...orderBy(tourCalendar.frontmatter.dates, ["date"], ["asc"])
-          ]}
-        /> */}
+        <TourCalendarTemplate
+          title={tourCalendar.frontmatter.title}
+          description={tourCalendar.frontmatter.description}
+        />
         <Timeline dates={tourCalendar.frontmatter.dates} />
       </div>
     </Layout>
-  )
-}
+  );
+};
 
-export default TourCalendarPage
+export default TourCalendarPage;
 
 export const pageQuery = graphql`
   query TourCalendar($id: String!) {
@@ -56,4 +53,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
