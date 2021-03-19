@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image";
 import './tourgallery.scss'
 import Lightbox from 'react-image-lightbox'
 import 'react-image-lightbox/style.css'
@@ -45,11 +45,10 @@ const TourGallery = (props) => {
               className="col-xs-1 col-4 imgwrapper"
               key={`tg${i}`}
             >
-              <Img
+              <GatsbyImage
+                image={item.image.childImageSharp.gatsbyImageData}
                 key={item.image.childImageSharp.id}
-                fluid={item.image.childImageSharp.fluid}
-                alt={item.image.title}
-              />
+                alt={item.image.title} />
             </div>
           ))}
       </div>
@@ -69,7 +68,7 @@ const TourGallery = (props) => {
         />
       )}
     </div>
-  )
+  );
 }
 
 TourGallery.propsTypes = {

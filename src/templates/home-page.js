@@ -20,7 +20,7 @@ const HomePageTemplate = ({
   blogsection,
   language,
   posts,
-  reviews,
+  reviews
 }) => {
   const converter = new showdown.Converter();
   return (
@@ -55,7 +55,7 @@ const HomePageTemplate = ({
           reviews={reviews.map((review) => ({
             ...review,
             ...review.frontmatter,
-            ...review.fields,
+            ...review.fields
           }))}
           className="reviewsHighlights"
         />
@@ -72,7 +72,7 @@ const HomePageTemplate = ({
                 posts={posts.map((post) => ({
                   ...post,
                   ...post.frontmatter,
-                  ...post.fields,
+                  ...post.fields
                 }))}
               />
             </div>
@@ -97,7 +97,7 @@ HomePageTemplate.propTypes = {
   content: PropTypes.string,
   contentComponent: PropTypes.func,
   toursection: PropTypes.any,
-  language: PropTypes.string,
+  language: PropTypes.string
 };
 
 const HomePage = ({ data }) => {
@@ -122,7 +122,7 @@ const HomePage = ({ data }) => {
 };
 
 HomePage.propTypes = {
-  data: PropTypes.object.isRequired,
+  data: PropTypes.object.isRequired
 };
 
 export const homePageQuery = graphql`
@@ -171,9 +171,11 @@ export const homePageQuery = graphql`
           }
           featuredImage {
             childImageSharp {
-              fluid(quality: 85, maxWidth: 1444) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
+              gatsbyImageData(
+                quality: 85
+                placeholder: NONE
+                layout: FULL_WIDTH
+              )
             }
           }
         }
@@ -201,13 +203,6 @@ export const homePageQuery = graphql`
           author {
             country
             name
-            avatar {
-              childImageSharp {
-                fluid(quality: 85, maxWidth: 300) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
           }
           date(fromNow: true)
           language

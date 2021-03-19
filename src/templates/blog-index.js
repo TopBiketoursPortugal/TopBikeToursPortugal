@@ -111,88 +111,72 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
   </Layout>
 );
 
-export const pageQuery = graphql`
-  ## Query for BlogIndex data
-  ## Use GraphiQL interface (http://localhost:8000/___graphql)
-  ## $id is processed via gatsby-node.js
-  ## query name must be unique to this file
-  query BlogIndex($id: String!, $language: String!) {
-    page: markdownRemark(id: { eq: $id }) {
-      ...Meta
-      ...FeatureImage
-      fields {
-        contentType
-        localizedPath
-      }
-      excerpt(pruneLength: 280)
-      frontmatter {
-        title
-        templateKey
-        subtitle
-        language
-        path
-        featuredImage {
-          childImageSharp {
-            fluid(quality: 85, maxWidth: 1444) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
-          }
-        }
-        contentType
-      }
+export const pageQuery = graphql`query BlogIndex($id: String!, $language: String!) {
+  page: markdownRemark(id: {eq: $id}) {
+    ...Meta
+    ...FeatureImage
+    fields {
+      contentType
+      localizedPath
     }
-
-    posts: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "posts" } }
-        frontmatter: { language: { eq: $language } }
-      }
-      sort: { order: DESC, fields: [frontmatter___date] }
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 280)
-          fields {
-            slug
-            localizedPath
-          }
-          frontmatter {
-            title
-            path
-            date
-            categories {
-              category
-            }
-            featuredImage {
-              childImageSharp {
-                fluid(quality: 85, maxWidth: 1444) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
-          }
+    excerpt(pruneLength: 280)
+    frontmatter {
+      title
+      templateKey
+      subtitle
+      language
+      path
+      featuredImage {
+        childImageSharp {
+          gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
         }
       }
+      contentType
     }
-    postCategories: allMarkdownRemark(
-      filter: {
-        fields: { contentType: { eq: "postCategories" } }
-        frontmatter: { language: { eq: $language } }
-      }
-      sort: { order: ASC, fields: [frontmatter___title] }
-    ) {
-      edges {
-        node {
-          fields {
-            slug
+  }
+  posts: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "posts"}}, frontmatter: {language: {eq: $language}}}
+    sort: {order: DESC, fields: [frontmatter___date]}
+  ) {
+    edges {
+      node {
+        excerpt(pruneLength: 280)
+        fields {
+          slug
+          localizedPath
+        }
+        frontmatter {
+          title
+          path
+          date
+          categories {
+            category
           }
-          frontmatter {
-            title
-            path
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
+            }
           }
         }
       }
     }
   }
+  postCategories: allMarkdownRemark(
+    filter: {fields: {contentType: {eq: "postCategories"}}, frontmatter: {language: {eq: $language}}}
+    sort: {order: ASC, fields: [frontmatter___title]}
+  ) {
+    edges {
+      node {
+        fields {
+          slug
+        }
+        frontmatter {
+          title
+          path
+        }
+      }
+    }
+  }
+}
 `;
 export default BlogIndex;

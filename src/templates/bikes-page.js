@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../layout/LayoutBootstrap";
 import { HTMLContent, HTMLMarkdownContent } from "../components/Content";
-import Img from "gatsby-image";
+import { GatsbyImage } from "gatsby-plugin-image";
 import { groupBy } from "lodash-es";
 import "./bikes-page.scss";
 
@@ -28,11 +28,10 @@ const BikesPageTemplate = ({
           <div key={`g` + index} className="col-sm-4 col-12 bikesImages">
             <h2>{g}</h2>
             {groups[g].map((item, index2) => (
-              <Img
+              <GatsbyImage
+                image={item.image.childImageSharp.gatsbyImageData}
                 key={"gi_" + index + "_" + index2}
-                fluid={item.image.childImageSharp.fluid}
-                alt={item.type}
-              />
+                alt={item.type} />
             ))}
           </div>
         ))}
@@ -97,33 +96,30 @@ BikesPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export const bikesPageQuery = graphql`
-  query BikesPage($id: String!) {
-    page: markdownRemark(id: { eq: $id }) {
-      html
-      ...Meta
-      ...FeatureImage
-      frontmatter {
-        title
-        language
-        bikes {
-          type
-          image {
-            childImageSharp {
-              fluid(quality: 85, maxWidth: 700) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
-            }
+export const bikesPageQuery = graphql`query BikesPage($id: String!) {
+  page: markdownRemark(id: {eq: $id}) {
+    html
+    ...Meta
+    ...FeatureImage
+    frontmatter {
+      title
+      language
+      bikes {
+        type
+        image {
+          childImageSharp {
+            gatsbyImageData(quality: 85, width: 700, placeholder: NONE, layout: CONSTRAINED)
           }
         }
-        equipment {
-          type
-          description
-        }
-        afterequipment
       }
+      equipment {
+        type
+        description
+      }
+      afterequipment
     }
   }
+}
 `;
 
 export default BikesPage;

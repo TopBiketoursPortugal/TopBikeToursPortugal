@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import Img from 'gatsby-image/withIEPolyfill'
+import { GatsbyImage } from "gatsby-plugin-image";
 //  import Image from "./Image";
 import './PostCard.scss'
 // import BackgroundImage from "gatsby-background-image";
@@ -21,13 +21,12 @@ const PostCard = ({
     {featuredImage && (
       <div className="PostCard--Image relative">
         {/* <Img background fluid={featuredImage.childImageSharp.fluid} alt={title} /> */}
-        <Img
+        <GatsbyImage
+          image={featuredImage.childImageSharp.gatsbyImageData}
           className="PostCard--BGImage"
-          fluid={featuredImage.childImageSharp.fluid}
           alt={title}
           // objectPosition={featuredImagePostion}
-          style={{ color: featuredImagePostion }}
-        />
+          style={{ color: featuredImagePostion }} />
       </div>
     )}
     <div className="PostCard--Content">

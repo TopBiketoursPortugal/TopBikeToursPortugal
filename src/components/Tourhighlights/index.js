@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image";
 import * as Style from './Tourhighlights.styled'
 // import BackgroundImage from 'gatsby-background-image'
 import { StaticQuery, navigate, graphql, Link } from 'gatsby'
@@ -15,40 +15,32 @@ const Tourhighlights = ({
   language,
 }) => {
   const converter = new showdown.Converter()
-  const query = graphql`
-    query featuredToursQuery {
-      tours: allMarkdownRemark(
-        filter: {
-          frontmatter: {
-            packagetype: { eq: "PackageTour" }
-            featured: { eq: true }
-          }
-        }
-      ) {
-        nodes {
-          id
-          excerpt(truncate: true, pruneLength: 200)
-          fields {
-            slug
-            localizedPath
-          }
-          frontmatter {
-            title
-            path
-            language
-            packagetype
-            image {
-              childImageSharp {
-                fluid(quality: 85, maxWidth: 1444) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
-              }
-            }
+  const query = graphql`query featuredToursQuery {
+  tours: allMarkdownRemark(
+    filter: {frontmatter: {packagetype: {eq: "PackageTour"}, featured: {eq: true}}}
+  ) {
+    nodes {
+      id
+      excerpt(truncate: true, pruneLength: 200)
+      fields {
+        slug
+        localizedPath
+      }
+      frontmatter {
+        title
+        path
+        language
+        packagetype
+        image {
+          childImageSharp {
+            gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
           }
         }
       }
     }
-  `
+  }
+}
+`
   return (
     <StaticQuery
       query={query}
@@ -107,12 +99,9 @@ const Tourhighlights = ({
                         >
                           <Style.ToursImageContainer>
                             {tour?.frontmatter?.image && (
-                              <Img
-                                fluid={
-                                  tour.frontmatter.image.childImageSharp.fluid
-                                }
-                                alt={tour.frontmatter.title}
-                              />
+                              <GatsbyImage
+                                image={tour.frontmatter.image.childImageSharp.gatsbyImageData}
+                                alt={tour.frontmatter.title} />
                             )}
                           </Style.ToursImageContainer>
                           <Style.TourTitle>
@@ -132,7 +121,7 @@ const Tourhighlights = ({
         </div>
       )}
     ></StaticQuery>
-  )
+  );
 }
 
 export default Tourhighlights

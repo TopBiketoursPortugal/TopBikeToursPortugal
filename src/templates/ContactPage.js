@@ -225,64 +225,61 @@ const ContactPage = ({ data: { page, settings } }) => (
   </Layout>
 );
 
-export const pageQuery = graphql`
-  query ContactPage($id: String!) {
-    settings: settingsYaml {
-      googleTrackingId
-      googleApiKey
-      siteUrl
-      mobile
-      phone
-      email
-      location {
-        lat
-        lng
-      }
-      tourOperator
-      travelAgency
-      socialNetworks {
-        display
-        icon
-        link
-      }
-      pt {
-        address {
-          city
-          country
-          hint
-          postalCode
-          street
-        }
-      }
-      en {
-        address {
-          city
-          country
-          hint
-          postalCode
-          street
-        }
+export const pageQuery = graphql`query ContactPage($id: String!) {
+  settings: settingsYaml {
+    googleTrackingId
+    googleApiKey
+    siteUrl
+    mobile
+    phone
+    email
+    location {
+      lat
+      lng
+    }
+    tourOperator
+    travelAgency
+    socialNetworks {
+      display
+      icon
+      link
+    }
+    pt {
+      address {
+        city
+        country
+        hint
+        postalCode
+        street
       }
     }
-    page: markdownRemark(id: { eq: $id }) {
-      ...Meta
-      ...FeatureImage
-      html
-      frontmatter {
-        title
-        templateKey
-        language
-        subtitle
-        featuredImage {
-          childImageSharp {
-            fluid(quality: 85, maxWidth: 1444) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
-          }
+    en {
+      address {
+        city
+        country
+        hint
+        postalCode
+        street
+      }
+    }
+  }
+  page: markdownRemark(id: {eq: $id}) {
+    ...Meta
+    ...FeatureImage
+    html
+    frontmatter {
+      title
+      templateKey
+      language
+      subtitle
+      featuredImage {
+        childImageSharp {
+          gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
         }
       }
     }
   }
+}
 `;
 
 export default ContactPage;

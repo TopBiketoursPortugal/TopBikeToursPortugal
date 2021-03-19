@@ -27,7 +27,9 @@ const icons = {
 const NavbarComponent = ({ menu }) => {
   // const [hidden, setHidden] = useState(false);
   // const [stickyNav, setStickyNav] = useState(false);
-  const { settings, logo_white, logo } = useStaticQuery(query);
+  const { settings, logo_white, logo_black } = useStaticQuery(query);
+
+  // console.log(JSON.stringify(logo_black));
 
   useEffect(() => {
     let lastScrollY = 0;
@@ -89,7 +91,7 @@ const NavbarComponent = ({ menu }) => {
         </div>
       </div>
       <Nav
-        logo={logo}
+        logoBlack={logo_black}
         logoWhite={logo_white}
         menu={menu}
         // className={stickyNav ? "sticky" : ""}
@@ -100,7 +102,7 @@ const NavbarComponent = ({ menu }) => {
 
 const query = graphql`
   query LogoQuery {
-    logo: file(relativePath: { eq: "logo.png" }) {
+    logo_black: file(relativePath: { eq: "logo.png" }) {
       childImageSharp {
         gatsbyImageData(
           width: 129

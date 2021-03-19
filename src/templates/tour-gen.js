@@ -11,14 +11,12 @@ import Tabs from "@material-ui/core/Tabs";
 import Tab from "@material-ui/core/Tab";
 import Typography from "@material-ui/core/Typography";
 import { HTMLContent, HTMLMarkdownContent } from "../components/Content";
-import ScrollableAnchor, { goToAnchor } from "react-scrollable-anchor";
 import { Clock } from "@styled-icons/fa-solid/Clock";
 import { Mountain } from "@styled-icons/fa-solid/Mountain";
 import { Road } from "@styled-icons/fa-solid/Road";
 import { Tag } from "@styled-icons/fa-solid/Tag";
 import ReviewsHighlights from "../components/ReviewsHighlights";
-import Helmet from "react-helmet";
-
+import scrollTo from "gatsby-plugin-smoothscroll";
 import "./tour-gen.scss";
 
 // import { CancelCircle } from "@styled-icons/icomoon/CancelCircle";
@@ -106,7 +104,8 @@ function TourGen({ data }) {
 
   function handleChange(_, newValue) {
     setValue(newValue);
-    goToAnchor(anchors[newValue]);
+    console.log(newValue);
+    scrollTo(anchors[newValue]);
   }
 
   var difficultyText = {
@@ -154,8 +153,8 @@ function TourGen({ data }) {
           </div>
         </div>
       )}
-      {/* <Waypoint onEnter={_handleWaypointEnter} onLeave={_handleWaypointLeave} /> */}
       <div className="container">
+        <div></div>
         <StyledPaper className={stickyNav ? "sticky" : ""}>
           <Tabs
             value={value}
@@ -164,15 +163,41 @@ function TourGen({ data }) {
             textColor="primary"
             centered
           >
-            <Tab label="Information" {...a11yProps(0)} />
+            <Tab
+              label="Information"
+              onClick={() => scrollTo("#information")}
+              {...a11yProps(0)}
+            />
 
-            {tour.itinerary && <Tab label="Tour Plan" {...a11yProps(1)} />}
-            {tour.gallery && <Tab label="Gallery" {...a11yProps(2)} />}
+            {tour.itinerary && (
+              <Tab
+                onClick={() => scrollTo("#tour-plan")}
+                label="Tour Plan"
+                {...a11yProps(1)}
+              />
+            )}
+            {tour.gallery && (
+              <Tab
+                label="Gallery"
+                onClick={() => scrollTo("#gallery")}
+                {...a11yProps(2)}
+              />
+            )}
             {tour.pricing && tour.pricing.length > 0 && (
-              <Tab label="Pricing" {...a11yProps(4)} />
+              <Tab
+                label="Pricing"
+                onClick={() => scrollTo("#pricing")}
+                {...a11yProps(4)}
+              />
             )}
 
-            {!!reviews.length && <Tab label="Reviews" {...a11yProps(5)} />}
+            {!!reviews.length && (
+              <Tab
+                label="Reviews"
+                onClick={() => scrollTo("#reviews")}
+                {...a11yProps(5)}
+              />
+            )}
 
             {/* <Tab label="The fine print" {...a11yProps(5)} />*/}
           </Tabs>
@@ -181,13 +206,13 @@ function TourGen({ data }) {
       <div className="container">
         <div className="row">
           <div className="col-12 col-md-8">
-            <ScrollableAnchor id={"information"}>
+            <section id={"information"}>
               <HTMLContent
                 id={a11yProps(0).id}
                 className="container"
                 content={tour.html}
               />
-            </ScrollableAnchor>
+            </section>
           </div>
           <div className="col-12 col-md-4 tour-booking-overlay">
             <div className="tour-booking">
@@ -406,67 +431,55 @@ function TourGen({ data }) {
               )}
             </div>
           </div>
-
-          <div className="col-12">
-            {tour && tour.mapUrl && (
-              <iframe
-                title="tour"
-                src={tour.mapUrl}
-                width={"100%"}
-                height={"480"}
-              ></iframe>
-            )}
-            {tour.itinerary && (
-              <ScrollableAnchor id={"tour-plan"}>
-                <div id={a11yProps(1).id} className="container">
-                  <TourPlan tour={tour} {...settings}></TourPlan>
-                </div>
-              </ScrollableAnchor>
-            )}
-
-            {tour.pricing && (
-              <ScrollableAnchor id={"pricing"}>
-                <div id={a11yProps(4).id} className="container">
-                  <TourPricing tour={tour}></TourPricing>
-                  {tour.afterpricing && (
-                    <>
-                      <br />
-                      <HTMLMarkdownContent
-                        className="container"
-                        content={tour.afterpricing}
-                      />
-                    </>
-                  )}
-                </div>
-              </ScrollableAnchor>
-            )}
-
-            {tour.gallery && (
-              <ScrollableAnchor id={"gallery"}>
-                <div id={a11yProps(2).id} className="container">
-                  <TourGallery tour={tour} />
-                </div>
-              </ScrollableAnchor>
-            )}
-
-            {!!reviews.length && (
-              <ScrollableAnchor id={"reviews"}>
-                <div id={a11yProps(5).id} className="container">
-                  {/* <TourReviews reviews={reviews}></TourReviews> */}
-                  <ReviewsHighlights
-                    reviews={reviews}
-                    className="reviewsHighlights"
-                  />
-                </div>
-              </ScrollableAnchor>
-            )}
-
-            {/* <ScrollableAnchor id={"the-fine-print"}>
-              <div className="container">fine print</div>
-            </ScrollableAnchor> */}
-          </div>
         </div>
       </div>
+      {tour && tour.mapUrl && (
+        <div className="container">
+          <iframe
+            title="tour"
+            src={tour.mapUrl}
+            width={"100%"}
+            height={"480"}
+          ></iframe>
+        </div>
+      )}
+      {tour.itinerary && (
+        <section id="tour-plan" className="container">
+          <TourPlan tour={tour} {...settings}></TourPlan>
+        </section>
+      )}
+
+      {tour.pricing && (
+        <section id={"pricing"}>
+          <TourPricing tour={tour} />
+          {tour.afterpricing && (
+            <>
+              <br />
+              <HTMLMarkdownContent
+                className="container"
+                content={tour.afterpricing}
+              />
+            </>
+          )}
+        </section>
+      )}
+
+      {tour.gallery && (
+        <section id={"gallery"}>
+          <TourGallery tour={tour} />
+        </section>
+      )}
+
+      {!!reviews.length && (
+        <section id={"reviews"}>
+          {/* <TourReviews reviews={reviews}></TourReviews> */}
+          <ReviewsHighlights reviews={reviews} className="reviewsHighlights" />
+        </section>
+      )}
+
+      {/* <section id={"the-fine-print"}>
+              <div className="container">fine print</div>
+            </section> */}
     </Layout>
   );
 }
@@ -507,9 +520,12 @@ export const tourGenQuery = graphql`
             name
             avatar {
               childImageSharp {
-                fluid(quality: 85, maxWidth: 300) {
-                  ...GatsbyImageSharpFluid_withWebp_noBase64
-                }
+                gatsbyImageData(
+                  quality: 85
+                  width: 300
+                  placeholder: NONE
+                  layout: CONSTRAINED
+                )
               }
             }
           }
@@ -553,9 +569,11 @@ export const tourGenQuery = graphql`
           alt
           image {
             childImageSharp {
-              fluid(quality: 60, maxWidth: 1444) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
+              gatsbyImageData(
+                quality: 60
+                placeholder: NONE
+                layout: FULL_WIDTH
+              )
               high: fluid(quality: 90, maxWidth: 2888) {
                 ...GatsbyImageSharpFluid_withWebp_noBase64
               }

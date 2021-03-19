@@ -39,22 +39,19 @@ const DefaultPage = ({ data: { page } }) => (
 )
 export default DefaultPage
 
-export const pageQuery = graphql`
-  query DefaultPage($id: String!) {
-    page: markdownRemark(id: { eq: $id }) {
-      ...Meta
-      html
-      frontmatter {
-        title
-        subtitle
-        featuredImage {
-          childImageSharp {
-            fluid(quality: 85, maxWidth: 1444) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
-          }
+export const pageQuery = graphql`query DefaultPage($id: String!) {
+  page: markdownRemark(id: {eq: $id}) {
+    ...Meta
+    html
+    frontmatter {
+      title
+      subtitle
+      featuredImage {
+        childImageSharp {
+          gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
         }
       }
     }
   }
+}
 `

@@ -10,10 +10,10 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
 import "./Nav.scss";
 
-const Navigation = (props) => {
+const Navigation = ({ logoBlack, logoWhite, location, menu }) => {
   const [active, setActive] = useState(false);
   // const [activeSubNav, setActiveSubNav] = useState(false);
-  const [currentPath] = useState(props.location.pathname);
+  const [currentPath] = useState(location.pathname);
 
   const handleMenuToggle = () => setActive(!active);
 
@@ -22,18 +22,6 @@ const Navigation = (props) => {
 
   // const toggleSubNav = (subNav) =>
   //   setActiveSubNav(activeSubNav === subNav ? false : subNav);
-
-  const NavLink = ({ to, className, children, ...props }) => (
-    <Link
-      to={to}
-      className={`NavLink ${to === currentPath ? "active" : ""} ${className}`}
-      onClick={handleLinkClick}
-      onKeyDown={handleLinkClick}
-      {...props}
-    >
-      {children}
-    </Link>
-  );
 
   return (
     <nav className={`Nav ${active ? "Nav-active" : ""}`}>
@@ -46,18 +34,23 @@ const Navigation = (props) => {
         >
           <GatsbyImage
             className="black"
-            fluid={getImage(props.logo)}
+            image={getImage(logoBlack)}
             alt="Top Bike Tours Portugal"
           />
           <GatsbyImage
             className="white"
-            image={getImage(props.logoWhite)}
+            image={getImage(logoWhite)}
             alt="Top Bike Tours Portugal"
           />
         </Link>
         <div className="Nav--Links">
-          {props?.menu?.map((menuItem, index) => (
-            <NavLink key={`mi${index}`} to={menuItem.link}>
+          {menu?.map((menuItem, index) => (
+            <NavLink
+              currentPath={currentPath}
+              key={`mi${index}`}
+              to={menuItem.link}
+              handleLinkClick={handleLinkClick}
+            >
               {menuItem.display}
             </NavLink>
           ))}
@@ -74,11 +67,30 @@ const Navigation = (props) => {
   );
 };
 
-export default ({ subNav, menu, logo, logoWhite }) => (
+const NavLink = ({
+  to,
+  handleLinkClick,
+  currentPath,
+  className,
+  children,
+  ...props
+}) => (
+  <Link
+    to={to}
+    className={`NavLink ${to === currentPath ? "active" : ""} ${className}`}
+    onClick={handleLinkClick}
+    onKeyDown={handleLinkClick}
+    {...props}
+  >
+    {children}
+  </Link>
+);
+
+export default ({ subNav, menu, logoBlack, logoWhite }) => (
   <Location>
     {(route) => (
       <Navigation
-        logo={logo}
+        logoBlack={logoBlack}
         logoWhite={logoWhite}
         menu={menu}
         subNav={subNav}

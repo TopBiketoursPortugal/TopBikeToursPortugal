@@ -1,11 +1,12 @@
 import React from "react";
-import Img from "gatsby-image";
-import { graphql, Link, navigate } from "gatsby";
+import { GatsbyImage } from "gatsby-plugin-image";
+import { graphql, Link } from "gatsby";
 import Layout from "../layout/LayoutBootstrap";
 import Rating from "../components/Rating";
 import { HTMLContent } from "../components/Content";
 import Breadcrumb from "../components/Breadcrumb";
 import { sum } from "lodash-es";
+import scrollTo from "gatsby-plugin-smoothscroll";
 // import { Helmet } from "react-helmet";
 // import styled from "styled-components";
 // import { Col, Row, Container } from "@bootstrap-styled/v4";
@@ -37,15 +38,15 @@ const TourTemplate = ({
       tabIndex={0}
       onClick={(event) => {
         event.preventDefault();
-        navigate(path);
-      }}
-      onKeyDown={(event) => {
-        event.preventDefault();
-        navigate(path);
+        console.log(path);
+        scrollTo(path);
       }}
     >
       <div className="col-12 col-sm-4 no-gutter tourImageContainer">
-        <Img fluid={image.childImageSharp.fluid} alt={title} />
+        <GatsbyImage
+          image={image.childImageSharp.gatsbyImageData}
+          alt={title ?? "title"}
+        />
       </div>
       <div className="col-12 col-sm-8 tourBody">
         <div className="row h-100">
@@ -83,7 +84,7 @@ const ToursListTemplate = ({ tours }) => (
   <>
     {tours &&
       tours.map((tour, jindex) => (
-        <TourTemplate key={`ctt_${tour.id}`} {...tour} {...tour.frontmatter} />
+        <TourTemplate key={tour.id} {...tour} {...tour.frontmatter} />
       ))}
   </>
 );
@@ -139,7 +140,6 @@ export const pageQuery = graphql`
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       ...FeatureImage
-
       html
       frontmatter {
         title
@@ -150,9 +150,7 @@ export const pageQuery = graphql`
         afterList
         featuredImage {
           childImageSharp {
-            fluid(quality: 85, maxWidth: 1444) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
+            gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
           }
         }
         path
@@ -166,10 +164,10 @@ export const pageQuery = graphql`
       sort: { order: ASC, fields: [frontmatter___order] }
     ) {
       nodes {
+        id
         ...Meta
         ...Itinerary
         ...TourPricing
-        id
         frontmatter {
           templateKey
           key
@@ -185,9 +183,11 @@ export const pageQuery = graphql`
           tags
           image {
             childImageSharp {
-              fluid(quality: 85, maxWidth: 1444) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
+              gatsbyImageData(
+                quality: 85
+                placeholder: NONE
+                layout: FULL_WIDTH
+              )
             }
           }
           lang

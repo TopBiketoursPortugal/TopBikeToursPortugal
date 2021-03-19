@@ -1,5 +1,5 @@
 import React from 'react'
-import Img from 'gatsby-image'
+import { GatsbyImage } from "gatsby-plugin-image";
 import PropTypes from 'prop-types'
 import { graphql, Link } from 'gatsby'
 import Layout from '../layout/LayoutBootstrap'
@@ -186,10 +186,7 @@ function ToursListPage({ data }) {
                       <Tour>
                         <TourImageContainer>
                           {tour.image && (
-                            <Img
-                              fluid={tour.image.childImageSharp.fluid}
-                              alt={tour.title}
-                            />
+                            <GatsbyImage image={tour.image.childImageSharp.gatsbyImageData} alt={tour.title} />
                           )}
                         </TourImageContainer>
                         <div style={{ padding: '25px' }}>
@@ -243,7 +240,7 @@ function ToursListPage({ data }) {
                       </Tour>
                     </TourLink>
                   </TourColumn>
-                )
+                );
               })}
           </Row>
         </Container>
@@ -258,7 +255,7 @@ function ToursListPage({ data }) {
         )}
       </section>
     </Layout>
-  )
+  );
 }
 
 ToursListPage.propTypes = {
@@ -267,78 +264,70 @@ ToursListPage.propTypes = {
 
 export default ToursListPage
 
-export const pageQuery = graphql`
-  query ToursQuery($id: String!, $language: String!) {
-    toursPage: markdownRemark(id: { eq: $id }) {
-      ...Meta
-      ...FeatureImage
+export const pageQuery = graphql`query ToursQuery($id: String!, $language: String!) {
+  toursPage: markdownRemark(id: {eq: $id}) {
+    ...Meta
+    ...FeatureImage
+    id
+    html
+    frontmatter {
+      title
+      language
+      description
+      descriptionafter
+    }
+  }
+  allTourJson: allMarkdownRemark(
+    filter: {frontmatter: {packagetype: {eq: "PackageTour"}, language: {eq: $language}}}
+    sort: {order: ASC, fields: [frontmatter___order]}
+  ) {
+    nodes {
       id
+      excerpt(truncate: true, pruneLength: 200)
       html
+      fields {
+        slug
+        localizedPath
+        langKey
+        contentType
+      }
       frontmatter {
         title
-        language
+        subtitle
         description
-        descriptionafter
-      }
-    }
-    allTourJson: allMarkdownRemark(
-      filter: {
-        frontmatter: {
-          packagetype: { eq: "PackageTour" }
-          language: { eq: $language }
+        difficulty
+        distance
+        duration
+        minAge
+        language
+        image {
+          childImageSharp {
+            gatsbyImageData(quality: 85, placeholder: NONE, layout: FULL_WIDTH)
+          }
         }
-      }
-      sort: { order: ASC, fields: [frontmatter___order] }
-    ) {
-      nodes {
-        id
-        excerpt(truncate: true, pruneLength: 200)
-        html
-        fields {
-          slug
-          localizedPath
-          langKey
-          contentType
-        }
-        frontmatter {
-          title
-          subtitle
+        distanceUnit
+        durationUnit
+        groupSizeMax
+        groupSizeMin
+        highlight
+        mapUrl
+        itinerary {
+          day
           description
-          difficulty
-          distance
-          duration
-          minAge
-          language
-          image {
-            childImageSharp {
-              fluid(quality: 85, maxWidth: 1444) {
-                ...GatsbyImageSharpFluid_withWebp_noBase64
-              }
-            }
-          }
-          distanceUnit
-          durationUnit
-          groupSizeMax
-          groupSizeMin
-          highlight
-          mapUrl
-          itinerary {
-            day
-            description
-            title
-          }
-          path
-          physicality
-          skillLevel
-          tags
-          pricing {
-            price
-            discount
-          }
-          tourtype
-          packagetype
+          title
         }
+        path
+        physicality
+        skillLevel
+        tags
+        pricing {
+          price
+          discount
+        }
+        tourtype
+        packagetype
       }
     }
   }
+}
 `
