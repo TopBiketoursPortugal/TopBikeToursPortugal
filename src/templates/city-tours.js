@@ -6,7 +6,8 @@ import Rating from "../components/Rating";
 import { HTMLContent } from "../components/Content";
 import Breadcrumb from "../components/Breadcrumb";
 import { sum } from "lodash-es";
-import scrollTo from "gatsby-plugin-smoothscroll";
+import { nanoid } from "nanoid";
+
 // import { Helmet } from "react-helmet";
 // import styled from "styled-components";
 // import { Col, Row, Container } from "@bootstrap-styled/v4";
@@ -24,6 +25,7 @@ const TourTemplate = ({
   discount,
   rating,
   html,
+  id,
   excerpt,
   language
 }) => {
@@ -31,16 +33,16 @@ const TourTemplate = ({
     ? Math.round(sum(rating.map((r) => r.rating)) / rating.length)
     : 0;
   return (
-    <div
+    <Link
       className="row tour"
       aria-label="Go to"
       role="link"
       tabIndex={0}
-      onClick={(event) => {
-        event.preventDefault();
-        console.log(path);
-        scrollTo(path);
-      }}
+      // onClick={(event) => {
+      //   event.preventDefault();
+      //   navigate(path);
+      // }}
+      to={path}
     >
       <div className="col-12 col-sm-4 no-gutter tourImageContainer">
         <GatsbyImage
@@ -76,41 +78,53 @@ const TourTemplate = ({
           </div>
         </div>
       </div>
-    </div>
+    </Link>
   );
 };
 
 const ToursListTemplate = ({ tours }) => (
   <>
     {tours &&
-      tours.map((tour, jindex) => (
-        <TourTemplate key={tour.id} {...tour} {...tour.frontmatter} />
-      ))}
+      tours.map((tour, jindex) => {
+        // let id = tour?.id.length !== 0 ? `ctt${tour?.id}` : `ctt${jindex}`;
+        let id = nanoid();
+        console.log(`tourID: ${tour.id}, id:${id}`);
+        return <TourTemplate key={id} {...tour} {...tour.frontmatter} />;
+      })}
   </>
 );
 
-const CityToursTemplate = ({ tours, body, afterList }) => (
-  <section className="container tourList">
-    <HTMLContent className="row" content={body} />
-    <ToursListTemplate tours={tours} />
-    {afterList && <HTMLContent content={afterList} />}
-  </section>
-);
+const CityToursTemplate = ({ tours, body, afterList }) => {
+  console.log(JSON.stringify(tours));
+  return (
+    <section className="container tourList">
+      <HTMLContent className="row" content={body} />
+      <ToursListTemplate tours={tours} />
+      {afterList && <HTMLContent content={afterList} />}
+    </section>
+  );
+};
 
 const CityToursPage = ({ data }) => {
-  const { page, tours } = data;
-  const language = page.frontmatter.language;
+  const {
+    page: {
+      frontmatter: { language, meta, title, feature, path, slug },
+      html
+    },
+
+    allMarkdownRemark: { tours }
+  } = data;
   const toursFiltered = filter(
-    tours.nodes,
+    tours,
     (t) => t.frontmatter.language === language
   );
   // console.log(JSON.stringify(toursFiltered));
   // console.log(JSON.stringify(data.page.frontmatter.meta));
   return (
     <Layout
-      meta={page.frontmatter.meta || false}
-      title={page.frontmatter.title || false}
-      feature={page.frontmatter.feature}
+      meta={meta || false}
+      title={title || false}
+      feature={feature}
       language={language}
     >
       <>
@@ -118,15 +132,15 @@ const CityToursPage = ({ data }) => {
           routes={[
             { displayName: "Home", url: "/" },
             {
-              displayName: page.frontmatter.title,
-              url: page.frontmatter.path || page.frontmatter.slug
+              displayName: title,
+              url: path || slug
             }
           ]}
         />
         <CityToursTemplate
           tours={toursFiltered}
-          body={page.html}
-          {...page.frontmatter}
+          body={html}
+          {...data.page.frontmatter}
         />
       </>
     </Layout>
@@ -156,14 +170,14 @@ export const pageQuery = graphql`
         path
       }
     }
-    tours: allMarkdownRemark(
+    allMarkdownRemark(
       filter: {
         fileAbsolutePath: { regex: "/.+/tours/.+/" }
         frontmatter: { packagetype: { eq: "SingleTour" } }
       }
       sort: { order: ASC, fields: [frontmatter___order] }
     ) {
-      nodes {
+      tours: nodes {
         id
         ...Meta
         ...Itinerary
