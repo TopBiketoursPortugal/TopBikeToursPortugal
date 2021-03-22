@@ -28,6 +28,11 @@ dates:
     body: "**[The Silver Coast - Porto to Coimbra - Guided Bike
       tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)**"
   - type: Date
+    date: 2021-08-07T17:47:26.108Z
+    body: "**[The Silver Coast 2- West Coast and Sintra - Guided Bike tour
+      Plus](https://topbiketoursportugal.com/from-coimbra-to-lisbon-bike-tour/)\
+      **"
+  - type: Date
     date: 2021-09-12T12:13:51.688Z
     body: "[The Way of St. James - Porto to Santiago de Compostela along
       the  Atlantic coast easy - Guided bike
