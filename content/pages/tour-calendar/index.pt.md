@@ -17,11 +17,6 @@ feature:
   textcolor: white
   title: Calendário
 dates:
-  - body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
-      Atlantico - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-    date: 2021-06-29T11:52:25.780Z
-    type: Date
   - type: Date
     date: 2021-08-01T15:59:20.583Z
     body: "[Costa da Prata - Porto a Coimbra Guided Bike
