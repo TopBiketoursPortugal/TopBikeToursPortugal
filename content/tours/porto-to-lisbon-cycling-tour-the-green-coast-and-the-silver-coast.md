@@ -258,9 +258,9 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 11 lunches (5 lunches reduced route)
+      - title: 11 lunches (6 lunches reduced route)
         value: No
-      - title: 11 Dinners (5 dinners reduced route)
+      - title: 11 Dinners (6 dinners reduced route)
         value: No
       - title: Personal Accident Insurance
         value: No
@@ -268,19 +268,19 @@ pricing:
         value: No
       - title: Min. Participants
         value: "1"
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.360€
+        value: 1.459€
       - title: "* Regular season"
-        value: 1.480€
+        value: 1.539€
       - title: "* High Season"
-        value: 1.580€
+        value: 1.599€
       - title: "* Summer Season"
-        value: 1.630€
+        value: 1.659€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.299€
-    price: 1380
+        value: +972€
+    price: 1459
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -304,9 +304,9 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 11 lunches (5 lunches reduced route)
+      - title: 11 lunches (6 lunches reduced route)
         value: No
-      - title: 11 Dinners (5 dinners reduced route)
+      - title: 11 Dinners (6 dinners reduced route)
         value: No
       - title: Personal Accident Insurance
         value: Yes
@@ -314,19 +314,19 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: "4"
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.689€
+        value: 1.840€
       - title: "* Regular season"
-        value: 1.789€
+        value: 1.920€
       - title: "* High Season"
-        value: 1.889€
+        value: 1.980€
       - title: "* Summer Season"
-        value: 1.939€
+        value: 2.040€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.800€
-    price: 1689
+        value: +1.226€
+    price: 1840
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -350,9 +350,9 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 11 lunches (5 lunches reduced route)
+      - title: 11 lunches (6 lunches reduced route)
         value: Yes
-      - title: 11 Dinners (5 dinners reduced route)
+      - title: 11 Dinners (6 dinners reduced route)
         value: Yes
       - title: Personal Accident Insurance
         value: Yes
@@ -360,19 +360,19 @@ pricing:
         value: Yes
       - title: Min. Participants
         value: "4"
-      - title: 6 Nights / 7 Days
+      - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.260€
+        value: 2.401€
       - title: "* Regular season"
-        value: 2.360€
+        value: 2.481€
       - title: "* High Season"
-        value: 2.460€
+        value: 2.541€
       - title: "* Summer Season"
-        value: 2.510€
+        value: 2.601€
       - title: 12 Nights /13 Days (price per person)
-        value: +2.269€
-    price: 2260
+        value: +1.600€
+    price: 2401
 afterpricing: >-
   **\*Season:**
 
@@ -477,12 +477,14 @@ Day 1 - Porto reception
 
 Day 2 - Porto - Furadouro ( 47 Km)
 
-Day 3 - Furadouro - Aveiro ( 45 KM)
+Day 3 - Furadouro - Mira ( 65 KM)
 
-Day 4 - Aveiro - Figueira da Foz ( 75 Km)
+Day 4 - Mira - Figueira da Foz ( 55 Km)
 
-Day 5 - Figueira da Foz – São Pedro de Moel (65 KM)
+Day 5 - Figueira da Foz – São Pedro de Moel ( 65 KM)
 
-Day 6: -São Pedro de Moel  – Óbidos (76 Km) 
+Day 6: -São Pedro de Moel  – Nazaré ( 29 km)
 
-Day 7 - Trasnfer to lisbon or Porto
+Day 7: -Nazaré - Óbidos (47 Km) 
+
+Day 8 - Transfer to Lisbon or Porto
