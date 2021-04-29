@@ -85,7 +85,7 @@ itinerary:
       Costa Nova do Prado, where the beaches are intertwined with the rural,
       creating a unique environment where there is the opportunity to view the
       famous haystack houses on the waterfront, easily recognizable by the
-      paintings on vertical colored bands.  [Maçarico
+      paintings on vertical colored bands. Hotel 4 *  [Maçarico
       Hotel](https://www.macaricobeachhotel.com/)
     location:
       lat: "40.4556419"
