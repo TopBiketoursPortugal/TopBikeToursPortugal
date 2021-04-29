@@ -64,7 +64,7 @@ itinerary:
       dos Sete": a course of approximately 7 km, which combines sea, woods and
       beach, with pure forest, parks, fountains and streams. The typical dishes
       that stand out are the: "Vidreiro" soup, Cod soup and Rabbit stew. Hotel 4
-      *: Hotel Mar e Sol '
+      * [Hotel Mar e Sol](https://www.hotelmaresol.com/)'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
