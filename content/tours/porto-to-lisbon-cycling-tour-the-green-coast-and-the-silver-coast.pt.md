@@ -41,8 +41,10 @@ itinerary:
       lat: "41.1494512"
       lng: "-8.6107884"
     title: Day 1 - Porto reception
+    description: "Hotel 4 stars: [Porto Trindade
+      Hotel](https://www.portotrindadehotel.com/)"
   - day: "2"
-    description: A saída do Porto faz-se por uma das pontes mais famosas de
+    description: "A saída do Porto faz-se por uma das pontes mais famosas de
       Portugal, a Ponte Don Luís, entrando assim na cidade de Vila Nova de Gaia.
       A origem desta cidade remonta a um castro celta, posteriormente integrada
       no Império Romano. Aqui pode-se visitar as mundialmente famosas adegas de
@@ -57,13 +59,14 @@ itinerary:
       oportunidade de ver a famosa Capela dos Passos, classificada como
       Monumento de Interesse Nacional e ainda diversos exemplos de azulejos
       típicos portugueses, não só nas fachadas de edifícios públicos, como
-      também em casas de propriedade privada.
+      também em casas de propriedade privada. Hotel 4 stars: [Furadouro
+      Hotel](https://www.furadourohotel.com/)"
     location:
       lat: "40.87313436"
       lng: "-8.67736816"
-    title: Dia 1 - Recepção no Porto
+    title: Dia 2 - Porto - Furadouro ( 47 Km)
   - day: "3"
-    description: Seguindo pela costa em direcção ao sul, percorrerá uma estrada
+    description: "Seguindo pela costa em direcção ao sul, percorrerá uma estrada
       secundária durante grande parte do dia, atravessando várias aldeias de
       pescadores, incluindo a Torreira, possuidora de uma longa e fantástica
       praia. Atravessará ainda a famosa reserva natural das Dunas de São
@@ -72,7 +75,8 @@ itinerary:
       será iniciado via ferry boat, atravessando a ria, para finalmente realizar
       os quilómetros finais até Aveiro. Aqui pode-se visitar o Mosteiro de
       Jesus, observar os azulejos da estação de comboio e fazer um passeio de
-      barco pela Ria de Aveiro.
+      barco pela Ria de Aveiro. Accommodation, Hotel 4 stars: [Moliceiro
+      Hotel](https://www.hotelmoliceiro.pt/)"
     location:
       lat: "40.640496"
       lng: "8.6537841"
@@ -81,17 +85,19 @@ itinerary:
     description: Neste dia a rota leva-o a Ílhavo, localidade da empresa Vista
       Alegre, onde se fabrica porcelana portuguesa, fundada em 1815. Pode-se
       apreciar a fantástica paisagem da famosa Costa Nova do Prado, onde as
-      praias se interligam com o ambiente rural, criando um ambiente único.
+      praias se interligam com o ambiente rural, criando um ambiente
+      único.  Hotel 4 *  [Maçarico Hotel](https://www.macaricobeachhotel.com/)
     location:
       lat: "40.4556419"
       lng: "-8.8026211"
     title: Dia 4 - Aveiro - Praia de Mira (40 Km)
   - day: "5"
-    description: A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A
+    description: "A pouco conhecida e bela Lagoa da Barrinha é o foco deste dia. A
       paisagem progride desde a beira-do-mar e da grande extensão de dunas de
       areia, até à lagoa e às florestas aromáticas de pinho. A Rainha da Costa
       de Prata, Figueira da Foz, é o destino do dia. É aqui que o belo Rio
-      Mondego se junta ao Oceano.
+      Mondego se junta ao Oceano.  Hotel 4 stars: [Sweet Atlantic
+      Hotel](http://www.sweethotels.pt/)"
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
@@ -111,13 +117,14 @@ itinerary:
       um percurso de aproximadamente 7 km, que combina mar, bosques e praia, a
       pureza das floresta, parques, fontes e riachos. Um ponto de atracção
       turística é a sua gastronomia única e vincada, como a sopa "Vidreiro", a
-      sopa de bacalhau e o ensopado de coelho.'
+      sopa de bacalhau e o ensopado de coelho. Hotel 4 * [Hotel Mar e
+      Sol](https://www.hotelmaresol.com/)'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
     title: Dia 6 - Figueira da Foz – São Pedro de Moel (65 KM)
   - day: "7"
-    description: Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na
+    description: 'Nazaré, uma cidade à beira-mar única na sua beleza e tranquila na
       sua paisagem, possui uma vista deslumbrante no topo de um elevado
       penhasco, cujo o acesso é facilitado por um elevador funicular ou
       carro.  O grande atractivo desta cidade são as ondas e o surf, graças ao
@@ -126,7 +133,8 @@ itinerary:
       habitantes, o maior desfiladeiro submerso na Europa, com cerca de 170
       quilómetros ao longo da costa e com 5000 metros de profundidade. Neste
       percurso irá pedalar por praias de renome e onde encontrará as maiores
-      ondas da Europa, como a Praia do Norte e a região da Nazaré.
+      ondas da Europa, como a Praia do Norte e a região da Nazaré. Hotel 4 *:
+      [Hotel Praia](http://www.hotelpraia.com/)'
     location:
       lat: "39.60004501"
       lng: "-9.07155991"
@@ -150,13 +158,14 @@ itinerary:
       uma única ilha. A sua divisão posterior deu origem à baía de São Martinho
       do Porto. Graças a todo este contexto histórico e à sua beleza natural,
       foi considerada a melhor praia para ir com a família no guia de 2015
-      praias de eDreams.'
+      praias de eDreams. Hotel 4 *: [Hotel real de Óbidos
+      ](http://www.hotelrealdobidos.com/pt/)'
     location:
       lat: "39.3680634"
       lng: "-9.18730437"
     title: Dia 8 - Nazaré – Óbidos (47 Km)
   - day: "9"
-    description: RetRegressando à zona costeira em direcção à cidade de Peniche,
+    description: "RetRegressando à zona costeira em direcção à cidade de Peniche,
       terá oportunidade para uma paragem de bicicleta na Lagoa de Óbidos, com
       uma extensão entre os municípios de Óbidos e Caldas da Rainha. É uma
       barreira natural que separa o Oceano Atlântico e o bioma marinho do
@@ -176,17 +185,18 @@ itinerary:
       consistently windy, which allows for good surfing, with decent waves and
       supertubes. Berlengas islands, about 10 kilometres (6 mi) offshore from
       the peninsula, are part of the municipality. They form one of the world's
-      first nature reserves. You will also be able to make a stop at "Lagoa de
-      Óbidos", which is a lagoon that extends between the municipalities of
+      first nature reserves. You will also be able to make a stop at \"Lagoa de
+      Óbidos\", which is a lagoon that extends between the municipalities of
       Óbidos and Caldas da Rainha. It is a natural barrier that separate the
-      Atlantic Ocean and marine biome from the river ecosystem of "Foz do
-      Arelho" formed by lateral dunes.
+      Atlantic Ocean and marine biome from the river ecosystem of \"Foz do
+      Arelho\" formed by lateral dunes. Hotel 4 *: [MH
+      Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx)"
     location:
       lat: "39.33722515"
       lng: "-9.31285284"
     title: Dia 9 - Óbidos – Peniche (35 Km)
   - day: "10"
-    description: Deixando Peniche mas continuando ao longo da costa, o próximo
+    description: 'Deixando Peniche mas continuando ao longo da costa, o próximo
       destino é a Ericeira. Esta cidade foi um popular retiro de verão para
       muitas das famílias de Lisboa nas décadas de 40 e 50 do século XX. Hoje é
       um destino popular para turistas locais e visitantes, bem como surfistas
@@ -198,13 +208,14 @@ itinerary:
       passagem durante este dia e é um lugar que é propício para uma grande
       parte de desportos de onda. Todos os anos há o "Ocean Spirit" festival de
       desportos de onda, onde são realizadas competições internacionais de
-      vários tipos.
+      vários tipos. Hotel 4 *: [Vila Galé
+      Ericeira](http://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-ericeira)'
     location:
       lat: "38.9631655"
       lng: "-9.4170098"
     title: Dia 10 -Peniche – Ericeira (68 Km)
   - day: "11"
-    description: Pedale para o interior para descobrir a cidade de Sintra. Este
+    description: "Pedale para o interior para descobrir a cidade de Sintra. Este
       lugar é conhecido pelos muitos monumentos arquitectónicos românticos do
       século XIX que possui, o que resultou na classificação pela UNESCO como
       Património da Humanidade. Para além das Montanhas de Sintra e do Parque
@@ -212,13 +223,14 @@ itinerary:
       com retiros reais, propriedades, castelos e outros edifícios, entre os
       quais o Castelo dos Mouros, o Palácio Nacional da Pena e o Palácio
       Nacional de Sintra, onde a herança cultural se mantém até aos dias de
-      hoje.
+      hoje. Hotel 4 *: [Sintra Boutique
+      Hotel  ](http://sintraboutiquehotel.com)"
     location:
       lat: "38.79846"
       lng: "-9.3881"
     title: Dia 11 -Ericeira – Sintra (27 Km)
   - day: "12"
-    description: Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um
+    description: "Pedale até ao oeste de Lisboa e chegará a Cascais, considerado um
       subúrbio cosmopolita da capital portuguesa e um dos municípios mais ricos
       de Portugal. A antiga aldeia piscatória ganhou fama com a presença da
       família real de portuguesa no final do século XIX e início do século XX.
@@ -230,6 +242,9 @@ itinerary:
       obrigatório a visitar, visto que é um dos 13 Parques Naturais de Portugal
       e porque o mesmo inclui a Serra de Sintra, montanha que se estende até à
       costa e o Cabo da Roca, o ponto continental mais ocidental da Europa.
+      Hotel 4 *: [Hotel Eurostars Cascais
+      ](https://www.eurostarshotels.com.pt/eurostars-cascais.html?td=l00rl00&id\
+      _referer=GMB&utm_source=google&utm_medium=gmb&utm_campaign=googlemb)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
