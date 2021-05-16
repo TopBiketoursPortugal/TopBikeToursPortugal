@@ -21,7 +21,7 @@ toursection:
     gastronómico. Conhecedores de excelentes serviços de hotelaria e catering,
     assim como, de caminhos e paisagens que surpreendem e superam as
     expectativas."
-  heading: "# Tours populares"
+  heading: "## Tours populares"
 meta:
   description: "Passeios de bicicleta em Portugal: Confira nossos passeios de
     bicicleta pela cidade do Porto, bem como nossas férias de bicicleta guiadas
