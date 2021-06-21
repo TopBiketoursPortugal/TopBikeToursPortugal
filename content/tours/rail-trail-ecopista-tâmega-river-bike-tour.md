@@ -87,7 +87,7 @@ pricing:
         value: Yes
       - title: Guide riding with your group
         value: Extra 60€ per group
-      - title: 2 wine caves visit + boat cruise
+      - title: 2 wine caves visit
         value: Yes
       - title: Lunch
         value: Yes
@@ -129,7 +129,7 @@ pricing:
         value: No
       - title: Lunch
         value: No
-      - title: 2 wine caves visit + boat cruise
+      - title: 2 wine caves visit
         value: Yes
       - title: Mechanical Assistance
         value: No
@@ -168,7 +168,7 @@ pricing:
         value: No
       - title: Guide riding with your group
         value: No
-      - title: 2 wine caves visit + boat cruise
+      - title: 2 wine caves visit
         value: Yes
       - title: Lunch
         value: No
