@@ -84,19 +84,18 @@ itinerary:
       lng: "-7.23094225"
     title: "Day 4: Figueira de Castelo Rodrigo – Marialva (60 km)"
   - day: "5"
-    description: "EspExpect some challenges as you will pass by Mêda and Ranhados,
-      the highest points of this route. From this stage on, we will enjoy the
-      unique mountain carved landscapes, that which portraits the inhabitants of
-      Douro, where vineyards stand the test of time.ere alguns desafios a medida
-      que passará por Mêda e Ranhados, os pontos mais elevado deste percurso.
-      Desde estes pontos, poderá desfrutar das paisagens únicas das montanhas,
-      que transborda o retrato dos habitantes durienses, onde os vinhares
-      resistem ao teste do tempo. Hotel 4 *: [Penedono
+    description: "Expect some challenges as you will pass by Mêda and Ranhados, the
+      highest points of this route. From this stage on, we will enjoy the unique
+      mountain carved landscapes, that which portraits the inhabitants of Douro,
+      where vineyards stand the test of time. Choose the longest route and enjoy
+      Trancoso village. With a past that parallels the history of Portugal,
+      Trancoso is a town whose narrow streets and stone houses preserve the
+      medieval atmosphere  Hotel 4 *: [Penedono
       Hotel](http://www.hotelmedieval.pt/)"
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
-    title: "Day 5: Marialva – Penedono (27 km)"
+    title: "Day 5: Marialva – Penedono (27 km or 72 km)"
   - day: "6"
     description: 'Enjoy a free day, or cycle a loop, to get to know surrounding
       villages. In case you opt for cycling, you will leave Penedono and find
