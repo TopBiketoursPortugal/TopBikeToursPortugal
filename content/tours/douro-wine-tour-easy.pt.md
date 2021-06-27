@@ -90,12 +90,15 @@ itinerary:
     description: "Espere alguns desafios a medida que passará por Mêda e Ranhados,
       os pontos mais elevado deste percurso. Desde estes pontos, poderá
       desfrutar das paisagens únicas das montanhas, que transborda o retrato dos
-      habitantes durienses, onde os vinhares resistem ao teste do tempo. Hotel 4
-      *: [Penedono Hotel](http://www.hotelmedieval.pt/)"
+      habitantes durienses, onde os vinhares resistem ao teste do tempo. Escolha
+      o caminho mais longo e desfrute da vila de Trancoso. Com um passado
+      paralelo à história de Portugal, Trancoso é uma vila cujas ruas estreitas
+      e casas de pedra preservam o ambiente medieval. Hotel 4 *: [Penedono
+      Hotel](http://www.hotelmedieval.pt/)"
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
-    title: "Dia 5: Marialva – Penedono (27 km)"
+    title: "Dia 5: Marialva – Penedono (27 km ou 72 Km)"
   - day: "6"
     description: 'Desfrute de um dia livre, circulando as vilas para conhecer a alma
       de Penedono. Em caso de optar por continuar a descobrir em bicicleta, irá
