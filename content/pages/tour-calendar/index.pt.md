@@ -26,10 +26,6 @@ dates:
     date: 2021-09-26T14:24:37.468Z
     body: "[Costa da Prata - Porto a Coimbra Guided Bike
       tour](https://topbiketoursportugal.com/costa-da-prata-rota-1/)"
-  - type: Date
-    date: 2021-10-03T14:25:30.300Z
-    body: "[Costa da Prata - Porto a Coimbra Guided Bike
-      tour](https://topbiketoursportugal.com/costa-da-prata-rota-1/)"
 ---
 # Calendário
 
