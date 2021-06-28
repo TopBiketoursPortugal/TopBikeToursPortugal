@@ -27,10 +27,6 @@ dates:
     date: 2021-09-26T14:21:14.515Z
     body: "**[The Silver Coast - Porto to Coimbra - Guided Bike
       tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)**"
-  - type: Date
-    date: 2021-10-03T14:22:50.522Z
-    body: "**[The Silver Coast - Porto to Coimbra - Guided Bike
-      tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)**"
 ---
 # Calendar
 
