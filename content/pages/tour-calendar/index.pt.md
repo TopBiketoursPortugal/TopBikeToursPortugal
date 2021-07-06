@@ -26,6 +26,21 @@ dates:
     date: 2021-09-26T14:24:37.468Z
     body: "[Costa da Prata - Porto a Coimbra Guided Bike
       tour](https://topbiketoursportugal.com/costa-da-prata-rota-1/)"
+  - type: Date
+    date: 2022-05-07T12:19:19.669Z
+    body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
+      Atlantico - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
+    date: 2022-06-05T12:19:20.046Z
+    body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
+      Atlantico - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
+    date: 2022-09-11T12:19:20.448Z
+    body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
+      Atlantico - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
 ---
 # Calendário
 
