@@ -14,7 +14,7 @@ showHome: false
 reviewSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r796310266-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 score: 5
 author:
-  country: Brazil
+  country: Brasil
   avatar: /img/emmet.jpg
   name: Wania
   reviewerSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r796310266-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
