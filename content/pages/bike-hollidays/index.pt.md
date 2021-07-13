@@ -61,7 +61,7 @@ descriptionafter: >-
   * **Com bicicleta eléctrica todas as classificações dos caminhos estão sujeitas a revisão, e serão maioritariamente fáceis para a maioria dos ciclistas.**
 
 
-  **NOTAS:** Passeios em bicicleta com guia disponível nas seguintes línguas: Português, Espanhol e Inglês. Fold N'Visit - Rent a Bike, Unipessoal Lda está registada no Turismo de Portugal com o número RNAAT 7/2014.
+  **NOTAS:** Passeios em bicicleta com guia disponível nas seguintes línguas: Português, Espanhol e Inglês. Top Biketours Portugal, Unipessoal Lda está registada no Turismo de Portugal com o número RNAAT 7/2014.
 
 
   O seguro de responsabilidade civil e seguro de acidentes pessoais estão incluídos apenas em passeios guiados de bicicleta.
