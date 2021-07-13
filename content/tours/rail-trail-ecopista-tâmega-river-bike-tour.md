@@ -70,6 +70,14 @@ gallery:
     alt: Pinhão viewpoint
   - image: /img/viewpoint-farm-tasting-bike-tour.jpg
     alt: "Fram view point "
+  - image: /img/bicycle-tour-douro-valley.jpg
+    alt: dourovalley bike tour
+  - image: /img/dourovalley-bike-tour.jpg
+    alt: dourovalley bike tour
+  - image: /img/full-day-bike-tour-douro-valley.jpg
+    alt: full day bike tour douro valley
+  - image: /img/regua-and-pinhao-bike-tour.jpg
+    alt: regua and pinhao bike tour
 pricing:
   - bestValue: false
     highSeasonPriceSupplement: 100
