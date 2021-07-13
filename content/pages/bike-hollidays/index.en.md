@@ -53,7 +53,9 @@ descriptionafter: >-
 
 
   **NOTES:** Cycling Holidays with guide available in the following languages: Portugues, Spanish and English.
-   Fold N'Visit - Rent a Bike, Unipessoal Lda is iregistered in Tourism of Portugal with RNAAT number 7/2014.
+
+  Top Biketours Portugal, Unipessoal Lda is iregistered in Tourism of Portugal with RNAAT number 7/2014.
+
 
   The liability insurance and personal accidents insurance are included only in guided Bike tours.
 meta:
