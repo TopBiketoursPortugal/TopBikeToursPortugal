@@ -12,7 +12,7 @@ quote: >-
 date: 2021-07-13T13:08:30.760Z
 showHome: false
 reviewSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r796310266-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
-score: 0
+score: 5
 author:
   country: Brasil
   avatar: /img/emmet.jpg
