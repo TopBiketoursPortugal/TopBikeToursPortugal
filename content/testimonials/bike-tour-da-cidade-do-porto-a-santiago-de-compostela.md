@@ -16,7 +16,7 @@ showHome: false
 reviewSource: https://www.tripadvisor.co.uk/ShowUserReviews-g189180-d4105907-r531755392-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 score: 5
 author:
-  country: Brazil
+  country: Brasil
   avatar: /img/emmet.jpg
   name: Jucelaine
 relatedProduct: SANTIAGO 01
