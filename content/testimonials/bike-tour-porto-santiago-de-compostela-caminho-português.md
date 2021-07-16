@@ -20,7 +20,7 @@ showHome: false
 reviewSource: https://www.tripadvisor.co.uk/ShowUserReviews-g189180-d4105907-r577454169-Top_Bike_tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 score: 5
 author:
-  country: Rio de Janeiro, Brasil
+  country: Rio de Janeiro, Brazil
   avatar: /img/emmet.jpg
   name: Ilana
 relatedProduct: SANTIAGO 01
