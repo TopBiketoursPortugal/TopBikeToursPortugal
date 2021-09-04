@@ -37,7 +37,7 @@ blogsection:
 
 Our mission is to provide you with relaxing and enjoyable cycling holiday in Portugal, complemented with historical points, tasty gastronomy and wonderful views.
 
-The **[bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
+The **[bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)** in Portugal we offer are designed for recreational cyclists. For that purpose, we mostly use touring bicycles. Mountain bikes are used depending on the bike tour.
 
 Road bikes are still available for those craving to step up to harder challenges and adventure themselves in Douro Valley.
 
@@ -48,6 +48,8 @@ Safety is our number one priority and we will always be nearby to help you on yo
 We choose the best restaurants and hotels for your needs. Lunch and dinner, even if not included in our guided packages, will still be organized for your group.
 
 Our store is in the city of Porto, where we also do city bike tours. Although our base is in the North of Portugal, we operate all around the country.
+
+Take a look to our [Portugal Bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)!
 
 ![bike tours portugal](/img/bike-tours-in-portugal.jpg "bike tours portugal")
 
