@@ -18,17 +18,7 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2021-09-12T12:13:51.688Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2021-09-26T14:21:14.515Z
-    body: "**[The Silver Coast - Porto to Coimbra - Guided Bike
-      tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)**"
-  - type: Date
-    date: 2021-04-28T07:35:56.674Z
+    date: 2022-04-27T23:00:00.000Z
     body: >-
       [Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)
