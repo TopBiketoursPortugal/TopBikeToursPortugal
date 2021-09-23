@@ -12,16 +12,18 @@ meta:
   robots: INDEX
   title: Portugal Bike Tours - Cycling Holidays Portugal
 toursection:
-  description: "## Popular bike tours in Portugal"
+  description: |-
+    ## NORTH TO SOUTH
+
+    ## BICYCLE HOLIDAYS PORTUGAL
+
+    ## Popular bike tours in Portugal
   descriptionafter: >-
     ### ***Bike tours Portugal***
 
 
     The combined experience of our team allows us to combine cycling with the historical component and gastronomy. Connoisseurs of excellent hotel services and catering, paths and landscapes that surprise and exceeded expectations.
-  heading: |-
-    ## NORTH TO SOUTH
-
-    ## BICYCLE HOLIDAYS PORTUGAL
+  heading: "##"
 blogsection:
   description: "## Popular bike tours in Portugal"
   descriptionafter: >-
