@@ -52,6 +52,14 @@ dates:
       the  Atlantic coast easy - Guided bike
       tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
       r/)"
+  - type: Date
+    date: 2022-09-25T18:21:26.379Z
+    body: >-
+      [The Silver Coast: Porto to Coimbra bike
+      tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)
+
+
+      * **FULL**
 ---
 # Calendar
 
