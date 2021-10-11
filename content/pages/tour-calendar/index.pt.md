@@ -31,6 +31,11 @@ dates:
       Atlantico - Guided bike
       tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
   - type: Date
+    date: 2022-05-14T15:51:32.846Z
+    body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
+      Atlantico - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
     date: 2022-05-21T07:39:16.517Z
     body: >-
       [Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)[
