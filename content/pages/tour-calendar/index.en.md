@@ -53,7 +53,7 @@ dates:
       tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
       r/)"
   - type: Date
-    date: 2021-06-27T12:40:40.118Z
+    date: 2022-06-27T12:40:40.118Z
     body: "[The Silver Coast: Porto to Coimbra bike
       tour](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
   - type: Date
