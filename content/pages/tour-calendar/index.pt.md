@@ -63,6 +63,10 @@ dates:
 
 
       * **FULL**
+  - type: Date
+    date: 2022-06-27T12:41:35.091Z
+    body: "[Costa da Prata: Porto a Coimbra bike
+      tour](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/)"
 ---
 # Calendário
 
