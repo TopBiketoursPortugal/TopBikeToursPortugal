@@ -135,10 +135,10 @@ pricing:
         value: No
       - title: Guide riding with your group
         value: No
-      - title: Lunch
-        value: No
       - title: 2 wine caves visit
         value: Yes
+      - title: Lunch
+        value: No
       - title: Mechanical Assistance
         value: No
       - title: Liability Insurance
