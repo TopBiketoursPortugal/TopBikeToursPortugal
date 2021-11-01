@@ -121,7 +121,7 @@ itinerary:
       imponente, Régua, que será a última área para visitar, onde pode
       contemplar uma das cidades que mais representa este passeio: a região
       Duriense, para por fim regressar ao Porto. Farm: [Quinta da
-      Pacheca](http://www.hotelmedieval.pt/)"
+      Pacheca](https://quintadapacheca.com/)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"
