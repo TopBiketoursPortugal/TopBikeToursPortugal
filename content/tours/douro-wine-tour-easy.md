@@ -114,7 +114,7 @@ itinerary:
   - day: "7"
     description: "From Penedono we will once again ride along the Douro River. Régua
       is the last frontier to overcome on your way to Porto. Farm: [Quinta da
-      Pacheca](http://www.hotelmedieval.pt/)"
+      Pacheca](https://quintadapacheca.com/)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"
