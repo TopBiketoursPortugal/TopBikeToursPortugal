@@ -214,12 +214,10 @@ afterpricing: |-
   * Prices can suffer updates due high season, holidays or weekends
   * Beverages are not included at lunch and dinner when included in the package
 
-
-
   **Extras**
 
-  * Electric bicycles price Option 1: 30€
-  * Electric bicycles price Option 2: 25€
+  * Electric bicycles price supported bike tour and Option 1: 30€
+  * Electric bicycles price Option 2: 50€
   * Supplement for single room option 1: 70€
   * Supplement for single room option 2: 90€ 
   * Solo traveler: 120 €
