@@ -17,7 +17,7 @@ score: 5
 author:
   country: USA
   avatar: /img/emmet.jpg
-  name: Cool Star
+  name: Megan Dempsey
   reviewerSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r812401972-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 relatedProduct: SANTIAGO 01
 ---
