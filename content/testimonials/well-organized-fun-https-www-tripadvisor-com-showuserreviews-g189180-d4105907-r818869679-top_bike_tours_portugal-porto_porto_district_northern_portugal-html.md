@@ -9,7 +9,7 @@ date: 2021-11-18T15:11:11.201Z
 showHome: false
 score: 5
 author:
-  country: USA
+  country: California, USA
   avatar: /img/emmet.jpg
   name: Elain
   reviewerSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r818869679-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
