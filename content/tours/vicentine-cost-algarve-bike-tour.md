@@ -178,8 +178,8 @@ itinerary:
       whitewashed walls, bands of bright color, carved stonework around doors
       and windows. Hotel 4 *: [Pousada
       Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
-      -my-businessde portas e janelas.
-      Ho&utm_medium=organicsearch&utm_campaign=pousada-sagres)"
+      -my-businessde%20portas%20e%20janelas.%20Ho&utm_medium=organicsearch&utm_\
+      campaign=pousada-sagres/)"
     location:
       lat: "37.00901414"
       lng: "-8.93903017"
