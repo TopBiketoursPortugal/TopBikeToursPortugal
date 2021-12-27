@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 8
 path: /porto-to-lisbon-cycling-tour--en/
 productcode: SC 03
-featured: false
+featured: true
 language: en
 image: /img/sintra-photo.jpg
 title: Porto to Lisbon Cycling tour -  The green Coast and the Silver Coast
