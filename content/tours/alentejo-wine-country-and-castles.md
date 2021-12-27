@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 7
+order: 8
 path: /alentejo-wine-heritage-bicycle-tour
 productcode: AL01
 featured: false
