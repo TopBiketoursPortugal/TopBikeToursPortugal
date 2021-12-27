@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 2
 path: /costa-da-prata-rota-1/
 productcode: SC 01
-featured: true
+featured: false
 language: pt
 image: /img/cycling-plan-in-coasta-nova.jpg
 title: "Costa da Prata: Porto a Coimbra biketour"
