@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 5
+order: 7
 path: /costa-da-prata-2/
 productcode: SC 02
 featured: false
