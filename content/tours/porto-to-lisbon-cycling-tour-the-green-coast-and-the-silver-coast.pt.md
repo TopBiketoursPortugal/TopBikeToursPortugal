@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 5
 path: /pt-porto-lisboa-bike-tour/
 productcode: SC 03
 featured: true
