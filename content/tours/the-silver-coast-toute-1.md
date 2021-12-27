@@ -3,7 +3,7 @@ templateKey: tour-gen
 order: 2
 path: /porto-to-coimbra-biketour/
 productcode: SC 01
-featured: true
+featured: false
 language: en
 image: /img/cycling-plan-in-coasta-nova.jpg
 title: The Silver Coast - Porto to Coimbra
