@@ -1,6 +1,6 @@
 ---
 templateKey: tour-gen
-order: 6
+order: 7
 path: /cycling-tours-douro-wine/
 productcode: DOURO 02
 featured: false
