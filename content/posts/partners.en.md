@@ -24,3 +24,5 @@ languagePages: []
 [mountainbike](http://mountainbike.zoek-start.nl)
 
 [Draco Free General Web Directory](http://www.dracodirectory.com)
+
+[GDL-Web World Directory](http://www.globaldirectorylisting.com)
