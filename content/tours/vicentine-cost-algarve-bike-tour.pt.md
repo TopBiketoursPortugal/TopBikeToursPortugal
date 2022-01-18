@@ -38,7 +38,7 @@ groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
 skillLevel: 1
-distance: 333
+distance: 378
 distanceUnit: Km
 duration: 8
 durationUnit: Dias | 7 Noites
