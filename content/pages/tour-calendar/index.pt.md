@@ -18,14 +18,6 @@ feature:
   title: Calendário
 dates:
   - type: Date
-    date: 2022-04-28T07:39:17.065Z
-    body: >-
-      [Costa Vicentina e Algarve Bike
-      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)
-
-
-      * **FULL**
-  - type: Date
     date: 2022-05-07T12:19:19.669Z
     body: "[Caminho de Santiago -  Porto a Santiago de Compostela pela Costa do
       Atlantico - Guided bike
@@ -69,6 +61,14 @@ dates:
     body: >-
       [Costa da Prata: Porto a Coimbra bike
       tour](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/)
+
+
+      * **FULL**
+  - type: Date
+    date: 2022-10-12T07:39:17.065Z
+    body: >-
+      [Costa Vicentina e Algarve Bike
+      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)
 
 
       * **FULL**
