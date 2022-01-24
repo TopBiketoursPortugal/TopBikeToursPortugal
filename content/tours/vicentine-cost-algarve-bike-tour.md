@@ -143,8 +143,8 @@ itinerary:
       The beach presents high quality landscape and biodiversity, being able to
       enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
       is in fact in this Natural Park, the only place in the world where you can
-      observe the storks that nest on the cliffs. Hotel 4 *: [Casa
-      fajara](https://www.casafajara.com/)"
+      observe the storks that nest on the cliffs. Hotel 4 *: [Hotel
+      vicentina](http://www.vicentinahotel.com/)"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
