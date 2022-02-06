@@ -61,6 +61,15 @@ dates:
       tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
       r/)"
   - type: Date
+    date: 2022-09-18T14:34:17.338Z
+    body: >-
+      
+
+      [The Way of St. James - Porto to Santiago de Compostela along the  Atlantic coast easy - Guided bike tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tour/) 
+
+
+      * **FULL**
+  - type: Date
     date: 2022-09-25T18:21:26.379Z
     body: >-
       [The Silver Coast: Porto to Coimbra bike
