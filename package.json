@@ -88,7 +88,7 @@
     "netlify-cms-widget-mdx": "^0.4.3",
     "netlify-cms-widget-pathname": "^1.2.4",
     "netlify-cms-widget-youtube": "^0.3.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "parcel-bundler": "^1.12.4",
     "postcss-at-rules-variables": "^0.1.10",
     "prop-types": "15.7.2",
