@@ -59,10 +59,13 @@ dates:
       r/)"
   - type: Date
     date: 2022-09-11T12:18:22.078Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
+    body: >-
+      [The Way of St. James - Porto to Santiago de Compostela along
       the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
+      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tour/)
+
+
+      * **FULL**
   - type: Date
     date: 2022-09-18T14:34:17.338Z
     body: >-
