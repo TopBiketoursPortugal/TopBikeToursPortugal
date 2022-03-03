@@ -107,6 +107,6 @@ feature:
 ---
 # **As nossas Bicicletas**
 
-**NOTA IMPORTANTE:**  As bicicletas apresentadas nas imagens abaixo são utilizadas somente em nossos passeios de bicicleta. As bicicletas não estão disponíveis para serviços de aluguel. Não alugamos bicicletas para longas distâncias.
+**NOTA IMPORTANTE:**  As bicicletas apresentadas nas imagens abaixo são utilizadas somente em nossos passeios de bicicleta. As bicicletas não estão disponíveis para serviços de aluguel. **NÃO ALUGAMOS BICICLETAS PARA LONGAS DISTÂNCIAS!**
 
 Apesar disso, temos alugueres de bicicletas citadinas disponíveis para explorar a cidade do Porto e arredores. [Contacte-nos](https://topbiketoursportugal.com/pt/contactos/) para mais informações.
