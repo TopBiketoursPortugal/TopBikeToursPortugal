@@ -30,7 +30,7 @@ quote: >-
   Thank you Sergio for all the wonderful memories.
 date: 2021-11-18T15:25:18.693Z
 showHome: false
-score: 4
+score: 5
 author:
   country: Portugal
   avatar: /img/emmet.jpg
