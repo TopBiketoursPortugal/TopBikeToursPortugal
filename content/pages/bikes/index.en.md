@@ -40,8 +40,10 @@ bikes:
     type: Electric bicycles
   - image: /img/cube-acid-500-trapeze-1-.jpg
     type: Electric bicycles
-  - image: /img/331051e_light-3-.jpg
+  - image: /img/atala_b-easy-a9.2.jpg
     type: Electric bicycles
+  - type: Electric bicycles
+    image: /img/scott-e-bike.png
 equipment:
   - description: >-
       **Kross TRANS 5.0**
@@ -84,7 +86,12 @@ equipment:
       * 9 gears with shimano group set
       * Bosch electric motor
 
-      **Cube Touring 500 wh e-bike**
+      **Cube Touring 500 wh e-bike  Scott Sub Cross Eride 10 Unisex**
+
+      * 10 gears with shimano group set
+      * Bosch electric motor
+
+      **Atala B easy 9.2**
 
       * 9 gears with shimano group set
       * Bosch electric motor
