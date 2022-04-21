@@ -92,7 +92,7 @@ dates:
 
       * **FULL**
   - type: Date
-    date: 2022-10-22T08:32:26.793Z
+    date: 2022-10-23T08:32:26.793Z
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/) 9 Nights"
   - type: Date
