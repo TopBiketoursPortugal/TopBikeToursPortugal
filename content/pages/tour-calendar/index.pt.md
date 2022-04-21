@@ -90,7 +90,7 @@ dates:
 
       * **FULL**
   - type: Date
-    date: 2022-10-22T08:34:30.605Z
+    date: 2022-10-23T08:34:30.605Z
     body: "[Costa Vicentina e Algarve Bike
       Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/) 9
       Noites"
