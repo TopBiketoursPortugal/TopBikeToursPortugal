@@ -295,7 +295,7 @@ afterpricing: >-
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto standard
 
-  * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
+  * Quartos vista mar (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
 
@@ -309,13 +309,15 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Eléctrica: 200€
+  * Bicicleta Eléctrica: 240€
 
   * Suplemento para quarto individual: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Viajante único: 200 €
 
   * Noites extra: sob consulta
+
+  * Preço para Grupo privado: sob consulta
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
