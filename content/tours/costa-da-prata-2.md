@@ -239,14 +239,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.758€
+        value: 1.814€
       - title: "* Regular season"
-        value: 1.858€
+        value: 1.914€
       - title: "* High Season"
-        value: 1.958€
+        value: 2.094€
       - title: "* Summer Season"
-        value: 2.008€
-    price: 1758
+        value: 2.064€
+    price: 1814
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -285,14 +285,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.267€
+        value: 2.522€
       - title: "* Regular season"
-        value: 2.367€
+        value: 2.622€
       - title: "* High Season"
-        value: 2.467€
+        value: 2.722€
       - title: "* Summer Season"
-        value: 2.517€
-    price: 2267
+        value: 2.772€
+    price: 2522
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -331,14 +331,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.023€
-      - value: 3.123€
+        value: 3.378€
+      - value: 3.478€
         title: "* Regular season"
       - title: "* High Season"
-        value: 3.223€
-      - value: 3.273€
+        value: 3.578€
+      - value: 3.628€
         title: "* Summer Season"
-    price: 3023
+    price: 3378
     type: "1"
 afterpricing: >-
   **Season:**
@@ -356,7 +356,9 @@ afterpricing: >-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
@@ -368,9 +370,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 200€
+  * Electric bicycles price: 270€
 
-  * Supplement for single room: LS: 350€, RS: 376€, HS: 410€, SS.450€
+  * Supplement for single room: LS: 445€, RS: 475€, HS: 505€, SS.535€
 
   * Solo traveler: 350 €
 
