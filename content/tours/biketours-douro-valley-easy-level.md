@@ -154,12 +154,12 @@ pricing:
       - title: Liability Insurance
         value: No
       - title: 6 Nights / 7 Days ( price per person)
-        value: 1.489 €
+        value: 1.531 €
       - title: July, August and September Prices
-        value: "* 140 €"
+        value: "* 250 €"
       - title: Min. Participants
         value: "2"
-    price: 1489
+    price: 1531
     type: "1"
   - bestValue: true
     discount: 0
@@ -246,7 +246,9 @@ afterpricing: >-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
@@ -258,13 +260,13 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 175€
+  * Electric bicycles price: 240€
 
   * Supplement for single room: 385 €
 
   * Solo traveler: 280 €
 
-  *  Extra nights: on request
+  * Extra nights: on request
 
   * Private group price on request
 feature:
