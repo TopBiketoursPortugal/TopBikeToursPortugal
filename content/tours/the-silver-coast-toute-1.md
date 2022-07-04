@@ -332,6 +332,8 @@ afterpricing: >-
   * Solo traveler: 200 €
 
   * Extra nights: on request
+
+  * Private group price on request
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
