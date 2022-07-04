@@ -299,17 +299,17 @@ pricing:
         value: "1"
       - title: 7 Nights / 8 Days
         value: Price per person
-      - value: 1.459€
+      - value: 1.508€
         title: "* Low season"
       - title: "* Regular season"
-        value: 1.539€
+        value: 1.588€
       - title: "* High Season"
-        value: 1.599€
+        value: 1.648€
       - title: "* Summer Season"
-        value: 1.659€
+        value: 1.708€
       - title: 12 Nights /13 Days (price per person)
-        value: +972€
-    price: 1456
+        value: "+1.007"
+    price: 1508
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -346,16 +346,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.840€
+        value: 2.095€
       - title: "* Regular season"
-        value: 1.920€
+        value: 2.175€
       - title: "* High Season"
-        value: 1.980€
+        value: 2.235€
       - title: "* Summer Season"
-        value: 2.040€
+        value: 2.295€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.226€
-    price: 1837
+        value: +1.426€
+    price: 2095
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -392,16 +392,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.401€
+        value: 2.756€
       - title: "* Regular season"
-        value: 2.481€
+        value: 2.836€
       - title: "* High Season"
-        value: 2.541€
+        value: 2.896€
       - title: "* Summer Season"
-        value: 2.601€
+        value: 2.956€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.600€
-    price: 2399
+        value: +1.900€
+    price: 2755
 afterpricing: >-
   **\*Temporada:**
 
@@ -418,7 +418,9 @@ afterpricing: >-
   **Observações:**
 
 
-  * Preços baseados para 2 pessoas que partilham o mesmo quarto;
+  * Preços baseados para 2 pessoas que partilham o mesmo quarto standard;
+
+  * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
@@ -430,13 +432,13 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétrica: 250€
+  * Bicicleta Elétrica: 350€
 
-  * Bicicleta Elétrica itinerário reduzido: 175€
+  * Bicicleta Elétrica itinerário reduzido: 240€
 
-  * Suplemento para quarto individual: LS: 559€, RS: 589€, HS: 620€, SS:650€
+  * Suplemento para quarto individual: LS: 670€, RS: 760€, HS: 850€, SS:940€
 
-  * Suplemento para quarto individual itinerário reduzido: LS: 300€, RS: 329€, HS: 360€, SS:390€
+  * Suplemento para quarto individual itinerário reduzido: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Viajante único: 400 €
 
