@@ -333,6 +333,8 @@ afterpricing: >-
   * Viajante único: 200 €
 
   * Noites extra: sob consulta
+
+  * Preço para Grupo privado: sob consulta
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
