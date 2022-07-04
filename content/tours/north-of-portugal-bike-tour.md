@@ -324,13 +324,15 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 200€
+  * Electric bicycles price: 240€
 
   * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Solo traveler: 200 €
 
   * Extra nights: on request
+
+  *  Private group price on request
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
