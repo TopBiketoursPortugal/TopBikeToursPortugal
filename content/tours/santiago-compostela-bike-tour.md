@@ -217,15 +217,15 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.409€
+        value: 1.458€
       - title: "* Regular season"
-        value: 1.489€
+        value: 1.538€
       - title: "* High Season"
-        value: 1.549€
+        value: 1.598€
       - title: "* Summer Season"
-        value: 1.609€
+        value: 1.658€
       - title: 8 Nights / 9 Days ( price per person)
-        value: +180€
+        value: +187€
     price: 1409
     type: ""
   - bestValue: true
@@ -265,13 +265,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.790€
-      - title: "* Regular season"
-        value: 1.870€
-      - title: "* High Season"
-        value: 1.930€
-      - title: "* Summer Season"
         value: 1.990€
+      - title: "* Regular season"
+        value: 2.070€
+      - title: "* High Season"
+        value: 2.130€
+      - title: "* Summer Season"
+        value: 2.190€
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
@@ -314,13 +314,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.351€
+        value: 2.651€
       - title: "* Regular season"
-        value: 2.431€
+        value: 2.731€
       - title: "* High Season"
-        value: 2.491€
+        value: 2.791€
       - title: "* Summer Season"
-        value: 2.551€
+        value: 2.851€
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
@@ -339,12 +339,12 @@ afterpricing: >-
   * SS - Summer Season: Jun 26 to August 30
 
 
-
-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
@@ -353,16 +353,14 @@ afterpricing: >-
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
 
 
-
-
   **Extras**
 
 
-  * Electric bicycles price: 175€
+  * Electric bicycles price: 240€ (270 € for the 8 night package)
 
-  * Supplement for single room: LS: 300€, RS: 329€, HS: 360€, SS.390€
+  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
-  * Supplement for single room with 8 night option: LS: 350€, RS: 376€, HS: 410€, SS.450€
+  * Supplement for single room with 8 night option: LS: 445€, RS: 475€, HS: 505€, SS.535€
 
   * Solo traveler: 200 €
 
