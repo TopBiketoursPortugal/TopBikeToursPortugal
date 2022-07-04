@@ -182,14 +182,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.464€
+        value: 1.513€
       - title: "* Regular season"
-        value: 1.564€
+        value: 1.613€
       - title: "* High Season"
-        value: 1.664€
+        value: 1.713€
       - title: "* Summer Season"
-        value: 1.714€
-    price: 1464
+        value: 1.763€
+    price: 1512
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -228,14 +228,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.845€
-      - title: "* Regular season"
-        value: 1.945€
-      - title: "* High Season"
         value: 2.045€
+      - title: "* Regular season"
+        value: 2.145€
+      - title: "* High Season"
+        value: 2.245€
       - title: "* Summer Season"
-        value: 2.095€
-    price: 1845
+        value: 2.295€
+    price: 2045
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -274,14 +274,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.456€
+        value: 2.756€
       - title: "* Regular season"
-        value: 2.556€
+        value: 2.856€
       - title: "* High Season"
-        value: 2.656€
+        value: 2.956€
       - title: "* Summer Season"
-        value: 2.706€
-    price: 2459
+        value: 3.006€
+    price: 2756
     type: "1"
 afterpricing: >-
   **\*Temporada:**
@@ -299,7 +299,9 @@ afterpricing: >-
   **Observações:**
 
 
-  * Preços baseados para 2 pessoas que partilham o mesmo quarto;
+  * Preços baseados para 2 pessoas que partilham o mesmo quarto standard;
+
+  * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
@@ -311,9 +313,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Electrica: 175€
+  * Bicicleta Eléctrica: 240€
 
-  * Suplemento para quarto individual: LS: 300€, RS: 329€, HS: 360€, SS.390€
+  * Suplemento para quarto individual: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Viajante único: 280 €
 
