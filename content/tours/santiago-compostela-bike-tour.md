@@ -226,7 +226,7 @@ pricing:
         value: 1.658€
       - title: 8 Nights / 9 Days ( price per person)
         value: +187€
-    price: 1409
+    price: 1458
     type: ""
   - bestValue: true
     discount: 0
@@ -275,7 +275,7 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
-    price: 1790
+    price: 1990
     type: ""
   - bestValue: true
     discount: 0
@@ -324,7 +324,7 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
-    price: 2351
+    price: 2651
     type: "1"
 afterpricing: >-
   **\*Season:**
