@@ -237,14 +237,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.758€
+        value: 1.814€
       - title: "* Regular season"
-        value: 1.858€
+        value: 1.914€
       - title: "* High Season"
-        value: 1.958€
+        value: 2.014€
       - title: "* Summer Season"
-        value: 2.008€
-    price: 1756
+        value: 2.064€
+    price: 1814
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -283,14 +283,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.267€
+        value: 2.522€
       - title: "* Regular season"
-        value: 2.367€
+        value: 2.622€
       - title: "* High Season"
-        value: 2.467€
+        value: 2.722€
       - title: "* Summer Season"
-        value: 2.517€
-    price: 2267
+        value: 2.772€
+    price: 2522
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -329,14 +329,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.023€
+        value: 3.378€
       - title: "* Regular season"
-        value: 3.123€
+        value: 3.478€
       - title: "* High Season"
-        value: 3.223€
+        value: 3.578€
       - title: "* Summer Season"
-        value: 3.273€
-    price: 3023
+        value: 3.628€
+    price: 3378
     type: "1"
 afterpricing: >-
   **\*Temporada:**
@@ -354,7 +354,9 @@ afterpricing: >-
   **Observações:**
 
 
-  * Preços baseados para 2 pessoas que partilham o mesmo quarto;
+  * Preços baseados para 2 pessoas que partilham o mesmo quarto standard;
+
+  * Quartos vista mar (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
@@ -366,13 +368,15 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Electrica: 200€
+  * Bicicleta Eléctrica: 270€
 
-  * Suplemento para quarto individual: LS: 350€, RS: 376€, HS: 410€, SS.450€
+  * Suplemento para quarto individual: LS: 445€, RS: 475€, HS: 505€, SS.535€
 
   * Viajante único: 350 €
 
   * Noites extra: sob consulta
+
+  * Preço para Grupo privado: sob consulta
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
