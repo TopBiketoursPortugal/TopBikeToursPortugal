@@ -289,16 +289,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.459€
+        value: 1.508€
       - title: "* Regular season"
-        value: 1.539€
+        value: 1.588€
       - title: "* High Season"
-        value: 1.599€
+        value: 1.648€
       - title: "* Summer Season"
-        value: 1.659€
+        value: 1.708€
       - title: 12 Nights /13 Days (price per person)
-        value: +972€
-    price: 1459
+        value: +1.007€
+    price: 1508
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -335,16 +335,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.840€
+        value: 2.095€
       - title: "* Regular season"
-        value: 1.920€
+        value: 2.756€
       - title: "* High Season"
-        value: 1.980€
+        value: 2.235€
       - title: "* Summer Season"
-        value: 2.040€
+        value: 2.295€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.226€
-    price: 1840
+        value: +1.426€
+    price: 2095
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -381,16 +381,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.401€
+        value: 2.756€
       - title: "* Regular season"
-        value: 2.481€
+        value: 2.836€
       - title: "* High Season"
-        value: 2.541€
+        value: 2.896€
       - title: "* Summer Season"
-        value: 2.601€
+        value: 2.956€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.600€
-    price: 2401
+        value: +1.900€
+    price: 2756
 afterpricing: >-
   **\*Season:**
 
@@ -407,7 +407,9 @@ afterpricing: >-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
@@ -419,13 +421,13 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 250€
+  * Electric bicycles price: 350€
 
-  * Electric bicycles price reduced option: 175€
+  * Electric bicycles price reduced option: 240€
 
-  * Supplement for single room: LS: 559€, RS: 589€, HS: 620€, SS:650€
+  * Supplement for single room: LS: 670€, RS: 760€, HS: 850€, SS:940€
 
-  * Supplement for single room reduced option: LS: 300€, RS: 329€, HS: 360€, SS:390€
+  * Supplement for single room reduced option: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Solo traveler: 400 €
 
