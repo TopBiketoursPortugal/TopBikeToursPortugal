@@ -264,16 +264,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.529€
+        value: 1.578€
       - title: "* Regular season"
-        value: 1.629€
+        value: 1.678€
       - title: "* High Season"
-        value: 1.729€
+        value: 1.778€
       - title: "* Summer Season"
-        value: 1.779€
+        value: 1.828€
       - title: 9 Nights / 10 Days ( price per person)
-        value: +371€
-    price: 1529
+        value: +385€
+    price: 1578
     type: "1"
   - highSeasonPriceSupplement: 100
     package: Guided bike tour
@@ -311,16 +311,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.980€
-      - title: "* Regular season"
-        value: 2.080€
-      - title: "* High Season"
         value: 2.180€
+      - title: "* Regular season"
+        value: 2.280€
+      - title: "* High Season"
+        value: 2.380€
       - title: "* Summer Season"
-        value: 2.230€
+        value: 2.430€
       - title: 9 Nights / 10 Days ( price per person)
-        value: +448€
-    price: 1980
+        value: +500€
+    price: 2180
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -359,16 +359,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.440€
+        value: 2.740€
       - title: "* Regular season"
-        value: 2.540€
+        value: 2.840€
       - title: "* High Season"
-        value: 2.640€
+        value: 2.940€
       - title: "* Summer Season"
-        value: 2.690€
+        value: 2.990€
       - title: 9 Nights / 10 Days ( price per person)
-        value: +605€
-    price: 2440
+        value: +670€
+    price: 2740
     type: "1"
 afterpricing: >-
   **\*Season:**
@@ -386,7 +386,9 @@ afterpricing: >-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
@@ -397,22 +399,22 @@ afterpricing: >-
   * In the option 7 nights/ 8 days, 6 light lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
 
 
-
-
   **Extras**
 
 
-  * Electric bicycles price: 200€
+  * Electric bicycles price: 240€ (300 € for the 9 night package)
 
-  * Supplement for single room : LS: 450€, RS: 490€, HS: 530€, SS:570€
+  * Supplement for single room : LS: 480€, RS: 510€, HS: 540€, SS:570€
 
-  * Supplement for single room reduced option: LS: 300€, RS: 329€, HS: 360€, SS:390€
+  * Supplement for single room reduced option: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Solo traveler: 290 €
 
   * Solo traveler reduced option: 200 €
 
   * Extra nights: on request
+
+  * Private group price on request
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
