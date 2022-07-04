@@ -181,13 +181,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.409€
+        value: 1.458€
       - title: "* Regular season"
-        value: 1.489€
+        value: 1.538€
       - title: "* High Season"
-        value: 1.549€
+        value: 1.598€
       - title: "* Summer Season"
-        value: 1.609€
+        value: 1.658€
     price: 1409
   - bestValue: false
     discount: 0
@@ -225,13 +225,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.790€
-      - title: "* Regular season"
-        value: 1.870€
-      - title: "* High Season"
-        value: 1.930€
-      - title: "* Summer Season"
         value: 1.990€
+      - title: "* Regular season"
+        value: 2.070€
+      - title: "* High Season"
+        value: 2.130€
+      - title: "* Summer Season"
+        value: 2.190€
     price: 1790
   - bestValue: false
     discount: 0
@@ -269,13 +269,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.351€
+        value: 2.651€
       - title: "* Regular season"
-        value: 2.431€
+        value: 2.731€
       - title: "* High Season"
-        value: 2.491€
+        value: 2.791€
       - title: "* Summer Season"
-        value: 2.551€
+        value: 2.851€
     price: 2351
 afterpricing: >-
   **\*Season:**
@@ -293,7 +293,9 @@ afterpricing: >-
   **Observações:**
 
 
-  * Preços baseados para 2 pessoas que partilham o mesmo quarto;
+  * Preços baseados para 2 pessoas que partilham o mesmo quarto standard
+
+  * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
@@ -305,9 +307,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétric: 175€
+  * Bicicleta Elétrica: 240€
 
-  * Suplemento para quarto individual: LS: 300€, RS: 329€, HS: 360€: SS.390€
+  * Suplemento para quarto individual: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
   * Viajante único: 200 €
 
