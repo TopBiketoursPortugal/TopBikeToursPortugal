@@ -347,7 +347,7 @@ afterpricing: >-
 
   * Preços baseados para 2 pessoas que partilham o mesmo quarto; standard
 
-  * Quartos vista mas (quando disponiveis) ou quartos premium, preços sob consulta
+  * Quartos vista mar (quando disponiveis) ou quartos premium, preços sob consulta
 
   * Preços podem sofrer alterações devido a alta temporada, feriados ou fins de semana
 
@@ -370,6 +370,8 @@ afterpricing: >-
   * Viajante único opção 8 noites: 220 €
 
   * Noites extra: sob consulta
+
+  * Preço para Grupo privado: sob consulta
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
