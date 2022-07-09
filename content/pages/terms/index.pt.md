@@ -38,7 +38,7 @@ Os participantes deverão seguir sempre as instruções do guia e respeitar as s
 
 **Seguro**
 
-Top Bike Tours Portugal, detém um seguro de acordo com a lei portuguesa em vigor para este tipo de actividade. Todos os participantes das nossas actividades guiadas são cobertos pelo seguro de acidentes pessoais (Apólice No. 85.25160 Mútua dos Pescadores) no valor de 5.000,00 euros para despesas médicas e 30.000,00 euros em caso de morte ou invalidez permanente Seguro e Apólice de Responsabilidade No. 85.25160 Mútua dos Pescadores ) no valor de 50.000,00 euros.
+Top Bike Tours Portugal, detém um seguro de acordo com a lei portuguesa em vigor para este tipo de actividade. Todos os participantes das nossas actividades guiadas são cobertos pelo seguro de acidentes pessoais (Apólice No. 85.25160 Mútua dos Pescadores) no valor de 100.000,00 euros para despesas médicas e 600.000,00 euros em caso de morte ou invalidez permanente Seguro e Apólice de Responsabilidade No. 85.25160 Mútua dos Pescadores ) no valor de 50.000,00 euros.
 
 Recomendamos que todos os participantes garantam que o seu seguro de viagem possui cobertura adequada para Cancelamento e Reembolso, Bagagem, Despesas Médicas e Repatriamento, Morte e Invalidez Permanente.
 
