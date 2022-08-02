@@ -114,6 +114,6 @@ feature:
 ---
 # Our Bicycles
 
-**IMPORTANTE NOTE:**  The bicycles shown in the images below are only used in our bike tours. They are not available for rental services. **WE DO NOT RENT BICYCLES FOR LONG DISTANCES!**
+**IMPORTANTE NOTE:**  The bicycles shown in the images below are only used in our bike tours. They are not available for rental services. **WE DO NOT RENT BICYCLES FOR LONG DISTANCES! WE WILL NOT REPLY TO ANY EMAIL REQUESTING BIKE RENTAL SERVICES**
 
-Although of that we have city bikes available to rent if you wish to explore Porto city and surroundings. Please [contact us](https://topbiketoursportugal.com/contacts/) to make a reservation.
+Please [contact us](https://topbiketoursportugal.com/contacts/) for a cycling holiday package.
