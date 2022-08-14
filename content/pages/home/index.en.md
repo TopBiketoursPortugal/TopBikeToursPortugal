@@ -51,7 +51,7 @@ Our store is in the city of Porto, where we also do city bike tours. Although ou
 
 Take a look to our [Portugal Bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/)!
 
-### Book a Bike tour in Portugal with us till December 31 of 2021 and get an extra night offer in Porto or Lisbon city
+### Book a Bike tour in Portugal with us till December 31 of 2022 and get an extra night offer in Porto or Lisbon city
 
 Choose from the list in our [Bike tours Portugal](https://topbiketoursportugal.com/bike-tours-in-portugal/) webpage and [contact us](https://topbiketoursportugal.com/contacts/) to do a self guided Portugal bicycle tour or a guided bicycle tour.
 
