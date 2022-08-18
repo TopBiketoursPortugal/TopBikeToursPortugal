@@ -40,12 +40,6 @@ itinerary:
     location:
       lat: "1"
       lng: "1"
-  - day: "4"
-    title: Extend your bike tour for a full day and enjoy a great meal in Valongo
-      surroundings
-    location:
-      lat: "1"
-      lng: "1"
 gallery:
   - image: /img/trek-mtb-bicycles.jpg
     alt: Trek MTB bicycles 18 gears
