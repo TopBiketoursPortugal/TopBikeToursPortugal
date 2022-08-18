@@ -72,29 +72,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-      - title: Lunch
-        value: No
-    price: 80
-    discount: 0
-  - bestValue: false
-    highSeasonPriceSupplement: 100
-    package: Full-Day price per person
-    packageContents:
-      - title: Porto van transfer included
-        value: yes
-      - title: Hard Trail Trek Mountain bike
-        value: Yes
-      - title: Guide riding with your group
-        value: Yes
-      - title: Nutrition,hydration and snacks
-        value: Yes
-      - title: Personal accident insurance
-        value: Yes
-      - title: Liability insurance
-        value: Yes
-      - title: Lunch
-        value: Yes
-    price: 140
+    price: 100
     discount: 0
 feature:
   align: center
