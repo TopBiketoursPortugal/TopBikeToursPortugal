@@ -67,12 +67,6 @@ dates:
       Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/) 7
       Noites"
   - type: Date
-    date: 2023-04-16T09:18:31.610Z
-    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
-      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
-      - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-  - type: Date
     date: 2023-05-07T09:18:31.968Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
