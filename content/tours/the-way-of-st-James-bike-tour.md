@@ -248,51 +248,7 @@ pricing:
         value: "* 600€"
       - title: Min. Participants
         value: "10"
-    price: 1986
-    type: "1"
-  - discount: 0
-    highSeasonPriceSupplement: 100
-    observations: 4.896 €
-    package: Guided bike tour Plus*
-    packageContents:
-      - icon: ✓
-        title: Accommodations W/ Breakfast
-        value: Yes (3 and 4 stars, farms or rural houses)
-      - title: Luggage shuttling
-        value: Yes
-      - title: San Sebatian Airport Transfers
-        value: Yes
-      - icon: "-"
-        title: Trains or Bus Tickets
-        value: ""
-      - title: Van Support
-        value: Yes
-      - icon: "-"
-        title: GPS With route per booking
-        value: ""
-      - title: Bike rent
-        value: Yes
-      - title: Guide
-        value: Yes
-      - title: Mechanical Assistance
-        value: Yes
-      - title: 14 lunches (6 lunches reduce route)
-        value: Yes
-      - title: 14 Dinners (6 dinners reduced route)
-        value: Yes
-      - title: Personal Accident Insurance
-        value: Yes
-      - title: Liability Insurance
-        value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.596 €
-      - title: 15 Nights /16 Days (price per person)
-        value: 4.180 €
-      - title: July, August and September Prices
-        value: + 150 €
-      - title: Min. Participants
-        value: "10"
-    price: 2596
+    price: 2199
     type: "1"
 afterpricing: >-
   **Observations:**
