@@ -243,7 +243,7 @@ pricing:
       - title: 15 Nights /16 Days (price per person)
         value: 4.399€
       - title: July, August and September Prices
-        value: "* 300€"
+        value: "* 600€"
       - title: Min. Participants
         value: "10"
     price: 2199
