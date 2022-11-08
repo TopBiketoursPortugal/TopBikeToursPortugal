@@ -44,14 +44,23 @@ bikes:
     type: Electric bicycles
   - type: Electric bicycles
     image: /img/scott-e-bike.png
+  - type: Hybrid bicycle
+    image: /img/trek-men-bicycle.jpeg
+  - type: Hybrid bicycle
+    image: /img/trek-s-women-bicycle.webp
 equipment:
-  - description: >-
+  - description: |-
       **Kross TRANS 5.0**
-
 
       * 24 gears with V-brake
 
-      * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
+
+
+      **Trek Dual Sport 2 and 1**
+
+      * 1﻿8 gears with disk brake (dual sport 1)
+
+        1﻿0 gears with disk brake (dual sport 1)
     type: Hybrid bike
   - description: |-
       **Kross Vento 2**
@@ -95,6 +104,8 @@ equipment:
 
       * 9 gears with shimano group set
       * Bosch electric motor
+
+      **O﻿ther models and brands available all with Bosch motor**
     type: Electric Bicycles
 meta:
   description: Select your bike tour from our cycling tour list. Decide where to
