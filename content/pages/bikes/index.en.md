@@ -54,11 +54,9 @@ equipment:
 
       * 24 gears with V-brake
 
-
-
       **Trek Dual Sport 2 and 1**
 
-      * 1﻿8 gears with disk brake (dual sport 1)
+      * 1﻿8 gears with disk brake (dual sport 2)
 
         1﻿0 gears with disk brake (dual sport 1)
     type: Hybrid bike
