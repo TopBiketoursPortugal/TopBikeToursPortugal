@@ -26,6 +26,10 @@ bikes:
     type: Hybrid bicycle
   - image: /img/rent-a-bike-female.png
     type: Hybrid bicycle
+  - type: Hybrid bicycle
+    image: /img/trek-men-bicycle.jpeg
+  - type: Hybrid bicycle
+    image: /img/trek-s-women-bicycle.webp
   - image: /img/road-bike-pulso-1.png
     type: Road bike
   - image: /img/road-bike-vento-2.png
@@ -44,10 +48,6 @@ bikes:
     type: Electric bicycles
   - type: Electric bicycles
     image: /img/scott-e-bike.png
-  - type: Hybrid bicycle
-    image: /img/trek-men-bicycle.jpeg
-  - type: Hybrid bicycle
-    image: /img/trek-s-women-bicycle.webp
 equipment:
   - description: |-
       **Kross TRANS 5.0**
