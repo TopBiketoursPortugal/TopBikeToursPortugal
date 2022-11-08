@@ -26,6 +26,10 @@ bikes:
     type: Hybrid bicycle
   - image: /img/rent-a-bike-female.png
     type: Hybrid bicycle
+  - type: Hybrid bicycle
+    image: /img/trek-men-bicycle.jpeg
+  - type: Hybrid bicycle
+    image: /img/trek-s-women-bicycle.webp
   - image: /img/road-bike-pulso-1.png
     type: Road bike
   - image: /img/road-bike-vento-2.png
@@ -46,14 +50,15 @@ bikes:
     type: Electric bicycles
 equipment:
   - description: >-
-      
-
       **Kross TRANS 5.0**
 
 
       * 24 gears with V-brake
 
       * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
+
+
+      Hybrid bicycle
     type: Hybrid bike
   - description: |-
       
