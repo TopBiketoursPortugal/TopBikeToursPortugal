@@ -58,7 +58,12 @@ equipment:
       * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
 
 
-      Hybrid bicycle
+      **Trek Dual Sport 2 and 1**
+
+
+      * 1﻿8 gears with disk brake (dual sport 2)
+
+        1﻿0 gears with disk brake (dual sport 1)
     type: Hybrid bike
   - description: |-
       
@@ -81,8 +86,6 @@ equipment:
       * 27 gears with shimano group set
     type: Mountain Bike - MTB
   - description: |-
-      
-
       **KTM Macina electric bicycle 500 wh**
 
       * 9 gears with shimano group set
@@ -102,6 +105,8 @@ equipment:
 
       * 9 gears with shimano group set
       * Bosch electric motor
+
+      **O﻿ther models and brands available all with Bosch motor**
     type: Electric Bicycles
 meta:
   description: Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto
