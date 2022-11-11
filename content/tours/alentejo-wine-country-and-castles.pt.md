@@ -93,9 +93,8 @@ itinerary:
       quilómetros mais, poderá ver o misterioso castelo de Valongo. O percurso
       será agora um constante repetir de pequenas subidas e descidas no meio do
       Olival. Antes de alcançar Évora, é ainda possível parar para tomar um café
-      na Nossa Senhora de Machete. Hotel 4 *: [Pousada Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      na Nossa Senhora de Machete. Hotel 4 *: [M´AR de Ar
+      ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -107,10 +106,8 @@ itinerary:
       características dominantes do terreno. O regresso a Évora será rápido,
       sendo que terá mais tempo para explorar a cidade. Um dos principais pontos
       de interesse da cidade é a Capela dos Ossos construída no século XVIII e
-      que se encontra totalmente forrada com ossos humanos. Hotel 4 *: [Pousada
-      Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      que se encontra totalmente forrada com ossos humanos. Hotel 4 *: [M´AR de
+      Ar ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -121,9 +118,7 @@ itinerary:
       esforço e pedale até ao maior cromeleque da Península Ibérica, já com mais
       de 5 mil anos. Se sentir que um cromeleque não compensa tantos
       quilómetros, poderá ainda visitar as ruínas de Tourega, aquela que foi uma
-      vila romana. Hotel 4 *: [Pousada Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      vila romana. Hotel 4 *: [M´AR de Ar ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
