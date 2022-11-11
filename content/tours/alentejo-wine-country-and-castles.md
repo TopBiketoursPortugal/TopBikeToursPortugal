@@ -93,9 +93,7 @@ itinerary:
       Castle. At this point, half of the way is on your back and the route will
       be up and down in smooth climbs with a view of Olive trees. On the way to
       Évora you still can have a coffe in Nossa Senhora de Machete. Hotel 4 *:
-      [Pousada Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      [M´AR de Ar ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -106,9 +104,8 @@ itinerary:
       peculiar circular castle. The Olive Oil trees and Cork trees will be on
       your views again. The return to Évora will be fast, and you can have more
       time to explore it and visit on of the highlights that is the Bone Chapel
-      dated from the XIII century. Hotel 4 *: [Pousada Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      dated from the XIII century. Hotel 4 *: [M´AR de Ar
+      ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -118,9 +115,7 @@ itinerary:
       historical sites and Roman ruins make the final effort and cycle to the
       biggest dolmen and a cromlech with over 5000 years. If that is not enough
       don´t miss the opportunity to go to the ruins of Tourega Roman village,
-      near the lake. Hotel 4 *: [Pousada Convento de Évora
-      ](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-my-bus\
-      iness&utm_medium=organicsearch&utm_campaign=pousada-evora)"
+      near the lake. Hotel 4 *: [M´AR de Ar ](https://mardearhotels.com/)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
