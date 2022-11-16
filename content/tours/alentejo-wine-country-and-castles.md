@@ -34,21 +34,22 @@ itinerary:
       lat: "40.1482816"
       lng: "40.1482816"
     day: "1"
-    title: "Day 1: Reception in Lisbon and transfer to Estremoz"
-    description: "Explore Estremoz (“white city”), house of many kings and queens of
-      Portugal, especially king Dinis and Queen Isabel. Take a walk into the
-      city, admire the marble cobblestones and visit the Castel and other
-      monuments that the city offers. Hotel 4 *: [Pousada de Estremoz
-      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
-      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
+    title: "Day 1: Reception in Lisbon and transfer to Monforte"
+    description: "On the first day of the tour, you will be transferred, from Lisbon
+      to the quiet town of Monforte, known for its castle, Roman bridge,
+      Madalena church, among other picturesque locations, from different
+      architectural times. . Hotel 5 *: [Torre de Palma
+      ](https://www.torredepalma.com/)"
   - day: "2"
-    title: "Day 2: Day 2: Estremoz Loop – Sousel – Estremoz : 46 km"
-    description: "This easy cycling day will be mostly near agriculture fields and
-      of course a visit to a winery where you can taste de local wine. This loop
-      goes thru Sousel, a tipical Alentejana village in the district of
-      Portalegre. The population of this village works essential on pastoral and
-      agriculture of wine and olive oil. Go back to Estremoz and explore it once
-      more. Hotel 4 *: [Pousada de Estremoz
+    title: "Day 2: Monforte - Estremoz"
+    description: "This cycling day will be mostly near agricultural fields. The
+      first village you will find is, Cabeço de Vide. Much sought after, during
+      the summer, for its pools and hot springs. Take some time and go to the
+      Castle. Once in Estremoz (“white city”), explore the city, home of many
+      kings and queens of Portugal, especially king Dinis and Queen Isabel. Take
+      a walk into the city, admire the white marble cobblestones and visit the
+      Castle and other monuments that the city offers. Hotel 4 *: [Pousada de
+      Estremoz
       ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
       business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
     location:
