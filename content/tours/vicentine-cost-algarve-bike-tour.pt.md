@@ -465,9 +465,9 @@ Dia 10 - Transfere
 **KM:** 227 km , Elevation: 2528 metres ascent and 2538 meters descent
 \
 \
-Dia 1 – Lisboa pick up
+Dia 1 – Transfer de Lisboa para Santiago do Cacém
 
-Dia 2 – Sines - Vila Nova de Mil Fontes (35 km)
+Dia 2 – Santiago do Cacém - Vila Nova de Mil Fontes (45 km)
 
 Dia 3 – Vila Nova de Mil Fontes – Zambujeira do Mar (35 km)
 
