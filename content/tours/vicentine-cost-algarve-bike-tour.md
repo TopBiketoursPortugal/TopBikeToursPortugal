@@ -475,7 +475,7 @@ Day 10 - Departure
 \
 Day 1 – Lisbon Reception and transfer to Santiago do Cacém
 
-Day 2 – Santiago do Cacém - Vila Nova de Mil Fontes (35 km)
+Day 2 – Santiago do Cacém - Vila Nova de Mil Fontes (45 km)
 
 Day 3 – Vila Nova de Mil Fontes – Zambujeira do Mar (35 km)
 
