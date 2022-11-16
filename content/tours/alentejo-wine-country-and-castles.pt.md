@@ -34,21 +34,22 @@ itinerary:
       lat: "40.1482816"
       lng: "40.1482816"
     day: "1"
-    title: "Dia 1: Recepção em Lisboa e transfere até Estremoz"
-    description: "Explore Estremoz onde vários reis e rainhas de Portugal nasceram,
-      como D. Dinis e a Rainha Isabel. Tire algum tempo para passear em Estremoz
-      e apreciar as calçadas de mármore e os vários monumentos que compõe a
-      cidade. Hotel 4 *: [Pousada de Estremoz
-      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
-      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
+    title: "Dia 1: Recepção em Lisboa e transfere até Monforte"
+    description: "222 / 5,000 Translation results No primeiro dia do passeio, você
+      será transferido, de Lisboa para a pacata cidade de Monforte, conhecida
+      por seu castelo, ponte romana, igreja da Madalena, entre outros locais
+      pitorescos, de diferentes épocas arquitetônicas. Hotel 5 *: [Torre de
+      Palma ](https://www.torredepalma.com/)"
   - day: "2"
-    title: "Dia 2: Circuito de Estremoz – Sousel – Estremoz: 46km"
-    description: "O circuito deste primeiro dia é fácil, sendo a grande maioria do
-      percurso feito ao longo de campos agrícolas. Fará uma visita a uma cave de
-      vinho onde pode provar o vinho que é produzido nesta zona. Este circuito
-      passa por Sousel, uma vila típica do distrito de Portalegre. A população
-      desta vila vive essencialmente da pastorícia e da produção de vinho e
-      azeite. HHotel 4 *: [Pousada de Estremoz
+    title: "Dia 2: Monforte – Estremoz: 60km"
+    description: "Este dia de ciclismo será principalmente perto de campos
+      agrícolas. A primeira aldeia que vai encontrar é Cabeço de Vide. Muito
+      procurada, durante o verão, pelas suas piscinas e águas termais. Reserve
+      um tempo e vá até o Castelo. Uma vez em Estremoz (“cidade branca”),
+      explore a cidade, lar de muitos reis e rainhas de Portugal, especialmente
+      o rei Dinis e a rainha Isabel. Dê um passeio pela cidade, admire as
+      calçadas de mármore branco e visite o Castelo e outros monumentos que a
+      cidade oferece.. Hotel 4 *: [Pousada de Estremoz
       ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
       business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
     location:
@@ -318,7 +319,7 @@ feature:
   image: /img/furadouro-forest-in-a-bicycle.jpg
   bokunLinkText: Book now
 ---
-# Passeio de bicicleta no Alentejo - rota Vinícola e Património 
+# Passeio de bicicleta no Alentejo - rota Vinícola e Património
 
 ## Explore a região Alentejana, apedrejada de história, vinhas e muito mais
 
@@ -333,9 +334,9 @@ O começo da visita ao Alentejo dá-se em Estremoz, a cidade do mármore. O pass
 
 **Itinerário:**
 
-Dia 1: Recepção em Lisboa e transfere até Estremoz 
+Dia 1: Recepção em Lisboa e transfere até Monforte
 
-Dia 2: Circuito de Estremoz – Sousel – Estremoz: 46km
+Dia 2: Monforte – Estremoz: 46 Km
 
 Dia 3: Estremoz – Vila Viçosa: 35km
 
