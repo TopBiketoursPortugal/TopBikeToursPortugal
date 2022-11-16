@@ -41,7 +41,7 @@ itinerary:
       architectural times. . Hotel 5 *: [Torre de Palma
       ](https://www.torredepalma.com/)"
   - day: "2"
-    title: "Day 2: Monforte - Estremoz"
+    title: "Day 2: Monforte - Estremoz 60 Km"
     description: "This cycling day will be mostly near agricultural fields. The
       first village you will find is, Cabeço de Vide. Much sought after, during
       the summer, for its pools and hot springs. Take some time and go to the
@@ -321,7 +321,6 @@ feature:
   image: /img/furadouro-forest-in-a-bicycle.jpg
   bokunLinkText: Book now
 ---
-
 # Alentejo Wine country and Castles
 
 ## Exploring an untouched region full of history, vineyards and much more
@@ -338,9 +337,9 @@ The start of Alentejo cycling tour is in Estremoz, the city of marble. Mainly in
 
 **Itinerary:**
 
-Day 1: Reception in Lisbon 
+Day 1: Reception in Lisbon  and transfer to Monforte
 
-Day 2: Estremoz Loop – Sousel – Estremoz : 46 km 
+Day 2: Monforte – Estremoz : 60 km 
 
 Day 3: Estremoz -Vila Viçosa :35 km
 
