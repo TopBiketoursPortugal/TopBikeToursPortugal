@@ -138,7 +138,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 65
+    price: 75
 feature:
   align: center
   imageAlign: center center
