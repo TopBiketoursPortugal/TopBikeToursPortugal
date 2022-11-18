@@ -136,7 +136,7 @@ pricing:
         value: Sim
       - title: Seguro de responsabilidade civil
         value: Sim
-    price: 65
+    price: 75
 feature:
   align: center
   imageAlign: center center
