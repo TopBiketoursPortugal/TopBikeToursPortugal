@@ -253,7 +253,7 @@ pricing:
       - title: t-shirt
         value: Yes
       - title: Guide
-        value: Yes
+        value: No
       - title: 6 light Picnics
         value: Yes
       - title: 6 Dinners
@@ -297,7 +297,7 @@ pricing:
       - title: t-shirt
         value: Yes
       - title: Guide
-        value: Yes
+        value: No
       - title: 6 light Picnics
         value: 6 lunches
       - title: 6 Dinners
