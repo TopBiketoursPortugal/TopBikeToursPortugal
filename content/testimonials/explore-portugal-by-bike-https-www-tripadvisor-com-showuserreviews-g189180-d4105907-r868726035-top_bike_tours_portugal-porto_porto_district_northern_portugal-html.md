@@ -1,8 +1,6 @@
 ---
 language: en
-title: "[Explore Portugal by
-  bike](https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r868726035\
-  -Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html)"
+title: Explore Portugal by bike
 quote: I booked 14 people in my group to do the 8-day guided cycle ride down the
   Vicentine Coast (Lisbon to Lagos) in late October-Nov. We've done numerous
   bike tours with several companies. Each one has their strengths and
