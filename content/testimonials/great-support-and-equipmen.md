@@ -1,6 +1,6 @@
 ---
 language: en
-title: Great support and equipmen
+title: Great support and equipment
 quote: I did a week long solo bike ride in northern Portugal and then a 10 day
   solo bike ride from Porto to Lisbon. The company provided excellent support.
   They texted often to make sure things were going OK. When I had questions
