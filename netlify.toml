@@ -1,6 +1,7 @@
 [build]
   publish = "public"
   command = "echo SITE_RECAPTCHA_KEY=$SITE_RECAPTCHA_KEY >> .env.production && npm run build"
-# [build.environment]
-#   NPM_VERSION = "12.16.2"
-#   YARN_VERSION = 
+[build.environment]
+    NPM_VERSION = "8.19.3"
+    NPM_FLAGS = "--legacy-peer-deps"
+    PYTHON_VERSION = "3.8"
