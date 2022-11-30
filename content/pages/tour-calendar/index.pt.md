@@ -18,7 +18,7 @@ feature:
   title: Calendário
 dates:
   - type: Date
-    date: 2023-04-04T10:45:26.977Z
+    date: 2023-04-05T10:45:26.977Z
     body: "[Em bicicleta pelo Vale do
       Douro](https://topbiketoursportugal.com/cycling-tours-douro-wine/)"
   - type: Date
