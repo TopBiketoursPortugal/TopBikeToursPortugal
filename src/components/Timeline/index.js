@@ -5,6 +5,11 @@ import { HTMLContent } from "../Content";
 
 import "./timeline.scss";
 export const Timeline = ({ dates }) => {
+
+  if (!dates) {
+    return null;
+  }
+
   // console.log(JSON.stringify(dates));
   var monthName = [
     "Jan",
