@@ -1,0 +1,16 @@
+{
+  "plugins": ["import-splitnsort"],
+  "extends": [
+    "plugin:import-splitnsort/recommended",
+    "airbnb",
+    "react-app",
+    "plugin:prettier/recomended"
+  ],
+  "rules": {
+    "prettier": "error",
+    "semi": "warn",
+    "no-unused-vars": "warn",
+    "sort-imports": "off",
+    "import-splitnsort/split-and-sort": "error"
+  }
+}

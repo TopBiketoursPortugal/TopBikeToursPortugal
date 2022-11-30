@@ -12,7 +12,6 @@ src/img/*.zip
 readme.ignore.md
 .vs/slnx.sqlite
 .vs/slnx.sqlite
-src/.vs/VSWorkspaceState.json
 .vs/
 .env.*
 public/

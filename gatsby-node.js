@@ -2,11 +2,8 @@ const languages = require("./src/data/languages");
 const _ = require("lodash");
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
-const { fmImagesToRelative } = require("gatsby-remark-relative-images");
 
 exports.createPages = ({ actions, graphql }) => {
-  // console.log("Starting createPages");
-
   const { createPage } = actions;
 
   return graphql(`
@@ -29,9 +26,9 @@ exports.createPages = ({ actions, graphql }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     if (result.errors) {
-      result.errors.forEach(e => console.error(e.toString()));
+      result.errors.forEach((e) => console.error(e.toString()));
       return Promise.reject(result.errors);
     }
 
@@ -58,7 +55,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges;
 
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       const id = edge.node.id;
       const language = edge.node.frontmatter.language || "en";
       // console.log("Path:" + edge.node.frontmatter.path);
@@ -99,7 +96,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Tag pages:
     let tags = [];
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       if (_.get(edge, `node.frontmatter.tags`)) {
         tags = tags.concat(edge.node.frontmatter.tags);
       }
@@ -108,7 +105,7 @@ exports.createPages = ({ actions, graphql }) => {
     tags = _.uniq(tags);
 
     // Make tag pages
-    tags.forEach(tag => {
+    tags.forEach((tag) => {
       const tagPath = `/tags/${_.kebabCase(tag)}/`;
 
       createPage({
@@ -126,7 +123,6 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   // console.log('Starting onCreateNode');
 
   const { createNodeField } = actions;
-  fmImagesToRelative(node); // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
     const fileNode = getNode(node.parent);
@@ -260,7 +256,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       author: Author
       afterpricing: String
     }
-    
   `;
   createTypes(typeDefs);
 };
