@@ -16,7 +16,10 @@ feature:
   imageAlign: center center
   textcolor: white
   title: Calendário
-dates: []
+dates:
+  - body: ""
+    date: 2020-09-05T23:00:00.000Z
+    type: Date
 ---
 # Calendário
 
