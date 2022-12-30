@@ -8,7 +8,7 @@ meta:
 ---
 # **Termos e Condições:**
 
-Top Bike Tours Portugal, Unipessoal, Lda tem sede na Rua do Alferes Malheiro nº 139, 4000-057 Porto, Portugal com NIF 510 560 890 e está devidamente licenciada como operadora turística ( nº 7/2014) e agência de viagens (nº 7008)
+Top Bike Tours Portugal, Unipessoal, Lda tem sede na Rua João das Regras 62, 4000-290 Porto, Portugal com NIF 510 560 890 e está devidamente licenciada como operadora turística ( nº 7/2014) e agência de viagens (nº 7008)
 
 **Política de Reservas e Cancelamento:**
 
