@@ -2,9 +2,9 @@ en:
   address:
     city: Oporto
     country: Portugal
-    hint: Near Trindade metro station
-    postalCode: 4000-057
-    street: Rua Alferes Malheiro nº 139
+    hint: Near Trindade Metro Station / Faria Guimarães
+    postalCode: 4000-290
+    street: Rua João das Regras 62
   description: "Walking tours Portugal: For those who want a real walking and
     hiking tour in Portugal without worrying about transfers, accommodation,
     food, places to visit in Portugal and other highlights"
@@ -15,9 +15,9 @@ pt:
   address:
     city: Porto
     country: Portugal
-    hint: Perto estação trindade
-    postalCode: 4000-057
-    street: Rua Alferes Malheiro nº 139
+    hint: Perto da Estação de metro da Trindade / Faria Guimarães
+    postalCode: 4000-290
+    street: Rua João das Regras 62
   description: "Passeios a pé Portugal: Para quem pretende um verdadeiro passeio a
     pé e de caminhadas em Portugal sem se preocupar com transferes, alojamento,
     alimentação, locais a visitar em Portugal e outros destaques"
@@ -26,8 +26,8 @@ pt:
   title: Walking Tours Portugal - Férias a caminhar
 titleformat: "%s  | Top Walking tours Portugal"
 location:
-  lat: "41.152103"
-  lng: "-8.610452"
+  lat: "41.15548"
+  lng: "-8.60840"
 phone: (+351) 220 997 106
 mobile: (+351) 915 316 999​
 email: info@topwalkingtoursportugal.com
