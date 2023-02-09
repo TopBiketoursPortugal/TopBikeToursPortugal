@@ -72,10 +72,8 @@ dates:
       r/)"
   - type: Date
     date: 2023-10-04T10:14:37.502Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
+    body: "[Vicentine Cost and Algarve Bike
+      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
   - type: Date
     date: 2023-10-15T10:41:21.213Z
     body: "[Douro Valley Wine bicycle
