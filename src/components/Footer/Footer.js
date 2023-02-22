@@ -18,14 +18,14 @@ const Footer = () => (
         <div className="col-sm-4">
           <h4 className="title">Contact Info</h4>
           <p>
-            Rua Alferes Malheiro nº 139
+            R. João das Regras 62
             <br />
-            4000-057 Porto
+            4000-290 Porto
             <br />
             Portugal
             <br />
             <br />
-            300 m of Trindade Metro, near Oporto City Hall
+            400 m of Trindade Metro, near Oporto City Hall
           </p>
           <p>
             Tel: (+351) 220 997 106
