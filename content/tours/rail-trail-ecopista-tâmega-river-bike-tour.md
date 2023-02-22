@@ -136,7 +136,7 @@ pricing:
       - title: Guide riding with your group
         value: No
       - title: 2 wine caves visit
-        value: Yes
+        value: No
       - title: Lunch
         value: No
       - title: Mechanical Assistance
@@ -177,7 +177,7 @@ pricing:
       - title: Guide riding with your group
         value: No
       - title: 2 wine caves visit
-        value: Yes
+        value: No
       - title: Lunch
         value: No
       - title: Mechanical Assistance
