@@ -18,10 +18,6 @@ feature:
   title: Calendário
 dates:
   - type: Date
-    date: 2023-04-05T10:45:26.977Z
-    body: "[Em bicicleta pelo Vale do
-      Douro](https://topbiketoursportugal.com/cycling-tours-douro-wine/)"
-  - type: Date
     date: 2023-04-16T15:46:34.972Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
