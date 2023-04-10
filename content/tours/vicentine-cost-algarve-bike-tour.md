@@ -6,7 +6,7 @@ productcode: VICENTINE 01
 featured: false
 language: en
 image: /img/great-sea-views.jpg
-title: Vicentine Cost and Algarve Bike Tour
+title: Vicentine Coast and Algarve Bike Tour
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -423,7 +423,7 @@ feature:
   textcolor: white
   title: Guided and unguided cycling tours Portugal
 ---
-# Vicentine Cost and Algarve Bike Tour
+# Vicentine Coast and Algarve Bike Tour
 
 ## From Lisbon or Sines to the south of Portugal through the coastline
 
