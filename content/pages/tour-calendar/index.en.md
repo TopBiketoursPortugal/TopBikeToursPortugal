@@ -71,6 +71,10 @@ dates:
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
   - type: Date
+    date: 2023-10-13T10:28:02.876Z
+    body: "[Vicentine Cost and Algarve Bike
+      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+  - type: Date
     date: 2023-10-15T10:41:21.213Z
     body: "[Douro Valley Wine bicycle
       Tour](https://topbiketoursportugal.com/bike-tours-douro-valley/)"
