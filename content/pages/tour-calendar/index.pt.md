@@ -72,6 +72,10 @@ dates:
     body: "[Costa Vicentina e Algarve Bike
       Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
   - type: Date
+    date: 2023-10-13T10:28:35.077Z
+    body: "[Costa Vicentina e Algarve Bike
+      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
+  - type: Date
     date: 2023-10-15T10:45:27.416Z
     body: "[Em bicicleta pelo Vale do
       Douro](https://topbiketoursportugal.com/cycling-tours-douro-wine/)"
