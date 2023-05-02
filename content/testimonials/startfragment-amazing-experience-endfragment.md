@@ -1,11 +1,6 @@
 ---
 language: en
-title: |-
-  <!--StartFragment-->
-
-  # Amazing experience
-
-  <!--EndFragment-->
+title: "# Amazing experience"
 date: 2023-05-02T12:13:39.609Z
 showHome: false
 reviewSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r888470085-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
