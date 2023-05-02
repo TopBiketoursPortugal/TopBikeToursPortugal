@@ -6,7 +6,7 @@ showHome: false
 reviewSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r888470085-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 score: 5
 author:
-  country: Portugal
+  country: South Africa
   avatar: /img/emmet.jpg
   name: Tracy Marks
   reviewerSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r888470085-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
