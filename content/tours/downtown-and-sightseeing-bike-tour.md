@@ -137,7 +137,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 28
+    price: 35
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
