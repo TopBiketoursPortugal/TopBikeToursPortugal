@@ -122,7 +122,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 45
+    price: 50
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -138,7 +138,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 75
+    price: 90
 feature:
   align: center
   imageAlign: center center
