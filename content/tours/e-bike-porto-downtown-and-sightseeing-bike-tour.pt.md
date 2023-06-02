@@ -120,7 +120,7 @@ pricing:
         value: Sim
       - title: Seguro de responsabilidade civil
         value: Sim
-    price: 45
+    price: 50
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -136,7 +136,7 @@ pricing:
         value: Sim
       - title: Seguro de responsabilidade civil
         value: Sim
-    price: 75
+    price: 90
 feature:
   align: center
   imageAlign: center center
