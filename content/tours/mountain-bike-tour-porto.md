@@ -18,9 +18,9 @@ meta:
     tour.
   keywords: mountain bike tour porto, mtb tour porto, mountain bicycle in porto
   robots: INDEX
-minAge: -1
-skillLevel: ""
-difficulty: 0
+minAge: 16
+skillLevel: 1
+difficulty: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=19pLt9ZMRnLv7RUSAQqpybO9X-oNSSOhV
 itinerary:
   - day: "1"
