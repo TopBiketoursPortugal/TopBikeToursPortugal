@@ -1,11 +1,11 @@
 ---
 templateKey: tour-gen
-order: 13
+order: 11
 path: /bike-tour-camino-de-santiago-cycling-french-way-leon/
 productcode: SANTIAGO 04
 featured: false
 language: en
-image: /img/leon-bike-tour-camino-santiago.jpg
+image: /img/35225917606_3fe671e671_w-1-1-.jpg
 title: "Camino de Santiago Bike tour: The French Way starting in León, Spain"
 packagetype: PackageTour
 tourtype: Bike
