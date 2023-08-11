@@ -56,7 +56,8 @@ itinerary:
       traditions are meant to be found and seen during this short city tour.
       Accommodation, Hotel 4 stars: [Porto Trindade
       Hotel](https://www.portotrindadehotel.com/) or Hotel 5 stars: [Porto
-      Infante Sagres Hotel](https://www.hospes.com/en/infante-sagres-porto/)"
+      Infante Sagres Hotel](https://www.hospes.com/en/infante-sagres-porto/)
+      (included in premium option)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
@@ -159,7 +160,8 @@ itinerary:
       Compostela
       Hotel](https://paradores.es/es/parador-de-santiago-de-compostela?utm_sour\
       ce=GoogleMyBusiness&utm_medium=organico&utm_campaign=paradordesantiagodec\
-      ompostela&utm_term=organico&utm_content=ficha)"
+      ompostela&utm_term=organico&utm_content=ficha) (included in premium
+      option)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
