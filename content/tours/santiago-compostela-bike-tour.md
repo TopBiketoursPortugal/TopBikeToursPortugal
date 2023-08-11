@@ -55,7 +55,8 @@ itinerary:
       and white tiles hiding at each corner and much more. Art, heritage and
       traditions are meant to be found and seen during this short city tour.
       Accommodation, Hotel 4 stars: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+      Hotel](https://www.portotrindadehotel.com/) or Hotel 5 stars: [Porto
+      Infante Sagres Hotel](https://www.hospes.com/en/infante-sagres-porto/)"
     location:
       lat: "41.15293"
       lng: "-8.61005"
@@ -69,13 +70,16 @@ itinerary:
       fish exploration, as well as taste this famous gastronomy. In Vila do
       Conde, you’ll know why these Portuguese coastal cities were so important
       during the “el dorado” of the Portuguese Discoveries. Accommodation, Hotel
-      3 stars: [Suave Mar Hotel](https://www.suavemar.com/)"
+      3 stars: [Suave Mar Hotel](https://www.suavemar.com/) or Hotel 4 stars:
+      [Hotel Axis
+      offir](https://www.axishoteis.com/axis-ofir.html?utm_medium=organic&utm_s\
+      ource=google-my-business&utm_campaign=google-local)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 2: Porto – Esposende (60 km)"
   - day: "3"
-    description: "We’re reaching Viana do Castelo, another sea docking city that was
+    description: 'We’re reaching Viana do Castelo, another sea docking city that was
       quite important during the Discoveries’ period. During the XIV-XVth
       Centuries it was in this precise city that the ships going to Brazil,
       India, Africa and other Portuguese Colonies were developed. Our final
@@ -83,13 +87,14 @@ itinerary:
       making it part of an incredible landscape. Caminha is also very well known
       for its natural and green heritage, like the sightseeing areas,
       waterfalls, beaches and the camping park.Accommodation, Hotel 4 stars:
-      [Portas do Sol Hotel](https://hotelportadosol.com/)"
+      [Portas do Sol Hotel](https://hotelportadosol.com/) or upgrade to superior
+      room in "Premium" option'
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 3: Esposende – Caminha (50 km)"
   - day: "4"
-    description: "You are going to enter in Spanish territory, ending in Bayona.
+    description: 'You are going to enter in Spanish territory, ending in Bayona.
       It’s a city politically linked to Pontevedra where you can breathe the sea
       breeze. Away from the sea landscape you can also get lost in the old city
       center. Born from the Romans, the city kept growing towards the coast
@@ -98,9 +103,8 @@ itinerary:
       by the great corsair and explorer Francis Drake who saw an opportunity to
       establish a commercial and merchant point in this territory.Accommodation,
       Hotel 4 stars: [Parador Baiona
-      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=G\
-      oogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_te\
-      rm=organico&utm_content=ficha) "
+      Hotel](https://www.parador.es/es/paradores/parador-de-baiona?utm_source=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordebaiona&utm_term=organico&utm_content=ficha)
+      or upgrade to superior room in "Premium" option'
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -120,13 +124,14 @@ itinerary:
       this event. Accommodation, Hotel 4 stars: [Parador Pontevedra
       Hotel](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_sour\
       ce=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedr\
-      a&utm_term=organico&utm_content=ficha)"
+      a&utm_term=organico&utm_content=ficha)or upgrade to superior room in
+      \"Premium\" option"
     location:
       lat: "41.15591"
       lng: "-8.60248"
     title: "Day 5: Baiona – Pontevedra (64 km)"
   - day: "6"
-    description: "Heading to a pre-Roman city, Caldas de Reis, a province which
+    description: 'Heading to a pre-Roman city, Caldas de Reis, a province which
       belongs to Pontevedra. According to historical archives, the first
       inhabitants were a pre-Roman community that lived from the hot springs of
       this territory. The name “Caldas de Reis” is connected to the birthplace
@@ -136,7 +141,8 @@ itinerary:
       and the traditional Spanish bread. Since the hot springs accompanied the
       evolution of this territory, nowadays it is a hot spot for tourism who
       seeks better healthy treatments for several illnesses. Accommodation,
-      Rural House: [Torre do Rio](https://torredorio.es/en/)"
+      Rural House: [Torre do Rio](https://torredorio.es/en/)or upgrade to
+      superior room in "Premium" option'
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -149,7 +155,11 @@ itinerary:
       act of faith and inner-self. Reach the Square of Obradoiro, where you will
       witness the majestic baroque cathedral where the remains of the apostle
       are located. Accommodation, Hotel 4 stars: [Compostela
-      Hotel](https://www.hotelcompostela.es/es/)"
+      Hotel](https://www.hotelcompostela.es/es/) or Hotel 5 stars: [Parador de
+      Compostela
+      Hotel](https://paradores.es/es/parador-de-santiago-de-compostela?utm_sour\
+      ce=GoogleMyBusiness&utm_medium=organico&utm_campaign=paradordesantiagodec\
+      ompostela&utm_term=organico&utm_content=ficha)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -304,7 +314,7 @@ pricing:
       - title: 6 dinners (Half-Board)
         value: extra 550€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: Extra 850€
+        value: extra 850€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
