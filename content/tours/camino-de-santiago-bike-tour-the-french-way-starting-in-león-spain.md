@@ -176,7 +176,7 @@ pricing:
       - title: Liability Insurance
         value: No
       - title: Min. Participants
-        value: "1"
+        value: "2"
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
@@ -187,8 +187,6 @@ pricing:
         value: 1﻿.698€
       - title: "* Summer Season"
         value: 1﻿.758€
-      - title: 8 Nights / 9 Days
-        value: +﻿270€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
     price: 1558
@@ -235,8 +233,6 @@ pricing:
         value: 2﻿.230€
       - title: "* Summer Season"
         value: 2﻿.290€
-      - title: 8 Nights / 9 Days
-        value: not available
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
     price: 2090
@@ -282,8 +278,6 @@ pricing:
         value: 3﻿.230€
       - title: "* Summer Season"
         value: 3﻿.290€
-      - title: 8 Nights / 9 Days
-        value: not available
       - title: Premium hotel upgrade supplement
         value: X
     price: 3090
@@ -319,15 +313,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 240€ (270 € for the 8 night package)
+  * Electric bicycles price: 300€
 
   * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
-
-  * Supplement for single room with 8 night option: LS: 445€, RS: 475€, HS: 505€, SS.535€ (Premium option plus 250€)
-
-  * Solo traveler: 200 €
-
-  * Solo traveler with 8 night option: 220 €
 
   * Extra nights: on request
 
