@@ -134,32 +134,28 @@ pricing:
         title: Trains or Bus Tickets
         value: ""
       - title: Van Support
-        value: Yes
+        value: No
       - icon: "-"
         title: GPS With route per booking
-        value: ""
+        value: Y﻿es
       - title: Bike rent
         value: Yes
       - title: Guide
-        value: Yes
+        value: No
       - title: Mechanical Assistance
-        value: Yes
+        value: No
       - title: 6 dinners (Half-Board)
-        value: No
+        value: extra 300€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: No
+        value: X
       - title: Personal Accident Insurance
-        value: Yes
+        value: No
       - title: Liability Insurance
-        value: Yes
+        value: No
       - title: Min. Participants
         value: "10"
       - title: 7 Nights / 8 Days
         value: Price per person
-      - title: 15 Nights /16 Days (price per person)
-        value: 4.399€
-      - title: July, August and September Prices
-        value: "* 600€"
       - title: "* Low season"
         value: 1﻿.558€
       - title: "* Regular season"
@@ -188,6 +184,8 @@ pricing:
         value: X
       - title: Van Support
         value: Y﻿es (minimum 8 pax)
+      - title: GPS With route per booking
+        value: X
       - title: Bike rent
         value: Y﻿es
       - title: Guide
@@ -219,6 +217,53 @@ pricing:
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
     price: 2090
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Premium*
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 and 5 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Y﻿es
+      - title: San Sebatian Airport Transfers
+        value: Y﻿es
+      - title: Trains or Bus Tickets
+        value: X
+      - title: Van Support
+        value: Yes
+      - title: GPS With route per booking
+        value: X
+      - title: Bike rent
+        value: Y﻿es
+      - title: Guide
+        value: Y﻿es
+      - title: Mechanical Assistance
+        value: Y﻿es
+      - title: 6 dinners (Half-Board)
+        value: extra 550€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 850€
+      - title: Personal Accident Insurance
+        value: Y﻿es
+      - title: Liability Insurance
+        value: Y﻿es
+      - title: Min. Participants
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 3﻿.090€
+      - title: "* Regular season"
+        value: 3﻿.170€
+      - title: "* High Season"
+        value: 3﻿.230€
+      - title: "* Summer Season"
+        value: 3﻿.290€
+      - title: 8 Nights / 9 Days
+        value: not available
+      - title: Premium hotel upgrade supplement
+        value: X
+    price: 3090
 afterpricing: >-
   **\*Season:**
 
