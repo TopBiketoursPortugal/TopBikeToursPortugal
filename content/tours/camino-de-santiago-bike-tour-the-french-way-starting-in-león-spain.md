@@ -41,33 +41,46 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1HO1scn3_ETs8wsMq-TzxiymjG6i
 itinerary:
   - day: "1"
     title: Day 1 - León
-    description: Reception day. The city of Leon is located on the Camino de
+    description: "Reception day. The city of Leon is located on the Camino de
       Santiago, which is ranked as a UNESCO World Heritage Site. Some of the
       city's most prominent historical buildings are the Cathedral, the finest
       example of French gothic classical style architecture in Spain.
+      Accommodation, Hotel 4 stars: [Hotel Real Colegiata San
+      Isidoro](https://www.hotelrealcolegiata.com/) or Hotel 5 stars: [Parador
+      de
+      León](https://paradores.es/es/parador-de-leon?utm_source=GoogleMyBusiness\
+      &utm_medium=linkgoogle&utm_campaign=paradordeleon&utm_term=organico&utm_c\
+      ontent=ficha) (included in premium option)"
     location:
       lat: "42.5989995"
       lng: "-5.5682413"
   - day: "2"
-    description: Pedal through charming villages and picturesque countryside as you
+    description: "Pedal through charming villages and picturesque countryside as you
       head to Astorga. Marvel at the Gaudí-designed Episcopal Palace and enjoy
-      the local atmosphere.
+      the local atmosphere. Accommodation, Hotel 4 stars: [Hotel Via de la
+      Plata](https://hotel-via-de-la-plata.negocio.site/) or upgrade to superior
+      room in Premium option"
     location:
       lat: "42.4553555"
       lng: "-6.0529025"
-    title: Day 2 - León - Astorga / 51 km
+    title: "Day 2 - León - Astorga "
   - day: "3"
-    description: Ride through the beautiful Bierzo Valley, known for its vineyards
+    description: "Ride through the beautiful Bierzo Valley, known for its vineyards
       and stunning landscapes. Pass through Ponferrada, home to the Templar
-      Castle, and immerse yourself in the region's history.
+      Castle, and immerse yourself in the region's history. Accommodation, Hotel
+      4 stars: [Hotel Temple Ponferrada](https://www.hoteltempleponferrada.com/)
+      or Hotel Rural: [Finca Vivaldi Hotel Nature & Spa
+      ](https://fincavivaldi.es/)"
     location:
       lat: "42.5988042"
       lng: "-6.7259329"
     title: Day 3 -  Astorga - Ponferrada - Bierzo
   - day: "4"
-    description: Ascend into the Galician mountains, enjoying the challenge of the
+    description: "Ascend into the Galician mountains, enjoying the challenge of the
       climbs as you head to Las Herrerias. The fresh mountain air and rugged
-      surroundings create an exhilarating experience.
+      surroundings create an exhilarating experience. Accommodation, Hotel 4
+      stars: [Hotel Paraiso del Bierzo](http://www.paraisodelbierzo.com/) or
+      upgrade to superior room in Premium option"
     location:
       lat: "42.7563403"
       lng: "-7.2397461"
@@ -332,16 +345,16 @@ The French Way from León to Santiago encompasses diverse terrains, beginning wi
 
 **D﻿ay 1:** Leon
 
-**D﻿ay 2:** Leon - Astorga:
+**D﻿ay 2:** Leon - Astorga: 53 Km
 
-**D﻿ay 3:** Astorga - Ponteferrada
+**D﻿ay 3:** Astorga - Ponteferrada: 59 Km
 
-**D﻿ay 4:** Ponteferrada - Bierzo
+**D﻿ay 4:** Ponteferrada - Bierzo: 43Km
 
-**D﻿ay 5:** Bierzo - Sarria
+**D﻿ay 5:** Bierzo - Sarria: 49 Km
 
-**D﻿ay 6:** Sarria - Arzúa
+**D﻿ay 6:** Sarria - Arzúa: 75 Km
 
-**D﻿ay 7:** Arzúa - Santiago de Compostela
+**D﻿ay 7:** Arzúa - Santiago de Compostela: 39 Km
 
 **D﻿ay 8 :** Transfer to Santiago airport or Vigo airport
