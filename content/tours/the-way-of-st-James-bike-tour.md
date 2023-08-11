@@ -247,6 +247,43 @@ pricing:
         value: "10"
     price: 2199
     type: "1"
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Premium
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 and 5 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Y﻿es
+      - title: San Sebatian Airport Transfers
+        value: Y﻿es
+      - title: Trains or Bus Tickets
+        value: X
+      - title: Van Support
+        value: Y﻿es
+      - title: GPS With route per booking
+        value: X
+      - title: Bike rent
+        value: Y﻿es
+      - title: Guide
+        value: Y﻿es
+      - title: Mechanical Assistance
+        value: Y﻿es
+      - title: 14 lunches (6 lunches reduce route)
+        value: N﻿o
+      - title: 14 Dinners (6 dinners reduced route)
+        value: B﻿o
+      - title: Personal Accident Insurance
+        value: Y﻿es
+      - title: Liability Insurance
+        value: Y﻿es
+      - title: 15 Nights /16 Days (price per person)
+        value: 6﻿.420€
+      - title: July, August and September Prices
+        value: \*﻿1.200€
+      - title: Min. Participants
+        value: "8"
+    price: 6420
 afterpricing: >-
   
 
