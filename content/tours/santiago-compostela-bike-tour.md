@@ -217,7 +217,7 @@ pricing:
       - title: 6 dinners (Half-Board)
         value: extra 300€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: \-
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -236,6 +236,8 @@ pricing:
         value: 1.658€
       - title: 8 Nights / 9 Days ( price per person)
         value: +187€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
     price: 1458
     type: ""
   - bestValue: true
@@ -285,6 +287,8 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
     price: 1990
     type: ""
   - bestValue: true
@@ -334,6 +338,8 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
+      - title: Premium hotel upgrade supplement
+        value: X
     price: 2651
     type: "1"
 afterpricing: >-
