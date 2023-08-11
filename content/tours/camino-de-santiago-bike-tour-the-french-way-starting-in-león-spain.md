@@ -168,7 +168,11 @@ pricing:
         value: 1﻿.698€
       - title: "* Summer Season"
         value: 1﻿.758€
-    price: 2199
+      - title: 8 Nights / 9 Days
+        value: +﻿270€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+    price: 1558
     type: "1"
 afterpricing: >-
   **\*Season:**
