@@ -174,6 +174,51 @@ pricing:
         value: 6﻿50€
     price: 1558
     type: "1"
+  - bestValue: false
+    highSeasonPriceSupplement: 100
+    package: Guided Bike tour
+    packageContents:
+      - title: Accommodations W/ Breakfast
+        value: Yes (4 stars, farms or rural houses)
+      - title: Luggage shuttling
+        value: Y﻿es
+      - title: San Sebatian Airport Transfers
+        value: Y﻿es
+      - title: Trains or Bus Tickets
+        value: X
+      - title: Van Support
+        value: Y﻿es (minimum 8 pax)
+      - title: Bike rent
+        value: Y﻿es
+      - title: Guide
+        value: Y﻿es
+      - title: Mechanical Assistance
+        value: Y﻿es
+      - title: 6 dinners (Half-Board)
+        value: e﻿xtra 300€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: e﻿xtra 550€
+      - title: Personal Accident Insurance
+        value: Y﻿es
+      - title: Liability Insurance
+        value: N﻿o
+      - title: Min. Participants
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 2﻿.090
+      - title: "* Regular season"
+        value: 2﻿.170€
+      - title: "* High Season"
+        value: 2﻿.230€
+      - title: "* Summer Season"
+        value: 2﻿.290€
+      - title: 8 Nights / 9 Days
+        value: not available
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+    price: 2090
 afterpricing: >-
   **\*Season:**
 
