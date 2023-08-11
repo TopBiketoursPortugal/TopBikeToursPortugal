@@ -86,17 +86,21 @@ itinerary:
       lng: "-7.2397461"
     title: "Day 4: Ponferrada - Las Herrerias"
   - day: "5"
-    description: Descend from the mountains into Sarria, a bustling town marking the
-      100-kilometer point on the Camino. This stretch takes you through lush
-      Galician countryside and offers a mix of terrains.
+    description: "Descend from the mountains into Sarria, a bustling town marking
+      the 100-kilometer point on the Camino. This stretch takes you through lush
+      Galician countryside and offers a mix of terrains. Accommodation, Hotel 4
+      stars: [Hotel Alfonso IX](http://www.alfonsoix.com/) or upgrade to
+      superior room in Premium option"
     location:
       lat: "42.808161"
       lng: "-7.6156139"
     title: "Day 5: Las Herrerias - Sarria"
   - day: "6"
-    description: Cycle through picturesque villages and shaded paths as you approach
-      Arzúa. The gentle terrain allows you to savor the natural beauty of
-      Galicia.
+    description: "Cycle through picturesque villages and shaded paths as you
+      approach Arzúa. The gentle terrain allows you to savor the natural beauty
+      of Galicia. Accommodation, Hotel 4 stars: [Hotel Pazo Santa
+      Maria(http://www.pazosantamaria.com/ or upgrade to superior room in
+      Premium option"
     location:
       lat: "42.9145741"
       lng: "-8.0136139"
@@ -110,7 +114,13 @@ itinerary:
       Santiago de Compostela with memories of a transformative journey along the
       Camino de Santiago.  This 8-day bike tour takes you through diverse
       landscapes, historic towns, and challenging terrains, offering a mix of
-      physical accomplishment and spiritual reflection."
+      physical accomplishment and spiritual reflection. Accommodation, Hotel 4
+      stars: [Compostela Hotel](https://www.hotelcompostela.es/es/) or Hotel 5
+      stars: [Parador de Compostela
+      Hotel](https://paradores.es/es/parador-de-santiago-de-compostela?utm_sour\
+      ce=GoogleMyBusiness&utm_medium=organico&utm_campaign=paradordesantiagodec\
+      ompostela&utm_term=organico&utm_content=ficha) (included in premium
+      option)"
     location:
       lat: "42.8804219"
       lng: "-8.5458608"
