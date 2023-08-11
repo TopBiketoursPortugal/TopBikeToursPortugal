@@ -204,10 +204,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 6 lunches
-        value: No
-      - title: 6 Dinners
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 300€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: \-
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -252,10 +252,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 6 lunches
-        value: No
-      - title: 6 Dinners
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 300€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 550€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -280,7 +280,7 @@ pricing:
   - bestValue: true
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided Biketour plus*
+    package: Guided Premium*
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
@@ -301,10 +301,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 6 lunches
-        value: Yes
-      - title: 6 Dinners
-        value: Yes
+      - title: 6 dinners (Half-Board)
+        value: extra 550€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: Extra 850€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -314,13 +314,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.651€
+        value: 2.990€
       - title: "* Regular season"
-        value: 2.731€
+        value: 3.070€
       - title: "* High Season"
-        value: 2.791€
+        value: 3.130€
       - title: "* Summer Season"
-        value: 2.851€
+        value: 3.190€
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: not available
