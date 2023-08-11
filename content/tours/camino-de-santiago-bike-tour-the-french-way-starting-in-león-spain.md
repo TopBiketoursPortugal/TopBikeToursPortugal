@@ -39,6 +39,15 @@ difficulty: 4
 physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1HO1scn3_ETs8wsMq-TzxiymjG6iY5ydf
 itinerary:
+  - day: "1"
+    title: Day 1 - León
+    description: Reception day. The city of Leon is located on the Camino de
+      Santiago, which is ranked as a UNESCO World Heritage Site. Some of the
+      city's most prominent historical buildings are the Cathedral, the finest
+      example of French gothic classical style architecture in Spain.
+    location:
+      lat: "42.5989995"
+      lng: "-5.5682413"
   - day: "2"
     description: Pedal through charming villages and picturesque countryside as you
       head to Astorga. Marvel at the Gaudí-designed Episcopal Palace and enjoy
