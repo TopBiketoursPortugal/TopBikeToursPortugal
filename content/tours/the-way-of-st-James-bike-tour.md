@@ -239,8 +239,6 @@ pricing:
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.199€
       - title: 15 Nights /16 Days (price per person)
         value: 4.399€
       - title: July, August and September Prices
@@ -250,30 +248,32 @@ pricing:
     price: 2199
     type: "1"
 afterpricing: >-
+  
+
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
   * Beverages are not included at lunch and dinner when included in the package
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
 
   **Extras**
 
 
-  * Electric bicycles price: 300 €
+  * Electric bicycles price: 480€
 
-  * Electric bicycles price reduce route: 175 €
-
-  * Supplement for single room: 650 €
-
-  * Supplement for single room reduce route: 329 €
+  * Supplement for single room: LS: 800€, RS: 840€, HS: 900€, SS.480€ (Premium option plus 500€)
 
   * Extra nights: on request
+
+  * Private group price on request
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
