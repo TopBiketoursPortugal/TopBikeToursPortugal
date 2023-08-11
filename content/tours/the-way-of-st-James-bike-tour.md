@@ -231,10 +231,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 14 lunches (6 lunches reduce route)
-        value: No
-      - title: 14 Dinners (6 dinners reduced route)
-        value: No
+      - title: 14 dinners (Half-Board)
+        value: Extra 700€
+      - title: 14 lunchs + 14 dinners (Full-board)
+        value: extra 1.400€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -269,10 +269,10 @@ pricing:
         value: Y﻿es
       - title: Mechanical Assistance
         value: Y﻿es
-      - title: 14 lunches (6 lunches reduce route)
-        value: N﻿o
-      - title: 14 Dinners (6 dinners reduced route)
-        value: B﻿o
+      - title: 14 dinners (Half-Board)
+        value: 1.300€
+      - title: 14 lunchs + 14 dinners (Full-board)
+        value: 2.100€
       - title: Personal Accident Insurance
         value: Y﻿es
       - title: Liability Insurance
