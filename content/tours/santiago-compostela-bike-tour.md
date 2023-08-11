@@ -74,7 +74,8 @@ itinerary:
       3 stars: [Suave Mar Hotel](https://www.suavemar.com/) or Hotel 4 stars:
       [Hotel Axis
       offir](https://www.axishoteis.com/axis-ofir.html?utm_medium=organic&utm_s\
-      ource=google-my-business&utm_campaign=google-local)"
+      ource=google-my-business&utm_campaign=google-local) (included in premium
+      option)"
     location:
       lat: "41.15591"
       lng: "-8.60248"
@@ -125,7 +126,7 @@ itinerary:
       this event. Accommodation, Hotel 4 stars: [Parador Pontevedra
       Hotel](https://www.parador.es/es/paradores/parador-de-pontevedra?utm_sour\
       ce=GoogleMyBusiness&utm_medium=linkgoogle&utm_campaign=paradordepontevedr\
-      a&utm_term=organico&utm_content=ficha)or upgrade to superior room in
+      a&utm_term=organico&utm_content=ficha) or upgrade to superior room in
       \"Premium\" option"
     location:
       lat: "41.15591"
@@ -366,7 +367,9 @@ afterpricing: >-
 
   * Prices can suffer updates due high season, holidays or weekends
 
-  * Beverages are not included at lunch and dinner when included in the package
+  * Beverages are not included in Self Guided and Guided option when meals are booked
+
+  * Selected drinks are included in Premium package when meals are booked
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
 
