@@ -31,7 +31,7 @@ groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
 skillLevel: 1
-distance: 305
+distance: 320
 distanceUnit: km
 duration: 8
 durationUnit: Days | 7 Nights
