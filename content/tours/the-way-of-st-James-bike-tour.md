@@ -150,42 +150,41 @@ itinerary:
     location:
       lat: "42.5988042"
       lng: "-6.7259329"
-    title: Day 11 -  Astorga - Cacabelos / 70 km
+    title: Day 11 -  Astorga - Ponferrada - Bierzo
   - day: "12"
-    description: Triacastela will be this day's destination. This route is one of
-      the most beautiful of the caminho, where you can admire the vast
-      mountains, covered with nature and small villages. The city of Triacastela
-      is a famous stop point for the pilgrims, where they exchange experiences
-      on the path they have traveled.
+    description: scend into the Galician mountains, enjoying the challenge of the
+      climbs as you head to Las Herrerias. The fresh mountain air and rugged
+      surroundings create an exhilarating experience.
     location:
       lat: "42.7563403"
       lng: "-7.2397461"
-    title: Day 12 - Cacabelos – Tríacastela / 55 km
+    title: Day 12 - Ponferrada - Las Herrerias
   - day: "13"
-    description: After Breakfast, the next destination is Portomarin. This route is
-      famous for it's up's and down's, but once again you will be rewarded with
-      beautiful landscapes. This camino offers you a lot of bridges and stone
-      routes of the Medieval time, until you arrive to Portomarin.
+    description: Descend from the mountains into Sarria, a bustling town marking the
+      100-kilometer point on the Camino. This stretch takes you through lush
+      Galician countryside and offers a mix of terrains.
     location:
       lat: "42.808161"
       lng: "-7.6156139"
-    title: Day 13 -  Tríacastela - Portomarin / 46 km
+    title: Day 13 -  Las Herrerias - Sarria
   - day: "14"
-    description: Leaving Portomarin the next destination is Melide. This path is
-      mainly treaded in the middle of forests, where you can contemplate all the
-      nature that there is to offer. Arriving to Melide, you can taste the
-      famous octopus and admire the several churchs and the town castle.
+    description: Cycle through picturesque villages and shaded paths as you approach
+      Arzúa. The gentle terrain allows you to savor the natural beauty of
+      Galicia.
     location:
       lat: "42.9145741"
       lng: "-8.0136139"
-    title: Day 14 -  Portomarin - Melide 62 Km / 39 km
+    title: Day 14 -  Sarria - Arzúa
   - day: "15"
-    description: The final destination is Santiago de Compostela. In this day you
-      start to see more and more pilgrims and everyone wishes “Buen Camino”.
-      Reaching to Santiago you will find lots of pilgrims, happy for their
-      achivement and, of course, you will find the magnificent cathedral of
-      Santiago that, each year, continues to win more and more people to make
-      this religious / spiritual route.
+    description: "The final leg of your journey leads you through serene landscapes
+      and traditional villages. Arrive in Santiago de Compostela, where the
+      grand Cathedral awaits, marking the culmination of your pilgrimage. Day 8:
+      Departure As your remarkable bike tour comes to an end, take time to
+      reflect on the experiences and connections you've gained. Depart from
+      Santiago de Compostela with memories of a transformative journey along the
+      Camino de Santiago. This 8-day bike tour takes you through diverse
+      landscapes, historic towns, and challenging terrains, offering a mix of
+      physical accomplishment and spiritual reflection."
     location:
       lat: "42.8804219"
       lng: "-8.5458608"
@@ -320,35 +319,14 @@ Day 9 -  León (rest day)
 
 Day 10 -  León - Astorga / 51 km 
 
-Day 11 -  Astorga - Cacabelos / 70 km 
+Day 11 -  Astorga - Ponteferrada
 
-Day 12 -  Cacabelos – Tríacastela / 55 km 
+Day 12 -  Ponteferrada - Bierzo
 
-Day 13 -  Tríacastela - Portomarin / 46 km 
+Day 13 -  Bierzo - Sarria
 
-Day 14 -  Portomarin - Melide 62 Km / 39 km 
+Day 14 -  Sarria - Arzúa
 
-Day 15 -  Melide - Santiago de Compostela / 54 km 
+Day 15 -  Arzúa - Santiago de Compostela
 
 Day 16 -  Santiago de Compostela – departure
-\
-\
-**Itinerary reduced route:**
-
-**Km:** 315 km
-
-Day 1 -  León (Descanso)
-
-Day 2 -  León - Astorga / 51 km 
-
-Day 3 -  Astorga - Cacabelos / 70 km 
-
-Day 4 -  Cacabelos – Tríacastela / 55 km 
-
-Day 5 -  Tríacastela - Portomarin / 46 km 
-
-Day 6 -  Portomarin - Melide 62 Km / 39 km 
-
-Day 7 -  Melide - Santiago de Compostela / 54 km 
-
-Day 8 -  Santiago de Compostela – departure
