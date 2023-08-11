@@ -163,30 +163,48 @@ pricing:
     price: 2199
     type: "1"
 afterpricing: >-
+  **\*Season:**
+
+
+  * LS - Low season: Nov 01 to Mar 25
+
+  * RS - Regular season: Mar 26 to 25 Jun and Set 26 to 31 Oct
+
+  * HS - High Season: Set 01 to 25 Set
+
+  * SS - Summer Season: Jun 26 to August 30
+
+
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same room;
+  * Prices are based for 2 people sharing the same standard room;
+
+  * Sea view (when available) or premium rooms, price on request;
 
   * Prices can suffer updates due high season, holidays or weekends
 
   * Beverages are not included at lunch and dinner when included in the package
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
+  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
 
 
   **Extras**
 
 
-  * Electric bicycles price: 300 €
+  * Electric bicycles price: 240€ (270 € for the 8 night package)
 
-  * Electric bicycles price reduce route: 175 €
+  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
 
-  * Supplement for single room: 650 €
+  * Supplement for single room with 8 night option: LS: 445€, RS: 475€, HS: 505€, SS.535€ (Premium option plus 250€)
 
-  * Supplement for single room reduce route: 329 €
+  * Solo traveler: 200 €
+
+  * Solo traveler with 8 night option: 220 €
 
   * Extra nights: on request
+
+  * Private group price on request
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
