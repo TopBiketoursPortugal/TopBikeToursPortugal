@@ -340,7 +340,7 @@ pricing:
         value: not available
       - title: Premium hotel upgrade supplement
         value: X
-    price: 2651
+    price: 2990
     type: "1"
 afterpricing: >-
   **\*Season:**
@@ -374,9 +374,9 @@ afterpricing: >-
 
   * Electric bicycles price: 240€ (270 € for the 8 night package)
 
-  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€
+  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
 
-  * Supplement for single room with 8 night option: LS: 445€, RS: 475€, HS: 505€, SS.535€
+  * Supplement for single room with 8 night option: LS: 445€, RS: 475€, HS: 505€, SS.535€ (Premium option plus 250€)
 
   * Solo traveler: 200 €
 
