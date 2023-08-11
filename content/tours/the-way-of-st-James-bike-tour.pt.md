@@ -230,23 +230,25 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 14 lunches (6 lunches reduce route)
-        value: No
-      - title: 14 Dinners (6 dinners reduced route)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 300€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 550€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
         value: Yes
-      - title: 7 Nights / 8 Days ( price per person)
-        value: 2.199€
-      - title: 15 Nights /16 Days (price per person)
-        value: 4.399€
-      - title: July, August and September Prices
-        value: "* 600€"
       - title: Min. Participants
-        value: "10"
-    price: 2199
+        value: "4"
+      - title: 7 Nights / 8 Days
+        value: Price per person
+      - title: "* Low season"
+        value: 1﻿.558€
+      - title: "* Regular season"
+        value: 1﻿.638€
+      - title: "* High Season"
+        value: 1﻿.698€
+    price: 1758
     type: "1"
 afterpricing: >-
   **Observações:**
