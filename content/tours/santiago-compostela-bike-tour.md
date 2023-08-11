@@ -237,7 +237,7 @@ pricing:
         value: 1.598€
       - title: "* Summer Season"
         value: 1.658€
-      - title: 8 Nights / 9 Days ( price per person)
+      - title: 8 Nights / 9 Days
         value: +187€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
@@ -288,7 +288,7 @@ pricing:
       - title: "* Summer Season"
         value: 2.190€
       - icon: "-"
-        title: 8 Nights / 9 Days ( price per person)
+        title: 8 Nights / 9 Days
         value: not available
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
@@ -339,7 +339,7 @@ pricing:
       - title: "* Summer Season"
         value: 3.190€
       - icon: "-"
-        title: 8 Nights / 9 Days ( price per person)
+        title: 8 Nights / 9 Days
         value: not available
       - title: Premium hotel upgrade supplement
         value: X
