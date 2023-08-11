@@ -99,7 +99,7 @@ itinerary:
     description: "Cycle through picturesque villages and shaded paths as you
       approach Arzúa. The gentle terrain allows you to savor the natural beauty
       of Galicia. Accommodation, Hotel 4 stars: [Hotel Pazo Santa
-      Maria](http://www.pazosantamaria.com/ or upgrade to superior room in
+      Maria](http://www.pazosantamaria.com/) or upgrade to superior room in
       Premium option"
     location:
       lat: "42.9145741"
