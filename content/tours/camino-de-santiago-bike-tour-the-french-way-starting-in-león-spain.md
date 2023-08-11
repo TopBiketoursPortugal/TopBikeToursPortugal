@@ -121,7 +121,7 @@ pricing:
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour
+    package: Self Guided bike tour
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
