@@ -153,7 +153,7 @@ pricing:
       - title: Liability Insurance
         value: No
       - title: Min. Participants
-        value: "10"
+        value: "1"
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
@@ -205,7 +205,7 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2﻿.090
+        value: 2﻿.090€
       - title: "* Regular season"
         value: 2﻿.170€
       - title: "* High Season"
