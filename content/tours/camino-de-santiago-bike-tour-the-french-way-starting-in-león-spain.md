@@ -58,8 +58,9 @@ itinerary:
     description: "Pedal through charming villages and picturesque countryside as you
       head to Astorga. Marvel at the Gaudí-designed Episcopal Palace and enjoy
       the local atmosphere. Accommodation, Hotel 4 stars: [Hotel Via de la
-      Plata](https://hotel-via-de-la-plata.negocio.site/) or upgrade to superior
-      room in Premium option"
+      Plata](https://www.eurostarshotels.com/eurostars-via-de-la-plata.html?ref\
+      erer_code=lb0gg00yx&utm_source=google&utm_medium=business&utm_campaign=lb\
+      0gg00yx) or upgrade to superior room in Premium option"
     location:
       lat: "42.4553555"
       lng: "-6.0529025"
