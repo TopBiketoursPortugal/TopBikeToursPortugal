@@ -74,7 +74,7 @@ itinerary:
     location:
       lat: "42.5988042"
       lng: "-6.7259329"
-    title: Day 3 -  Astorga - Ponferrada - Bierzo
+    title: Day 3 -  Astorga - Ponferrada
   - day: "4"
     description: "Ascend into the Galician mountains, enjoying the challenge of the
       climbs as you head to Las Herrerias. The fresh mountain air and rugged
