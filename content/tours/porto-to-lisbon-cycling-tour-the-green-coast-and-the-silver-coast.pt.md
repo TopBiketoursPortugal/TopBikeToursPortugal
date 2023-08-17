@@ -242,9 +242,8 @@ itinerary:
       obrigatório a visitar, visto que é um dos 13 Parques Naturais de Portugal
       e porque o mesmo inclui a Serra de Sintra, montanha que se estende até à
       costa e o Cabo da Roca, o ponto continental mais ocidental da Europa.
-      Hotel 4 *: [Hotel Eurostars Cascais
-      ](https://www.eurostarshotels.com.pt/eurostars-cascais.html?td=l00rl00&id\
-      _referer=GMB&utm_source=google&utm_medium=gmb&utm_campaign=googlemb)"
+      Hotel 4 *: [Hotel Cidadela Cascais
+      ](https://www.pestanacollection.com/en/hotel/fortress-cascais)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
