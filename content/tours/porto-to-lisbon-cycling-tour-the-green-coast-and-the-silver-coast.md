@@ -231,9 +231,8 @@ itinerary:
       golf destination, with over 10 golf courses nearby. The Sintra – Cascais
       Natural Park it´s a mandatory place to visit and admire, because it is one
       of the 13 Natural Parks of Portugal, it includes the \"Serra de Sintra\"
-      and extends all the way to the coast. Hotel 4 *: [Hotel Eurostars Cascais
-      ](https://www.eurostarshotels.com.pt/eurostars-cascais.html?td=l00rl00&id\
-      _referer=GMB&utm_source=google&utm_medium=gmb&utm_campaign=googlemb)"
+      and extends all the way to the coast. Hotel 4 *: [Hotel Cidadela Cascais
+      ](https://www.pestanacollection.com/en/hotel/fortress-cascais)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
