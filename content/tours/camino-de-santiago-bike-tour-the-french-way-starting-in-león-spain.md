@@ -152,7 +152,7 @@ pricing:
         value: Yes (3 and 4 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Yes
-      - title: San Sebatian Airport Transfers
+      - title: León Airport Transfers
         value: Yes
       - icon: "-"
         title: Trains or Bus Tickets
@@ -200,7 +200,7 @@ pricing:
         value: Yes (4 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Y﻿es
-      - title: San Sebatian Airport Transfers
+      - title: León Airport Transfers
         value: Y﻿es
       - title: Trains or Bus Tickets
         value: X
@@ -245,7 +245,7 @@ pricing:
         value: Yes (4 and 5 stars, farms or rural houses)
       - title: Luggage shuttling
         value: Y﻿es
-      - title: San Sebatian Airport Transfers
+      - title: León Airport Transfers
         value: Y﻿es
       - title: Trains or Bus Tickets
         value: X
