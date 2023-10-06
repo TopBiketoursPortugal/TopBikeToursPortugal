@@ -46,6 +46,10 @@ dates:
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
   - type: Date
+    date: 2024-04-07T17:34:38.698Z
+    body: "[Vicentine Cost and Algarve Bike
+      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+  - type: Date
     date: 2024-05-04T23:00:00.000Z
     body: "[The Way of St. James - Porto to Santiago de Compostela along
       the  Atlantic coast easy - Guided bike
