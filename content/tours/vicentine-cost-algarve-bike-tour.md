@@ -118,7 +118,7 @@ itinerary:
       it's remarkably known for receiving 50% of the countries’ exportations. In
       the village of Porto Covo is one of the most sought after by locals and
       tourists. With a spacious and sheltered beach, \"Praia Grande\", it is one
-      of the busiest during the summer. Hotel 3 *: [Hotel HS
+      of the busiest during the summer. Hotel 4 *: [Hotel HS
       MIlfontes](https://hsmilfontesbeach.com/pt/) or upgrade to superior room
       in \"Premium\" option"
     location:
