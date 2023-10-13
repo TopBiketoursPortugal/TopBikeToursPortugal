@@ -293,7 +293,7 @@ pricing:
         value: +385€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
-      - title: Premium hotel upgrade supplement 8 nights
+      - title: " Prem. hotel upgrade suppl. 9 days"
         value: 7﻿50€
     price: 1578
     type: "1"
@@ -344,7 +344,7 @@ pricing:
         value: +500€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
-      - title: Premium hotel upgrade supplement 8 nights
+      - title: " Prem. hotel upgrade suppl. 9 days"
         value: 7﻿50€
     price: 2180
     type: "1"
@@ -395,6 +395,8 @@ pricing:
       - title: 9 Nights / 10 Days ( price per person)
         value: +670€
       - title: Premium hotel upgrade supplement
+        value: X
+      - title: " Prem. hotel upgrade suppl. 9 days"
         value: X
     price: 2740
     type: "1"
