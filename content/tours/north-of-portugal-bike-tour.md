@@ -195,10 +195,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 5 lunches
-        value: No
-      - title: 5 Dinners
-        value: No
+      - title: 5 dinners (Half-Board)
+        value: extra 250€ (at your hotel)
+      - title: 5 lunchs + 5 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -215,6 +215,8 @@ pricing:
         value: 1.452€
       - title: "* Summer Season"
         value: 1.522€
+      - title: Premium hotel upgrade supplement
+        value: 560€
     price: 1332
     type: "1"
   - discount: 0
@@ -240,10 +242,10 @@ pricing:
         value: yes
       - title: Mechanical Assistance
         value: yes
-      - title: 5 lunches
-        value: No
-      - title: 5 Dinners
-        value: No
+      - title: 5 dinners (Half-Board)
+        value: extra 250€
+      - title: 5 lunchs + 5 dinners (Full-board)
+        value: extra 480€
       - title: Personal Accident Insurance
         value: yes
       - title: Liability Insurance
@@ -260,11 +262,13 @@ pricing:
         value: 1.919€
       - title: "* Summer Season"
         value: 1.989€
+      - title: Premium hotel upgrade supplement
+        value: 5﻿60€
     price: 1799
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided Biketour plus *
+    package: Guided Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -285,10 +289,10 @@ pricing:
         value: yes
       - title: Mechanical Assistance
         value: yes
-      - title: 5 lunches
-        value: yes
-      - title: 5 Dinners
-        value: yes
+      - title: 5 dinners (Half-Board)
+        value: extra 480€
+      - title: 5 lunchs + 5 dinners (Full-board)
+        value: extra 710€
       - title: Personal Accident Insurance
         value: yes
       - title: Liability Insurance
@@ -298,14 +302,16 @@ pricing:
       - title: 6 Nights / 7 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.430€
+        value: 2.709€
       - title: "* Regular season"
-        value: 2.500€
+        value: 2.759€
       - title: "* High Season"
-        value: 2.550€
+        value: 2.809€
       - title: "* Summer Season"
-        value: 2.620€
-    price: 2430
+        value: 2.879€
+      - title: Premium hotel upgrade supplement
+        value: X
+    price: 2709
     type: "1"
 afterpricing: >-
   **\*Season:**
