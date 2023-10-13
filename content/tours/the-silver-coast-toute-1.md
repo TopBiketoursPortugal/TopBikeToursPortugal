@@ -334,7 +334,9 @@ afterpricing: >-
 
   * Prices can suffer updates due high season, holidays or weekends
 
-  * Beverages are not included at lunch and dinner when included in the package
+  * Beverages are not included in Self Guided and Guided option when meals are booked
+
+  * Selected drinks are included in Premium package when meals are booked
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
 
