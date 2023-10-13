@@ -269,10 +269,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: No
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 300€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -291,6 +291,10 @@ pricing:
         value: 1.828€
       - title: 9 Nights / 10 Days ( price per person)
         value: +385€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Premium hotel upgrade supplement 8 nights
+        value: 7﻿50€
     price: 1578
     type: "1"
   - highSeasonPriceSupplement: 100
@@ -316,10 +320,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: No
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 300€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 550€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -338,11 +342,15 @@ pricing:
         value: 2.430€
       - title: 9 Nights / 10 Days ( price per person)
         value: +500€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Premium hotel upgrade supplement 8 nights
+        value: 7﻿50€
     price: 2180
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour Plus*
+    package: Guided Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -364,10 +372,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: Yes
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: Yes
+      - title: 6 dinners (Half-Board)
+        value: extra 550€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 850€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -386,6 +394,8 @@ pricing:
         value: 2.990€
       - title: 9 Nights / 10 Days ( price per person)
         value: +670€
+      - title: Premium hotel upgrade supplement
+        value: X
     price: 2740
     type: "1"
 afterpricing: >-
@@ -410,7 +420,9 @@ afterpricing: >-
 
   * Prices can suffer updates due high season, holidays or weekends
 
-  * Beverages are not included at lunch and dinner when included in the package
+  * Beverages are not included in Self Guided and Guided option when meals are booked
+
+  * Selected drinks are included in Premium package when meals are booked
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
 
