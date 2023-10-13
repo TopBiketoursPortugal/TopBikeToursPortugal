@@ -430,7 +430,7 @@ pricing:
       - title: "* Summer Season"
         value: 3.606€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.900€
+        value: X
       - title: Premium hotel upgrade supplement
         value: X
       - title: Prem. hotel upgrade suppl.13 days
