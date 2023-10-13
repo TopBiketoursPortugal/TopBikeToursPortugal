@@ -299,11 +299,11 @@ pricing:
         value: No
       - title: 6 dinners (Half-Board)
         value: extra 300€ (at your hotel)
-      - title: 11 lunchs +11 dinners (Full-board)
+      - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: 11 dinners (Half-Board)
         value: extra 550€ (at your hotel)
-      - title: 11 lunchs +11 dinners (Full-board)
+      - title: 11 lunchs + 11 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
         value: No
