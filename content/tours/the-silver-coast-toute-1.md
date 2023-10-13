@@ -305,7 +305,7 @@ pricing:
       - title: "* Regular season"
         value: 2.759€
       - title: "* High Season"
-        value: 2.8€09
+        value: 2.809€
       - title: "* Summer Season"
         value: 2.879€
       - title: Premium hotel upgrade supplement
