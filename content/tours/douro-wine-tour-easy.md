@@ -283,16 +283,16 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.756€
+        value: 3.506€
       - title: "* Regular season"
-        value: 2.856€
+        value: 3.606€
       - title: "* High Season"
-        value: 2.956€
+        value: 3.706€
       - title: "* Summer Season"
-        value: 3.006€
+        value: 3﻿.756€
       - title: Premium hotel upgrade supplement
         value: X
-    price: 2756
+    price: 3506
     type: "1"
 afterpricing: >-
   **\*Season:**
