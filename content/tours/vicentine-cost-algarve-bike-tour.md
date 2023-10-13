@@ -56,7 +56,11 @@ itinerary:
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
       neighborhood. Hotel 4 *: [Turim Marquês
-      Hotel](https://www.turim-hotels.com/hoteis/-141)"
+      Hotel](https://www.turim-hotels.com/hoteis/-141) or Hotel 5 stars: [TURIM
+      Boulevard
+      Hotel](https://turim-hotels.com/turim-boulevard-hotel-pt/?partner=8048utm\
+      _source=google&utm_medium=organic&utm_campaign=MyBusiness&utm) (included
+      in premium option)"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
@@ -76,7 +80,10 @@ itinerary:
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
       wildlife haven with a wealth of bird-watching possibilities. Hotel 5 *:
-      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/)"
+      [Design Hotel Troia](https://www.troiadesignhotel.com/pt/) or Hotel 5
+      stars: [The Editory By The Sea Troia Comporta
+      Hotel](https://www.editoryhotels.com/by-the-sea-troia/) (included in
+      premium option)"
     location:
       lat: "38.48694667"
       lng: "-8.90220881"
@@ -94,7 +101,9 @@ itinerary:
       XIXth century. This village emerged as a small clump of fishermen and
       farmers. Its inhabitants are mainly dedicated into farming the land and
       handcraft activities, such as pottery and the making of cork stoppers.
-      Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/)"
+      Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/) or Hotel 4
+      stars: [Octant Hotels Santiago](https://www.santiago.octanthotels.com/)
+      (included in premium option)"
     location:
       lat: "38.06021165"
       lng: "-8.78451884"
@@ -110,7 +119,8 @@ itinerary:
       the village of Porto Covo is one of the most sought after by locals and
       tourists. With a spacious and sheltered beach, \"Praia Grande\", it is one
       of the busiest during the summer. Hotel 3 *: [Hotel HS
-      MIlfontes](https://hsmilfontesbeach.com/pt/)"
+      MIlfontes](https://hsmilfontesbeach.com/pt/) or upgrade to superior room
+      in \"Premium\" option"
     location:
       lat: "37.72243336"
       lng: "-8.78589749"
@@ -144,7 +154,8 @@ itinerary:
       enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
       is in fact in this Natural Park, the only place in the world where you can
       observe the storks that nest on the cliffs. Hotel 4 *: [Hotel
-      vicentina](http://www.vicentinahotel.com/)"
+      vicentina](http://www.vicentinahotel.com/) or Farm: [ Herdade do Monte do
+      Sol](https://www.herdademontedosol.com/) (included in premium option)"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
@@ -160,7 +171,9 @@ itinerary:
       ships. The extremely fast southbound current and the jutting headland that
       made it a dangerous lure for shipwrecks in the past, also creates the
       conditions which have made it a popular surfing destination in recent
-      years. Hotel 4 *: [Casa fajara](https://www.casafajara.com/)"
+      years. Hotel [Aldeia de Pedralva](https://www.aldeiadapedralva.com/) or
+      Hotel 4 stars : [Casa fajara](https://www.casafajara.com/) (included in
+      premium option)"
     location:
       lat: "37.18373374"
       lng: "-8.89505267"
@@ -179,7 +192,9 @@ itinerary:
       and windows. Hotel 4 *: [Pousada
       Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
       -my-businessde%20portas%20e%20janelas.%20Ho&utm_medium=organicsearch&utm_\
-      campaign=pousada-sagres/)"
+      campaign=pousada-sagres/) or Hotel 4 stars: [Memmo
+      Baleeira](https://www.memmohotels.com/baleeira/) (included in premium
+      option)"
     location:
       lat: "37.00901414"
       lng: "-8.93903017"
@@ -204,7 +219,10 @@ itinerary:
       having the last stop of this fulfilling trip, in this amazingly, beautiful
       beach with lots of sights that provide a lovely and relaxing place to
       rest. Hotel 4 *: [Tivoli
-      Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
+      Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
+      or Hotel 4 stars: [Cascade Wellness and Lifestyle
+      Resort](https://www.cascaderesortalgarve.com/alojamento) (included in
+      premium option)'
     location:
       lat: "37.10029188"
       lng: "-8.67213964"
