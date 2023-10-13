@@ -43,7 +43,9 @@ itinerary:
       lng: "-8.6107884"
     title: Day 1 - Porto reception
     description: "Accommodation, Hotel 4 stars: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+      Hotel](https://www.portotrindadehotel.com/) or Hotel 5 stars: [Porto
+      Infante Sagres Hotel ](https://www.hospes.com/en/infante-sagres-porto/)
+      (included in premium option)"
   - day: "2"
     description: "You will make the coast towards the small village of Furadouro.
       Leaving Porto, you will cross the city center of Porto, heading toward the
@@ -59,7 +61,10 @@ itinerary:
       fish or eels. You will have the opportunity to see the famous Chapel of
       the Steps, which is classified as a National Interest Monument.
       Accommodation, Hotel 4 stars: [Furadouro
-      Hotel](https://www.furadourohotel.com/)"
+      Hotel](https://www.furadourohotel.com/) or Hotel 5 stars: [Hotel Solverde
+      Spa & Wellness
+      Center](https://www.gruposolverde.pt/hotel-solverde-spa-wellness-center/)
+      (included in premium option)"
     location:
       lat: "40.87313436"
       lng: "-8.67736816"
@@ -73,7 +78,10 @@ itinerary:
       passage via Ferry Boat. Arrive at the famous city of Aveiro where you can
       visit the Jesus Monastery, observe the tiles from the train station and
       make a boat tour on the Ria de Aveiro.  Accommodation, Hotel 4 stars:
-      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/)"
+      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/) or Hotel 5 stars: [MS
+      Collection Aveiro - Palacete de
+      Valdemouro](https://www.mscollection.pt/aveiro) (included in premium
+      option)"
     location:
       lat: "40.640496"
       lng: "8.6537841"
@@ -86,7 +94,8 @@ itinerary:
       creating a unique environment where there is the opportunity to view the
       famous haystack houses on the waterfront, easily recognizable by the
       paintings on vertical colored bands. Hotel 4 *  [Maçarico
-      Hotel](https://www.macaricobeachhotel.com/)
+      Hotel](https://www.macaricobeachhotel.com/) or upgrade to superior room in
+      "Premium" option
     location:
       lat: "40.4556419"
       lng: "-8.8026211"
@@ -99,7 +108,8 @@ itinerary:
       windsurfing. Coming finally to the "Queen of the Silver Coast," Figueira
       da Foz, famous for its long beaches, where the beautiful River Mondego
       flows. Accommodation, Hotel 4 stars: [Sweet Atlantic
-      Hotel](http://www.sweethotels.pt/)'
+      Hotel](http://www.sweethotels.pt/) or upgrade to superior room in
+      "Premium" option'
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
@@ -118,7 +128,8 @@ itinerary:
       dos Sete": a course of approximately 7 km, which combines sea, woods and
       beach, with pure forest, parks, fountains and streams. The typical dishes
       that stand out are the: "Vidreiro" soup, Cod soup and Rabbit stew.
-      Accommodations Hotel 4 * [Hotel Mar e Sol](https://www.hotelmaresol.com/)'
+      Accommodations Hotel 4 * [Hotel Mar e Sol](https://www.hotelmaresol.com/)
+      or upgrade to superior room in "Premium" option'
     location:
       lat: "39.7578992"
       lng: "-9.0297521"
@@ -132,8 +143,8 @@ itinerary:
       perfect waves. It is the largest submerged gorge in Europe, with about 170
       kilometres along the coast, which is 5000 meters deep. The Hawaiian surfer
       Garrett McNamara gave it worldwide visibility when, in 2011, he surfed the
-      world's biggest wave. Hotel 4 *: [Hotel
-      Praia](http://www.hotelpraia.com/)"
+      world's biggest wave. Hotel 4 *: [Hotel Praia](http://www.hotelpraia.com/)
+      or upgrade to superior room in \"Premium\" option"
     location:
       lat: "39.60004501"
       lng: "-9.07155991"
@@ -153,8 +164,10 @@ itinerary:
       mountain. In previous geological times they formed a single island. When
       it was divided it gave rise to the bay of São Martinho do Porto. São
       Martinho do Porto was even considered the best beach to go with the family
-      in the guide of 2015 beaches of eDreams. Hotel 4 *: [Hotel real de Óbidos
-      ](http://www.hotelrealdobidos.com/pt/)"
+      in the guide of 2015 beaches of eDreams. Hotel 4 stars: [Josefa de
+      Óbidos](https://josefadobidoshotel.com/) or Hotel 4 *: [Hotel real de
+      Óbidos ](http://www.hotelrealdobidos.com/pt/) (included in premium
+      option)"
     location:
       lat: "39.3680634"
       lng: "-9.18730437"
@@ -174,7 +187,8 @@ itinerary:
       Óbidos and Caldas da Rainha. It is a natural barrier that separate the
       Atlantic Ocean and marine biome from the river ecosystem of \"Foz do
       Arelho\" formed by lateral dunes. Hotel 4 *: [MH
-      Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx)"
+      Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx) or upgrade to superior
+      room in \"Premium\" option"
     location:
       lat: "39.33722515"
       lng: "-9.31285284"
@@ -197,7 +211,7 @@ itinerary:
       international competitions of various kinds are held. Hotel 4 *: [Vila
       Galé
       Ericeira](http://www.vilagale.com/en/hotels/lisbon-coast/vila-gale-ericei\
-      ra)"
+      ra) or upgrade to superior room in \"Premium\" option"
     location:
       lat: "38.9631655"
       lng: "-9.4170098"
@@ -212,7 +226,11 @@ itinerary:
       parishes of the town of Sintra are places with royal retreats, estates,
       castles and other buildings, including the medievil Castelo dos Mouros,
       the Pena National Palace and the Sintra National Palace. Hotel 4 *:
-      [Sintra Boutique Hotel  ](http://sintraboutiquehotel.com)"
+      [Sintra Boutique Hotel  ](http://sintraboutiquehotel.com) Hotel 5 stars:
+      [Tivoli Palácio de Seteais Sintra Hotel - The Leading Hotels of the
+      World](https://www.tivolihotels.com/en/tivoli-palacio-de-seteais?utm_camp\
+      aign=local-gmb&utm_medium=organic_search&utm_source=google_gmb) (included
+      in premium option)"
     location:
       lat: "38.79846"
       lng: "-9.3881"
@@ -231,8 +249,12 @@ itinerary:
       golf destination, with over 10 golf courses nearby. The Sintra – Cascais
       Natural Park it´s a mandatory place to visit and admire, because it is one
       of the 13 Natural Parks of Portugal, it includes the \"Serra de Sintra\"
-      and extends all the way to the coast. Hotel 4 *: [Hotel Cidadela Cascais
-      ](https://www.pestanacollection.com/en/hotel/fortress-cascais)"
+      and extends all the way to the coast. Hotel 4 stars: [Pestana
+      Cascais](https://www.pestana.com/en/hotel/pestana-cascais?utm_source=goog\
+      le-my-business&utm_medium=organicsearch&utm_campaign=pestana-cascais)
+      orHotel 4 *: [Hotel Cidadela Cascais
+      ](https://www.pestanacollection.com/en/hotel/fortress-cascais) or upgrade
+      to superior room in \"Premium\" option"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
