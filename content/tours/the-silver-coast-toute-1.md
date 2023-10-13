@@ -45,7 +45,9 @@ mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1MkRMyJZHbX17eBzGJoJ736dJ0dN
 itinerary:
   - day: "1"
     description: "Accommodation, Hotel 4 stars: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+      Hotel](https://www.portotrindadehotel.com/) or Hotel 5 stars: [Porto
+      Infante Sagres Hotel ](https://www.hospes.com/en/infante-sagres-porto/)
+      (included in premium option)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
@@ -65,13 +67,16 @@ itinerary:
       fish or eels. You will have the opportunity to see the famous Chapel of
       the Steps, which is classified as a National Interest Monument.
       Accommodation, Hotel 4 stars: [Furadouro
-      Hotel](https://www.furadourohotel.com/)"
+      Hotel](https://www.furadourohotel.com/) or Hotel 5 stars: [Hotel Solverde
+      Spa & Wellness
+      Center](https://www.gruposolverde.pt/hotel-solverde-spa-wellness-center/)
+      (included in premium option)"
     location:
       lat: "40.87313436"
       lng: "-8.67736816"
     title: Day 2 - Porto - Furadouro ( 47 Km)
   - day: "3"
-    description: "Continuing the path along the coast, on the road N327, towards the
+    description: 'Continuing the path along the coast, on the road N327, towards the
       city of Aveiro, known as the little Venice of Portugal. Ride by several
       fishing villages, one of which is the town of Torreira. Continuing our way
       see the famous natural reserve of S. Jacinto, where you can observe
@@ -79,20 +84,22 @@ itinerary:
       passage via Ferry Boat. Arrive at the famous city of Aveiro where you can
       visit the Jesus Monastery, observe the tiles from the train station and
       make a boat tour on the Ria de Aveiro. Accommodation, Hotel 4 stars:
-      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/)"
+      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/) or upgrade to superior
+      room in "Premium" option'
     location:
       lat: "40.640496"
       lng: "8.6537841"
     title: Day 3 - Furadouro - Aveiro ( 45 KM)
   - day: "4"
-    description: "On this route of 48km, you shall know the city of Ílhavo, famous
+    description: 'On this route of 48km, you shall know the city of Ílhavo, famous
       for the manufacture of porcelain, Vista Alegre. With over 200 years of
       tradition as well, you can observe the fantastic scenery of the famous
       Costa Nova do Prado, where the beaches are intertwined with the rural,
       creating a unique environment where there is the opportunity to view the
       famous haystack houses on the waterfront, easily recognizable by the
       paintings on vertical colored bands. Accommodation, Hotel 4 stars:
-      [Maçarico Hotel](https://www.macaricobeachhotel.com/)"
+      [Maçarico Hotel](https://www.macaricobeachhotel.com/) or upgrade to
+      superior room in "Premium" option'
     location:
       lat: "40.4556419"
       lng: "-8.8026211"
@@ -105,7 +112,8 @@ itinerary:
       windsurfing. Coming finally to the "Queen of the Silver Coast," Figueira
       da Foz, famous for its long beaches, where the beautiful River Mondego
       flows. Accommodation, Hotel 4 stars: [Sweet Atlantic
-      Hotel](http://www.sweethotels.pt/)'
+      Hotel](http://www.sweethotels.pt/) or upgrade to superior room in
+      "Premium" option'
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
@@ -122,7 +130,9 @@ itinerary:
       endless monuments, full of nostalgic fado houses and "knowledge", imbued
       in the university environment. Accommodation, Hotel 4 stars: [Tivoli
       Coimbra
-      Hotel](https://www.tivolihotels.com/en/tivoli-coimbra?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)'
+      Hotel](https://www.tivolihotels.com/en/tivoli-coimbra?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
+      or Hotel 5 stars: [Hotel Quinta das
+      Lágrimas](http://www.quintadaslagrimas.pt/) (included in premium option)'
     location:
       lat: "40.2109801"
       lng: "-8.4292057"
