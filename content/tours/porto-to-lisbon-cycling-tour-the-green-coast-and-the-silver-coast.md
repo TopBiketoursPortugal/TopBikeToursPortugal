@@ -356,9 +356,9 @@ pricing:
       - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: 11 dinners (Half-Board)
-        value: extra 550€ (at your hotel)
+        value: X
       - title: 11 lunchs + 11 dinners (Full-board)
-        value: extra 1.000€ (at your hotel)
+        value: X
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -376,11 +376,11 @@ pricing:
       - title: "* Summer Season"
         value: 2.295€
       - title: 12 Nights /13 Days (price per person)
-        value: +1.426€
+        value: X
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
       - title: Prem. hotel upgrade suppl.13 days
-        value: 8﻿50€
+        value: X
     price: 2095
   - bestValue: false
     discount: 0
@@ -410,9 +410,9 @@ pricing:
       - title: 6 lunchs + 6 dinners (Full-board)
         value: extra 850€
       - title: 11 dinners (Half-Board)
-        value: extra 1.000€
+        value: X
       - title: 11 lunchs + 11 dinners (Full-board)
-        value: extra 1.560€
+        value: X
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
