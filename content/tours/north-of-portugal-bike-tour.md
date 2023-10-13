@@ -47,13 +47,14 @@ itinerary:
       vineyards that surround Melgaço and the nearby Peneda Geres park. Today
       you will also be meeting our local partner, including a tour presentation
       and explanation. Farm: [Reguengos de
-      Melgaço](http://www.reguengodemelgaco.pt/)"
+      Melgaço](http://www.reguengodemelgaco.pt/) or Hotel 4 stars: [Hotel Monte
+      Padrol ](https://www.hotelmonteprado.pt/) (included in premium option)"
     location:
       lat: "42.1130412"
       lng: "-8.2593422"
     title: "Day 1: Reception at Porto and transfer to Melgaço"
   - day: "2"
-    description: "Melgaço is alongside the Minho River. Famous for its beautiful
+    description: 'Melgaço is alongside the Minho River. Famous for its beautiful
       landscape, history, gastronomy and also for producing the well-known and
       much appreciated green wine caste, “Alvarinho”.Every year this city
       organizes the “Festa do Alvarinho e do Fumeiro”, a huge event which is
@@ -67,8 +68,8 @@ itinerary:
       border with Spain, separated by the beautiful Minho River, and surrounded
       by ramparts atop a hill, boasting a long defensive look. Hotel 4 *:
       [Pousada de Valença
-      Hotel](https://www.pousadas.pt/en/hotel/pousada-de-valenca?utm_source=goo\
-      gle-my-business&utm_medium=organicsearch&utm_campaign=pousada-de-valenca)"
+      Hotel](https://www.pousadas.pt/en/hotel/pousada-de-valenca?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-de-valenca)
+      or upgrade to superior room in "Premium" option'
     location:
       lat: "42.0270455"
       lng: "-8.6428831"
@@ -94,7 +95,10 @@ itinerary:
       nowadays, mainly during the great festivity of “Nossa Senhora da Agonia”.
       It was also here that the ships were built and later deployed to Brazil,
       India, Africa and other Portuguese colonies, during the XVth and XVIth
-      centuries. Hotel 4 *: [Melo Alvim Hotel](https://hotelmeloalvim.com/)"
+      centuries. Hotel 4 *: [Melo Alvim Hotel](https://hotelmeloalvim.com/) or
+      Hotel 4 stars: [Hotel Dona
+      Aninhas](https://www.ap-hotelsresorts.com/donaaninhas) (included in
+      premium option)"
     location:
       lat: "41.694867"
       lng: "-8.831088"
@@ -111,7 +115,10 @@ itinerary:
       going to Santiago. Ponte de Lima is the cradle of Housing Tourism, of the
       “Loureiro” variety that distinguishes the “Vinho Verde” and the Rice of
       “Sarrabulho” appreciated in the most faraway places in the world. Hotel 4
-      *: [In Lima Hotel](http://www.inlimahotel.com/pt/)"
+      *: [In Lima Hotel](http://www.inlimahotel.com/pt/) or Hotel 5 stars:
+      [Carmo´s Boutique
+      hotel](https://www.hyatt.com/en-US/hotel/portugal/slh-carmos-boutique-hot\
+      el/opoyc?src=corp_lclb_gmb_seo_opoyc) (included in premium option)"
     location:
       lat: "41.7675021"
       lng: "-8.5830992"
@@ -129,7 +136,11 @@ itinerary:
       trough, the forts and mills, are combined in a unique harmony, forming
       landscapes of high scenic and environmental value and confirms Esposende
       as one of the most beautiful counties in the North region. Hotel 3 *:
-      [Suave Mar Hotel](https://www.suavemar.com/)"
+      [Suave Mar Hotel](https://www.suavemar.com/) or Hotel 4 stars: [Hotel Axis
+      offir
+      ](https://www.axishoteis.com/axis-ofir.html?utm_medium=organic&utm_source\
+      =google-my-business&utm_campaign=google-local) (included in premium
+      option)"
     location:
       lat: "41.5455885"
       lng: "-8.75827562"
@@ -142,7 +153,9 @@ itinerary:
       exploration as well as tasting this famous gastronomy. In Vila do Conde,
       you’ll know why these Portuguese coastal cities were so important during
       the “el dorado” of the Portuguese Discoveries. Hotel 4 *: [Porto Trindade
-      Hotel](https://www.portotrindadehotel.com/)"
+      Hotel](https://www.portotrindadehotel.com/) or Hotel 5 stars: [Porto
+      Infante Sagres Hotel ](https://www.hospes.com/en/infante-sagres-porto/)
+      (included in premium option)"
     location:
       lat: "41.1494512"
       lng: "-8.6107884"
