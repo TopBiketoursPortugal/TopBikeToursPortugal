@@ -345,7 +345,7 @@ pricing:
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
       - title: " Prem. hotel upgrade suppl. 9 days"
-        value: 7﻿50€
+        value: X
     price: 2180
     type: "1"
   - discount: 0
