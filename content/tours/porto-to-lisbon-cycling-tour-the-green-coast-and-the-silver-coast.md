@@ -432,7 +432,7 @@ pricing:
       - title: 12 Nights /13 Days (price per person)
         value: +1.900€
       - title: Premium hotel upgrade supplement
-        value: 6﻿50€
+        value: X
       - title: Prem. hotel upgrade suppl.13 days
         value: X
     price: 3406
