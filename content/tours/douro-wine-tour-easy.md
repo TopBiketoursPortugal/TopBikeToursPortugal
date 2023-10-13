@@ -44,18 +44,21 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1FQ1YmZYlKWQxPwBQhEWF96TjtaowgG0C
 itinerary:
   - day: "1"
-    description: "Hotel 4 *: [Quinta de La Rosa ](https://www.quintadelarosa.com/)"
+    description: "Hotel 4 *: [Quinta de La Rosa ](https://www.quintadelarosa.com/)
+      or Farm [Ventozelo Hotel & Quinta](https://hotel.quintadeventozelo.pt/)
+      (included in premium option)"
     location:
       lat: "41.21223207"
       lng: "-7.42980301"
     title: "Day 1: Reception at Porto and transfer to Pinhão"
   - day: "2"
-    description: "Starting in Pinhão, you will begin your journey by heading towards
+    description: 'Starting in Pinhão, you will begin your journey by heading towards
       Ervedosa do Douro and continuing to São João da Pesqueira, where you can
       visit a wine museum. The day will end with an accommodation in Vila Nova
       de Foz Côa, very well known site for its World Heritage Paleolithic
       paintings. Hotel 4 *: [Longroiva Hotel
-      ](http://hoteldelongroiva.com/longroiva-hotel-termas)"
+      ](http://hoteldelongroiva.com/longroiva-hotel-termas) or upgrade to
+      superior room in "Premium" option'
     location:
       lat: "41.07807865"
       lng: "-7.13896749"
@@ -66,8 +69,10 @@ itinerary:
       destination, you will be able to visit its Northern plateau, a preserved
       village with a medieval castle which overlooks the highest point of
       Portugal. Between February and March, in Figueira de Castelo Rodrigo, this
-      natural landscape provides a beautiful scenery of almond blossoms. Hotel 4
-      *: [Colmeia Countriside ](http://colmealhotel.com/)"
+      natural landscape provides a beautiful scenery of almond blossoms. Rural
+      house [Casa da Amendoeira - Turismo Rural
+      ](http://www.casadaamendoeira.pt/) or Hotel 4 *: [Colmeia Countriside
+      ](http://colmealhotel.com/) (included in premium option)"
     location:
       lat: "40.89676004"
       lng: "-6.96072578"
@@ -78,7 +83,9 @@ itinerary:
       course of the Côa River, which will go up to Pinhel. Marialva is connected
       to a nobility title of Marquis, created after the Portuguese Restoration,
       in 1640, as well as connected to the equestrian art of the 18th Century.
-      Hotel 4 *: [Casas do Coro ](http://www.casasdocoro.pt//)"
+      Hotel 4 *: [Casas do Coro ](http://www.casasdocoro.pt//) or upgrade to 2
+      nights in [Casas do Coro ](http://www.casasdocoro.pt//) (included in
+      premium option)"
     location:
       lat: "40.90918386"
       lng: "-7.23094225"
@@ -91,7 +98,8 @@ itinerary:
       Trancoso village. With a past that parallels the history of Portugal,
       Trancoso is a town whose narrow streets and stone houses preserve the
       medieval atmosphere  Hotel 4 *: [Penedono
-      Hotel](http://www.hotelmedieval.pt/)"
+      Hotel](http://www.hotelmedieval.pt/) or upgrade to 2 nights in [Casas do
+      Coro ](http://www.casasdocoro.pt//) (included in premium option)"
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
@@ -106,15 +114,19 @@ itinerary:
       Távora by your side you can enjoy the wonderful geography, with mountains
       and valleys, which is a trademark image of this part of the country. If
       you have the time, take a visit to the XIIth century church. Hotel 4 *:
-      [Penedono Hotel](http://www.hotelmedieval.pt/)'
+      [Penedono Hotel](http://www.hotelmedieval.pt/) or upgrade to superior room
+      in "Premium" option'
     location:
       lat: "40.98965764"
       lng: "-7.39509343"
     title: "Day 6: Penedono loop (40 km)"
   - day: "7"
     description: "From Penedono we will once again ride along the Douro River. Régua
-      is the last frontier to overcome on your way to Porto. Farm: [Quinta da
-      Pacheca](https://quintadapacheca.com/)"
+      is the last frontier to overcome on your way to Porto. Hotel [Hotel Vila
+      Galé Collection
+      Douro](http://www.vilagale.com/pt/hoteis/porto-e-norte/vila-gale-collecti\
+      on-douro) or Farm: [Quinta da Pacheca](https://quintadapacheca.com/)
+      (included in premium option)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"
