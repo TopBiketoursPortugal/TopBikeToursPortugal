@@ -252,10 +252,10 @@ itinerary:
       of the 13 Natural Parks of Portugal, it includes the \"Serra de Sintra\"
       and extends all the way to the coast. Hotel 4 stars: [Pestana
       Cascais](https://www.pestana.com/en/hotel/pestana-cascais?utm_source=goog\
-      le-my-business&utm_medium=organicsearch&utm_campaign=pestana-cascais)
-      orHotel 4 *: [Hotel Cidadela Cascais
-      ](https://www.pestanacollection.com/en/hotel/fortress-cascais) or upgrade
-      to superior room in \"Premium\" option"
+      le-my-business&utm_medium=organicsearch&utm_campaign=pestana-cascais) or
+      Hotel 5 *: [Hotel Cidadela Cascais
+      ](https://www.pestanacollection.com/en/hotel/fortress-cascais)  (included
+      in premium option)"
     location:
       lat: "38.72240025"
       lng: "-9.39690917"
