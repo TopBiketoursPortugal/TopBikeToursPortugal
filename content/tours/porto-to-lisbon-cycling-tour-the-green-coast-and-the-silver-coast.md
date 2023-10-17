@@ -186,9 +186,10 @@ itinerary:
       Óbidos\", which is a lagoon that extends between the municipalities of
       Óbidos and Caldas da Rainha. It is a natural barrier that separate the
       Atlantic Ocean and marine biome from the river ecosystem of \"Foz do
-      Arelho\" formed by lateral dunes. Hotel 4 *: [MH
-      Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx) or upgrade to superior
-      room in \"Premium\" option"
+      Arelho\" formed by lateral dunes. Hotel 3 *: [Star Inn
+      Peniche  ](https://www.hotelstarinn.com/peniche/?lang=pt-pt) or Hotel 4 *:
+      [MH Peniche  ](http://www.mh-hotels.pt/en/mh/Home.aspx) (included in
+      premium option)"
     location:
       lat: "39.33722515"
       lng: "-9.31285284"
