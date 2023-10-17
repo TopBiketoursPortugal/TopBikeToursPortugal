@@ -118,7 +118,7 @@ itinerary:
       *: [In Lima Hotel](http://www.inlimahotel.com/pt/) or Hotel 5 stars:
       [Carmo´s Boutique
       hotel](https://www.hyatt.com/en-US/hotel/portugal/slh-carmos-boutique-hot\
-      el/opoyc?src=corp_lclb_gmb_seo_opoyc) (included in premium option)"
+      el/opoyc) (included in premium option)"
     location:
       lat: "41.7675021"
       lng: "-8.5830992"
