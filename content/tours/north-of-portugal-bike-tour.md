@@ -116,9 +116,7 @@ itinerary:
       “Loureiro” variety that distinguishes the “Vinho Verde” and the Rice of
       “Sarrabulho” appreciated in the most faraway places in the world. Hotel 4
       *: [In Lima Hotel](http://www.inlimahotel.com/pt/) or Hotel 5 stars:
-      [Carmo´s Boutique
-      hotel](https://www.hyatt.com/en-US/hotel/portugal/slh-carmos-boutique-hot\
-      el/opoyc) (included in premium option)"
+      Carmo´s Boutique hotel (included in premium option)"
     location:
       lat: "41.7675021"
       lng: "-8.5830992"
