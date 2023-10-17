@@ -38,11 +38,12 @@ itinerary:
     description: "On the first day of the tour, you will be transferred, from Lisbon
       to the quiet town of Monforte, known for its castle, Roman bridge,
       Madalena church, among other picturesque locations, from different
-      architectural times. . Hotel 5 *: [Torre de Palma
-      ](https://www.torredepalma.com/)"
+      architectural times. Farm [Herdade da
+      ordem](https://www.herdadedaordem.com/) or Hotel 5 *: [Torre de Palma
+      ](https://www.torredepalma.com/) (included in premium option)"
   - day: "2"
     title: "Day 2: Monforte - Estremoz 60 Km"
-    description: "This cycling day will be mostly near agricultural fields. The
+    description: 'This cycling day will be mostly near agricultural fields. The
       first village you will find is, Cabeço de Vide. Much sought after, during
       the summer, for its pools and hot springs. Take some time and go to the
       Castle. Once in Estremoz (“white city”), explore the city, home of many
@@ -50,14 +51,14 @@ itinerary:
       a walk into the city, admire the white marble cobblestones and visit the
       Castle and other monuments that the city offers. Hotel 4 *: [Pousada de
       Estremoz
-      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-\
-      business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)"
+      ](https://www.pousadas.pt/en/hotel/pousada-estremoz?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-estremoz)
+      or upgrade to superior room in "Premium" option'
     location:
       lat: "40.1482816"
       lng: "40.1482816"
   - day: "3"
     title: "Day 3: Estremoz -Vila Viçosa : 35 km"
-    description: "Going out of Estremoz on a bicycle will be a good feeling. A few
+    description: 'Going out of Estremoz on a bicycle will be a good feeling. A few
       kilometers further you will find a marble extraction point and after that
       continue your way to the next place called Arcos. The first half of the
       route it will be easy…enjoy the cork trees and then start a smooth climb
@@ -66,8 +67,8 @@ itinerary:
       also very connected to the marble industry. Explore Vila Viçosa, known as
       the “Princess of Alentejo”, and visit the Ducal Palace and the
       Castle  Hotel 4 *: [Pousada Convento Vila Viçosa
-      ](https://www.pousadas.pt/en/hotel/pousada-vila-vicosa?utm_source=google-\
-      my-business&utm_medium=organicsearch&utm_campaign=pousada-vila-vicosa)"
+      ](https://www.pousadas.pt/en/hotel/pousada-vila-vicosa?utm_source=google-my-business&utm_medium=organicsearch&utm_campaign=pousada-vila-vicosa)
+      or upgrade to superior room in "Premium" option'
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -78,8 +79,8 @@ itinerary:
       Alqueva’s lake. On the way some oleander flowers will paint some trees and
       shrubs. The route will take you to Outeiro Menhir, right before reaching
       Monsaraz Castle.  Hotel 4 *: [Horta da Moura Hotel
-      ](http://hortadamoura.pt/) or luxuary Option (extra quote) Farm: [Herdade
-      São lourenço do Barrocal ](https://barrocal.pt/estate/about/) "
+      ](http://hortadamoura.pt/) or Farm: [Herdade São lourenço do Barrocal
+      ](https://barrocal.pt/estate/about/) (included in premium option)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -94,7 +95,11 @@ itinerary:
       Castle. At this point, half of the way is on your back and the route will
       be up and down in smooth climbs with a view of Olive trees. On the way to
       Évora you still can have a coffe in Nossa Senhora de Machete. Hotel 4 *:
-      [M´AR de Ar ](https://mardearhotels.com/)"
+      [M´AR de Ar ](https://mardearhotels.com/) or 5 star Hotel [Pousada
+      Convento de
+      Évora](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-m\
+      y-business&utm_medium=organicsearch&utm_campaign=pousada-evora) (included
+      in premium option)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -106,7 +111,10 @@ itinerary:
       your views again. The return to Évora will be fast, and you can have more
       time to explore it and visit on of the highlights that is the Bone Chapel
       dated from the XIII century. Hotel 4 *: [M´AR de Ar
-      ](https://mardearhotels.com/)"
+      ](https://mardearhotels.com/) or 5 star Hotel [Pousada Convento de
+      Évora](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-m\
+      y-business&utm_medium=organicsearch&utm_campaign=pousada-evora) (included
+      in premium option)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
@@ -116,7 +124,11 @@ itinerary:
       historical sites and Roman ruins make the final effort and cycle to the
       biggest dolmen and a cromlech with over 5000 years. If that is not enough
       don´t miss the opportunity to go to the ruins of Tourega Roman village,
-      near the lake. Hotel 4 *: [M´AR de Ar ](https://mardearhotels.com/)"
+      near the lake. Hotel 4 *: [M´AR de Ar ](https://mardearhotels.com/) or 5
+      star Hotel [Pousada Convento de
+      Évora](https://www.pousadas.pt/en/hotel/pousada-evora?utm_source=google-m\
+      y-business&utm_medium=organicsearch&utm_campaign=pousada-evora) (included
+      in premium option)"
     location:
       lat: "40.1482816"
       lng: "40.1482816"
