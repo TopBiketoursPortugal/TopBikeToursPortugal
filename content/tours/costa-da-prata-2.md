@@ -240,10 +240,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 7 lunches
-        value: No
-      - title: 7 Dinners
-        value: No
+      - title: 7 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -260,6 +260,8 @@ pricing:
         value: 2.094€
       - title: "* Summer Season"
         value: 2.064€
+      - title: Premium hotel upgrade supplement
+        value: 7﻿50€
     price: 1814
     type: "1"
   - discount: 0
@@ -286,10 +288,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 7 lunches
-        value: No
-      - title: 7 Dinners
-        value: No
+      - title: 7 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: e﻿xtra 600€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -306,11 +308,13 @@ pricing:
         value: 2.722€
       - title: "* Summer Season"
         value: 2.772€
+      - title: Premium hotel upgrade supplement
+        value: 7﻿50€
     price: 2522
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour PLUS*
+    package: Guided Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -332,10 +336,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 7 lunches
-        value: Yes
-      - title: 7 Dinners
-        value: Yes
+      - title: 7 dinners (Half-Board)
+        value: extra 650€
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: extra 950€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -345,14 +349,16 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.378€
-      - value: 3.478€
+        value: 4.128€
+      - value: 4.228€
         title: "* Regular season"
       - title: "* High Season"
-        value: 3.578€
-      - value: 3.628€
+        value: 4.328€
+      - value: 4.378€
         title: "* Summer Season"
-    price: 3378
+      - title: Premium hotel upgrade supplement
+        value: X
+    price: 4128
     type: "1"
 afterpricing: >-
   **Season:**
