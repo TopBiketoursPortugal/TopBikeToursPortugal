@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /Poupe-em-parques-estacionamento-Aeroportos-Reino-Unido
-title: Poupe em parques de estacionamento nos Aeroportos do Reino Unido
+title: Poupe no estacionamento nos Aeroportos do UK
 language: pt
 date: 2019-12-01T18:46:32.224Z
 featuredImage: /img/jet-cloud-landing-aircraft-46148-1-.jpg
