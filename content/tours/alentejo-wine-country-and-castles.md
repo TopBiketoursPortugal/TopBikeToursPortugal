@@ -195,6 +195,10 @@ pricing:
         value: 1.694€
       - title: Premium hotel upgrade supplement
         value: 8﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: e﻿xtra 45€
+      - title: Drinks, snacks and experiences
+        value: X
     type: ""
     observations: ""
     price: 1443
@@ -242,6 +246,10 @@ pricing:
         value: 2.245€
       - title: Premium hotel upgrade supplement
         value: 8﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: X
     type: ""
     observations: ""
     discount: 0
@@ -281,16 +289,20 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.506€
+        value: 3.245€
       - title: "* Regular season"
-        value: 3.606€
+        value: 3.345€
       - title: "* High Season"
-        value: 3.706€
+        value: 3.445€
       - title: "* Summer Season"
-        value: 3.756€
+        value: 3.495€
       - title: Premium hotel upgrade supplement
         value: X
-    price: 3507
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: Yes (post ride)
+    price: 3495
 afterpricing: >-
   **\*Season:**
 
