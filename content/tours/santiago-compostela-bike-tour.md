@@ -244,7 +244,7 @@ pricing:
       - title: Top Bike Tours Portugal Jersey
         value: e﻿xtra 45€
       - title: Drinks, snacks and experiences
-        value: Y﻿es (post ride)
+        value: X
     price: 1458
     type: ""
   - bestValue: true
@@ -299,7 +299,7 @@ pricing:
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
       - title: Drinks, snacks and experiences
-        value: Y﻿es (post ride)
+        value: X
     price: 1990
     type: ""
   - bestValue: true
