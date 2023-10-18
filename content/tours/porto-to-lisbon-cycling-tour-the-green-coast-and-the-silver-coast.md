@@ -431,13 +431,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.180€
+        value: 3.095€
       - title: "* Regular season"
-        value: 3.280€
+        value: 3.175€
       - title: "* High Season"
-        value: 3.380€
+        value: 3235€
       - title: "* Summer Season"
-        value: 3.430€
+        value: 3.295€
       - title: 12 Nights /13 Days (price per person)
         value: X
       - title: Premium hotel upgrade supplement
@@ -448,7 +448,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3180
+    price: 3095
 afterpricing: >-
   **\*Season:**
 
