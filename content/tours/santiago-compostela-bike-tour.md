@@ -241,10 +241,10 @@ pricing:
         value: +187€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
-      - title: P﻿ost ride drinks, snacks and experiences
-        value: X
       - title: Top Bike Tours Portugal Jersey
         value: e﻿xtra 45€
+      - title: P﻿ost ride drinks, snacks and experiences
+        value: X
     price: 1458
     type: ""
   - bestValue: true
@@ -296,10 +296,10 @@ pricing:
         value: not available
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
-      - title: P﻿ost ride drinks, snacks and experiences
-        value: X
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
+      - title: P﻿ost ride drinks, snacks and experiences
+        value: X
     price: 1990
     type: ""
   - bestValue: true
@@ -349,10 +349,10 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days
         value: not available
-      - title: Premium hotel upgrade supplement
-        value: X
       - title: P﻿ost ride drinks, snacks and experiences
         value: Y﻿es
+      - title: Premium hotel upgrade supplement
+        value: X
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
     price: 2990
