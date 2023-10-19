@@ -78,8 +78,8 @@ itinerary:
       kilometers, a long descent will guide you to the biggest artificial
       Alqueva’s lake. On the way some oleander flowers will paint some trees and
       shrubs. The route will take you to Outeiro Menhir, right before reaching
-      Monsaraz Castle.  Hotel 4 *: [Horta da Moura Hotel
-      ](http://hortadamoura.pt/) or Farm: [Herdade São lourenço do Barrocal
+      Monsaraz Castle.  Hotel 4 *: [Horta da Coutada
+      ](http://www.hortadacoutada.pt/ or Farm: [Herdade São lourenço do Barrocal
       ](https://barrocal.pt/estate/about/) (included in premium option)"
     location:
       lat: "40.1482816"
