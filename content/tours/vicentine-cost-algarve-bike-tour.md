@@ -220,7 +220,7 @@ itinerary:
       beach with lots of sights that provide a lovely and relaxing place to
       rest. Hotel 4 *: [Tivoli
       Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
-      or Hotel 4 stars: [Cascade Wellness and Lifestyle
+      or Hotel 5 stars: [Cascade Wellness and Lifestyle
       Resort](https://www.cascaderesortalgarve.com/alojamento) (included in
       premium option)'
     location:
