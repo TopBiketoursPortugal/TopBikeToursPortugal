@@ -225,7 +225,7 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 300€
       - title: 6 lunchs + 6 dinners (Full-board)
         value: extra 550€
       - title: Personal Accident Insurance
