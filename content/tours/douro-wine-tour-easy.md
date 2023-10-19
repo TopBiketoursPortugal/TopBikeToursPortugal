@@ -122,11 +122,9 @@ itinerary:
     title: "Day 6: Penedono loop (40 km)"
   - day: "7"
     description: "From Penedono we will once again ride along the Douro River. Régua
-      is the last frontier to overcome on your way to Porto. Hotel [Hotel Vila
-      Galé Collection
-      Douro](http://www.vilagale.com/pt/hoteis/porto-e-norte/vila-gale-collecti\
-      on-douro) or Farm: [Quinta da Pacheca](https://quintadapacheca.com/)
-      (included in premium option)"
+      is the last frontier to overcome on your way to Porto. Hotel [Delfim Douro
+      Hotel](https://www.delfimdourohotel.com/en/Homepage.aspx) or Farm: [Quinta
+      da Pacheca](https://quintadapacheca.com/) (included in premium option)"
     location:
       lat: "41.15629912"
       lng: "-7.77725457"
