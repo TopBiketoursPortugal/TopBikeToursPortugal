@@ -79,7 +79,7 @@ itinerary:
       comprised mostly of white sandy beaches fringed with shifting dunes and
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
-      wildlife haven with a wealth of bird-watching possibilities. Hotel 5 *:
+      wildlife haven with a wealth of bird-watching possibilities. Hotel 4 *:
       [Design Hotel Troia](https://www.troiadesignhotel.com/pt/) or Hotel 5
       stars: [The Editory By The Sea Troia Comporta
       Hotel](https://www.editoryhotels.com/by-the-sea-troia/) (included in
