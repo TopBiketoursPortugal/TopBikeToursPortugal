@@ -10,7 +10,7 @@ quote: |-
   And would definitely book with them again
 date: 2023-04-09T10:06:33.865Z
 showHome: false
-score: 0
+score: 5
 author:
   country: South Africa
   avatar: /img/emmet.jpg
