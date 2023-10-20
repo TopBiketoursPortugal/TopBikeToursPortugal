@@ -22,7 +22,7 @@ quote: >-
   All in all, thoroughly recommended.
 date: 2023-09-10T10:36:23.741Z
 showHome: false
-score: 4
+score: 5
 author:
   country: United kingdom
   avatar: /img/emmet.jpg
