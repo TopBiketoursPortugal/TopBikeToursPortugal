@@ -74,6 +74,12 @@ dates:
       - Guided bike
       tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
   - type: Date
+    date: 2023-09-22T13:15:32.060Z
+    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
+      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
+      - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
     date: 2024-09-18T10:24:49.690Z
     body: "[Camino de Santiago Bike tour - The French Way starting in León, Spain -
       Guided bike
