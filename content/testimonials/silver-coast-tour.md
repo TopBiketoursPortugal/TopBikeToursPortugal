@@ -7,7 +7,7 @@ quote: I thoroughly enjoyed my sole, self-directed bike tour from Porto to
   were high quality and well located. I would gladly ride with TBTP again!
 date: 2023-10-20T10:30:27.379Z
 showHome: false
-score: 4
+score: 5
 author:
   country: USA
   avatar: /img/emmet.jpg
