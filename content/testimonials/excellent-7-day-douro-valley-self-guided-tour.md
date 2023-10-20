@@ -11,6 +11,7 @@ quote: What an incredible trip!! Sergio from Top Bike Tours curated a wonderful
   Portugal! We loved our trip!
 date: 2023-10-20T10:38:14.355Z
 showHome: false
+reviewSource: https://www.tripadvisor.com/ShowUserReviews-g189180-d4105907-r919746162-Top_Bike_Tours_Portugal-Porto_Porto_District_Northern_Portugal.html
 score: 5
 author:
   country: Canada
