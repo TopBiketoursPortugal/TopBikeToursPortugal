@@ -18,30 +18,6 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2023-09-09T23:00:00.000Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2023-09-24T09:13:51.368Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2023-10-04T10:14:37.502Z
-    body: "[Vicentine Cost and Algarve Bike
-      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
-  - type: Date
-    date: 2023-10-13T10:28:02.876Z
-    body: "[Vicentine Cost and Algarve Bike
-      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
-  - type: Date
-    date: 2023-10-15T10:41:21.213Z
-    body: "[Douro Valley Wine bicycle
-      Tour](https://topbiketoursportugal.com/bike-tours-douro-valley/)"
-  - type: Date
     date: 2023-10-24T10:14:38.133Z
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
