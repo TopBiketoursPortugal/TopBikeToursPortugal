@@ -76,7 +76,7 @@ itinerary:
       lng: "-8.67736816"
     title: Day 2 - Porto - Furadouro ( 47 Km)
   - day: "3"
-    description: 'Continuing the path along the coast, on the road N327, towards the
+    description: "Continuing the path along the coast, on the road N327, towards the
       city of Aveiro, known as the little Venice of Portugal. Ride by several
       fishing villages, one of which is the town of Torreira. Continuing our way
       see the famous natural reserve of S. Jacinto, where you can observe
@@ -84,8 +84,10 @@ itinerary:
       passage via Ferry Boat. Arrive at the famous city of Aveiro where you can
       visit the Jesus Monastery, observe the tiles from the train station and
       make a boat tour on the Ria de Aveiro. Accommodation, Hotel 4 stars:
-      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/) or upgrade to superior
-      room in "Premium" option'
+      [Moliceiro Hotel](https://www.hotelmoliceiro.pt/) or Hotel 5 stars: [MS
+      Collection Aveiro - Palacete de
+      Valdemouro](https://www.mscollection.pt/aveiro) (included in premium
+      option)"
     location:
       lat: "40.640496"
       lng: "8.6537841"
