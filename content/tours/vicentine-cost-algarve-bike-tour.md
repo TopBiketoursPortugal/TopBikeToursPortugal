@@ -517,9 +517,9 @@ Day 10 - Departure
 **KM:** 227 km, Elevation: 2528 meters ascent and 2538 meters descent
 \
 \
-Day 1 – Lisbon Reception and transfer to Santiago do Cacém
+Day 1 – Lisbon Reception and van transfer to Sines on day 2
 
-Day 2 – Santiago do Cacém - Vila Nova de Mil Fontes (45 km)
+Day 2 – Sines - Vila Nova de Mil Fontes (45 km) 
 
 Day 3 – Vila Nova de Mil Fontes – Zambujeira do Mar (35 km)
 
