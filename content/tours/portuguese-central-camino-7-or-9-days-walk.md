@@ -12,10 +12,8 @@ tourtype: Walking
 meta:
   title: "Central Camino to Santiago from Porto: Stage 1"
   description: The Portuguese Central Camino is perfect for those who enjoy a good
-    hiking and those who want to try a combination between the Portuguese’s
-    history, cultural and gastronomy flavors and Spanish history, cultural,
-    gastronomy, and also, the adventure of arriving to Santiago and visit the
-    catacombs.
+    hiking and those who want to try a combination between the Portugal and
+    Spain
   keywords: hike camino to santiago de compostela, WALKING THE CAMINO FROM PORTO PORTUGAL
   robots: INDEX
 minAge: 16
