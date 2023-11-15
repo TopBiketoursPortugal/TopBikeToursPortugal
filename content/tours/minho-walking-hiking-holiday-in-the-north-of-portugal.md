@@ -136,7 +136,7 @@ itinerary:
       that you can only taste in this place.
 
 
-      Hotel 4*: [Melo Alvim](https://casameloalvim.com/)
+      Hotel 4*: [Melo Alvim](https://hotelmeloalvim.com/)
     location:
       lat: "1"
       lng: "1"
