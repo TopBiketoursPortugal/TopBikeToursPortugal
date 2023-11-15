@@ -91,7 +91,7 @@ itinerary:
       Santa Lúzia Sanctuary. 
 
 
-      Hotel 4*: [Melo Alvim](https://casameloalvim.com/)
+      Hotel 4*: [Melo Alvim](https://hotelmeloalvim.com/)
     location:
       lng: "1"
       lat: "1"
