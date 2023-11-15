@@ -79,7 +79,7 @@ itinerary:
       Sanctuary. 
 
 
-      Hotel 4*:** [Melo Alvim](https://casameloalvim.com/)**
+      Hotel 4*:** [Melo Alvim](https://hotelmeloalvim.com/)**
     location:
       lat: "1"
       lng: "1"
