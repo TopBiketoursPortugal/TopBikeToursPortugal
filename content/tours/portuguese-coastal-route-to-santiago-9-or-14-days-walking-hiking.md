@@ -11,10 +11,7 @@ packagetype: PackageTour
 tourtype: Walking
 meta:
   title: " Coastal route to Santiago Compostela: Stage 1"
-  description: "Walk towards Santiago using the Portuguese coastal path. Cross
-    sunny and seaside areas such as Póvoa, Esposende, Vila Praia de âncora,
-    Caminha and Bayona. Have a delight with the famous Arcade's oysters in VIgo.
-    "
+  description: "Walk towards Santiago using the Portuguese coastal path. "
   keywords: Portuguese Coastal route to Santiago Compostela
   robots: INDEX
 minAge: 16
