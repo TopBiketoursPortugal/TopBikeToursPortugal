@@ -18,9 +18,9 @@ feature:
   title: Calendário
 dates:
   - type: Date
-    date: 2023-10-24T10:16:38.227Z
-    body: "[Costa Vicentina e Algarve Bike
-      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
+    date: 2024-04-05T11:03:26.288Z
+    body: "[The Silver Coast - Porto to
+      Coimbra](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
   - type: Date
     date: 2024-04-07T17:35:29.348Z
     body: "[Costa Vicentina e Algarve Bike
