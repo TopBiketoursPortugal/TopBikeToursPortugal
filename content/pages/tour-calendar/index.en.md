@@ -18,9 +18,9 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2023-10-24T10:14:38.133Z
-    body: "[Vicentine Cost and Algarve Bike
-      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+    date: 2024-04-05T11:02:15.102Z
+    body: "[The Silver Coast - Porto to
+      Coimbra](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
   - type: Date
     date: 2024-04-07T17:34:38.698Z
     body: "[Vicentine Cost and Algarve Bike
