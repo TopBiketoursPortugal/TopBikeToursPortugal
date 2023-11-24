@@ -26,7 +26,7 @@ meta:
   keywords: city tours,circuitos em bicicleta PORTO, actividades em bicicleta
     PORTO, ferias em bicicleta PORTO
   robots: INDEX
-  title: Full Day Biketour Deluxe
+  title: Full Day Biketour Deluxe | Top Bike Tours Portugal
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1D3CjvZ4Tdut09u7F2KwCOAxBqNA
 itinerary:
   - day: "1"
