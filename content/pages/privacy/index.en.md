@@ -4,7 +4,7 @@ path: /privacy-policy/
 title: Privacy Policy
 meta:
   robots: NOINDEX
-  description: Privacy Policy
+  description: Privacy Policy of the company Top Bike Tours portugal
   title: Privacy Policy | Top Bike Tours portugal
 ---
 # **Privacy Policy**
