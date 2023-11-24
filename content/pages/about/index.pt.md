@@ -91,7 +91,7 @@ meta:
   description: Sobre a empresa Topbiketoursportugal e os seus guias
   keywords: Sobre a empresa Topbiketoursportugal e os seus guias
   robots: INDEX
-  title: Sobre -nós
+  title: Sobre -nós | Top Bike Tours Portugal
 feature:
   align: center
   image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4394.jpg
