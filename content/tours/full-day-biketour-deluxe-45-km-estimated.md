@@ -24,7 +24,7 @@ meta:
     to the taste of the idyllic and fantastic scenery.
   keywords: city tours,ACTIVITIES IN PORTO, CITY TOURS PORTO
   robots: INDEX
-  title: 1 Day Biketour in Porto city
+  title: "Full Day Biketour: Porto to Póvoa de Varzim"
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1D3CjvZ4Tdut09u7F2KwCOAxBqNA
 itinerary:
   - day: "1"
