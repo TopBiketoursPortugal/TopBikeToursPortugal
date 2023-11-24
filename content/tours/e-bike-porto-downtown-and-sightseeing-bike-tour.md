@@ -23,7 +23,7 @@ meta:
     diferent views of porto city
   keywords: Electric bike tour Porto
   robots: INDEX
-  title: Electric bike tour Porto
+  title: Electric bike tour Porto | Top Bike Tours Portugal
 difficulty: 0
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
