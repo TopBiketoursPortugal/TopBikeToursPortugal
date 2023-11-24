@@ -67,7 +67,7 @@ meta:
   keywords: Cycling Tours Portugal, cycling holidays portugal,bike tours portugal,
     guided bike tours, cycle portugal
   robots: INDEX
-  title: Bike tours Portugal - Self guided and guided Cycling Holidays
+  title: "Bike tours Portugal: Self guided & guided Cycling Holidays"
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
