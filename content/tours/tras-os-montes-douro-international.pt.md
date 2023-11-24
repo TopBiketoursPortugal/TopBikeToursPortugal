@@ -28,7 +28,7 @@ meta:
   keywords: Cycling Tours vale do douro, passeio bicicleta no douro, douro em
     bicicleta, tour de bicicleta no douro
   robots: INDEX
-  title: Cycling Tours - Douro internacional | Top Bike tours Portugal
+  title: Cycling Tours Douro internacional - Bike tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
