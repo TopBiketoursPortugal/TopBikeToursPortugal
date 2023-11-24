@@ -14,7 +14,7 @@ meta:
   description: Bike tours Portugal Gustavo Cabral fotografias e video
   keywords: Bike tours Portugal Gustavo Cabral fotografias e video
   robots: INDEX
-  title: Bike tours Portugal Gustavo Cabral fotografias e video
+  title: Gustavo Cabral fotografias e video do Caminho
   language: PT
 languagePages:
   - path: /Gustavo Cabral fotos e videos do caminho ate santiago/
