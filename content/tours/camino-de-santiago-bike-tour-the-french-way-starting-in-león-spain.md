@@ -26,7 +26,7 @@ meta:
     pilgrimage,Camino Francés bike tour,Cycling route León to Santiago,Bike
     journey on the Camino de Santiago
   robots: INDEX
-  title: "Camino de Santiago Bike Tour from León: Explore the French Way"
+  title: "Camino de Santiago Bike Tour from León: The French Way"
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
