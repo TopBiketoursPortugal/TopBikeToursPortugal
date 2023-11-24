@@ -25,7 +25,7 @@ meta:
     wine. electric bicycle available
   keywords: North and Minho bike tour, cyling holiday north of portugal, minho bike tour,
   robots: INDEX
-  title: North and Minho Bike tour
+  title: North and Minho Bike tour in Portugal
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 1
