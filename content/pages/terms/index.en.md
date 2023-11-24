@@ -3,8 +3,9 @@ templateKey: about-page
 path: /terms-and-conditions/
 title: Terms and Conditions
 meta:
-  description: Terms and Conditions
+  description: Terms and Conditions mof the company Topb Bike Tours portugal
   robots: INDEX
+  title: Terms and Conditions | Top Bike Tours portugal
 ---
 # **Terms and Conditions:**
 
