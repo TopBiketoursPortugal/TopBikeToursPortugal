@@ -14,7 +14,7 @@ meta:
   description: Alteração do link do website para
   keywords: Alteração do link do website para
   robots: INDEX
-  title: Alteração do link do website para topbiketoursportugal.com
+  title: Alteração website para topbiketoursportugal.com
   language: PT
 languagePages: []
 ---
