@@ -30,7 +30,7 @@ meta:
   keywords: cycling holidays douro valley, bike tour douro valley, douro river
     bicycle tour, cycle douro valley
   robots: INDEX
-  title: " Douro Valley bike tour "
+  title: " Douro Valley bike tour in Portugal"
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
