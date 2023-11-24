@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/article-porto-to-santiago-de-compostela-darren-alff/
+showHome: true
 title: Darren Alff article about our bike tour The Way of Saint James
 language: en
 date: 2018-09-10T23:00:00.000Z
@@ -19,11 +20,10 @@ meta:
 languagePages:
   - path: /artigo de bloguer no caminho de santiago em bicicleta/
     language: pt
-showHome: true
 ---
 # Darren Alff article about our bike tour The Way of Saint James
 
-![Darren Alff article about our bike tour The Way of Saint James](/img/darren-alf-bicycle-holiday-group-to-santiago.png "Darren Alff article about our bike tour The Way of Saint James")
+![Darren Alff report bike tour The Way of Saint James](/img/darren-alf-bicycle-holiday-group-to-santiago.png "Darren Alff article about our bike tour The Way of Saint James")
 
 Read the full article in this link:
 
