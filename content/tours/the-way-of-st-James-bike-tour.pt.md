@@ -28,7 +28,7 @@ meta:
   keywords: Passeios de bicicleta guiados portugal - Santiago de Compostela,
     caminho francês
   robots: INDEX
-  title: Santiago de Compostela, Caminho Francês | Top Bike tours Portugal
+  title: Santiago de Compostela - Caminho Francês
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
