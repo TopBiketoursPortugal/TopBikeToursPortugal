@@ -12,7 +12,7 @@ tourtype: Bike
 tourcategory:
   - Bike
 meta:
-  title: "Mountain Bike Tour Porto "
+  title: Mountain Bike Tour Porto | Top Bike Tours Portugal
   description: Mountain bike tour - MTB - available all days starting in Porto
     city,. If you are looking for some physical activity don't miss this bike
     tour.
@@ -81,7 +81,7 @@ feature:
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
-# Mountain Bike Tour in Porto mountais
+# Mountain Bike Tour in Porto n
 
 Enjoy a half day or a full day bike tour in the mountains of Valongo. This bike tour is for people that enjoy mountain bike (MTB). The kilometres  can be adapted to your group but be in mind the route will be in hard surfaces.
 
