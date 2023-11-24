@@ -31,7 +31,7 @@ meta:
   keywords: passeio de bicicleta santiago de compostela, passeio guiado até
     santiago de compostela, bike tour porto a santiago de compostela
   robots: INDEX
-  title: Porto a Santiago de Compostela bike toiur - Caminho da Costa "fácil"
+  title: Porto a Santiago de Compostela pela da Costa Bike Tour
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 2
