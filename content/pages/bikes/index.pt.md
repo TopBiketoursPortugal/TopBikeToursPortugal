@@ -113,7 +113,7 @@ meta:
   keywords: RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
     PORTUGAL,RENTAL BIKE OPORTO
   robots: INDEX
-  title: ALUGUER BICICLETAS PORTO
+  title: ALUGUER BICICLETAS PORTO | Top Bike Tours Portugal
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg
