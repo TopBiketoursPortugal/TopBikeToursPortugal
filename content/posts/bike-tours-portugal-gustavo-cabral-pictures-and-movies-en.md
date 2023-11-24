@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/gustavo-e-Nicole-way-of-saint-james/
-title: Bike tours Portugal Gustavo Cabral pictures and movies
+title: Gustavo Cabral pictures and movies of the Camino
 language: en
 date: 2017-12-05T00:00:00.000Z
 featuredImage: /img/gustavo-cabral-photos.png
@@ -14,7 +14,7 @@ meta:
   description: Bike tours Portugal Gustavo Cabral pictures and movies
   keywords: Bike tours Portugal Gustavo Cabral pictures and movies
   robots: INDEX
-  title: Gustavo Cabral pictures and movies of the Camino
+  title: Bike tours Portugal Gustavo Cabral pictures and movies
   language: EN
 languagePages: []
 ---
