@@ -5,6 +5,7 @@ title: Privacy Policy
 meta:
   robots: NOINDEX
   description: Privacy Policy
+  title: Privacy Policy | Top Bike Tours portugal
 ---
 # **Privacy Policy**
 
