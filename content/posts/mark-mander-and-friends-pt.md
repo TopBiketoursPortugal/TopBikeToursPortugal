@@ -14,7 +14,7 @@ meta:
   description: Mark Mander e amigos
   keywords: Mark Mander e amigos
   robots: INDEX
-  title: Mark Mander e amigos
+  title: Mark Mander e amigos em Portugal
   language: PT
 languagePages:
   - path: /mark mander group/
