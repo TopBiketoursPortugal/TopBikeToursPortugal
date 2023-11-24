@@ -7,16 +7,14 @@ title: tours diárias
 image: /img/44817961982_440e783762_o.jpg
 afterList: .
 meta:
-  description: >-
-    Participe num passeio de bicicleta pela cidade do Porto ou de um dia inteiro
-    de bicicleta no Vale do Douro, nas montanhas, perto do mar ou do rio. Nossos
-    guias sabem toda a história e bons lugares para visitar na cidade do Porto.
-    Deixe-nos guiá-lo de bicicleta pela nossa cidade do Porto.
-  keywords: >-
-    city tours porto portugal,passeios bicicleta porto,circuitos bicicleta
+  description: Participe num passeio de bicicleta pela cidade do Porto ou de um
+    dia inteiro de bicicleta no Vale do Douro, nas montanhas, perto do mar ou do
+    rio. Nossos guias sabem toda a história e bons lugares para visitar na
+    cidade do Porto. Deixe-nos guiá-lo de bicicleta pela nossa cidade do Porto.
+  keywords: city tours porto portugal,passeios bicicleta porto,circuitos bicicleta
     porto,passeios guiados de bicicleta porto
   robots: INDEX
-  title: 'Bike tours Porto -: passeio em bicicleta pela cidade do Porto'
+  title: "Bike tours Porto: passeio em bicicleta pela cidade do Porto"
 feature:
   align: center
   image: /img/44817961982_440e783762_o.jpg
