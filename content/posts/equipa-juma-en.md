@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/juma-team-from-brasil-blog-in-douro-valley/
-title: Equipa JUMA
+title: Equipa JUMA | Top Bike tours Portugal
 language: en
 date: 2017-10-18T23:00:00.000Z
 featuredImage: /img/bike-tour-douro-valley-photo-1.png
@@ -14,7 +14,7 @@ meta:
   description: Customers with blogs - Equipa JUMA
   keywords: customers in douro valley bike tour
   robots: INDEX
-  title: Customers with blogs - Equipa JUMA
+  title: Equipa JUMA | Top Bike tours Portugal
   language: EN
 languagePages:
   - path: /equipa-juma-outubro-2017/
