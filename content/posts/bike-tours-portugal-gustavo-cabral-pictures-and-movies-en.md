@@ -14,7 +14,7 @@ meta:
   description: Bike tours Portugal Gustavo Cabral pictures and movies
   keywords: Bike tours Portugal Gustavo Cabral pictures and movies
   robots: INDEX
-  title: Bike tours Portugal Gustavo Cabral pictures and movies
+  title: Gustavo Cabral pictures and movies of the Camino
   language: EN
 languagePages: []
 ---
