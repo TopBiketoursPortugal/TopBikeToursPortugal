@@ -14,7 +14,7 @@ meta:
   description: Uma carta de amigos
   keywords: Uma carta de amigos
   robots: INDEX
-  title: Uma carta de amigos
+  title: Uma carta de amigos que visitaram portugal
   language: PT
 languagePages:
   - path: /cartas de clientes para a nossa equipa/
