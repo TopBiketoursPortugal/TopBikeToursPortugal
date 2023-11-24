@@ -10,7 +10,7 @@ title: "Passeio de bicicleta no Alentejo - rota Vinícola e Património "
 packagetype: PackageTour
 tourtype: Bike
 meta:
-  title: "Passeio de bicicleta no Alentejo - rota Vinícola e Património "
+  title: "Passeio de bicicleta Alentejo - rota Vinícola e Património "
   description: >-
     O passeio de bicicleta no Alentejo é uma excelente opção para ciclismo em
     estrada com sobreiros, oliveiras, vinhas e castelos em destaque na paisagem.
