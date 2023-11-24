@@ -29,7 +29,7 @@ meta:
   keywords: ferias em bicicleta porto a coimbra, tour de bicicleta porto a
     coimbra, bike tour porto a coimbra
   robots: INDEX
-  title: "Porto a Coimbra: Costa da Prata e Costa verde junto ao Atlântico"
+  title: "Porto a Coimbra: Costa Verde e da Prata junto ao Atlântico"
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
