@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/Camino-de-santiago-starting-in-porto-city-brazil-couple/
-title: Carmen Paz e Fernando
+title: Carmen Paz e Fernando bike photos on the Way to Santiago
 language: en
 date: 2017-10-24T23:00:00.000Z
 featuredImage: /img/carmen-paz-e-fernando-bike-photos-on-the-way-to-santiago-5.png
@@ -11,11 +11,10 @@ categories:
 tags:
   - customers stuff
 meta:
-  description: >-
-    Carmen Paz e Fernando bike photos on the Way to Santiago.This couple from
-    Brazil took the liberty of following the Camino to Santiago the coast path
-    by following the arrows and pedaling through more complicated rails, making
-    this adventure even more unforgettable.
+  description: Carmen Paz e Fernando bike photos on the Way to Santiago.This
+    couple from Brazil took the liberty of following the Camino to Santiago the
+    coast path by following the arrows and pedaling through more complicated
+    rails, making this adventure even more unforgettable.
   keywords: Carmen Paz e Fernando bike photos on the Way to Santiago
   robots: INDEX
   title: Carmen Paz e Fernando bike photos on the Way to Santiago
