@@ -30,7 +30,7 @@ meta:
   keywords: passeios de bicicleta no douro, tours em bicicleta no rio douro,
     ferias em bicicleta no vale do douro
   robots: INDEX
-  title: Vale do Douro em bicicleta
+  title: Vale do Douro em bicicleta | Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
