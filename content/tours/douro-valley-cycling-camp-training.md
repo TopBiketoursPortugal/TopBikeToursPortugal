@@ -25,21 +25,20 @@ meta:
     Training camp in Portugal. Douro region is great for your train. Funny
     climbs and descent ways...you will feel in you are in ancient times! Low
     traffic
-  keywords: >-
-    Douro Valley training camp, road bike in douro valley. road bike tour
+  keywords: Douro Valley training camp, road bike in douro valley. road bike tour
     portugal, road bike
-  title: 'Douro Cycling training camp '
+  title: Douro Cycling training camp | Top Bike Tours Portugal
+  robots: FOLLOW
 groupSizeMax: 0
 groupSizeMin: 0
 minAge: 0
 skillLevel: 0
 distance: 0
-distanceUnit: '-'
+distanceUnit: "-"
 duration: 0
-durationUnit: '-'
+durationUnit: "-"
 difficulty: 0
 physicality: 0
-#rating: []
 itinerary: []
 gallery:
   - alt: group 1
