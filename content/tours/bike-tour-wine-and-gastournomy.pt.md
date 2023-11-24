@@ -23,7 +23,7 @@ meta:
     turístico, em que a bicicleta torna-se indispensável para percorrer a
     marginal "
   robots: INDEX
-  title: BIKE TOUR VINHO E GASTRONOMIA
+  title: BIKE TOUR VINHO E GASTRONOMIA | TOP BIKE TOURS PORTUGAL
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
