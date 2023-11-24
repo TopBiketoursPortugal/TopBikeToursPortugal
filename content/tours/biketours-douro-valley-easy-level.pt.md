@@ -29,7 +29,7 @@ meta:
   keywords: Cycling Tours wine tour, douro valley bike tour, douro valley cycling
     tour, holidays in a bike in douro valley
   robots: INDEX
-  title: "Cycling Tours - Douro Wine "
+  title: Cycling Tours - Douro Wine  | TOP BIKE TOURS PORTUGAL
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
