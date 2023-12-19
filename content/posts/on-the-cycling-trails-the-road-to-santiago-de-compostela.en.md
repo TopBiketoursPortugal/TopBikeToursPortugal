@@ -42,8 +42,6 @@ It's important to familiarize yourself with the route in advance and plan daily 
 
 ### Reference stops
 
-
-
 The numerous towns and villages along the route give you an insight into the history and culture of the region. Visit these places to recharge your batteries. The best-known cities along this road include Póvoa do Varzim, known for its beautiful beaches and marine heritage, Viana do Castelo, renowned for its stunning architecture and cultural festivals, Pontevedra, a charming city with a rich medieval heritage, and Vigo, known for its bustling port and dynamic urban life. These stops provide much-needed rest and the opportunity to get to know the region's customs and gastronomy.
 
 ### A path of overcoming
@@ -59,7 +57,3 @@ Santiago de Compostela represents the culmination of a memorable journey. It's a
 When you arrive at Santiago de Compostela Cathedral, you experience an unparalleled sense of achievement. It's not just a cycling trip, but a pilgrimage that provides an opportunity for self-improvement and reflection.
 
 Cycling the route of Santiago de Compostela is a once-in-a-lifetime adventure that combines spiritual and cultural enrichment with a physical challenge.
-
-
-
-É uma aventura que te leva ao limite, incute resiliência e cria memórias para toda a vida. Este percurso promete-te uma experiência fantástica tanto para ciclistas experientes como para novatos que procuram aventura. Prepara-te para uma viagem espiritual única.
