@@ -6,6 +6,8 @@ language: en
 date: 2023-12-19T11:34:24.442Z
 featuredImage: /img/captura-de-ecrã-2023-12-19-às-11.31.14.png
 featuredImagePosition: center center
+categories:
+  - category: Updates
 meta:
   language: EN
   title: "On the cycling trails: The road to Santiago de Compostela"
