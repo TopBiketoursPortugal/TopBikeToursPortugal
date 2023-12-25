@@ -51,7 +51,7 @@
     "gatsby-plugin-react-leaflet": "^2.0.13",
     "gatsby-plugin-robots-txt": "^1.5.1",
     "gatsby-plugin-sass": "^2.3.2",
-    "gatsby-plugin-sharp": "2.6.9",
+    "gatsby-plugin-sharp": "4.25.1",
     "gatsby-plugin-sitemap": "^2.4.3",
     "gatsby-plugin-smoothscroll": "^1.1.0",
     "gatsby-plugin-styled-components": "^3.3.2",
