@@ -80,7 +80,7 @@
     "jsoneditor-react": "^3.0.0",
     "leaflet": "^1.6.0",
     "leaflet-routing-machine": "^3.2.12",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash-es": "^4.17.15",
     "lodash-webpack-plugin": "^0.11.5",
     "netlify-cms": "^2.10.49",
