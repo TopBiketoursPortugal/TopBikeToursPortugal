@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /pt/blog/caminhadas-inesqueciveis-guia-passeios-portugal
 showHome: false
 title: "Caminhadas inesquecíveis: guia de passeios em Portugal"
 language: pt
