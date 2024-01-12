@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /pt/blog/explorando-portugal-a-pe-melhores-passeios-lisboa
 showHome: false
 title: "Explorando Portugal a pé: os melhores passeios em Lisboa"
 language: pt
