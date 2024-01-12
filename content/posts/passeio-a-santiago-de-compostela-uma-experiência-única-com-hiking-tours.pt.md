@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /pt/blog/passeio-a-santiago-compostela-experiencia-hiking-tours
 showHome: false
 title: "Passeio a Santiago de Compostela: uma experiência única com hiking tours"
 language: pt
