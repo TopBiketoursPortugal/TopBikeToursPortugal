@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /pt/blog/passeios-portugal-maravilhas-pais-hiking-tours
 showHome: false
 title: "Passeios em Portugal: descobrir as maravilhas do país através de hiking tours"
 language: pt
