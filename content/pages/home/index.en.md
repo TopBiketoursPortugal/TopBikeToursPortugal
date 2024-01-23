@@ -3,12 +3,13 @@ templateKey: home-page
 path: /
 title: Home
 meta:
-  description: "Portugal Bike tours: Are you lost in Portugal?Check out guided and
-    self guided biking offer of cycling holidays in Portugal."
+  description: Join our bike tours portugal and enjoy the best cycling experiences
+    in Portugal. Explore stunning landscapes and rich culture with Top Bike
+    Tours Portugal.
   keywords: portugal bike tours,cycling holidays portugal,biketours portugal,bike
     tours porto,cycling portugal
   robots: INDEX
-  title: Portugal Bike Tours - Cycling Holidays Portugal
+  title: "Top Bike Tours Portugal: Cycling Holidays"
 toursection:
   description: "## Popular bike tours in Portugal"
   descriptionafter: >-
