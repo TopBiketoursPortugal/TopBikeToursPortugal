@@ -106,13 +106,13 @@ equipment:
       **O﻿ther models and brands available all with Bosch motor**
     type: Electric Bicycles
 meta:
-  description: Select your bike tour from our cycling tour list. Decide where to
-    go with us in your next cycling Holiday in Portugal. For recreational
-    cyclists or challenge routes
+  description: Don't know wich bike to chose? We offer high-quality bikes for your
+    perfect cycling journey. Chack all the bikes and tours in Top Bike Tours
+    Portugal.
   keywords: Cycling Tours Portugal, cycling holidays in nature,bike tours, bike
     tours portugal,guided bike tours
   robots: INDEX
-  title: Bike tours Portugal - Bicycle tours Portugal
+  title: "Rent a Bike in Porto: Bikes Available - Top Bike Tours Portugal"
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg
