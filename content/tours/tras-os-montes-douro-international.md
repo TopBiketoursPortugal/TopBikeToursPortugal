@@ -22,13 +22,12 @@ tags:
   - electric bicycle
 meta:
   description: >
-    The interior of Portugal holds us many wonders of nature, filled with tales,
-    stories and traditional dishes. Ride along with us to discover the ancient
-    Portuguese
+    Join our wine bike tours and enjoy the best cycling experiences in Portugal.
+    Explore stunning landscapes, food and wine with Top Bike Tours Portugal.
   keywords: "Cycling tours, Douro Valley, nature, heritage, Portugal, North,
     bicycle, nature tourism "
   robots: INDEX
-  title: Bike Holidays - Douro internacional
+  title: Douro Wine Bike Tours - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
