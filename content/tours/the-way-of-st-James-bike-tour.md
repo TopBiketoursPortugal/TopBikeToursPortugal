@@ -23,12 +23,13 @@ tags:
   - Spain
 meta:
   description: >
-    Start cycling in France in this demmanding adventure that is very well known
-    buy our team...discover the way with us!
+    Join our walk of St. James bike tour and enjoy the best cycling experiences
+    Through the Camino to Compsotela. Explore stunning with Top Bike Tours
+    Portugal.
   keywords: FRENSH WAY TO SANTIAGO DE COMPOSTELA IN A BICYCLE, ORIGINAL ROUTE TO
     SANTIAGO DE COMPOSTELA INA BICYCLE
   robots: INDEX
-  title: "Guided Bike tour to Santiago de Compostela in the french way "
+  title: Walk of St. James Bike Tour - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
