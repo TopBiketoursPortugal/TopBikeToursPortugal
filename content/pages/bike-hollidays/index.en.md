@@ -60,14 +60,13 @@ descriptionafter: >-
   The liability insurance and personal accidents insurance are included only in guided Bike tours.
 meta:
   canonicalLink: ""
-  description: Cycle all around Portugal with us. In Self Guided or guided bike
-    tours all the support will be guaranteed. Luggage transference, bicycle
-    rental, four star accommodations, great scenery will be prepared for you.
-    Hibrid bicycles, mountain bikes and electric bicycles available.
+  description: Embark on an adventure with the best bike tours in Portugal.
+    Experience the beauty and culture of Portugal on two wheels with Top Bike
+    Tours Portugal.
   keywords: Cycling Tours Portugal, cycling holidays portugal,bike tours portugal,
     guided bike tours, cycle portugal
   robots: INDEX
-  title: "Bike tours Portugal: Self guided & guided Cycling Holidays"
+  title: The Best Bike Tours in Portugal - Top Bike Tours Portugal
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
