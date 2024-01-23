@@ -23,15 +23,12 @@ tags:
   - electric bicycle
 meta:
   description: >
-    From Figueira da Foz to Cascais or Lisbon in a bicycle. Cycling near the
-    Atlantic sea and expect some climbs in this great bike tour. Must visit
-    Sintra after your cycling tour day vacation. and taste the delicious and
-    traditional "Travesseiro" pastry. This is an easy bicycle tour if an
-    electric bicycle is used.
+    Join our Silver Coast bike tour and enjoy the best cycling experiences in
+    Portugal. Explore stunning landscapes with Top Bike Tours Portugal.
   keywords: cycling vacations Lisbon, atlantic coast bike tour, bike tour silver
     Coast, bicycle tours sintra
   robots: INDEX
-  title: Silver Coast Atlantic route - West Coast and Sintra
+  title: Silver Coast Bike Tour - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
