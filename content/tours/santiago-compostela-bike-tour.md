@@ -25,14 +25,13 @@ tags:
 meta:
   canonicalLink: ""
   description: >
-    Cycling along the coast, in the easiest route to Santiago de Compostela.
-    Start to cycling the Camino of st James in Porto city and make a journey of
-    a life time. This bike tour goes thru the bridge of the river Lima, the
-    bridge of Minho river and Galicia coast line.
+    Experience the historic route from Porto to Santiago by bike with Top Bike
+    Tours Portugal. Join our guided tour for a memorable journey and stunning
+    landscapes.
   keywords: porto to santiago de compostela Bike tour , guided bike tour santiago
     de compostela,porto to santiago bike tour
   robots: INDEX
-  title: Porto to Santiago de Compostela Bike tour  - Coast route
+  title: Bike Tour Porto to Santiago de Compostela - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 2
