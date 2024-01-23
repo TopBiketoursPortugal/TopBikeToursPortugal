@@ -17,16 +17,16 @@ tags:
   - ""
 meta:
   description: >
-    Embark on a remarkable Camino de Santiago bike tour from León to Santiago de
-    Compostela along the famous French Way. Discover stunning landscapes,
-    historic villages, and a transformative journey.
+    Join our Camino de Santiago french way bike tour and enjoy the best curated
+    cycling experiences. Explore stunning landscapes with Top Bike Tours
+    Portugal.
   keywords: Camino de Santiago bike tour,León to Santiago bike route,Cycling the
     Camino from León,Bike pilgrimage,León to Santiago,Camino de Santiago cycling
     adventure,Biking the French Way from León,León to Santiago bike
     pilgrimage,Camino Francés bike tour,Cycling route León to Santiago,Bike
     journey on the Camino de Santiago
   robots: INDEX
-  title: "Camino de Santiago Bike Tour from León: The French Way"
+  title: Camino de Santiago French Way by Bike-Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
