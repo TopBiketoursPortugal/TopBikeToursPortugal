@@ -6,14 +6,13 @@ lang: en
 title: Day tours
 afterList: "## The best way to know Portugal is in a bicycle"
 meta:
-  description: Join a Porto bicycle tour or a full biking day in Douro Valley, in
-    the montains , near the sea or river. Our guides will know all the history
-    and good places to visit in Porto city. Let us guide you on a bicycle thru
-    our beautiful Porto city.
+  description: Join our exciting Porto cycling tours. Explore the charming city of
+    Porto and its surroundings by bike with Top Bike Tours Portugal and our
+    expert guides.
   keywords: bike tours porto, oporto bicycle tours, porto bike tours, cycling in
     porto, biking in porto
   robots: INDEX
-  title: Bike tours Porto | Top Bike Tours portugal
+  title: Porto Cycling Tours - Top Bike Tours Portugal
 feature:
   align: center
   image: /img/44817961982_440e783762_o.jpg
