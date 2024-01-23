@@ -19,13 +19,12 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: The oldest village, the river and the sea in one bike tour around
-    the North of Portugal. Explore the nature and cycling near the Lima and
-    Minho river. At the end of your cycling day tour taste de "vinho verde"
-    wine. electric bicycle available
+  description: Discover the hidden gems of Northern Portugal with our bike tour in
+    Minho Portugal. Enjoy the natural and cultural beauty with Top Bike Tours
+    Portugal.
   keywords: North and Minho bike tour, cyling holiday north of portugal, minho bike tour,
   robots: INDEX
-  title: North and Minho Bike tour in Portugal
+  title: Bike Tour in North and Minho Portugal - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 1
