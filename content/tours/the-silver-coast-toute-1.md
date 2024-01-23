@@ -22,15 +22,13 @@ tags:
   - electric bicycle
   - atlantic coast
 meta:
-  description: Cycle with us the Green and Silver Coast always with the Atlantic
-    sea on your right. You will pedal thru Aveiro and Figueira da Foz and will
-    end in Coimbra, the city of the students. Lots of highlits will be available
-    in our roadbook and everything will be ready for your vacations cycling
-    route.
+  description: Check our bike tour from Porto to Coimbra, a specially curated bike
+    tour. Discover the unique scenery and history of Portugal with Top Bike
+    Tours Portugal.
   keywords: guided bike tour atlantic sea, bike tour porto to coimbra, bike tour
     porto to lisbon, cycling holidays portugal
   robots: INDEX
-  title: Porto to Coimbra -The Silver Coast Atlantic route
+  title: Bike Tour from Porto to Coimbra - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
