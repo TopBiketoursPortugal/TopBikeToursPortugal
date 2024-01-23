@@ -21,16 +21,13 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: >
-    Cycle near the Douro river and in the  Douro valleys expect great views of
-    the farms and the vinyards.The Valley of the Douro, classified as Natural
-    Heritage, is nowadays an ultimate masterpiece of nature, very well sought by
-    its villae, houses and vineyards. Electric bicycles available to make your
-    ride easyer.
+  description: Join our Douro valley bike tour and enjoy the best cycling
+    experiences in Portugal. Explore stunning landscapes with Top Bike Tours
+    Portugal.
   keywords: cycling holidays douro valley, bike tour douro valley, douro river
     bicycle tour, cycle douro valley
   robots: INDEX
-  title: " Douro Valley bike tour in Portugal"
+  title: Douro Valley Bike Tours - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
