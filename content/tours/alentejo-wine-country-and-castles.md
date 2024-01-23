@@ -10,12 +10,10 @@ title: Alentejo Wine country and Castles
 packagetype: PackageTour
 tourtype: Bike
 meta:
-  title: Bicycle tour in Alentejo - Wine country and Castles
-  description: >-
-    Bike tour in Alentejo is a great option for road cycling near the cork and
-    olive trees, vineyards and Castles.
-
-    Cycle in Évora, UNESCO World Heritage site, and emerge in the evolution of our kind visiting the cromlech with more that 500 years of history.
+  title: Alentejo Bike Tour -Wine & Castles-Top Bike Tours Portugal
+  description: Join our Alentejo bike tour and enjoy the best cycling experiences
+    in Portugal. Explore stunning landscapes, wine and castles with Top Bike
+    Tours Portugal.
   keywords: bike tour alentejo portugal, bike tour portugal wine, alentejo bike
     tour, bike tour in alentejo
   robots: INDEX
