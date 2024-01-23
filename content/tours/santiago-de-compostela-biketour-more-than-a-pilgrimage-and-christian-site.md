@@ -20,11 +20,13 @@ tags:
   - electric bicycle
   - Spain
 meta:
-  description: Start in Porto city cycling thru the way of St. James and discover yourself!
+  description: Join our Camino de Santiago bike tour and enjoy the best cycling
+    experience to Compostela. Explore stunning landscapes and cultures with Top
+    Bike Tours Portugal.
   keywords: "Cycling tours, Santiago de compostela, religious tourism, bicycle,
     pilgrim, Portugal, Gallicia "
   robots: INDEX
-  title: Santiago de Compostela Original route starting in Porto
+  title: Camino de Santiago Bike Tour - Top Bike Tours Portugal
 distance: 243
 distanceUnit: Km
 duration: 8
