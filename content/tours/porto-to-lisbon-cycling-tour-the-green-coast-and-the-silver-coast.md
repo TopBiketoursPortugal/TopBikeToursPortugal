@@ -22,14 +22,12 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: Cycle the green Coast and the Silver Coast with us from Porto to
-    Lisbon. Ask for a quote. Enjoy the ride near the Atlantic coast with a
-    regular hybrid bicycle, a mountain bike our electric bicycle. Cycling paths
-    are available in the majoraty of the route. Airport transfers included in
-    the cycling holiday package.
+  description: Join our Porto to Lisbon bike tour and enjoy the best cycling
+    experiences in Portugal. Explore stunning landscapes with Top Bike Tours
+    Portugal.
   keywords: porto to lisbon bike holiday, porto to lisbon biketour
   robots: INDEX
-  title: Cycling tour from Porto to Lisbon
+  title: Porto to Lisbon Bike Tour - Top Bike Tours Portugal
 distance: 493
 distanceUnit: Km
 duration: 13
