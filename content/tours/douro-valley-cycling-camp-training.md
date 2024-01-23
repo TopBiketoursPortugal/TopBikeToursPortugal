@@ -22,12 +22,12 @@ tags:
   - electric bicycle
 meta:
   description: >
-    Training camp in Portugal. Douro region is great for your train. Funny
-    climbs and descent ways...you will feel in you are in ancient times! Low
-    traffic
+    Join our Douro valley bike camp training and enjoy the best cycling
+    experiences in Portugal. Explore stunning landscapes with Top Bike Tours
+    Portugal.
   keywords: Douro Valley training camp, road bike in douro valley. road bike tour
     portugal, road bike
-  title: Douro Cycling training camp | Top Bike Tours Portugal
+  title: Douro Valley Bike Camp Training - Top Bike Tours Portugal
   robots: FOLLOW
 groupSizeMax: 0
 groupSizeMin: 0
