@@ -4,12 +4,13 @@ path: /guided-bike-tours-calendar-portugal/
 title: Tour Calendar
 meta:
   canonicalLink: ""
-  description: Explore with us so guided our packages by bicycle specially
-    prepared for you! Calendar now available!
+  description: Plan your next cycling holiday with Top Bike Tours Portugal and our
+    guided bike tour calendar. Find the perfect dates for your Portugal biking
+    adventure.
   keywords: PORTUGAL BIKE TOURS CALENDAR, guided bike tour calendar, self guide
     bike tours calendar
   robots: INDEX
-  title: Calendar for guided bike tours in Portugal
+  title: Check our Bike Tours Calendar - Top Bike Tours Portugal
 feature:
   align: center
   image: /img/camino-de-santiago-coastal-route-bicycle-tour.jpg
