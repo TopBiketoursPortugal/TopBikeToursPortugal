@@ -6,7 +6,9 @@ path: /blog/
 title: Blog Page
 meta:
   canonicalLink: ""
-  description: Blog Page of Top Bike tours Portugal
+  description: Join our Scenic Bike Tours and enjoy the best cycling experiences
+    in Portugal. Explore all you need to know, tips and guides with Top Bike
+    Tours Portugal blog.
   keywords: Blog Page
   robots: INDEX
   title: Blog Page | Top Bike tours portugal
