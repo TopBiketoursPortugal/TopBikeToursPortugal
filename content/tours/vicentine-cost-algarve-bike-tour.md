@@ -26,14 +26,13 @@ tags:
   - southwest bike tour
 meta:
   description: >
-    Start in Lisbon or in Sines in this amazing bike tour thru the south west
-    coast of Portugal....wild, nature and quiet bike tour near the beautiful
-    beaches of the Atlantic south west coast. Self guided and guided bike tours
-    available. Electric bicycles and mountain bicycles can be booked.
+    Do you wanna try cycling in Alentejo and Algarve? Check the curated tours
+    we,Top Bike Tours Portugal, created. The best cycling experiences with the
+    best guides!
   keywords: Vicentine Coast to Algarve cycling holiday, alentejo bike tour,
     algarve bike tour, Alentejo southwest bike tour
   robots: INDEX
-  title: Vicentine Cost and Algarve Bike Tour
+  title: Bike Tour in Vicentine Coast & Algarve - Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
