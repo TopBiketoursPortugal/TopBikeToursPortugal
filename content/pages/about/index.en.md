@@ -79,11 +79,13 @@ team:
     name: Pedro Oliveira
     role: Guide
 meta:
-  description: About Top bike tours portugal
+  description: Get to know Top Bike Tours Portugal and enjoy the best cycling
+    Holidays in Portugal. Explore stunning landscapes and rich culture on our
+    tours.
   keywords: ABOUT US RENT TOURS,hire a bycicle porto portugal, city tours porto
     portugal,Biking travel
   robots: INDEX
-  title: About us
+  title: About Us - Top Bike Tours Portugal
 feature:
   align: center
   image: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4394.jpg
