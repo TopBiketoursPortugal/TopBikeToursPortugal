@@ -56,7 +56,7 @@ dates:
       tour](https://topbiketoursportugal.com/bike-tour-camino-de-santiago-cycli\
       ng-french-way-leon/)"
   - type: Date
-    date: 2024-09-22T13:15:32.060Z
+    date: 2024-09-27T13:15:32.060Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
       - Guided bike
