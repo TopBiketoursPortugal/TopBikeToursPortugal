@@ -45,7 +45,7 @@ itinerary:
       Santiago, which is ranked as a UNESCO World Heritage Site. Some of the
       city's most prominent historical buildings are the Cathedral, the finest
       example of French gothic classical style architecture in Spain.
-      Accommodation, Hotel 4 stars: [Hotel Real Colegiata San
+      Accommodation, Hotel 3 stars: [Hotel Real Colegiata San
       Isidoro](https://www.hotelrealcolegiata.com/) or Hotel 5 stars: [Parador
       de
       León](https://paradores.es/es/parador-de-leon?utm_source=GoogleMyBusiness\
