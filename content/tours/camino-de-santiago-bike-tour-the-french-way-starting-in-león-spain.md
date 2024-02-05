@@ -30,12 +30,12 @@ meta:
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
-skillLevel: 1
+skillLevel: -2
 distance: 320
 distanceUnit: km
 duration: 8
 durationUnit: Days | 7 Nights
-difficulty: 4
+difficulty: 5
 physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1HO1scn3_ETs8wsMq-TzxiymjG6iY5ydf
 itinerary:
