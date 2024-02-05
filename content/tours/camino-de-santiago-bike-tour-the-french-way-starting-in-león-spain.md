@@ -381,6 +381,8 @@ The French Way from León to Santiago encompasses diverse terrains, beginning wi
 
 
 
+
+
 **Itinerary 8 nights / 9 Days:**
 
 **D﻿ay 1:** Leon
