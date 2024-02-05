@@ -70,8 +70,9 @@ itinerary:
       and stunning landscapes. Pass through Ponferrada, home to the Templar
       Castle, and immerse yourself in the region's history. Accommodation, Hotel
       4 stars: [Hotel Temple Ponferrada](https://www.hoteltempleponferrada.com/)
-      or Hotel Rural: [Finca Vivaldi Hotel Nature & Spa
-      ](https://fincavivaldi.es/)"
+      or Hotel 4 stars : [AC Hotel Ponferrada
+      Marriot](https://www.marriott.com/en-us/hotels/lenpo-ac-hotel-ponferrada/\
+      overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)"
     location:
       lat: "42.5988042"
       lng: "-6.7259329"
@@ -188,6 +189,8 @@ pricing:
         value: 1﻿.698€
       - title: "* Summer Season"
         value: 1﻿.758€
+      - title: 8 Nights / 9 Days
+        value: +﻿ 187€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
       - title: Top Bike Tours Portugal Jersey
@@ -238,6 +241,8 @@ pricing:
         value: 2﻿.230€
       - title: "* Summer Season"
         value: 2﻿.290€
+      - title: 8 Nights / 9 Days
+        value: not available
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
       - title: Top Bike Tours Portugal Jersey
@@ -245,6 +250,8 @@ pricing:
       - title: Drinks, snacks and experiences
         value: X
     price: 2090
+    type: ""
+    observations: ""
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Guided Premium*
@@ -287,6 +294,8 @@ pricing:
         value: 3﻿.230€
       - title: "* Summer Season"
         value: 3﻿.290€
+      - value: not available
+        title: 8 Nights / 9 Days
       - title: Premium hotel upgrade supplement
         value: X
       - title: Top Bike Tours Portugal Jersey
@@ -369,3 +378,25 @@ The French Way from León to Santiago encompasses diverse terrains, beginning wi
 **D﻿ay 7:** Arzúa - Santiago de Compostela: 39 Km
 
 **D﻿ay 8 :** Transfer to Santiago airport or Vigo airport
+
+
+
+**Itinerary 8 nights / 9 Days:**
+
+**D﻿ay 1:** Leon
+
+**D﻿ay 2:** Leon - Astorga: 53 Km
+
+**D﻿ay 3:** Astorga - Ponteferrada: 59 Km
+
+**D﻿ay 4:** Ponteferrada - Bierzo: 43Km
+
+**D﻿ay 5:** Bierzo - Sarria: 49 Km
+
+**D﻿ay 6:** Sarria - Melide: 60 km
+
+**D﻿ay 6:** Melide - Arzaú: 15 km
+
+**D﻿ay 8:** Arzúa - Santiago de Compostela: 39 Km
+
+**D﻿ay 9 :** Transfer to Santiago airport or Vigo airport
