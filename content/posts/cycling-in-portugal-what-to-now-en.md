@@ -2,20 +2,19 @@
 templateKey: blog-post
 path: /blog/cycling-portugal-bike-tours-portugal/
 showHome: true
-title: "Cycling In Portugal: What to know!"
+title: "Cycling In Portugal: What to know!  - Top Bike Tours Portugal"
 language: en
 date: 2020-01-15T17:52:50.137Z
 featuredImage: /img/henrique-1-1-.jpg
 featuredImagePosition: center center
 meta:
   description: >
-    Come and cycle in Portugal. Everything to know about the weather, type of
-    terrain, best month to cycle and regions is on this great article done by
-    Henrique, our guide.
+    Everything you need to know for cycling in Portugal. Tips, routes, and more
+    to make your bike tour an epic experience with Top Bike Tours Portugal.
   keywords: Cycling In Portugal,weather to cycle in portugal, type of terrain,
     best month to cycle
   robots: INDEX
-  title: "Cycling In Portugal: What to know!"
+  title: "Cycling In Portugal: What to know!  - Top Bike Tours Portugal"
   language: EN
 languagePages: []
 ---
