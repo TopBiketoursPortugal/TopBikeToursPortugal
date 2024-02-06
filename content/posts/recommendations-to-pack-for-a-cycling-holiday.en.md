@@ -8,7 +8,7 @@ date: 2020-11-25T15:25:38.939Z
 featuredImage: /img/kit-for-cycling-holidays.jpg
 featuredImagePosition: center center
 meta:
-  title: Packing recommendations for a cycling holiday
+  title: What to Pack for a Cycling Holiday - Top Bike Tours Portugal
   language: EN
   description: Plan your cycling adventure with our ultimate guide on what to pack
     for a cycling holiday in Portugal. Discover essential tips with Top Bike
