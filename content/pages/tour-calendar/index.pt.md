@@ -22,15 +22,15 @@ dates:
     body: "[The Silver Coast - Porto to
       Coimbra](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
   - type: Date
-    date: 2024-04-07T17:35:29.348Z
-    body: "[Costa Vicentina e Algarve Bike
-      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
-  - type: Date
     date: 2024-05-04T23:00:00.000Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
       - Guided bike
       tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
+    date: 2024-05-13T17:35:29.348Z
+    body: "[Costa Vicentina e Algarve Bike
+      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
   - type: Date
     date: 2024-05-27T08:33:55.363Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
