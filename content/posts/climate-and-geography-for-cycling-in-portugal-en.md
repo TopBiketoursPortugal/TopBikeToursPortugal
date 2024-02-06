@@ -2,17 +2,19 @@
 templateKey: blog-post
 path: /pt/blog/climate-and-geography-in-portugal-for-cycling/
 showHome: true
-title: Climate and Geography for cycling in Portugal
+title: "Cycling: Portugal Climate and Geography - Top Bike Tours "
 language: en
 date: 2020-01-25T15:35:57.313Z
 featuredImage: /img/mapa_final_novologo_-04-100-pixeis-1-.png
 featuredImagePosition: center center
 meta:
-  description: Climate and Geography for cycling in Portugal
+  description: Explore the wonders of Portugal's climate and geography, and how
+    they make this country perfect for cycling. Join the adventure with Top Bike
+    Tours Portugal.
   keywords: Climate and Geography for cycling in Portugal, climate in portugal,
     weather for cycling portugal
   robots: INDEX
-  title: Climate and Geography for cycling in Portugal
+  title: "Cycling: Portugal Climate and Geography - Top Bike Tours "
   language: EN
 languagePages: []
 ---
