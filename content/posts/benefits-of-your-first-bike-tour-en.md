@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /blog/benefits-of-your-first-bike-tour/
 showHome: false
-title: Benefits of your first bike tour!
+title: Benefits of Our Avid Bike Tours - Top Bike Tours Portugal
 language: en
 date: 2018-12-21T00:00:00.000Z
 featuredImage: /img/the-way-of-st.-james-bike-tour-fold-n-visit-cycling-holidays-4323.jpg
@@ -12,10 +12,12 @@ categories:
 tags:
   - Bike tours informations
 meta:
-  description: Benefits of your first bike tour
+  description: Uncover the incredible benefits of our avid bike tours and how they
+    can transform your and well-being. Join Top Bike Tours Portugal for an
+    enriching experience.
   keywords: Benefits of your first bike tour
   robots: INDEX
-  title: Benefits of your first bike tour
+  title: Benefits of Our Avid Bike Tours - Top Bike Tours Portugal
   language: EN
 languagePages: []
 ---
