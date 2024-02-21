@@ -17,10 +17,10 @@ team:
     role: Owner / Founder
   - bio: >-
       I'm Miguel, a dedicated tour guide born in the picturesque town of
-      Amarante. With a degree in tourism from Universidade de Trás-os-Montes e
-      Alto Douro, I've been passionately immersed in the world of guided tours,
-      specializing in cycling adventures that showcase the beauty of our
-      country.
+      Amarante in 1994. With a degree in tourism from Universidade de
+      Trás-os-Montes e Alto Douro, I've been passionately immersed in the world
+      of guided tours, specializing in cycling adventures that showcase the
+      beauty of our country. 
 
 
       My roots in Amarante run deep, providing me with a profound understanding of portuguese cultural tapestry and hidden gems. As your guide, I'm not just here to lead; I'm here to share the stories, local insights, and scenic wonders that make Portugal truly special.
@@ -31,9 +31,8 @@ team:
     name: Miguel Babo
     role: Guide
   - bio: >-
-      My name is Telmo. I'm 26 years old, born in Guimarães, and have been
-      living in Porto for 4 years. My academic journey led me to explore Sports
-      Sciences.
+      Telmo, Born in Guimarães in 1997, and have been living in Porto for 4
+      years. My academic journey led me to explore Sports Sciences. 
 
 
       Moreover, cycling has been a constant in my life as long as I can remember, and biking through the city has allowed me to discover new places in a unique way. This connection with physical activity and exploration has led me to reflect on the richness of experiences that the world offers.
