@@ -54,16 +54,15 @@ team:
     image: /img/joão-natal-bicycle-guide-2-1-.jpg
     name: João Natal
     role: Guide
-  - bio: Born in Espinho in 1988, José has a degree in Management and Planning in
-      Tourism. In sports, José played professional roller hockey and adventure
-      sports. The great passion of José is travelling and experiencing different
-      cultures, applying that knowledge to Top Bike tours Portugal business.
-      José speaks fluent English, Spanish, French and Portuguese, having
-      extensive experience as a guide for city tours and cycling holidays. José
-      is now the owner of a company and works with little kids after classes.
-      When available he participates in guided bike tours.
-    image: /img/josé.jpg
-    name: José Nogueira
+  - bio: Born in Espinho in 1982, João Ribeiro has a degree in Management and
+      Planning in Tourism. In sports, João played professional roller hockey
+      plus some Swimming and Volleyball. The great passion of João is travelling
+      and experiencing different cultures, applying that knowledge to Top Bike
+      tours Portugal business, he is also a master Olive oil sommelier. João
+      speaks fluent English, Spanish, French and Portuguese, having extensive
+      experience as a guide for city tours and cycling holidays.
+    image: /img/joao-ribeiro-cycling-guide.jpg
+    name: João Ribeiro
     role: Guide
   - bio: '"Born in 1962, Pedro used to work on the banking business. "I dedicate
       myself now to my old passion : cycling". Pedro started working at the age
