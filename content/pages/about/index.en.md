@@ -33,21 +33,17 @@ team:
     image: /img/henrique-2.jpg
     name: Henrique Vareta
     role: Guide
-  - bio: 'Marta was born in 1996: "Since I was a little girl, my biggest dream has
-      ever been to become a tourist guide, because I love to discover new people
-      and new ways of thinking. I went to the university to study tourism and,
-      in the end of all of it, this job opportunity appeared in my way. During a
-      whole month period, my colleagues prepared me to become an expert in this
-      field, being supportive all along the way. Finally I had my first tour. It
-      wasn’t long after that I also had my first review. That was, in itself,
-      the best payment anyone could ever have had, because in this way I touched
-      the heart of the people by showing them the amazing culture my city has to
-      offer. I am a sports girl. I practiced badminton, karate, swimming and the
-      bicycle was my transportation for everywhere. I speak English and Spanish,
-      and my joy is to take my time to make your vacations worthwhile and
-      memorable."'
-    image: /img/marta.jpg
-    name: Marta Pereira
+  - bio: >-
+      Born in Porto in 1993, João has a degree in tourism and finishing a
+      masters degree in Science of Communication. Since he has a kid always
+      wanted to be on the outdoors with a special interest for history. In his
+      spare times practice some sports like hiking, climbing and boxe. Speaks
+      fluent English, Portuguese and Spanish.
+
+
+      His main goal as a guide is to ensure that everyone is enjoying and favorite part of the job is exchaning culture aspects and stories with the costumers.
+    image: /img/joão-natal-bicycle-guide.jpg
+    name: João Natal
     role: Guide
   - bio: Born in Espinho in 1988, José has a degree in Management and Planning in
       Tourism. In sports, José played professional roller hockey and adventure
