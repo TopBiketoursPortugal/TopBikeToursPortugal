@@ -42,7 +42,7 @@ team:
 
 
       A minha verdadeira paixão, no entanto, reside nas histórias das pessoas. Adoro conviver e descobrir as narrativas únicas que cada indivíduo traz consigo. Essa curiosidade inata sobre as vidas das pessoas se alinha perfeitamente com a missão da TBT, onde a diversidade de culturas e histórias é celebrada.
-    image: /img/temo-novais-cycling-guide-1-.jpg
+    image: /img/temo-novais-cycling-guide-2-.jpg
     name: Telmo Novais
     role: Guia
   - bio: >-
@@ -54,7 +54,7 @@ team:
 
 
       His main goal as a guide is to ensure that everyone is enjoying and favorite part of the job is exchaning culture aspects and stories with the costumers.
-    image: /img/joão-natal-bicycle-guide-1-.jpg
+    image: /img/joão-natal-bicycle-guide-2-1-.jpg
     name: João Natal
     role: Guia
   - bio: Nasceu em Espinho e tem 33 anos, é formado em Gestão e Planeamento em
