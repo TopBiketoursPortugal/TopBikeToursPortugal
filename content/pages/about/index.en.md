@@ -15,23 +15,33 @@ team:
     image: /img/sergio-marques.jpg
     name: Sérgio Marques
     role: Owner / Founder
-  - bio: Born in Porto in 1990, Tiago has professional qualification in Tourism and
-      a degree in Tourism. In sports Tiago practiced swimming, skimming and was
-      part of the scouts, gaining a great passion for adventure sports, outdoors
-      and hiking. Tiago speaks fluent English, Portuguese and some French and
-      Spanish. He has experience as a guide both in city tours and cycling
-      holidays.
-    image: /img/tiago.jpg
-    name: Tiago Silva
+  - bio: >-
+      I'm Miguel, a dedicated tour guide born in the picturesque town of
+      Amarante. With a degree in tourism from Universidade de Trás-os-Montes e
+      Alto Douro, I've been passionately immersed in the world of guided tours,
+      specializing in cycling adventures that showcase the beauty of our
+      country.
+
+
+      My roots in Amarante run deep, providing me with a profound understanding of portuguese cultural tapestry and hidden gems. As your guide, I'm not just here to lead; I'm here to share the stories, local insights, and scenic wonders that make Portugal truly special.
+
+
+      What sets my cycling tours apart is my personal connection to the sport. For over five years, I've embraced the thrill of downhill cycling, fostering a profound love for the open road and the adventures it unfolds. This firsthand experience fuels my commitment to creating cycling holidays that not only explore our stunning landscapes but also capture the spirit of two-wheeled exploration.
+    image: /img/miguel-babo-cycling-guide.jpg
+    name: Miguel Babo
     role: Guide
-  - bio: Born in Porto in 1994, he has a degree in Tourism. His sport life revolved
-      mostly around hockey and rugby. He claims to speak English and Portuguese,
-      while also being able to make himself clearly understandable in Spanish.
-      Although not being an extreme passionate person for cycling, Henrique as
-      always used bicycles as his main transportation vehicle and, as such, it
-      was only natural that he would end up working with them.
-    image: /img/henrique-2.jpg
-    name: Henrique Vareta
+  - bio: >-
+      My name is Telmo. I'm 26 years old, born in Guimarães, and have been
+      living in Porto for 4 years. My academic journey led me to explore Sports
+      Sciences.
+
+
+      Moreover, cycling has been a constant in my life as long as I can remember, and biking through the city has allowed me to discover new places in a unique way. This connection with physical activity and exploration has led me to reflect on the richness of experiences that the world offers.
+
+
+      However, my true passion lies in people's stories. I love socializing and uncovering the unique narratives that each individual carries. This inherent curiosity about people's lives aligns perfectly with TBT's mission, where the diversity of cultures and stories is celebrated.
+    image: /img/temo-novais-cycling-guide.jpg
+    name: Telmo Novais
     role: Guide
   - bio: >-
       Born in Porto in 1993, João has a degree in tourism and finishing a
