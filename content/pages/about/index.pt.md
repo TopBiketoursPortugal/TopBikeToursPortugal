@@ -17,41 +17,45 @@ team:
     image: /img/sergio-marques.jpg
     name: Sergio Marques
     role: Proprietário
-  - bio: Nasceu no Porto e tem 25 anos, tem a qualificação profissional em Turismo e
-      uma licenciatura em Turismo. No desporto, Tiago praticou natação, skymming
-      e fazia parte dos escuteiros, ganhando uma grande paixão por desporto de
-      aventura, ao ar livre e caminhadas. Tiago fala fluentemente Inglês,
-      Português e um pouco de francês e espanhol, tem experiência como um guia
-      para passeios pela cidade e viagens de bicicleta.
-    image: /img/tiago.jpg
-    name: Tiago Silva
+  - bio: >-
+      Greetings! I'm Miguel, a dedicated tour guide born in the picturesque town
+      of Amarante. With a degree in tourism from Universidade de Trás-os-Montes
+      e Alto Douro, I've been passionately immersed in the world of guided
+      tours, specializing in cycling adventures that showcase the beauty of our
+      country.
+
+
+      My roots in Amarante run deep, providing me with a profound understanding of portuguese cultural tapestry and hidden gems. As your guide, I'm not just here to lead; I'm here to share the stories, local insights, and scenic wonders that make Portugal truly special.
+
+
+      What sets my cycling tours apart is my personal connection to the sport. For over five years, I've embraced the thrill of downhill cycling, fostering a profound love for the open road and the adventures it unfolds. This firsthand experience fuels my commitment to creating cycling holidays that not only explore our stunning landscapes but also capture the spirit of two-wheeled exploration.
+    image: /img/miguel-babo-cycling-guide.jpg
+    name: Miguel Babo
     role: Guia
-  - bio: Nasceu no Porto em 1994, e está a teriminar uma licenciatura em Turismo.
-      Relativamente a despostos, praticou hóquei e rubgy. Ele afirma falar
-      inglês e português. Embora não seja uma pessoa extremamente apaixonada
-      pelo ciclismo, Henrique usou sempre a bicicleta como seu principal veículo
-      de transporte e, como tal, era natural que ele acabasse trabalhando com
-      elas.
-    image: /img/henrique-2.jpg
-    name: Henrique Vareta
+  - bio: >-
+      Chamo-me Telmo. Tenho 26 anos, nasci em Guimarães e vivo no Porto há 4
+      anos. A minha jornada acadêmica levou-me a explorar as Ciências do
+      Desporto.
+
+
+      Além disso, desde que me lembro, pedalar tem sido uma constante, e as pedaladas pela cidade permitiram-me conhecer novos lugares de forma única. Essa conexão com a atividade física e a exploração me fez refletir sobre a riqueza das experiências que o mundo oferece.
+
+
+      A minha verdadeira paixão, no entanto, reside nas histórias das pessoas. Adoro conviver e descobrir as narrativas únicas que cada indivíduo traz consigo. Essa curiosidade inata sobre as vidas das pessoas se alinha perfeitamente com a missão da TBT, onde a diversidade de culturas e histórias é celebrada.
+    image: /img/temo-novais-cycling-guide.jpg
+    name: Telmo Novais
     role: Guia
-  - bio: 'A Marta nasceu em 1996: "Desde pequena que o meu maior sonho era tornar me
-      Guia Turística, porque tenho um grande gosto em conhecer novas pessoas e
-      em novas maneiras de pensar. No momento de decidir o meu futuro, entrei na
-      universidade para estudar Turismo e, no fim de longos 3 anos, esta
-      oportunidade de trabalho apareceu no meu caminho. Durante um longo período
-      de tempo os meus colegas prepararam-me para me tornar numa profissional no
-      terreno, apoiando-me ao longo do caminho. Finalmente tive o meu primeiro
-      "tour". Não demorou muito depois disso e tive as minhas primeiras
-      "reviews". Tal tornou-se o melhor pagamento que alguém pode ter, porque
-      desta forma eu posso tocar no coração das pessoas, mostrando a magnífica
-      cultura que a minha cidade tem para oferecer. Sou uma mulher desportiva,
-      pratico badminton, karate, natação e a bicicleta era o meu meio de
-      transporte para todo o lado. Falo Inglês e Espanhol, e a minha vontade é
-      tornar as férias de quem nos visita e a cidade do Porto numa memorável
-      experiência para os nossos clientes"'
-    image: /img/marta.jpg
-    name: Marta Pereira
+  - bio: >-
+      Born in Porto in 1993, João has a degree in tourism and finishing a
+      masters degree in Science of Communication. Since he has a kid always
+      wanted to be on the outdoors with a special interest for history. In his
+      spare times practice some sports like hiking, climbing and boxe. Speaks
+      fluent English, Portuguese and Spanish.
+
+
+      His main goal as a guide is to ensure that everyone is enjoying and favorite part of the job is exchaning culture aspects and stories with the costumers.
+    image: /img/joão-natal-bicycle-guide.jpg
+    name: João Natal
     role: Guia
   - bio: Nasceu em Espinho e tem 33 anos, é formado em Gestão e Planeamento em
       Turismo. No desporto, João foi profissional de hóquei em patins e
