@@ -57,16 +57,15 @@ team:
     image: /img/joão-natal-bicycle-guide-2-1-.jpg
     name: João Natal
     role: Guia
-  - bio: Nasceu em Espinho e tem 33 anos, é formado em Gestão e Planeamento em
-      Turismo. No desporto, João foi profissional de hóquei em patins e
-      desportos de aventura. A grande paixão de João é viajar e conhecer
-      diferentes culturas, aplicando esse conhecimento ao negócio da empresa
-      Fold n’Visit. João fala fluentemente Inglês, Espanhol, Francês e
-      Português., Tendo uma vasta experiência como guia para passeios pela
-      cidade e viagens de bicicleta. !O José participa ocasionalmente nos nossos
-      passeios guiados.
-    image: /img/josé.jpg
-    name: José Nogueira
+  - bio: Born in Espinho in 1982, João Ribeiro has a degree in Management and
+      Planning in Tourism. In sports, João played professional roller hockey
+      plus some Swimming and Volleyball. The great passion of João is travelling
+      and experiencing different cultures, applying that knowledge to Top Bike
+      tours Portugal business, he is also a master Olive oil sommelier. João
+      speaks fluent English, Spanish, French and Portuguese, having extensive
+      experience as a guide for city tours and cycling holidays.
+    image: /img/joao-ribeiro-cycling-guide.jpg
+    name: João Ribeiro
     role: Guia
   - bio: '"Com 53 anos de idade e bancário profissão me dedico agora á minha velha
       paixão: o ciclismo". Pedro começou a trabalhar com a idade de 14 como
