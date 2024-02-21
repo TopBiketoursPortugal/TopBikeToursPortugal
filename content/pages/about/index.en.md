@@ -39,7 +39,7 @@ team:
 
 
       However, my true passion lies in people's stories. I love socializing and uncovering the unique narratives that each individual carries. This inherent curiosity about people's lives aligns perfectly with TBT's mission, where the diversity of cultures and stories is celebrated.
-    image: /img/temo-novais-cycling-guide-1-.jpg
+    image: /img/temo-novais-cycling-guide-2-.jpg
     name: Telmo Novais
     role: Guide
   - bio: >-
@@ -51,7 +51,7 @@ team:
 
 
       His main goal as a guide is to ensure that everyone is enjoying and favorite part of the job is exchaning culture aspects and stories with the costumers.
-    image: /img/joão-natal-bicycle-guide-1-.jpg
+    image: /img/joão-natal-bicycle-guide-2-1-.jpg
     name: João Natal
     role: Guide
   - bio: Born in Espinho in 1988, José has a degree in Management and Planning in
