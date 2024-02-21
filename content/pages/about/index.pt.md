@@ -57,13 +57,14 @@ team:
     image: /img/joão-natal-bicycle-guide-2-1-.jpg
     name: João Natal
     role: Guia
-  - bio: Born in Espinho in 1982, João Ribeiro has a degree in Management and
-      Planning in Tourism. In sports, João played professional roller hockey
-      plus some Swimming and Volleyball. The great passion of João is travelling
-      and experiencing different cultures, applying that knowledge to Top Bike
-      tours Portugal business, he is also a master Olive oil sommelier. João
-      speaks fluent English, Spanish, French and Portuguese, having extensive
-      experience as a guide for city tours and cycling holidays.
+  - bio: Nascido em Espinho em 1982, João Ribeiro é licenciado em Gestão e
+      Planeamento em Turismo.  No desporto, João jogou hóquei em patins a nível
+      profissional, além de natação e voleibol a nível amador. A grande paixão
+      do João é viajar e conhecer diferentes culturas, aplicando esse
+      conhecimento ao negócio da Top Bike Tours Portugal, é também mestre
+      sommelier de azeite. João fala fluentemente inglês, espanhol, francês e
+      português, possuindo vasta experiência como guia de passeios de cidade e
+      férias de bicicleta.
     image: /img/joao-ribeiro-cycling-guide.jpg
     name: João Ribeiro
     role: Guia
