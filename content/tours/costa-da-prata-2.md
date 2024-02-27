@@ -42,13 +42,13 @@ physicality: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1UXCTxOi5RNgO3rzkgi5guuqT0cfcOI6-
 itinerary:
   - day: "1"
-    description: ""
+    description: 'Accommodation, Hotel 4 stars: [Sweet Atlantic
+      Hotel](http://www.sweethotels.pt/) or upgrade to superior room in
+      "Premium" option'
     location:
       lat: "40.1482816"
       lng: "-8.8554141"
-    title: ' Day 1: Reception at Figueira da Foz. Accommodation, Hotel 4 stars:
-      [Sweet Atlantic Hotel](http://www.sweethotels.pt/) or upgrade to superior
-      room in "Premium" option'
+    title: " Day 1: Reception at Figueira da Foz. "
   - day: "2"
     description: 'This amazing cycling trip starts alongside the Atlantic Ocean in
       Figueira da Foz, a city in the center of Portugal, located in the district
