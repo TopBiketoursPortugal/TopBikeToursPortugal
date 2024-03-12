@@ -1,17 +1,18 @@
 ---
 templateKey: blog-post
 showHome: false
-title: "Electric bikes: how can they help you on the most difficult cycling routes?"
+title: Conquer Challenging Routes with E-bikes  - Top Bike Tours
 language: en
 date: 2024-02-28T08:53:27.615Z
 featuredImage: /img/biciletas_eletricas.png
 featuredImagePosition: center center
 meta:
   language: EN
-  title: Master routes with electric bikes - Top Bike Tours
+  title: Conquer Challenging Routes with E-bikes  - Top Bike Tours
   description: >
-    Discover how electric bikes can turn the most challenging routes into
-    enjoyable adventures and live a breathtaking experience through Portugal.
+    E-bikes unlock exciting adventures! Discover how electric bikes can turn the
+    most challenging routes into enjoyable adventures with Top Bike Tours
+    Portugal.
   robots: INDEX
 languagePages: []
 ---
