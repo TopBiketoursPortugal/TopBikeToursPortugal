@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 showHome: false
-title: "Cycling through History: Camino de Santiago - the French route from León"
+title: "Cycling through History: Camino de Santiago - Top Bike Tours"
 language: en
 date: 2024-02-23T10:45:55.727Z
 featuredImage: /img/pedalandohistoria.png
@@ -10,8 +10,9 @@ meta:
   language: EN
   title: "Cycling through History: Camino de Santiago - the French route from León"
   description: >
-    Explore the thrilling Camino de Santiago route from León to Santiago de
-    Compostela with Top Bike Tours Portugal. Book your adventure now!
+    Conquer the history of Camino de Santiago by bike with Top Bike Tours
+    Portugal! Explore the thrilling route from León to Santiago de Compostela.
+    Book now! 
   robots: INDEX
 languagePages: []
 ---
