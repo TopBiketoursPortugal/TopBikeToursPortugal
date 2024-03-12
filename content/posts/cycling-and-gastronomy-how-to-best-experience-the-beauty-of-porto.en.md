@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
 showHome: false
-title: "Cycling and Gastronomy: How to Best Experience the Beauty of Porto"
+title: "Cycling and Gastronomy: Beauty of Porto - Top Bike Tours"
 language: en
 date: 2024-02-28T08:48:25.954Z
 featuredImage: /img/ciclismo_gastronomia.png
 featuredImagePosition: center center
 meta:
   language: EN
-  title: Cycling and Gastronomy in Porto – Top Bike Tours
-  description: Explore the essence of Porto with exceptional bike tours – discover
-    iconic landscapes and delight in the region's culinary delicacies.
+  title: "Cycling and Gastronomy: Beauty of Porto - Top Bike Tours"
+  description: Experience Porto like never before with Top Bike Tours' exceptional
+    tours! Explore iconic scenery and savor local delicacies.
   robots: INDEX
 languagePages: []
 ---
