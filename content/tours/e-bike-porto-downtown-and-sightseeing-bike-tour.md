@@ -6,7 +6,7 @@ productcode: CT 05
 featured: false
 language: en
 image: /img/dscn1620.jpg
-title: E Bike Porto Downtown and Sightseeing bike tour
+title: Feel Porto with our E-bike Tours - Top Bike Tours Portugal
 packagetype: SingleTour
 tourtype: Bike
 tags:
@@ -18,12 +18,11 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: Enjoy all around Porto city in a Electric bicycle. Join a group or
-    make it your private group. The city center, the river and sea, all 3
-    diferent views of porto city
+  description: Enjoy Porto city in a E-bike with Top Bike Tours. Join a group or
+    make it your private group and discover the city center, the river and sea.
   keywords: Electric bike tour Porto
   robots: INDEX
-  title: Electric bike tour Porto | Top Bike Tours Portugal
+  title: Feel Porto with our E-bike Tours - Top Bike Tours Portugal
 difficulty: 0
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1px6K5F8BOih0B5tRKPQdRuea9hY
 itinerary:
