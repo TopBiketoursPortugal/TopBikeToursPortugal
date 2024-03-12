@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 showHome: false
-title: "On the cycling trails: The road to Santiago de Compostela"
+title: "Sacred trails: Cycling Santiago de Compostela- Top Bike Tours"
 language: en
 date: 2023-12-19T11:34:24.442Z
 featuredImage: /img/captura-de-ecrã-2023-12-19-às-11.31.14.png
@@ -10,9 +10,9 @@ categories:
   - category: Updates
 meta:
   language: EN
-  title: "On the cycling trails: The road to Santiago de Compostela"
-  description: Discover the reasons why cycling the Route of Santiago de
-    Compostela offers an unforgettable cultural and spiritual journey
+  title: "Sacred trails: Cycling Santiago de Compostela- Top Bike Tours"
+  description: Uncover the cultural and spiritual significance of cycling the
+    Route of Santiago de Compostela with Top Bike Tours Portugal.
   robots: INDEX
 languagePages: []
 ---
