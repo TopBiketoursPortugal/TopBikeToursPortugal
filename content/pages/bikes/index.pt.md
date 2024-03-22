@@ -22,10 +22,6 @@ afterEquipment: >-
 
   **Roadbook (** Mapas; informação detalhada do terreno, restaurantes e outros pontos de interesse)
 bikes:
-  - image: /img/bike.png
-    type: Hybrid bicycle
-  - image: /img/rent-a-bike-female.png
-    type: Hybrid bicycle
   - type: Hybrid bicycle
     image: /img/trek-men-bicycle.jpeg
   - type: Hybrid bicycle
@@ -49,32 +45,14 @@ bikes:
   - image: /img/atala_b-easy-a9.2.jpg
     type: Electric bicycles
 equipment:
-  - description: >-
-      **Kross TRANS 5.0**
-
-
-      * 24 gears with V-brake
-
-      * E-bike kit available with 80 km autonomy in level 2 (of 5) of assistance.
-
-
+  - description: |-
       **Trek Dual Sport 2 and 1**
-
 
       * 1﻿8 gears with disk brake (dual sport 2)
 
         1﻿0 gears with disk brake (dual sport 1)
     type: Hybrid bike
-  - description: |-
-      
-
-      **Kross Vento 2**
-
-      * 16 gears with shimano group set
-
-      **Specialized Tarmac Sport**
-
-      * 22 gears with shimano 105 11-speed build kit
+  - description: "**T﻿rek Émonda SL 5 Disc / Orbea Orca M30**"
     type: Road bike
   - description: |-
       **Trek X-Caliber 7**
