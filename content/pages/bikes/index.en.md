@@ -22,10 +22,6 @@ afterequipment: >-
 
   **Roadbook (** Maps; Trails detailed information; Tips; Information about restaurants; Other points of interest)
 bikes:
-  - image: /img/bike.png
-    type: Hybrid bicycle
-  - image: /img/rent-a-bike-female.png
-    type: Hybrid bicycle
   - type: Hybrid bicycle
     image: /img/trek-men-bicycle.jpeg
   - type: Hybrid bicycle
@@ -50,9 +46,7 @@ bikes:
     image: /img/scott-e-bike.png
 equipment:
   - description: |-
-      **Kross TRANS 5.0**
-
-      * 24 gears with V-brake
+      
 
       **Trek Dual Sport 2 and 1**
 
@@ -60,18 +54,7 @@ equipment:
 
         1﻿0 gears with disk brake (dual sport 1)
     type: Hybrid bike
-  - description: |-
-      **Kross Vento 2**
-
-      * 16 gears with shimano group set
-
-
-
-      **Specialized Tarmac Sport**
-
-      * 22 gears with shimano 105 11-speed build kit
-
-      ****
+  - description: "**T﻿rek Émonda SL 5 Disc / Orbea Orca M30**"
     type: Road bike
   - description: |-
       **Trek X-Caliber 7**
