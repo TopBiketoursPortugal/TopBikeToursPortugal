@@ -254,9 +254,9 @@ pricing:
       - title: "* Regular season"
         value: 1.914€
       - title: "* High Season"
-        value: 2.094€
-      - title: "* Summer Season"
         value: 2.064€
+      - title: "* Summer Season"
+        value: 2.094€
       - title: Premium hotel upgrade supplement
         value: 7﻿50€
       - title: Top Bike Tours Portugal Jersey
