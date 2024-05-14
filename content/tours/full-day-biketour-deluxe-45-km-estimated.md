@@ -20,11 +20,12 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: Ride to the beaches of northern Portugal has never been so pleasant
-    to the taste of the idyllic and fantastic scenery.
+  description: Explore the stunning Douro valley through a full day bike tour with
+    Top Bike Tours. Explore the vineyards, visit wine farms, and capture
+    memories of a lifetime.
   keywords: city tours,ACTIVITIES IN PORTO, CITY TOURS PORTO
   robots: INDEX
-  title: "Full Day Biketour: Porto to Póvoa de Varzim"
+  title: Full Day Bike Tour Through Douro Valley - Top Bike Tours
 mapUrl: https://www.google.com/maps/d/u/2/embed?mid=1D3CjvZ4Tdut09u7F2KwCOAxBqNA
 itinerary:
   - day: "1"
