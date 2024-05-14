@@ -10,11 +10,10 @@ title: Rail trail - Ecopista Tâmega river bike tour
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Rail trail - Ecopista Tâmega river
-  description: "Bike tour in the ecopista do Tâmega. Great scenery to Tâmega
-    river. Explore more and cycle from Arco do Baúlhe near the Tâmega River.
-    This is a very good route for families with children, for people that is
-    starting to cycle or just to know more about the region. "
+  title: Ecopista Tâmega River - Rail Trail with Top Bike Tours
+  description: Embark on an adventure along  Ecopista Tâmega river with Top Bike
+    Tours. Ideal for families or newcomers to cycling, explore the picturesque
+    scenery.
   keywords: ecopista tãmega bike tour, rail trail tãmega bike tour, bike tour in
     the northern area of portugal
   robots: INDEX
