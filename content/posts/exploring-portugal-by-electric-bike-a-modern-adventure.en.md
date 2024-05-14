@@ -8,11 +8,10 @@ featuredImage: /img/image2.png
 featuredImagePosition: center center
 meta:
   language: EN
-  title: "Exploring Portugal by electric bike: a modern adventure"
+  title: Exploring Portugal by Electric Bike with Top Bike Tours
   description: >
-    Discover the diversity of Portugal on bike tours with electric bikes.
-    Connect with culture and nature in a sustainable way. Explore Lisbon by
-    electric bike.
+    Discover the diversity of Portugal on electric bike tours with Top Bike
+    Tours. Connect with culture and nature of Lisbon in a sustainable way.
   robots: INDEX
 languagePages:
   - language: pt
