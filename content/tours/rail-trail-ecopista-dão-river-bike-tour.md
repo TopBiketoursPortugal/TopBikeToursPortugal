@@ -10,11 +10,10 @@ title: Rail trail - Ecopista Dão river bike tour
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Rail trail - Ecopista Dão river
-  description: "Bike tour in the ecopista do dão. Great scenery to Dão river.
-    Explore more and cycle from Nelas near the Mondego River. This is a very
-    good route for families with children, for people that is starting to cycle
-    or just to know more about the region. "
+  title: Ecopista Dão River - Rail Trail with Top Bike Tours
+  description: Discover the beauty of Ecoopista Dão river on a family-friendly
+    bike tour with Top Bike Tours. Perfect for beginners or exploring the
+    region.
   keywords: ecopista dao bike tour, rail trail dao bike tour
   robots: INDEX
 minAge: 16
