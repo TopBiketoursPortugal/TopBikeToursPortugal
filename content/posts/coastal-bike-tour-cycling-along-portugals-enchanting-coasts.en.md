@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: coastal-bike-tour-cycling-along-portugals-enchanting-coasts
 showHome: false
 title: "Coastal bike tour: cycling along Portugal's enchanting coasts"
 language: en
@@ -7,10 +8,10 @@ date: 2024-01-12T10:35:59.020Z
 featuredImage: /img/image1.png
 featuredImagePosition: center center
 meta:
-  description: Discover the Camino da Costa in Portugal by bike, passing through
-    beautiful coastal landscapes and historic villages. Plan your journey with
-    Top Bike Tours Portugal for a safe and exciting experience.
-  title: "Coastal bike tour: cycling along Portugal's enchanting coasts"
+  description: Discover Portugal with our Atlantic Coast of Portugal bike tour
+    passing through beautiful landscapes and historic villages. Plan your trip
+    with Top Bike Tours.
+  title: Atlantic Coast of Portugal Bike Tour - Top Bike Tours
   language: EN
   robots: INDEX
 languagePages:
