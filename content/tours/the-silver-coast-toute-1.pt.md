@@ -23,13 +23,13 @@ tags:
   - atlantic coast
 meta:
   description: >
-    Pedale pela Costa da Prata até Coimbra. A natureza, a paisagem e a
-    gastronomia estão impregnadas neste percurso de bicicleta desde do Porto.
-    Explore Aveiro num barco moliceiro no fim do dia do seu bike tour.
+    Aventure-se nesta tour Porto-Coimbra de bicicleta, pela costa verde e prata
+    com a Top Bike Tours. Conheça os melhores locais históricos, gastronómicos e
+    naturais.
   keywords: ferias em bicicleta porto a coimbra, tour de bicicleta porto a
     coimbra, bike tour porto a coimbra
   robots: INDEX
-  title: "Porto a Coimbra: Costa Verde e da Prata junto ao Atlântico"
+  title: Tour Porto-Coimbra de Bicicleta com Guia - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
