@@ -66,15 +66,13 @@ descriptionafter: >-
 
   O seguro de responsabilidade civil e seguro de acidentes pessoais estão incluídos apenas em passeios guiados de bicicleta.
 meta:
-  description: Pedale por Portugal connosco. Nos passeios de bicicleta
-    auto-guiados ou guiados, todo o apoio será garantido. Transferência de
-    bagagem, aluguer de bicicleta, acomodações, excelentes paisagens serão
-    preparadas para você. Temos bicicletas hibridas de montanha e electricas
-    disponiveis.
+  description: Quer fazer um passeio de bicicleta mas não sabe por onde começar? A
+    Top Bike Tours tem percursos de bicileta em Portugal para todos os gostos e
+    idades!
   keywords: Passeios de bicicleta Portugal, bike tours portugal, ferias em
     bicicleta, cycling tours portugal
   robots: INDEX
-  title: "Tours de bicicleta em Portugal "
+  title: Quer Fazer um Passeio de Bicicleta? Veja em Top Bike Tours
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
