@@ -9,10 +9,10 @@ featuredImagePosition: center center
 meta:
   language: EN
   description: >
-    Explore the breathtaking Douro Valley with Top Bike Tours! Cycle through
-    terraced vineyards, ancient towns, and taste exquisite wines along the way.
-    Book your adventure now!
-  title: Discover the wonders of Portugal with bike rides through the Douro Valley
+    Discover Douro with the breathtaking Douro Valley cycling routes curated by
+    Top Bike Tours! Cycle through the vineyards, old towns, and taste exquisite
+    wines.
+  title: "Discover Douro: Douro Valley Cycling Routes - Top Bike Tours"
   robots: INDEX
 languagePages: []
 ---
