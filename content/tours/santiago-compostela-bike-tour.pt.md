@@ -24,14 +24,13 @@ tags:
   - atlantic coast
 meta:
   description: >
-    Pedale pela costa, no percurso mais fácil até Santiago de Compostela. Não se
-    preocupe com a logistica, pois vamos organizar tudo nas suas ferias em
-    bicicleta.Vamos pedalar na ponte sobre o rio Lima e o rio Minho entrando
-    depois no Norte de Espanha e Galiza.
+    O Caminho de Santiado pela Costa de bicicleta, preparado pela Top Bike
+    Tours, é mais simples do que os tradicionais portugueses, e promete muito
+    Sol e praia!
   keywords: passeio de bicicleta santiago de compostela, passeio guiado até
     santiago de compostela, bike tour porto a santiago de compostela
   robots: INDEX
-  title: Porto a Santiago de Compostela pela da Costa Bike Tour
+  title: Caminho de Santiago Pela Costa de Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 2
