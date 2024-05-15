@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: https://topbiketoursportugal.com/posts/cycling-in-lisbon-an-adventure-not-to-be-missed/
 showHome: false
 title: "Cycling in Lisbon: an adventure not to be missed"
 language: en
