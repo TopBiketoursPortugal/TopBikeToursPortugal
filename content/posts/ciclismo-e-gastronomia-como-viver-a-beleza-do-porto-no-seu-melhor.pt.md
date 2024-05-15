@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: https://topbiketoursportugal.com/pt/posts/ciclismo-e-gastronomia-como-viver-a-beleza-do-porto-no-seu-melhor//
 showHome: false
 title: "Ciclismo e gastronomia: como viver a beleza do Porto no seu melhor"
 language: pt
