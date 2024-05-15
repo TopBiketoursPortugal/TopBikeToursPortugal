@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: https://topbiketoursportugal.com/posts/complete-guide-how-to-choose-the-right-bike-for-you/
 showHome: false
 title: "Complete guide: how to choose the right bike for you"
 language: en
