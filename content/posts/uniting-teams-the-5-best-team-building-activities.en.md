@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: https://topbiketoursportugal.com/posts/uniting-teams-the-5-best-team-building-activities/
 showHome: false
 title: "Uniting Teams: The 5 Best Team Building Activities"
 language: en
