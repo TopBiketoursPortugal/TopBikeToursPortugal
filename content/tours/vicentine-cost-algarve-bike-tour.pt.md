@@ -55,8 +55,9 @@ itinerary:
       Lisbon, is a Portuguese traditional music style and is an expression of
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
-      neighborhood. Hotel 4 *: [Turim Marquês
-      Hotel](https://www.turim-hotels.com/hoteis/-141)"
+      neighborhood. Hotel 4 *: [Hotel
+      Lisboa](http://www.hotellisboa.com.pt/)[](https://www.turim-hotels.com/ho\
+      teis/-141)"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
