@@ -4,7 +4,7 @@ path: turismo-rural-alentejo-guia
 showHome: false
 title: "Descobrindo o Turismo Rural no Alentejo: Um Guia para Experiências
   Inesquecíveis"
-language: en
+language: pt
 date: 2024-06-21T08:47:36.824Z
 featuredImage: /img/turismoruralalentejo.png
 featuredImagePosition: center center
