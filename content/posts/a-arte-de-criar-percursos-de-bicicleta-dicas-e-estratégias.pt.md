@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: criar-percursos-de-bicicleta-dicas-estrategias
+path: pt/blog/criar-percursos-de-bicicleta-dicas-estrategias
 showHome: false
 title: "A arte de criar percursos de bicicleta: dicas e estratégias"
 language: pt
