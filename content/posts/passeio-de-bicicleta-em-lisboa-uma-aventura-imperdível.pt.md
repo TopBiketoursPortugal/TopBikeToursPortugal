@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/posts/passeio-de-bicicleta-em-lisboa-uma-aventura-imperdivel//
+path: https://topbiketoursportugal.com/pt/posts/passeio-de-bicicleta-em-lisboa-uma-aventura-imperdivel//
 showHome: false
 title: "Passeio de bicicleta em Lisboa: uma aventura imperdível"
 language: pt
