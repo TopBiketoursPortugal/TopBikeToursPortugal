@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/pt/posts/guia-completo-como-escolher-a-bicicleta-ideal-para-si//
+path: pt/posts/guia-completo-como-escolher-a-bicicleta-ideal-para-si//
 showHome: false
 title: "Guia completo: como escolher a bicicleta ideal para si"
 language: pt
