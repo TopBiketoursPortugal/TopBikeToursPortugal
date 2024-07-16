@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: posts/discover-the-wonders-of-portugal-with-bike-rides-through-the-douro-valley/
+path: https://topbiketoursportugal.com/posts/discover-the-wonders-of-portugal-with-bike-rides-through-the-douro-valley/
 showHome: false
 title: Discover the wonders of Portugal with bike rides through the Douro Valley
 language: en
