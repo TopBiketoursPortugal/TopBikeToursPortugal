@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/posts/pelos-trilhos-ciclisticos-o-caminho-de-santiago-de-compostela
+path: https://topbiketoursportugal.com/pt/posts/pelos-trilhos-ciclisticos-o-caminho-de-santiago-de-compostela
 showHome: false
 title: "Pelos trilhos ciclísticos: O caminho de Santiago de Compostela"
 language: pt
