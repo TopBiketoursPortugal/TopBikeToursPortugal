@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /blog/how-to-choose-your-bicycle-practical-guide-for-cyclists
+path: https://topbiketoursportugal.com/blog/how-to-choose-your-bicycle-practical-guide-for-cyclists
 showHome: false
 title: How do you choose your bike? A practical guide for cyclists
 language: en
