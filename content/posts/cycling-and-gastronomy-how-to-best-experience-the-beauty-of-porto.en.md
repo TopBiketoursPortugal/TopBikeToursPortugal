@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: posts/cycling-and-gastronomy-beauty-of-porto-top-bike-tours/
+path: https://topbiketoursportugal.com/posts/cycling-and-gastronomy-beauty-of-porto-top-bike-tours/
 showHome: false
 title: "Cycling and Gastronomy: Beauty of Porto - Top Bike Tours"
 language: en
