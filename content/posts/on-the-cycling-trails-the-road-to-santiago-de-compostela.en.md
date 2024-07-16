@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: posts/sacred-trails-cycling-santiago-de-compostela-top-bike-tours/
+path: https://topbiketoursportugal.com/posts/sacred-trails-cycling-santiago-de-compostela-top-bike-tours/
 showHome: false
 title: "Sacred trails: Cycling Santiago de Compostela- Top Bike Tours"
 language: en
