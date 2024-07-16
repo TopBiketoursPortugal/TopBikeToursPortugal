@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/posts/pedalando-pela-historia-caminho-de-santiago-rota-francesa-a-partir-de-leon//
+path: https://topbiketoursportugal.com/pt/posts/pedalando-pela-historia-caminho-de-santiago-rota-francesa-a-partir-de-leon//
 showHome: false
 title: "Pedalando pela História: Caminho de Santiago – rota francesa a partir de León"
 language: pt
