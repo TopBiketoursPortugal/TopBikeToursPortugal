@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: posts/exploring-portugal-by-electric-bike-a-modern-adventure/
+path: https://topbiketoursportugal.com/posts/exploring-portugal-by-electric-bike-a-modern-adventure/
 showHome: false
 title: "Exploring Portugal by electric bike: a modern adventure"
 language: en
