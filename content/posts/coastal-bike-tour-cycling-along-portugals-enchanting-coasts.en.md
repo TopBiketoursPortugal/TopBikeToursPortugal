@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: coastal-bike-tour-cycling-along-portugals-enchanting-coasts
+path: blog/coastal-bike-tour-cycling-along-portugals-enchanting-coasts
 showHome: false
 title: "Coastal bike tour: cycling along Portugal's enchanting coasts"
 language: en
