@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/posts/cycling-through-history-camino-de-santiago-top-bike-tours/
+path: posts/cycling-through-history-camino-de-santiago-top-bike-tours/
 showHome: false
 title: "Cycling through History: Camino de Santiago - Top Bike Tours"
 language: en
