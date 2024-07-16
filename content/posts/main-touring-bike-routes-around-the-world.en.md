@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: blog/main-touring-bike-routes-around-the-world
+path: /main-touring-bike-routes-around-the-world
 showHome: false
 title: Main Touring Bike Routes Around the World
 language: en
