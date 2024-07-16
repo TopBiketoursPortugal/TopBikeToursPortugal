@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/posts/conquer-challenging-routes-with-e-bikes-top-bike-tours/
+path: posts/conquer-challenging-routes-with-e-bikes-top-bike-tours/
 showHome: false
 title: Conquer Challenging Routes with E-bikes  - Top Bike Tours
 language: en
