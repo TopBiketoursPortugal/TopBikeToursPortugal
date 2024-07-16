@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/posts/caminho-pela-costa-de-bicicleta-pedalar-pelas-costas-encantadoras-de-portugal//
+path: https://topbiketoursportugal.com/pt/posts/caminho-pela-costa-de-bicicleta-pedalar-pelas-costas-encantadoras-de-portugal//
 showHome: false
 title: "Caminho pela costa de bicicleta: pedalar pelas costas encantadoras de
   Portugal"
