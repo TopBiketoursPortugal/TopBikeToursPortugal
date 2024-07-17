@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /posts/unindo-equipas-as-5-melhores-atividades-de-team-building//
+path: /pt/posts/unindo-equipas-as-5-melhores-atividades-de-team-building//
 showHome: false
 title: "Unindo Equipas: As 5 Melhores Atividades de Team Building"
 language: pt
