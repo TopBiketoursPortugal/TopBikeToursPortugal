@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/pt/blog/experiencias-unicas-passeios-bicicleta-guiados
+path: /blog/experiencias-unicas-passeios-bicicleta-guiados
 showHome: false
 title: Descubra experiências únicas com guided bike tours
 language: pt
