@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/blog/creating-bike-routes-strategies
+path: /blog/creating-bike-routes-strategies
 showHome: false
 title: "The art of creating cycling routes: tips and strategies"
 language: en
