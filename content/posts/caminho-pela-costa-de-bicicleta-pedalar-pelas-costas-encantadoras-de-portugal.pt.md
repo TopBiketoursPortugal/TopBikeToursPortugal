@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /posts/caminho-pela-costa-de-bicicleta-pedalar-pelas-costas-encantadoras-de-portugal//
+path: /pt/posts/caminho-pela-costa-de-bicicleta-pedalar-pelas-costas-encantadoras-de-portugal//
 showHome: false
 title: "Caminho pela costa de bicicleta: pedalar pelas costas encantadoras de
   Portugal"
