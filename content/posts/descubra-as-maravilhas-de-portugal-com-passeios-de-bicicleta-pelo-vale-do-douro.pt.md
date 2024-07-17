@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /posts/descubra-as-maravilhas-de-portugal-com-passeios-de-bicicleta-pelo-vale-do-douro//
+path: /pt/posts/descubra-as-maravilhas-de-portugal-com-passeios-de-bicicleta-pelo-vale-do-douro//
 showHome: false
 title: Descubra as maravilhas de Portugal com passeios de bicicleta pelo vale do Douro
 language: pt
