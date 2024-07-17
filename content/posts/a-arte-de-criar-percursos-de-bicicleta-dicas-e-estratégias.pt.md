@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/pt/blog/criar-percursos-de-bicicleta-dicas-estrategias
+path: /blog/criar-percursos-de-bicicleta-dicas-estrategias
 showHome: false
 title: "A arte de criar percursos de bicicleta: dicas e estratégias"
 language: pt
