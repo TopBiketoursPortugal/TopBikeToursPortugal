@@ -55,11 +55,8 @@ itinerary:
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
       neighborhood. Hotel 4 *: [Hotel Lisboa](http://www.hotellisboa.com.pt/)
-      [](https://www.turim-hotels.com/hoteis/-141)or Hotel 5 stars: [TURIM
-      Boulevard
-      Hotel](https://turim-hotels.com/turim-boulevard-hotel-pt/?partner=8048utm\
-      _source=google&utm_medium=organic&utm_campaign=MyBusiness&utm) (included
-      in premium option)"
+      [](https://www.turim-hotels.com/hoteis/-141)or Hotel 5 stars: TURIM
+      Boulevard Hotel (included in premium option)"
     location:
       lat: "38.71217964"
       lng: "-9.17382002"
