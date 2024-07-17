@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: https://topbiketoursportugal.com/blog/unique-experiences-with-guided-bike-tours
+path: /blog/unique-experiences-with-guided-bike-tours
 showHome: false
 title: Discover unique experiences with guided bike tours
 language: en
