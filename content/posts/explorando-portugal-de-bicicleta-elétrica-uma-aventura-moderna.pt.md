@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /posts/explorando-portugal-de-bicicleta-eletrica-uma-aventura-moderna//
+path: /pt/posts/explorando-portugal-de-bicicleta-eletrica-uma-aventura-moderna//
 showHome: false
 title: "Explorando Portugal de bicicleta elétrica: uma aventura moderna"
 language: pt
