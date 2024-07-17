@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /blog/principais-rotas-de-touring-bike-ao-redor-do-mundo
+path: /pt/blog/principais-rotas-de-touring-bike-ao-redor-do-mundo
 showHome: false
 title: Principais Rotas de Touring Bike ao Redor do Mundo
 language: pt
