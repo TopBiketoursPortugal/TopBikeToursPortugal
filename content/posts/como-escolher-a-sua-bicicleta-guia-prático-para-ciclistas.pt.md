@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /blog/como-escolher-a-sua-bicicleta-guia-pratico-para-ciclistas
+path: /pt/blog/como-escolher-a-sua-bicicleta-guia-pratico-para-ciclistas
 showHome: false
 title: Como escolher a sua bicicleta? Guia prático para ciclistas
 language: pt
