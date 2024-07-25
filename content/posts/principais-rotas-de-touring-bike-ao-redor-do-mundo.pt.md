@@ -39,9 +39,7 @@ Amalfi, Sorrento e Nápoles, esta última com o Etna como pano de fundo, são tr
 
 Das praias escondidas nas falésias às românticas aldeias piscatórias, estas rotas são um desafio a não perder por nenhum amante das bicicletas.
 
-Integrar os [passeios de bicicleta](https://topbiketoursportugal.com/passeios-de-bicicletaportugal/) na sua viagem pode transformar uma simples visita numa aventura memorável, seja através dos vinhedos da França ou ao longo das deslumbrantes costas italianas.
-
-
+Integrar os passeios de bicicleta na sua viagem pode transformar uma simples visita numa aventura memorável, seja através dos vinhedos da França ou ao longo das deslumbrantes costas italianas.
 
 ## Aventuras de Touring Bike na América do Norte
 
