@@ -69,7 +69,7 @@ Assim, para além da bicicleta tradicional, pondere se uma bicicleta hibrida ou 
 
 Se, ao invés de organizar tudo sozinho, preferir fazer o trajeto León – Santiago de Compostela com mais parcimónia e menos preocupações logísticas, o nosso conselho é para que procure uma agência de viagens perita em passeios de bicicleta.
 
-Esse é o caso da [Top Bike Tours Portugal](https://topbiketoursportugal.com/), empresa especializada na organização de viagens de bicicleta que, no seu cardápio, oferece, entre outros tours, um pacote “[Caminho de Santiago cycling tours](https://topbiketoursportugal.com/bike-tour-camino-desantiago-)” de 8 dias e 7 noites entre León e Compostela adaptada a todos os tipos de públicos que passa pelos principais pontos de interesse natural e humano do caminho.
+Esse é o caso da [Top Bike Tours Portugal](https://topbiketoursportugal.com/), empresa especializada na organização de viagens de bicicleta que, no seu cardápio, oferece, entre outros tours, um pacote “[Caminho de Santiago cycling tours](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)” de 8 dias e 7 noites entre León e Compostela adaptada a todos os tipos de públicos que passa pelos principais pontos de interesse natural e humano do caminho.
 
 Para além de diversas questões logísticas, a Top Bike Tours coloca à sua disposição uma vasta e diferenciada gama de bicicletas que vão desde às tradicionais bicicletas de montanha e estrada, passa pelas bicicletas hibridas e acaba nas melhores bicicletas elétricas em Portugal.
 
