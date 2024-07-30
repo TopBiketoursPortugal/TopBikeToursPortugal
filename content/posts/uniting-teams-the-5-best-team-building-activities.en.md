@@ -22,8 +22,6 @@ Team building exercises are essential for promoting cohesion and cooperation bet
 
 In this article, we present 5 team building exercises that can unite teams and give them a new lease of life.
 
-
-
 ## Team Building: What is it?
 
 Team building isn't just about fun and games. It is a calculated move to improve trust, understanding and communication between team members. 
@@ -32,7 +30,7 @@ Effective team building exercises aim to dismantle obstacles, stimulate imaginat
 
 ### Bike Tours
 
-[Bike tours](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/) are one of the healthiest and most fun team building exercises, and Portugal has an abundance of picturesque routes. 
+[Bike tours](https://topbiketoursportugal.com/) are one of the healthiest and most fun team building exercises, and Portugal has an abundance of picturesque routes. 
 
 Lisbon's cycle path map, for example, features routes that wind through beautiful landscapes and historic sites. 
 
