@@ -40,7 +40,7 @@ Amalfi, Sorrento and Naples, the latter with Etna as a backdrop, are three citie
 
 From beaches hidden in the cliffs to romantic fishing villages, these routes are a challenge not to be missed by any bike enthusiast.
 
-Integrating [bike tours](https://topbiketoursportugal.com/bike-tours-in-portugal/) into your trip can turn a simple visit into a memorable adventure, whether it's through the vineyards of France or along the stunning Italian coastline.
+Integrating [bike tours](https://topbiketoursportugal.com/) into your trip can turn a simple visit into a memorable adventure, whether it's through the vineyards of France or along the stunning Italian coastline.
 
 ## Touring Bike Adventures in North America
 
