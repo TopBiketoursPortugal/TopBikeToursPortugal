@@ -22,7 +22,7 @@ Embarking on a bike tour of Lisbon not only allows you to indulge in the city's 
 
 From the labyrinthine streets of historic neighborhoods to serene routes along the River Tagus, cycling through Lisbon is an adventure that promises a mixture of excitement and tranquility.
 
-Whether you're an experienced cyclist or an occasional rider, [Top Bike Tours Portugal](https://topbiketoursportugal.com/pt/) guarantees that your bike tour of Lisbon will be full of discoveries and delights.
+Whether you're an experienced cyclist or an occasional rider,[ Top Bike Tours Portugal](https://topbiketoursportugal.com/) guarantees that your bike tour of Lisbon will be full of discoveries and delights.
 
 ## Explore the charms of Lisbon on two wheels
 
@@ -80,13 +80,13 @@ Although you can find them in practically every pastry shop, it's at "Pastéis d
 
 ## Bicycle rental options and support services for cyclists
 
-[Top Bike Tours Portugal](https://topbiketoursportugal.com/pt/) offers [various models of bikes](https://topbiketoursportugal.com/pt/bicicletas/) for your enjoyment, from city bikes and mountain bikes to hybrids and [electric](https://topbiketoursportugal.com/pt/posts/bicicletas-electricas-como-e-que-estas-podem-ajuda-lo-nas-rotas-ciclisticas-mais-dificeis/) bikes.
+[Top Bike Tours Portugal ](https://topbiketoursportugal.com/)offers various models of bikes for your enjoyment, from city bikes and mountain bikes to hybrids and electric bikes.
 
 During our tours, we pay special attention to the client's well-being, which is why the guided tours run at an appropriate pace, so as to allow all participants to appreciate the landscapes and the way of life of the Portuguese people.
 
 The stages end in the middle of the afternoon, in order to provide some time to relax before we set off for the gastronomic experience through which we always try to create mouth-watering tastings of regional flavors.
 
-Alternatively, if you would like to take part in a walking tour of Lisbon, [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/pt/) offers you this possibility.
+Alternatively, if you would like to take part in a walking tour of Lisbon, [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/) offers you this possibility.
 
 ## Final considerations
 
