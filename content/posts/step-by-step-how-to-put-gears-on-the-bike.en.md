@@ -85,4 +85,4 @@ If you want a stronger pedal stroke that allows you to gain more speed, do the r
 
 Step 5: Avoid having the tallest gear engaged on the chainring and the smallest gear (largest sprocket) engaged on the sprocket at the same time, as this can result in greater wear on the chain and even breakage, which will leave you stranded.
 
-**Although [Walking Tours Portugal](https://topwalkingtoursportugal.com/) offers excellent walking tours, if you're taking your bike out for a spin, it's important to bear this last tip in mind.**
+**Although [Walking Tours Portugal ](https://topwalkingtoursportugal.com/)offers excellent walking tours, if you're taking your bike out for a spin, it's important to bear this last tip in mind.**
