@@ -69,7 +69,7 @@ So, in addition to a traditional bicycle, consider whether a hybrid or fully ele
 
 If, instead of organizing everything yourself, you'd prefer to do the León - Santiago de Compostela route more sparingly and with fewer logistical worries, our advice is to look for a travel agency that specializes in bike tours.
 
-This is the case with [Top Bike Tours Portugal](https://topbiketoursportugal.com/), a company specializing in organizing cycling trips which, among other tours, offers a “[Caminho de Santiago cycling tours](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tour/)” package of 8 days and 7 nights between León and Compostela adapted to all types of public, which passes through the main natural and human points of interest along the way.
+This is the case with [Top Bike Tours Portugal](https://topbiketoursportugal.com/), a company specializing in organizing cycling trips which, among other tours, offers a “Caminho de Santiago cycling tours” package of 8 days and 7 nights between León and Compostela adapted to all types of public, which passes through the main natural and human points of interest along the way.
 
 In addition to various logistical issues, Top Bike Tours offers a wide and differentiated range of bikes, from traditional mountain and road bikes to hybrid bikes and the best electric bikes in Portugal.
 
