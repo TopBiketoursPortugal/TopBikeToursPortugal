@@ -23,8 +23,6 @@ A virginal universe, as if it had just been born, and already eternal in its har
 
 A geological poem. Absolute beauty", Miguel Torga in "Diário XII".
 
-
-
 The words that we lack when we visit the Douro Valley could well be those with which the poet and writer from São Martinho de Anta makes his declaration to the Douro that saw him born.
 
 A UNESCO World Heritage Site, the Douro is an enchanted valley where wine is the appetizer to open a book of human and natural stories that deciphers the soul of those who visit it for the first time and strengthens the desire to return or even, who knows, stay.
@@ -55,7 +53,7 @@ Reinforced with knowledge and wine tastings, you'll continue on to the Côa Vall
 
 ## Day 3: Vila Nova de Foz Côa – Figueira de Castelo Rodrigo (42 km)
 
-From Paleolithic art, the third day of this [Douro Valley bike tour](https://topbiketoursportugal.com/douro-valley-full-day-bike-ride) takes you to Figueira de Castelo Rodrigo, a town where Roman, Visigothic and Arab influences combine with one of the best preserved examples of Manueline architecture in Portugal.
+From Paleolithic art, the third day of this Douro Valley bike tour takes you to Figueira de Castelo Rodrigo, a town where Roman, Visigothic and Arab influences combine with one of the best preserved examples of Manueline architecture in Portugal.
 
 In addition to the architecture, along the way you'll be dazzled by a landscape marked by almond trees (it's worth noting that they're in bloom between February and March) and numerous medieval castles that take you back to times of enchanted Moors,
 
@@ -69,7 +67,7 @@ On this stage, you can choose between a 72 km route that takes you through Tranc
 
 ## Day 6: Penedono - circuito (40 km)
 
-As with many cycling events, this [Portugal bike tour](https://topbiketoursportugal.com/) also has a 40 km circuit in store to give you the chance to get to know the soul of Penedono.
+As with many cycling events, this [Portugal bike tour ](https://topbiketoursportugal.com/)also has a 40 km circuit in store to give you the chance to get to know the soul of Penedono.
 
 In addition to the architectural landscape marked by the granite Castle of Penedono and the fountain adorned with a royal crown of King Manuel I, the surrounding landscape has the inevitable centuries-old vineyards and majestic chestnut trees.
 
