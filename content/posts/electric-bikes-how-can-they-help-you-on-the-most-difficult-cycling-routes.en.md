@@ -21,7 +21,7 @@ Electric bikes are revolutionizing the way we approach cycling, particularly whe
 
 These innovative bikes offer a combination of traditional cycling experiences with modern technology, allowing riders of all levels to overcome more complex routes with greater ease.
 
-Top Bike Tours Portugal, which specializes in creating [memorable vacations on two wheels](https://topbiketoursportugal.com/passeios-de-bicicleta-portugal/), is at the forefront when it comes to integrating [electric bikes](https://topbiketoursportugal.com/pt/bicicletas/) into its [cycling tours](https://topbiketoursportugal.com/pt/), recognizing the transformative potential that these bicycles have in improving the cycling experience as a whole.
+Top Bike Tours Portugal, which specializes in creating [memorable vacations on two wheels](https://topbiketoursportugal.com/), is at the forefront when it comes to integrating electric bikes into its [cycling tours](https://topbiketoursportugal.com/), recognizing the transformative potential that these bicycles have in improving the cycling experience as a whole.
 
 By offering a fleet of electric bikes of the highest quality, our approach to cycling enthusiasts is much more inclusive, covering both beginners and the more experienced looking for new challenges.
 
@@ -31,9 +31,9 @@ This initiative ensures that Portugal's breathtaking landscapes and cultural her
 
 In recent years, electric bikes in Portugal have become increasingly popular among cycling enthusiasts.
 
-The diversity of the country's landscapes, from steep hills and mountainous coastlines to historic centers, presents both beautiful and challenging scenery for a [bike ride](https://topbiketoursportugal.com/pt/).
+The diversity of the country's landscapes, from steep hills and mountainous coastlines to historic centers, presents both beautiful and challenging scenery for a [bike ride](https://topbiketoursportugal.com/).
 
-The solution to overcoming the scale of the challenge lies in [electric bikes](https://topbiketoursportugal.com/pt/bicicletas/), allowing cyclists to enjoy the breathtaking views without having to wear themselves out.
+The solution to overcoming the scale of the challenge lies in electric bikes, allowing cyclists to enjoy the breathtaking views without having to wear themselves out.
 
 ### How do electric bikes contribute to a better cycling experience?
 
@@ -57,7 +57,7 @@ They are also an excellent way of exploring shortcuts with minimal environmental
 
 #### 4. They are perfect for group outings
 
-When embarking on a [guided bike tour](https://topbiketoursportugal.com/pt/), an electric bike will ensure that the group stays together, regardless of the physical condition of each participant.
+When embarking on a [guided bike tour](https://topbiketoursportugal.com/), an electric bike will ensure that the group stays together, regardless of the physical condition of each participant.
 
 This inclusivity improves the social aspect of the tours, contributing to a more enjoyable and cohesive experience.
 
@@ -79,7 +79,7 @@ Finally, always wear a helmet and follow the safety rules to make sure your expe
 
 ## In conclusion
 
-[Electric bikes](https://topbiketoursportugal.com/pt/bicicletas/) offer a new way to experience the beauty and diversity of Portugal's landscapes, providing assistance to those who need it to traverse the most challenging terrain and making a [bike ride](https://topbiketoursportugal.com/pt/) accessible and fun for everyone.
+Electric bikes offer a new way to experience the beauty and diversity of Portugal's landscapes, providing assistance to those who need it to traverse the most challenging terrain and making a [bike ride](https://topbiketoursportugal.com/pt/) accessible and fun for everyone.
 
 Whether you want to explore the steep hills of historic cities, rural routes or the coastline, an electric bike can turn your cycling adventure into an adventure through Portugal's natural and cultural treasures.
 
