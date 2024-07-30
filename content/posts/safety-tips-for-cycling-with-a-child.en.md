@@ -20,8 +20,6 @@ languagePages: []
 ---
 ![Safety Tips for Cycling with a Child](/img/dicas-segurança.png "Safety Tips for Cycling with a Child")
 
-
-
 The saying goes, and with good reason, that it's "when you're little that you turn into a cucumber", an adage that applies to everything, including cycling.
 
 Who doesn't remember their first bike rides with the "little wheels" attached to the rear wheels and their mother or father's hand ensuring the safety of their first pedal strokes? Almost everyone, I'm sure.
@@ -30,11 +28,11 @@ Apart from the ball, the bicycle is the object children feel most affection for,
 
 However, despite all the joy that bicycles generate in children, it is important that their rides are accompanied by the utmost safety, since in addition to potential falls, riding a bicycle presents other dangers, particularly those coming from other road users.
 
-So, if you want to take advantage of the summer to accompany your child on their first bike ride or take them with you on the [Portugal Cycling Tours](https://topbiketoursportugal.com/) you'll find on Bike Tour Portugal, take note of the safety tips we have for you.
+So, if you want to take advantage of the summer to accompany your child on their first bike ride or take them with you on the [Portugal Cycling Tours](https://topwalkingtoursportugal.com/) you'll find on Bike Tour Portugal, take note of the safety tips we have for you.
 
 ## Safety Tips for Cycling with a Child
 
-If, in the case of [Walking Tours Portugal](https://topwalkingtoursportugal.com/), the safety rules are less restrictive, when it comes to bike tours, things take a different turn, especially if you take your children with you.
+If, in the case of Walking Tours Portugal, the safety rules are less restrictive, when it comes to bike tours, things take a different turn, especially if you take your children with you.
 
 To make sure everything goes smoothly on your bike ride with your children, take these five safety tips into account:
 
