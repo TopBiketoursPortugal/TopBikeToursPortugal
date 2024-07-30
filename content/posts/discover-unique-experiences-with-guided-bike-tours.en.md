@@ -18,7 +18,7 @@ languagePages: []
 ---
 Give free rein to your spirit of adventure with a guided bike tour of Portugal, which gives you the incomparable opportunity to bond with breathtaking landscapes, discover heritage with multiple stories to tell and experience first-hand one of the richest cultures in the world!
 
-Top Bike Tours Portugal, which specializes in cycling [vacations and tours](https://topbiketoursportugal.com/pt/), offers memorable cycling experiences, suitable for both novices and experienced cyclists.
+Top Bike Tours Portugal, which specializes in cycling [vacations and tours](https://topbiketoursportugal.com/), offers memorable cycling experiences, suitable for both novices and experienced cyclists.
 
 Whether you want to explore the unstoppable streets of Lisbon or the tranquillity of the [Douro Valley](https://topbiketoursportugal.com/pt/posts/descubra-as-maravilhas-de-portugal-com-passeios-de-bicicleta-pelo-vale-do-douro/), our tours are designed to make your adventure safe, enjoyable and enriching.
 
@@ -28,17 +28,17 @@ Discover new routes with our bike tours and open the door to a whole world full 
 
 From the historic charm of Porto to the picturesque beauty of the Algarve coast, each of our tours is carefully planned to ensure that your trip feels fulfilling.
 
-With a [variety of b](https://topbiketoursportugal.com/pt/bicicletas/)ikes at your disposal, including road bikes, mountain bikes and [electric bikes](https://topbiketoursportugal.com/pt/posts/bicicletas-electricas-como-e-que-estas-podem-ajuda-lo-nas-rotas-ciclisticas-mais-dificeis/), we meet the needs and preferences of all cyclists, ensuring that all participants are integrated at their own pace and the level of challenge they wish to overcome.
+With a variety of bikes at your disposal, including road bikes, mountain bikes and electric bikes, we meet the needs and preferences of all cyclists, ensuring that all participants are integrated at their own pace and the level of challenge they wish to overcome.
 
 ### Cycle through unforgettable landscapes
 
-Our [guided bike tours of Portugal](https://topbiketoursportugal.com/pt/blog/Porque-passeio-com-guia-em-bicicleta-portugal/) allow you to experience the natural beauty of our country in an absolutely intimate way - cycle past historical monuments, through ancient vineyards and along the stunning coastline.
+Our [guided bike tours of Portugal ](https://topbiketoursportugal.com/)allow you to experience the natural beauty of our country in an absolutely intimate way - cycle past historical monuments, through ancient vineyards and along the stunning coastline.
 
 Each route is designed to match various levels of cycling experience and interests - this is how we make sure that your adventure and that of the other participants is safe and enriching.
 
 ### Discover special places along the way
 
-If you choose to take part in a [bike tour of Lisbon](https://topbiketoursportugal.com/pt/posts/passeio-de-bicicleta-em-lisboa-uma-aventura-imperdivel/), you'll find that there are many treasures to discover, both in the city center and in the surrounding area.
+If you choose to take part in a [bike tour of Lisbon](https://topbiketoursportugal.com/), you'll find that there are many treasures to discover, both in the city center and in the surrounding area.
 
 From quaint cafés to historical points of interest, our tours take into account the offer of an enriched cultural experience, allowing you to assimilate the local way of life.
 
@@ -60,12 +60,12 @@ These sites are perfect for those who want to combine a cycling experience with 
 
 ## To conclude
 
-[Top Bike Tours Portugal](https://topbiketoursportugal.com/pt/) not only provides you with the necessary means to set off on a journey of discovery, but also an opportunity to experience the uniqueness of Portugal.
+[Top Bike Tours Portugal](https://topbiketoursportugal.com/) not only provides you with the necessary means to set off on a journey of discovery, but also an opportunity to experience the uniqueness of Portugal.
 
 More than just a trip, a tour is a journey into the spirit of the country and what it means to be Portuguese, so join us on one of our bike tours of Portugal and see how each route can create indelible memories.
 
-Find out more about [our unique travel experiences](https://topbiketoursportugal.com/pt/blog/passeio-em-bicicleta-com-guia-em-portugal/) and book your next adventure with us! It doesn't matter if you're more or less experienced in cycling, because we have the perfect tour for your needs waiting for you.
+Find out more about our unique travel experiences and book your next adventure with us! It doesn't matter if you're more or less experienced in cycling, because we have the perfect tour for your needs waiting for you.
 
-What's more, if you prefer walking tours, be sure to visit us at [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/pt/); as you can see, there's always an alternative to suit your preferences.
+What's more, if you prefer walking tours, be sure to visit us at [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/); as you can see, there's always an alternative to suit your preferences.
 
 Explore the diversity of our offers and find the perfect Portugal adventure for you!
