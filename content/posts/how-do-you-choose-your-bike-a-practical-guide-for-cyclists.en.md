@@ -15,7 +15,7 @@ meta:
   robots: INDEX
 languagePages: []
 ---
-Anyone who has taken on the challenges of [Top Bike Tours Portugal](https://www.topbiketoursportugal.com/) knows that they can count not only on the most innovative and technological bikes on the market, but above all on the bikes that best suit their physical condition and the characteristics of the various terrains.
+Anyone who has taken on the challenges of [Top Bike Tours Portugal ](https://topbiketoursportugal.com/)knows that they can count not only on the most innovative and technological bikes on the market, but above all on the bikes that best suit their physical condition and the characteristics of the various terrains.
 
 However, if you want to dedicate yourself more deeply to cycle touring or, who knows, even amateur cycling, you're going to have to worry about buying a bike.
 
