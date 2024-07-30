@@ -16,7 +16,7 @@ meta:
   robots: INDEX
 languagePages: []
 ---
-At [Top Bike Tours Portugal](https://topbiketoursportugal.com/pt/), the art of creating cycling routes for you to enjoy good times in communion with nature is our passion.
+At [Top Bike Tours Portugal](https://topbiketoursportugal.com/), the art of creating cycling routes for you to enjoy good times in communion with nature is our passion.
 
 In this case, this passion must be shared, which is why, over the next few lines, we'll help you create your bike tour.
 
@@ -52,7 +52,7 @@ When planning your route, you'll need to consider the type of touring bike you'l
 
 #### a) Road, gravel or mountain bike
 
-On your [Portugal cycling tours](https://topbiketoursportugal.com/pt/), choose a route that favors roads with good surfaces (road bikes), off-road on gravel and loose dirt tracks (gravel) or winding forest tracks (mountain biking).
+On your [Portugal cycling tours](https://topbiketoursportugal.com/), choose a route that favors roads with good surfaces (road bikes), off-road on gravel and loose dirt tracks (gravel) or winding forest tracks (mountain biking).
 
 #### b) Leisure bike
 
@@ -93,6 +93,6 @@ If you use national or secondary roads, always respect the Highway Code because,
 
 As you can see, as long as you take care and plan carefully, you'll be able to create a bike tour and choose a route for a good time, either alone or with family or friends who share your spirit of adventure.
 
-If you want an even more culturally enriching experience without having to get on a bike, take a look at our walking tours on the [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/pt/) website.
+If you want an even more culturally enriching experience without having to get on a bike, take a look at our walking tours on the [Top Walking Tours Portugal](https://topwalkingtoursportugal.com/) website.
 
 Have fun!
