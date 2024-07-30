@@ -37,7 +37,7 @@ It is essential to plan this journey carefully, and Top Bike Tours provides a re
 
 Cycling the Camino de Santiago offers you a unique perspective on this route.
 
-[The Camino de Santiago](https://topbiketoursportugal.com/santiago-de-compostela/) along the coast by bike is well signposted, taking cyclists through a variety of terrains, from serene rural and coastal shores to challenging steep climbs.
+The Camino de Santiago along the coast by bike is well signposted, taking cyclists through a variety of terrains, from serene rural and coastal shores to challenging steep climbs.
 
 It's important to familiarize yourself with the route in advance and plan daily distances that suit your physical condition. Check the condition of your bike regularly and keep an eye out for weather conditions that might affect your travel plans.
 
