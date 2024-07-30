@@ -55,10 +55,10 @@ Whether you opt for a self-guided tour, though all logistical processes are hand
 
 ## In Conclusion
 
-The city of Porto offers a unique combination of natural beauty, cultural richness, and gastronomic excellence, making it the ideal destination for [cycling](https://topbiketoursportugal.com/bike-tours-in-portugal/) enthusiasts.
+The city of Porto offers a unique combination of natural beauty, cultural richness, and gastronomic excellence, making it the ideal destination for [cycling ](https://topbiketoursportugal.com/)enthusiasts.
 
-With Top Bike Tours Portugal, you're not just going on a [bike ride](https://topbiketoursportugal.com/bike-tours-porto-portugal/) – you're embarking on a journey that captures the essence of Porto at its best; this is an invitation to explore, taste, and fall in love with the gem of Northern Portugal.
+With Top Bike Tours Portugal, you're not just going on a bike ride – you're embarking on a journey that captures the essence of Porto at its best; this is an invitation to explore, taste, and fall in love with the gem of Northern Portugal.
 
-[Top Bike Tours Portugal](https://topbiketoursportugal.com/) reinforces its commitment to offering [cycling holidays](https://topbiketoursportugal.com/bike-tours-in-portugal/) that meet the needs of both adventurers and connoisseurs of exquisite cuisine; by highlighting the beauty of the landscape, the depth of its cultural heritage, and the richness of the local cuisine, the experience we provide goes far beyond the ordinary.
+[Top Bike Tours Portugal](https://topbiketoursportugal.com/) reinforces its commitment to offering [cycling holidays](https://topbiketoursportugal.com/) that meet the needs of both adventurers and connoisseurs of exquisite cuisine; by highlighting the beauty of the landscape, the depth of its cultural heritage, and the richness of the local cuisine, the experience we provide goes far beyond the ordinary.
 
 Join us on a [bike tour](https://topbiketoursportugal.com/bike-tours-porto-portugal/) through Porto and let us show you the city in a way you've never seen before; this is not just a journey but an exploration of the heart and soul of Porto, where each pedal stroke and every bite tells the story of Portugal's unmatched flavor and beauty.
