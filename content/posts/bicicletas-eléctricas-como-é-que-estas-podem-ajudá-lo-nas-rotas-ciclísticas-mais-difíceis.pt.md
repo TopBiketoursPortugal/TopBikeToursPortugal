@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /pt/posts/bicicletas-electricas-como-e-que-estas-podem-ajuda-lo-nas-rotas-ciclisticas-mais-dificeis//
+path: /pt/posts/bicicletas-electricas-como-e-que-estas-podem-ajuda-lo-nas-rotas-ciclisticas-mais-dificeis/
 showHome: false
 title: "Bicicletas eléctricas: como é que estas podem ajudá-lo nas rotas
   ciclísticas mais difíceis?"
