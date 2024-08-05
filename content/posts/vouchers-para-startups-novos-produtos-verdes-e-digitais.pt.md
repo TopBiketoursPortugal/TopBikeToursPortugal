@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: Vouchers/Startups/
+path: /pt/blog/Vouchers/Startups/
 showHome: false
 title: Vouchers para Startups - Novos produtos Verdes e Digitais
 language: pt
