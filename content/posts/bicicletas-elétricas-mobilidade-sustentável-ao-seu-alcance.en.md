@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /pt/blog/bicicletas-eletricas-sustentabilidade
 showHome: false
 title: "Bicicletas Elétricas: Mobilidade Sustentável ao seu alcance"
-language: en
+language: pt
 date: 2024-08-08T09:13:42.149Z
 featuredImage: /img/bicicletas-eletricas-sustentabilidade.png
 featuredImagePosition: center center
