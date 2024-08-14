@@ -69,7 +69,7 @@ itinerary:
       natural landscape provides a beautiful scenery of almond blossoms. Rural
       house [Casa da Amendoeira - Turismo Rural
       ](http://www.casadaamendoeira.pt/) or Hotel 4 *: [Colmeia Countriside
-      ](http://www.colmealhotel.com/) (included in premium option)"
+      ](https://colmealhotel.com/) (included in premium option)"
     location:
       lat: "40.89676004"
       lng: "-6.96072578"
