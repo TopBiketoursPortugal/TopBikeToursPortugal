@@ -69,7 +69,7 @@ itinerary:
       uma vista para o ponto mais alto de Portugal. Entre a época anual de
       Fevereiro a Março na Figueira de Castelo Rodrigo, a paisagem natural
       proporciona uma beleza natural de flores de amêndoa. Hotel 4 *: [Colmeia
-      Countriside ](http://www.colmealhotel.com/)"
+      Countriside ](https://colmealhotel.com/)"
     location:
       lat: "40.89676004"
       lng: "-6.96072578"
