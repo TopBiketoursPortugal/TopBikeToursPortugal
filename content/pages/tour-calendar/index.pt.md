@@ -18,38 +18,6 @@ feature:
   title: Calendário
 dates:
   - type: Date
-    date: 2024-04-05T11:03:26.288Z
-    body: "[The Silver Coast - Porto to
-      Coimbra](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
-  - type: Date
-    date: 2024-05-04T23:00:00.000Z
-    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
-      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
-      - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-  - type: Date
-    date: 2024-05-13T17:35:29.348Z
-    body: "[Costa Vicentina e Algarve Bike
-      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
-  - type: Date
-    date: 2024-05-27T08:33:55.363Z
-    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
-      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
-      - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-  - type: Date
-    date: 2024-06-14T10:24:49.224Z
-    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
-      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
-      - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-  - type: Date
-    date: 2024-06-22T11:43:21.573Z
-    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
-      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
-      - Guided bike
-      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
-  - type: Date
     date: 2024-09-07T08:33:55.842Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
@@ -75,6 +43,24 @@ dates:
     date: 2024-10-13T23:00:00.000Z
     body: "[Costa Vicentina e Algarve Bike
       Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
+  - type: Date
+    date: 2025-04-13T12:06:18.344Z
+    body: "[Costa Vicentina e Algarve Bike
+      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
+  - type: Date
+    date: 2025-05-11T12:06:19.005Z
+    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
+      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
+      - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
+    date: 2025-05-24T12:06:19.357Z
+  - type: Date
+    date: 2025-06-14T12:06:19.664Z
+    body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
+      a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
+      - Guided bike
+      tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
 ---
 # Calendário
 
