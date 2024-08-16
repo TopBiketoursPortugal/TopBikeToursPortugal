@@ -19,38 +19,6 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2024-04-05T11:02:15.102Z
-    body: "[The Silver Coast - Porto to
-      Coimbra](https://topbiketoursportugal.com/porto-to-coimbra-biketour/)"
-  - type: Date
-    date: 2024-05-04T23:00:00.000Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2024-05-13T17:34:38.698Z
-    body: "[Vicentine Cost and Algarve Bike
-      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
-  - type: Date
-    date: 2024-05-27T08:32:19.260Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2024-06-14T10:21:20.118Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2024-06-22T11:41:22.004Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
     date: 2024-09-07T08:32:58.637Z
     body: "[The Way of St. James - Porto to Santiago de Compostela along
       the  Atlantic coast easy - Guided bike
@@ -76,6 +44,28 @@ dates:
     date: 2024-10-13T23:00:00.000Z
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+  - type: Date
+    date: 2025-04-13T12:01:44.856Z
+    body: "[Vicentine Cost and Algarve Bike
+      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+  - type: Date
+    date: 2025-05-11T12:04:28.846Z
+    body: "[The Way of St. James - Porto to Santiago de Compostela along
+      the  Atlantic coast easy - Guided bike
+      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
+      r/)"
+  - type: Date
+    date: 2025-05-24T12:04:29.411Z
+    body: "[The Way of St. James - Porto to Santiago de Compostela along
+      the  Atlantic coast easy - Guided bike
+      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
+      r/)"
+  - type: Date
+    date: 2025-06-14T12:04:30.860Z
+    body: "[The Way of St. James - Porto to Santiago de Compostela along
+      the  Atlantic coast easy - Guided bike
+      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
+      r/)"
 ---
 # Calendar
 
