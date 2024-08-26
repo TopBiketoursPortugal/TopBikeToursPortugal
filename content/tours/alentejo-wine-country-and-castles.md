@@ -36,7 +36,7 @@ itinerary:
     description: "On the first day of the tour, you will be transferred, from Lisbon
       to the quiet town of Monforte, known for its castle, Roman bridge,
       Madalena church, among other picturesque locations, from different
-      architectural times. Farm [Herdade da
+      architectural times. Farm Herdade da Ordem [Herdade da
       ordem](https://www.herdadedaordem.com/) or Hotel 5 *: [Torre de Palma
       ](https://www.torredepalma.com/) (included in premium option)"
   - day: "2"
