@@ -238,7 +238,7 @@ pricing:
       - title: Mechanical Assistance
         value: No
       - title: 7 dinners (Half-Board)
-        value: extra 350€ (at your hotel)
+        value: extra 400€ (at your hotel)
       - title: 7 lunchs + 7 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
@@ -290,9 +290,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 7 dinners (Half-Board)
-        value: extra 350€
+        value: extra 400€
       - title: 7 lunchs + 7 dinners (Full-board)
-        value: e﻿xtra 600€
+        value: e﻿xtra 700€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -302,20 +302,20 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.522€
-      - title: "* Regular season"
         value: 2.622€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 2.722€
+      - title: "* High Season"
+        value: 2.822€
       - title: "* Summer Season"
-        value: 2.772€
+        value: 2.972€
       - title: Premium hotel upgrade supplement
         value: 7﻿50€
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: X
-    price: 2522
+    price: 2620
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -342,9 +342,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 7 dinners (Half-Board)
-        value: extra 650€
+        value: extra 750€
       - title: 7 lunchs + 7 dinners (Full-board)
-        value: extra 950€
+        value: extra 1050€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -354,12 +354,12 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.672€
-      - value: 3.772€
+        value: 3.772€
+      - value: 3.872€
         title: "* Regular season"
       - title: "* High Season"
-        value: 3.872€
-      - value: 3.922€
+        value: 3.972€
+      - value: 4.022€
         title: "* Summer Season"
       - title: Premium hotel upgrade supplement
         value: X
@@ -367,7 +367,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3672
+    price: 3772
     type: "1"
 afterpricing: >-
   **Season:**
@@ -399,7 +399,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 270€
+  * Electric bicycles price: 315€
 
   * Supplement for single room: LS: 445€, RS: 475€, HS: 505€, SS.535€
 
