@@ -224,10 +224,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 7 lunches
-        value: No
-      - title: 7 Dinners
-        value: No
+      - title: 7 dinners (Half-Board)
+        value: extra 400€ (at your hotel)
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -244,6 +244,12 @@ pricing:
         value: 2.014€
       - title: "* Summer Season"
         value: 2.064€
+      - title: Premium hotel upgrade supplement
+        value: 7﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: extra 45€
+      - title: Drinks, snacks and experiences
+        value: X
     price: 1814
     type: "1"
   - discount: 0
@@ -270,10 +276,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 7 lunches
-        value: No
-      - title: 7 Dinners
-        value: No
+      - title: 7 dinners (Half-Board)
+        value: extra 400€
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: extra 700€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -283,18 +289,18 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.522€
-      - title: "* Regular season"
         value: 2.622€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 2.722€
+      - title: "* High Season"
+        value: 2.822€
       - title: "* Summer Season"
-        value: 2.772€
-    price: 2522
+        value: 2.872€
+    price: 2622
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour PLUS*
+    package: Guided bike tour Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -316,10 +322,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 7 lunches
-        value: Yes
-      - title: 7 Dinners
-        value: Yes
+      - title: 7 dinners (Half-Board)
+        value: extra 700€
+      - title: 7 lunchs + 7 dinners (Full-board)
+        value: extra 1.050€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -329,14 +335,14 @@ pricing:
       - title: 8 Nights / 9 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.378€
+        value: 3.772€
       - title: "* Regular season"
-        value: 3.478€
+        value: 3.872€
       - title: "* High Season"
-        value: 3.578€
+        value: 3.972€
       - title: "* Summer Season"
-        value: 3.628€
-    price: 3378
+        value: 4.022€
+    price: 3770
     type: "1"
 afterpricing: >-
   **\*Temporada:**
@@ -368,7 +374,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Eléctrica: 270€
+  * Bicicleta Eléctrica: 315€
 
   * Suplemento para quarto individual: LS: 445€, RS: 475€, HS: 505€, SS.535€
 
