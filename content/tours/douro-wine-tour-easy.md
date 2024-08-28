@@ -333,7 +333,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 240
+  * Electric bicycles price: 270
 
   * Supplement for single room: 390€, RS: 420€, HS: 450€, SS.480€
 
