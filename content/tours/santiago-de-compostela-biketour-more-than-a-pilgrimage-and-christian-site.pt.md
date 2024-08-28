@@ -225,13 +225,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.990€
+        value: 2.090€
       - title: "* Regular season"
-        value: 2.070€
+        value: 2.170€
       - title: "* High Season"
-        value: 2.130€
+        value: 2.230€
       - title: "* Summer Season"
-        value: 2.190€
+        value: 2.290€
     price: 1990
   - bestValue: false
     discount: 0
@@ -269,13 +269,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.651€
+        value: 2.751€
       - title: "* Regular season"
-        value: 2.731€
+        value: 2.831€
       - title: "* High Season"
-        value: 2.791€
+        value: 2.891€
       - title: "* Summer Season"
-        value: 2.851€
+        value: 2.951€
     price: 2651
 afterpricing: >-
   **\*Season:**
@@ -307,7 +307,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétrica: 240€
+  * Bicicleta Elétrica: 270€
 
   * Suplemento para quarto individual: LS: 390€, RS: 420€, HS: 450€, SS.480€
 
