@@ -228,6 +228,12 @@ pricing:
         value: 1.658€
       - title: 8 Nights / 9 Days ( price per person)
         value: +187€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: e﻿xtra 45€
+      - title: Drinks, snacks and experiences
+        value: X
     price: 1458
     type: ""
   - bestValue: true
@@ -277,12 +283,18 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: Not available
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: X
     price: 2090
     type: "1"
   - bestValue: true
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided Biketour plus*
+    package: Guided Premium*
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
@@ -303,10 +315,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 6 lunches
-        value: Yes
-      - title: 6 Dinners
-        value: Yes
+      - title: 6 dinners (Half-Board)
+        value: extra 650€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 850€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -326,6 +338,12 @@ pricing:
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: Not available
+      - title: Premium hotel upgrade supplement
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: Y﻿es (post ride)
     price: 2651
     type: ""
 afterpricing: >-
