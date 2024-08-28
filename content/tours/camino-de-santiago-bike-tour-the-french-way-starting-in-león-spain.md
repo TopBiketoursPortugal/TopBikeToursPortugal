@@ -170,7 +170,7 @@ pricing:
       - title: Mechanical Assistance
         value: No
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 350€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
@@ -222,9 +222,9 @@ pricing:
       - title: Mechanical Assistance
         value: Y﻿es
       - title: 6 dinners (Half-Board)
-        value: e﻿xtra 300€
+        value: e﻿xtra 350€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: e﻿xtra 550€
+        value: e﻿xtra 650€
       - title: Personal Accident Insurance
         value: Y﻿es
       - title: Liability Insurance
@@ -234,13 +234,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2﻿.090€
+        value: 2﻿.190€
       - title: "* Regular season"
-        value: 2﻿.170€
+        value: 2﻿.270€
       - title: "* High Season"
-        value: 2﻿.230€
+        value: 2﻿.330€
       - title: "* Summer Season"
-        value: 2﻿.290€
+        value: 2﻿.390€
       - title: 8 Nights / 9 Days
         value: not available
       - title: Premium hotel upgrade supplement
@@ -249,7 +249,7 @@ pricing:
         value: Yes
       - title: Drinks, snacks and experiences
         value: X
-    price: 2090
+    price: 2190
     type: ""
     observations: ""
   - bestValue: false
@@ -275,9 +275,9 @@ pricing:
       - title: Mechanical Assistance
         value: Y﻿es
       - title: 6 dinners (Half-Board)
-        value: extra 550€
+        value: extra 650€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 850€
+        value: extra 950€
       - title: Personal Accident Insurance
         value: Y﻿es
       - title: Liability Insurance
@@ -287,13 +287,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3﻿.090€
+        value: 3﻿.190€
       - title: "* Regular season"
-        value: 3﻿.170€
+        value: 3﻿.270€
       - title: "* High Season"
-        value: 3﻿.230€
+        value: 3﻿.330€
       - title: "* Summer Season"
-        value: 3﻿.290€
+        value: 3﻿.390€
       - value: not available
         title: 8 Nights / 9 Days
       - title: Premium hotel upgrade supplement
@@ -302,7 +302,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3090
+    price: 3190
 afterpricing: >-
   **\*Season:**
 
