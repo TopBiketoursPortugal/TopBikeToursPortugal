@@ -247,10 +247,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: No
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -269,6 +269,14 @@ pricing:
         value: 1.728€
       - title: 9 Nights / 10 Days ( price per person)
         value: +385€
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Prem. hotel upgrade suppl. 9 days
+        value: 7﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: e﻿xtra 45€
+      - title: Drinks, snacks and experiences
+        value: X
     price: 1578
     type: "1"
   - discount: 0
@@ -295,10 +303,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: No
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 650€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -308,20 +316,28 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.180€
-      - title: "* Regular season"
         value: 2.280€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 2.380€
+      - title: "* High Season"
+        value: 2.480€
       - title: "* Summer Season"
-        value: 2.430€
+        value: 2.530€
       - title: 9 Nights / 10 Days ( price per person)
         value: +500€
-    price: 2180
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Prem. hotel upgrade suppl. 9 days
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: Yes (post ride)
+    price: 2280
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour Plus*
+    package: Guided Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -343,10 +359,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 8 lunches ( 6 lunches reduced option)
-        value: Yes
-      - title: 8 Dinners ( 6 dinners reduced option)
-        value: Yes
+      - title: 6 dinners (Half-Board)
+        value: extra 60€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 950€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -356,16 +372,24 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.740€
+        value: 3.280€
       - title: "* Regular season"
-        value: 2.840€
+        value: 3﻿.380€
       - title: "* High Season"
-        value: 2.940€
+        value: 3.480€
       - title: "* Summer Season"
-        value: 2.990€
+        value: 3.530€
       - title: 9 Nights / 10 Days ( price per person)
         value: +670€
-    price: 2710
+      - title: Premium hotel upgrade supplement
+        value: X
+      - title: Prem. hotel upgrade suppl. 9 days
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Yes
+      - title: Drinks, snacks and experiences
+        value: Yes (post ride)
+    price: 3280
     type: "1"
 afterpricing: >-
   **\*Temporada:**
@@ -397,7 +421,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétrica: 240€ (300 € for the 9 night package)
+  * Bicicleta Elétrica: 270€ (315 € for the 9 night package)
 
   * Suplemento para quarto individual : LS: 480€, RS: 510€, HS: 540€, SS:570€
 
