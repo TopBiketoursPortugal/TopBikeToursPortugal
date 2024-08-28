@@ -266,7 +266,7 @@ pricing:
       - title: Mechanical Assistance
         value: No
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 350€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
@@ -333,13 +333,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.180€
-      - title: "* Regular season"
         value: 2.280€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 2.380€
+      - title: "* High Season"
+        value: 2.480€
       - title: "* Summer Season"
-        value: 2.430€
+        value: 2.530€
       - title: 9 Nights / 10 Days ( price per person)
         value: X
       - title: Premium hotel upgrade supplement
@@ -350,7 +350,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: X
-    price: 2180
+    price: 2280
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -377,9 +377,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 550€
+        value: extra 600€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 850€
+        value: extra 950€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -389,13 +389,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.180€
-      - title: "* Regular season"
         value: 3.280€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 3.380€
+      - title: "* High Season"
+        value: 3.480€
       - title: "* Summer Season"
-        value: 3.430€
+        value: 3.530€
       - title: 9 Nights / 10 Days ( price per person)
         value: X
       - title: Premium hotel upgrade supplement
@@ -406,7 +406,7 @@ pricing:
         value: Yes
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3180
+    price: 3279
     type: "1"
 afterpricing: >-
   **\*Season:**
@@ -442,7 +442,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 240€ (300 € for the 9 night package)
+  * Electric bicycles price: 270€ (360 € for the 9 night package)
 
   * Supplement for single room : LS: 480€, RS: 510€, HS: 540€, SS:570€
 
