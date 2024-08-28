@@ -206,10 +206,10 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 6 lunches
-        value: No
-      - title: 6 Dinners
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -254,10 +254,10 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 6 lunches
-        value: No
-      - title: 6 Dinners
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 650€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -267,17 +267,17 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.990€
+        value: 2.090€
       - title: "* Regular season"
-        value: 2.070€
+        value: 2.170€
       - title: "* High Season"
-        value: 2.130€
+        value: 2.230€
       - title: "* Summer Season"
-        value: 2.190€
+        value: 2.290€
       - icon: "-"
         title: 8 Nights / 9 Days ( price per person)
         value: Not available
-    price: 1990
+    price: 2090
     type: "1"
   - bestValue: true
     discount: 0
@@ -358,7 +358,7 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétrica: 240€ (270 € no Package de 8 noites)
+  * Bicicleta Elétrica: 270€ (315 € no Package de 8 noites)
 
   * Suplemento para quarto individual: 390€, RS: 420€, HS: 450€, SS.480€
 
