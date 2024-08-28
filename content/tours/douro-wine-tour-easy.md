@@ -170,7 +170,7 @@ pricing:
       - title: Mechanical Assistance
         value: No
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 350€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
@@ -222,9 +222,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 300€
+        value: extra 350€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 550€
+        value: extra 650€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -234,20 +234,20 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.045€
-      - title: "* Regular season"
         value: 2.145€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 2.245€
+      - title: "* High Season"
+        value: 2.345€
       - title: "* Summer Season"
-        value: 2.295€
+        value: 2.495€
       - title: Premium hotel upgrade supplement
         value: 7﻿50€
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: X
-    price: 2044
+    price: 2144
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
@@ -274,9 +274,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 550€
+        value: extra 600€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 850€
+        value: extra 950€
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -286,20 +286,20 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.195€
-      - title: "* Regular season"
         value: 3.295€
-      - title: "* High Season"
+      - title: "* Regular season"
         value: 3.395€
+      - title: "* High Season"
+        value: 3.495€
       - title: "* Summer Season"
-        value: 3.445€
+        value: 3.545€
       - title: Premium hotel upgrade supplement
         value: X
       - title: Top Bike Tours Portugal Jersey
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3195
+    price: 3297
     type: "1"
 afterpricing: >-
   **\*Season:**
