@@ -297,11 +297,11 @@ pricing:
       - title: Mechanical Assistance
         value: No
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 350€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
         value: X
       - title: 11 dinners (Half-Board)
-        value: extra 550€ (at your hotel)
+        value: extra 650€ (at your hotel)
       - title: 11 lunchs + 11 dinners (Full-board)
         value: X
       - title: Personal Accident Insurance
@@ -355,9 +355,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 300€ (at your hotel)
+        value: extra 350€ (at your hotel)
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 550€
+        value: extra 650€
       - title: 11 dinners (Half-Board)
         value: X
       - title: 11 lunchs + 11 dinners (Full-board)
@@ -371,13 +371,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.095€
+        value: 2.195€
       - title: "* Regular season"
-        value: 2.175€
+        value: 2.275€
       - title: "* High Season"
-        value: 2.235€
+        value: 2.335€
       - title: "* Summer Season"
-        value: 2.295€
+        value: 2.395€
       - title: 12 Nights /13 Days (price per person)
         value: X
       - title: Premium hotel upgrade supplement
@@ -388,7 +388,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: X
-    price: 2095
+    price: 2195
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -413,9 +413,9 @@ pricing:
       - title: Mechanical Assistance
         value: Yes
       - title: 6 dinners (Half-Board)
-        value: extra 550€
+        value: extra 650€
       - title: 6 lunchs + 6 dinners (Full-board)
-        value: extra 850€
+        value: extra 950€
       - title: 11 dinners (Half-Board)
         value: X
       - title: 11 lunchs + 11 dinners (Full-board)
@@ -429,13 +429,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 3.095€
+        value: 3.195€
       - title: "* Regular season"
-        value: 3.175€
+        value: 3.275€
       - title: "* High Season"
-        value: 3235€
+        value: 3.335€
       - title: "* Summer Season"
-        value: 3.295€
+        value: 3.395€
       - title: 12 Nights /13 Days (price per person)
         value: X
       - title: Premium hotel upgrade supplement
@@ -446,7 +446,7 @@ pricing:
         value: Y﻿es
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
-    price: 3095
+    price: 3195
 afterpricing: >-
   **\*Season:**
 
@@ -479,9 +479,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Electric bicycles price: 350€
+  * Electric bicycles price: 495€
 
-  * Electric bicycles price reduced option: 240€
+  * Electric bicycles price reduced option: 270€
 
   * Supplement for single room: LS: 670€, RS: 760€, HS: 850€, SS:940€
 
