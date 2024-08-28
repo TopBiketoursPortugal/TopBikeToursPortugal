@@ -286,10 +286,14 @@ pricing:
         value: No
       - title: Mechanical Assistance
         value: No
-      - title: 11 lunches (6 lunches reduced route)
-        value: No
-      - title: 11 Dinners (6 dinners reduced route)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: X
+      - title: 11 dinners (Half-Board)
+        value: extra 650€ (at your hotel)
+      - title: 11 lunchs + 11 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: No
       - title: Liability Insurance
@@ -308,6 +312,14 @@ pricing:
         value: 1.708€
       - title: 12 Nights /13 Days (price per person)
         value: "+1.007"
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Prem. hotel upgrade suppl.13 days
+        value: 8﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: e﻿xtra 45€
+      - title: Drinks, snacks and experiences
+        value: X
     price: 1508
   - bestValue: false
     discount: 0
@@ -332,10 +344,14 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 11 lunches (6 lunches reduced route)
-        value: No
-      - title: 11 Dinners (6 dinners reduced route)
-        value: No
+      - title: 6 dinners (Half-Board)
+        value: extra 350€ (at your hotel)
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 650€
+      - title: 11 dinners (Half-Board)
+        value: X
+      - title: 11 lunchs + 11 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -345,20 +361,28 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.095€
+        value: 2.195€
       - title: "* Regular season"
-        value: 2.175€
+        value: 2.275€
       - title: "* High Season"
-        value: 2.235€
+        value: 2.335€
       - title: "* Summer Season"
-        value: 2.295€
+        value: 2.395€
       - title: 12 Nights /13 Days (price per person)
         value: +1.426€
-    price: 2095
+      - title: Premium hotel upgrade supplement
+        value: 6﻿50€
+      - title: Prem. hotel upgrade suppl.13 days
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: X
+    price: 2195
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour PLUS*
+    package: Guided bike tour Premium*
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
@@ -378,10 +402,14 @@ pricing:
         value: Yes
       - title: Mechanical Assistance
         value: Yes
-      - title: 11 lunches (6 lunches reduced route)
-        value: Yes
-      - title: 11 Dinners (6 dinners reduced route)
-        value: Yes
+      - title: 6 dinners (Half-Board)
+        value: extra 650€
+      - title: 6 lunchs + 6 dinners (Full-board)
+        value: extra 950€
+      - title: 11 dinners (Half-Board)
+        value: X
+      - title: 11 lunchs + 11 dinners (Full-board)
+        value: X
       - title: Personal Accident Insurance
         value: Yes
       - title: Liability Insurance
@@ -391,16 +419,22 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 2.756€
+        value: 3.195€
       - title: "* Regular season"
-        value: 2.836€
+        value: 3.275€
       - title: "* High Season"
-        value: 2.896€
+        value: 3.335€
       - title: "* Summer Season"
-        value: 2.956€
+        value: 3.395€
       - title: 12 Nights /13 Days (price per person)
         value: +1.900€
-    price: 2755
+      - title: Prem. hotel upgrade suppl.13 days
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: Yes (post ride)
+    price: 3195
 afterpricing: >-
   **\*Temporada:**
 
@@ -431,9 +465,9 @@ afterpricing: >-
   **Extras**
 
 
-  * Bicicleta Elétrica: 350€
+  * Bicicleta Elétrica: 495€
 
-  * Bicicleta Elétrica itinerário reduzido: 240€
+  * Bicicleta Elétrica itinerário reduzido: 270€
 
   * Suplemento para quarto individual: LS: 670€, RS: 760€, HS: 850€, SS:940€
 
