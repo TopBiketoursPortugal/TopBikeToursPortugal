@@ -242,7 +242,7 @@ pricing:
     price: 2095
   - bestValue: false
     highSeasonPriceSupplement: 100
-    package: Guided Biketour plus
+    package: Guided Biketour Pemium*
     packageContents:
       - title: Accommodations W/ Breakfast
         value: Yes (4 stars, farms or rural houses)
