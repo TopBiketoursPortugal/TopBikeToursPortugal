@@ -296,11 +296,17 @@ pricing:
         value: 2.822€
       - title: "* Summer Season"
         value: 2.872€
+      - title: Premium hotel upgrade supplement
+        value: 7﻿50€
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: X
     price: 2622
     type: "1"
   - discount: 0
     highSeasonPriceSupplement: 100
-    package: Guided bike tour Premium*
+    package: Guided Premium*
     packageContents:
       - icon: ✓
         title: Accommodations W/ Breakfast
@@ -342,7 +348,13 @@ pricing:
         value: 3.972€
       - title: "* Summer Season"
         value: 4.022€
-    price: 3770
+      - title: Premium hotel upgrade supplement
+        value: X
+      - title: Top Bike Tours Portugal Jersey
+        value: Y﻿es
+      - title: Drinks, snacks and experiences
+        value: Yes (post ride)
+    price: 3772
     type: "1"
 afterpricing: >-
   **\*Temporada:**
@@ -383,6 +395,10 @@ afterpricing: >-
   * Noites extra: sob consulta
 
   * Preço para Grupo privado: sob consulta
+
+  * Taxa turística não está incluída no preço do package (aproximadamente 2€ por pessoa por noite - pagos no local - em Lisboa a Taxa turística é de 4€ por pessoa por noite) 
+
+  * Ferry (barco) na travessia de rio/lago não está incluído no preço do package (aproximadamente 2€ a 10€ por pessoa) 
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
