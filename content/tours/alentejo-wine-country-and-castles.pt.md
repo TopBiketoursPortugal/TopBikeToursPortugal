@@ -158,7 +158,7 @@ pricing:
       - title: GPS With route per booking
         value: Yes
       - title: Bike rent
-        value: +150€ carbon road bike
+        value: +270 carbon road bike
       - title: Guide
         value: No
       - title: Mechanical Assistance
