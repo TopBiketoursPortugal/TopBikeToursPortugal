@@ -164,7 +164,7 @@ pricing:
       - title: GPS With route per booking
         value: Yes
       - title: Bike rent
-        value: +225 € carbon road bike
+        value: +270 € carbon road bike
       - title: Guide
         value: No
       - title: Mechanical Assistance
@@ -216,7 +216,7 @@ pricing:
         title: GPS With route per booking
         value: ""
       - title: Bike rent
-        value: +225 € carbon road bike
+        value: +270 € carbon road bike
       - title: Guide
         value: Yes
       - title: Mechanical Assistance
@@ -268,7 +268,7 @@ pricing:
         title: GPS With route per booking
         value: ""
       - title: Bike rent
-        value: +225 € carbon road bike
+        value: +270 € carbon road bike
       - title: Guide
         value: Yes
       - title: Mechanical Assistance
@@ -342,6 +342,10 @@ afterpricing: >-
   * Extra nights: on request
 
   * Private group price on request
+
+  *  City taxes is not included in the price package (approximately 2€ per person per night - payable on site - in Lisbon city tax is 4€ per person per night) 
+
+  *  Ferry (boat) in river / lake crossing is not included in price package (approximately 2€ to 10€ per person) 
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
