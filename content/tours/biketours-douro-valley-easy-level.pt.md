@@ -185,6 +185,10 @@ afterpricing: >-
   * Noites extra: sob consulta
 
   * Preço para Grupo privado: sob consulta
+
+  * Taxa turística não está incluída no preço do package (aproximadamente 2€ por pessoa por noite - pagos no local - em Lisboa a Taxa turística é de 4€ por pessoa por noite) 
+
+  * Ferry (barco) na travessia de rio/lago não está incluído no preço do package (aproximadamente 2€ a 10€ por pessoa) 
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
