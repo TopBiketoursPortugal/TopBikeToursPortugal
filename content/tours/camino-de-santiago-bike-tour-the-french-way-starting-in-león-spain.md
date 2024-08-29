@@ -303,8 +303,7 @@ pricing:
       - title: Drinks, snacks and experiences
         value: Yes (post ride)
     price: 3190
-afterpricing: >-
-  **\*Season:**
+afterpricing: "**\\*Season:**
 
 
   * LS - Low season: Nov 01 to Mar 25
@@ -325,11 +324,14 @@ afterpricing: >-
 
   * Prices can suffer updates due high season, holidays or weekends
 
-  * Beverages are not included in Self Guided and Guided option when meals are booked
+  * Beverages are not included in Self Guided and Guided option when meals are
+  booked
 
   * Selected drinks are included in Premium package when meals are booked
 
-  * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount.
+  * If in a triple room with parents Children up to 10 years old - 35%
+  discount. Children from 11 to 14 years old - 20% discount. Children from 15 to
+  17 years old - 15% discount.
 
 
   **Extras**
@@ -337,11 +339,22 @@ afterpricing: >-
 
   * Electric bicycles price: 300€
 
-  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
+  * Supplement for single room: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium
+  option plus 250€)
 
   * Extra nights: on request
 
   * Private group price on request
+
+  * City taxes is not included in the price package (approximately 2€ per
+  person per night - payable on site - in Lisbon city tax is 4€ per person per
+  night)\ 
+
+  * Ferry (boat) in river / lake crossing is not included in price package
+  (approximately 2€ to 10€ per person)\ 
+
+
+  \ "
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
