@@ -54,7 +54,7 @@ Take a look to our [Portugal Bike tours](https://topbiketoursportugal.com/bike-t
 
 Choose from the list in our [Bike tours Portugal](https://topbiketoursportugal.com/bike-tours-in-portugal/) webpage and [contact us](https://topbiketoursportugal.com/contacts/) to do a self guided Portugal bicycle tour or a guided bicycle tour.
 
-## L﻿ooking gor a hike tours in Portugal?
+## L﻿ooking for a hike holiday tour in Portugal?
 
 T﻿ake a look at our Portugal walking tours website : [Topwalkingtoursportugal.com](https://wws.topwalkingtoursportugal.com)
 
