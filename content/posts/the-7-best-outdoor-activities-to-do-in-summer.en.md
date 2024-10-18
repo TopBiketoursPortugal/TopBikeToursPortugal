@@ -1,70 +1,74 @@
 ---
-templateKey: blog-post
-path: /blog/best-outdoor-activities-summer
-showHome: false
-title: The 7 best outdoor activities to do in summer
+path: /blog/8-benefits-hiking
+title: 8 Benefits of Hiking
 language: en
-date: 2024-10-18T13:51:02.609Z
-featuredImage: /img/melhores-atividades.png
-featuredImagePosition: center center
+date: 2024-10-18T13:52:43.364Z
+featuredImage: /img/benefits-hiking.png
+featuredImagePosition: top center
 meta:
   language: EN
-  title: 7 best outdoor activities to do in summer
-  description: Discover the 7 best outdoor activities to enjoy in summer, from
-    hiking and picnics to extreme sports.
+  title: "8 Benefícios da Caminhada: Melhore a sua saúde física e mental"
+  description: Descubra os 8 principais benefícios de caminhar, desde a melhoria
+    da saúde cardiovascular e mental até à perda de peso e fortalecimento
+    muscular.
   robots: INDEX
-languagePages: []
 ---
-Forget the gym, leave the sofa alone and come and experience outdoor adventures!
+If you're looking for motivation to go for a walk, we're pleased to announce that you've come to the right place!
 
-The sun is shining (sometimes more than we'd like) and nature, in all its sumptuousness, invites us to summer activities to remember later.
+Over the next few lines, we're going to help you “put your boots on” and hit the road to enjoy one of our [walking tours](https://topwalkingtoursportugal.com/) and reap all the benefits that walking outdoors can offer you.
 
-Do you accept this challenge? If so, come and see the 7 best outdoor activities to do this summer.
+Come along!
 
-![7 best outdoor activities to do in summer](/img/melhores-atividades.png "7 best outdoor activities to do in summer")
+![8 Benefits of Hiking](/img/benefits-hiking.png "8 Benefits of Hiking")
 
-## 7 best outdoor activities to do in summer
 
-Between culture, sport and more or less extreme challenges, here are 7 excellent summer activities to do outdoors:
 
-### 1 – Hiking
+## 8 Benefits of Hiking
 
-Have you ever thought about practicing outdoor sports, leisure in nature and cultural trips? With our [walking tours](https://topwalkingtoursportugal.com/) you'll have access to all of this and much more on walks that will take you to some of the most beautiful and historic places in Portugal and Spain, such as the Douro International, the Camino de Santiago or rural Alentejo.
+Among physical and mental benefits, hiking will help you to:
 
-Don't be daunted by the difficulties or logistical issues, as these [hikes](https://topwalkingtoursportugal.com/) are designed to suit all audiences and physical conditions and offer stays in truly enchanting places.
+### 1 - Reduce the risk of cardiovascular problems
 
-Get the family together and come and discover the adventurous trails we have waiting for you.
+Between the ups and downs of the trails, your physical health will benefit on a cardiovascular level, since hiking allows you to reduce the risk of stroke by up to 30%, lower your cholesterol levels and prevent hypertension.
 
-### 2 – Picnics
+What's more, walking will increase your heart rate, resulting in better blood flow and oxygenation which, consequently, will translate into a marked improvement in your cardiorespiratory capacity.
 
-There's nothing like enjoying the good weather with a picnic with family and friends in one of the many natural parks that Portugal has to offer, but remember, in the end it's important that you leave everything as you found it or, preferably, even cleaner.
+### 2 - Improving your mental health
 
-### 3 – Andar de bicicleta
+One of the great benefits of [walking](https://topwalkingtoursportugal.com/) is undoubtedly the boost to your good mood thanks to the endorphins released, which provide the neurotransmitters responsible for feelings of pleasure and motivation.
 
-Não há nada que una tão bem miúdos e graúdos do que uma, heroica ou não, voltinha de bicicleta.
+Socializing with fellow hikers, facing new challenges and being able to learn something new about the places you visit are some of the factors that make hiking an excellent way to awaken positive emotions in you.
 
-Enquanto os profissionais do ciclismo andam a lutar pela vitória no Tour de France ou na Vuelta espanhola, que tal aproveitar os longos dias de verão para dar corda aos pedais da bicicleta e conhecer os mais belos recantos do nosso país que se encontram inacessíveis a carros?
+It's also important to note that walking can increase the hippocampus by 2%, something that will ultimately benefit your memory.
 
-Três dicas: escolha percursos adequados à sua condição física, bicicletas adequadas ao tipo de terreno que vai percorrer e hidrate-se.
+### 3 - Lose/control your weight
 
-### 4 – Praticar Yoga
+The effort expended while [walking](https://topwalkingtoursportugal.com/) will help you lose or control your weight. Just to give you an idea of its impact, walking for 30 minutes at a brisk pace will cause you to lose around 150 kcal.
 
-Se as caminhadas e o ciclismo o vão ajudar a tornar o seu corpo mais são, não se esqueça de tratar também da mente com, por exemplo, a prática de yoga, de preferência, num local calmo e aprazível no meio da natureza.
+If you go for longer, regular walks, you could lose up to 400 kcal per hour and around 2.5 cm of abdominal circumference per month.
 
-Além de ajudá-lo a relaxar, a prática do yoga melhora a função respiratória e oferece-lhe uma maior flexibilidade muscular que, certamente, lhe vai ser útil nas suas caminhadas.
+### 4 - Strengthen your immune system
 
-### 5 – Fotografar a natureza
+According to some scientific studies on the subject, walking regularly will help strengthen your immune system and thus prevent colds and flu.
 
-Se tem “olho” para a fotografia, fotografar a natureza é uma excelente atividade de verão, não só pela oportunidade que terá de captar momentos de rara beleza, mas também pela possibilidade de explorar algumas das paisagens naturais mais interessantes do território português
+### 5 - Better sleep
 
-### 6 – Canyoning
+Regular walking will help you sleep better and maintain healthier sleep routines.
 
-Quando o calor aperta, só se está bem na água, mas se à água fresca quiser juntar o belo gosto da aventura, então não pode deixar de experimentar o canyoning, desporto que consiste na exploração progressiva dos rios.
+This is because exercise stimulates the production of melatonin, a hormone produced by the pineal gland whose function is to regulate the circadian cycle and promote the proper functioning of the body. As icing on the cake, melatonin also acts as an antioxidant, resulting in slower ageing.
 
-Pela dificuldade e risco deste desporto, aconselhamos a que não o faça sozinho.
+### 6 - Reducing the risk of developing diabetes
 
-### 7 – Escaladas
+According to the Associação Protectora dos Diabéticos de Portugal, “physical activity stimulates the pancreas to produce insulin and leads to the use of glucose by the muscles, preventing it from accumulating and increasing in the blood”.
 
-Ainda na senda dos desportos mais radicais, terminamos com um desafio físico e mental de monta: a escalada.
+So, to significantly reduce your risk of developing type 2 diabetes, all you need to do is walk for 30 minutes a day. If you already suffer from this disease, walking will help you control it.
 
-Se for a primeira vez que vai fazer escalada, procure a ajuda de uma escola de escalada e participe nas suas atividades antes de se aventurar a solo. Apesar do equipamento ser um pouco caro, a verdade é que as paredes de escalada naturais são totalmente gratuitas e vão proporcionar-lhe bons momentos de aventura.
+### 7 - Strengthen your muscular capacity
+
+When you walk, your muscles will end up taking in more oxygen, which will help increase their efficiency and, consequently, make them more resilient.
+
+What's more, since walking is part of the aerobic exercise group, you'll be able to work and strengthen a large number of muscles.
+
+### 8 - Fight osteoporosis
+
+By promoting an increase in bone density, walking is an excellent antidote to osteoporosis, particularly for women going through the menopause, when bone density decreases, as it will help reduce the risk of disabling injuries and fractures.
