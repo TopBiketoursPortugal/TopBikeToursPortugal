@@ -19,33 +19,11 @@ feature:
   title: Our tours calendar
 dates:
   - type: Date
-    date: 2024-09-07T08:32:58.637Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2024-09-18T10:21:20.629Z
-    body: "[Camino de Santiago Bike tour - The French Way starting in León, Spain -
-      Guided bike
-      tour](https://topbiketoursportugal.com/bike-tour-camino-de-santiago-cycli\
-      ng-french-way-leon/)"
-  - type: Date
-    date: 2024-09-22T14:49:30.901Z
-    body: "[Porto to Lisbon Cycling tour - Guided bike
-      tour](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/)"
-  - type: Date
-    date: 2024-09-27T13:14:49.657Z
-    body: "[The Way of St. James - Porto to Santiago de Compostela along
-      the  Atlantic coast easy - Guided bike
-      tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
-      r/)"
-  - type: Date
-    date: 2024-10-13T23:00:00.000Z
+    date: 2025-04-13T12:01:44.856Z
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
   - type: Date
-    date: 2025-04-13T12:01:44.856Z
+    date: 2025-05-04T10:56:40.022Z
     body: "[Vicentine Cost and Algarve Bike
       Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
   - type: Date
