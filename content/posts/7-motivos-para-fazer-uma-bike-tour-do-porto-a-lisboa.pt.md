@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/7-motivos-bike-tour-porto-lisboa
+path: /pt/blog/7-motivos-bike-tour-porto-lisboa
 showHome: false
 title: 7 motivos para fazer uma bike tour do Porto a Lisboa
 language: pt
