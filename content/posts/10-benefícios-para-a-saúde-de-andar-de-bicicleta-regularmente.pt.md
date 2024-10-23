@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/10-beneficios-andar-bicicleta
+path: /pt/blog/10-beneficios-andar-bicicleta
 showHome: false
 title: 10 benefícios para a saúde de andar de bicicleta regularmente
 language: pt
