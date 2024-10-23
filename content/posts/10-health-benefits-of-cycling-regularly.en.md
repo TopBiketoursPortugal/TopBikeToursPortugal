@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /pt/blog/10-health-benefits-of-cycling-regularly
 showHome: false
 title: 10 health benefits of cycling regularly
 language: en
