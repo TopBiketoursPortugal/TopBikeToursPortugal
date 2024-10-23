@@ -20,7 +20,7 @@ Are you considering discovering the charms of the Portuguese coastline? There's 
 
 A bike tour allows you to explore the stunning Atlantic coastline as you immerse yourself in the country's culture, history and gastronomy.
 
-It is based on this premise that, throughout this article, written by Top Bike Tours,[ a bike tour agency in Portugal](https://topbiketoursportugal.com/), we present you with seven reasons to make this cycling experience your next adventure.
+It is based on this premise that, throughout this article, written by Top Bike Tours, a bike tour agency in Portugal, we present you with seven reasons to make this cycling experience your next adventure.
 
 ## 7 reasons to try a bike tour from Porto to Lisbon
 
@@ -62,7 +62,7 @@ Whether you opt for a guided tour, with Top Bike Tours taking care of all the lo
 
 ### 5. Discover hidden treasures along the way
 
-The [route between Oporto and Lisbon](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/) is marked by lesser-known but deeply captivating destinations.
+The route between Oporto and Lisbon is marked by lesser-known but deeply captivating destinations.
 
 Places like the town of Óbidos, for example, with its medieval walls and cobbled streets, along with the peaceful Lagoa de Maiorca in Figueira da Foz, are ideal places to take a break and enjoy the view.
 
@@ -92,4 +92,4 @@ A bike tour from Porto to Lisbon is more than just a ride - it's an immersive ex
 
 Whether you're a seasoned or occasional cyclist, this trip promises to offer something for everyone - stunning views, immersive heritage and gastronomic delights, plus a sense of accomplishment derived from a remarkable adventure on two wheels.
 
-If you feel ready to embark on this unforgettable journey, rest assured that you're already in the right place - [Top Bike Tours](https://topbiketoursportugal.com/) offers multiple routes suitable for various levels of experience and preferences, ensuring that your cycling adventure is the best it can be.
+If you feel ready to embark on this unforgettable journey, rest assured that you're already in the right place - Top Bike Tours offers multiple routes suitable for various levels of experience and preferences, ensuring that your cycling adventure is the best it can be.
