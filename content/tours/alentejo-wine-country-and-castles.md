@@ -198,7 +198,7 @@ pricing:
         value: X
     type: ""
     observations: ""
-    price: 1443
+    price: 1589
   - bestValue: false
     highSeasonPriceSupplement: 100
     package: Guided Biketour
