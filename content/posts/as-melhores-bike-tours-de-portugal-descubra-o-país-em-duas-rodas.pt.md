@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/best-bike-tours-portugal
+path: /pt/blog/best-bike-tours-portugal
 showHome: false
 title: "As melhores bike tours de Portugal: descubra o país em duas rodas"
 language: pt
