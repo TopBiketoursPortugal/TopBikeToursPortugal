@@ -313,13 +313,13 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.508€
+        value: 1.553€
       - title: "* Regular season"
-        value: 1.588€
+        value: 1.633€
       - title: "* High Season"
-        value: 1.648€
+        value: 1.693€
       - title: "* Summer Season"
-        value: 1.708€
+        value: 1.753€
       - title: 12 Nights /13 Days (price per person)
         value: +1.007€
       - title: Premium hotel upgrade supplement
@@ -330,7 +330,7 @@ pricing:
         value: e﻿xtra 45€
       - title: Drinks, snacks and experiences
         value: X
-    price: 1508
+    price: 1553
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
