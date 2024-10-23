@@ -219,15 +219,15 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.458€
+        value: 1.503€
       - title: "* Regular season"
-        value: 1.536€
+        value: 1.583€
       - title: "* High Season"
-        value: 1.598€
+        value: 1.643€
       - title: "* Summer Season"
-        value: 1.658€
+        value: 1.703€
       - title: 8 Nights / 9 Days ( price per person)
-        value: +187€
+        value: +245€
       - title: Premium hotel upgrade supplement
         value: 6﻿50€
       - title: Top Bike Tours Portugal Jersey
