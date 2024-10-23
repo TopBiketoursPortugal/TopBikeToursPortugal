@@ -20,11 +20,9 @@ Are you considering discovering the charms of the Portuguese coastline? There's 
 
 A bike tour allows you to explore the stunning Atlantic coastline as you immerse yourself in the country's culture, history and gastronomy.
 
-It is based on this premise that, throughout this article, written by Top Bike Tours, a [bike tour agency in Portugal](https://topbiketoursportugal.com/), we present you with seven reasons to make this cycling experience your next adventure.
+It is based on this premise that, throughout this article, written by Top Bike Tours,[ a bike tour agency in Portugal](https://topbiketoursportugal.com/), we present you with seven reasons to make this cycling experience your next adventure.
 
 ## 7 reasons to try a bike tour from Porto to Lisbon
-
-
 
 ![7 reasons to try a bike tour from Porto to Lisbon](/img/7reasons-bike-tours.png "7 reasons to try a bike tour from Porto to Lisbon")
 
@@ -46,8 +44,6 @@ Along the way, you'll pass through cities such as Aveiro, also known as the “V
 
 This bike tour allows you to navigate Portugal's cultural fabric at your own pace, simply by choosing the [bikes](https://topbiketoursportugal.com/) that best suit you and your group.
 
-
-
 ### 3. Taste national gastronomic delights
 
 One of the highlights of a bike tour of Portugal lies in its typical delicacies.
@@ -66,7 +62,7 @@ Whether you opt for a guided tour, with Top Bike Tours taking care of all the lo
 
 ### 5. Discover hidden treasures along the way
 
-The [route between Oporto and Lisbon](https://topbiketoursportugal.com/) is marked by lesser-known but deeply captivating destinations.
+The [route between Oporto and Lisbon](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/) is marked by lesser-known but deeply captivating destinations.
 
 Places like the town of Óbidos, for example, with its medieval walls and cobbled streets, along with the peaceful Lagoa de Maiorca in Figueira da Foz, are ideal places to take a break and enjoy the view.
 
