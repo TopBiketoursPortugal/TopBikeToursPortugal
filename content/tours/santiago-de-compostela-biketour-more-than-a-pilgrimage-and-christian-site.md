@@ -167,14 +167,14 @@ pricing:
       - title: 7 Nights / 8 Days
         value: Price per person
       - title: "* Low season"
-        value: 1.458€
+        value: 1.503€
       - title: "* Regular season"
-        value: 1.538€
+        value: 1.583€
       - title: "* High Season"
-        value: 1.598€
+        value: 1.643€
       - title: "* Summer Season"
-        value: 1.658€
-    price: 1458
+        value: 1.703€
+    price: 1503
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
