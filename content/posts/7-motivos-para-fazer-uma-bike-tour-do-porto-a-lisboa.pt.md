@@ -20,7 +20,7 @@ Está a considerar partir à descoberta dos encantos da faixa costeira portugues
 
 Um passeio de bicicleta permite-lhe explorar a deslumbrante costa atlântica, à medida que se deixa imergir nas cultura, história e gastronomia nacionais.
 
-É com base nesta premissa que, ao longo deste artigo, da autoria da Top Bike Tours, uma [agência de passeios em bicicleta por Portugal](https://topbiketoursportugal.com/pt/), lhe apresentamos sete motivos para fazer desta experiência ciclística a sua próxima aventura.
+É com base nesta premissa que, ao longo deste artigo, da autoria da Top Bike Tours, uma [agência de passeios em bicicleta por Portugal](https://topbiketoursportugal.com/pt-porto-lisboa-bike-tour/), lhe apresentamos sete motivos para fazer desta experiência ciclística a sua próxima aventura.
 
 ## 7 motivos para experimentar uma bike tour do Porto a Lisboa
 
