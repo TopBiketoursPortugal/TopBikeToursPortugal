@@ -1,6 +1,6 @@
 ---
 language: en
-title: Top Bike is Top Notch!
+title: "**Top Bike is Top Notch**"
 quote: Top Bike is Top Drawer! They charge about the same as the other tour
   companies yet their tours are better organized with every possible contingency
   well thought out. We did a self-guided tour and it could not have gone any
