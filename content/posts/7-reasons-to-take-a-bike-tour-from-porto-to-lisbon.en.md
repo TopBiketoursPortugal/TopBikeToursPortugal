@@ -28,7 +28,7 @@ It is based on this premise that, throughout this article, written by Top Bike T
 
 ### 1. Admire the beauty of the coastline
 
-The [Porto to Lisbon route](https://topbiketoursportugal.com/porto-lisboa-bike-tour/) we offer you offers unparalleled views of Portugal's stunning coastline.
+The[ Porto to Lisbon route](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/) we offer you offers unparalleled views of Portugal's stunning coastline.
 
 It's a tour that takes you through a diverse range of scenic landscapes, from the resplendent Costa Verde to the beaches and cliffs of the sparkling Costa de Prata.
 
