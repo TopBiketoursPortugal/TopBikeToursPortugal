@@ -6,14 +6,14 @@ productcode: CT06
 featured: false
 language: pt
 image: /img/mountain-bike-tour-porto.jpg
-title: Passeio em mountain bike (MTB) nas montanhas do Porto
+title: Conheça o Nosso Passeio de MTB no Porto - Top Bike Tours
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Passeio em mountain bike (MTB) nas montanhas do Porto
-  description: Passeio de BTT - BTT - disponível todos os dias a partir da cidade
-    do Porto. Se procura alguma actividade física não perca este passeio de
-    bicicleta.
+  title: Conheça o Nosso Passeio de MTB no Porto - Top Bike Tours
+  description: Descubra o emocionante Passeio de MTB no Porto oferecido pela Top
+    Bike Tours. Percursos desafiadores, paisagens incríveis e muita aventura
+    esperam por si.
   keywords: mountain bike tour porto, mtb tour porto, mountain bike no porto
   robots: INDEX
 minAge: 16
