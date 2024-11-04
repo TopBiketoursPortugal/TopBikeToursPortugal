@@ -6,16 +6,14 @@ productcode: AL01
 featured: false
 language: pt
 image: /img/23984632791_9d46150918_o.jpg
-title: "Passeio de bicicleta no Alentejo - rota Vinícola e Património "
+title: Portugal Alentejo Bike Tour - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 meta:
-  title: "Passeio de bicicleta Alentejo - rota Vinícola e Património "
-  description: >-
-    O passeio de bicicleta no Alentejo é uma excelente opção para ciclismo em
-    estrada com sobreiros, oliveiras, vinhas e castelos em destaque na paisagem.
-
-    Pedale em Évora, Patrimônio Mundial da UNESCO, e envolva-se na evolução do reino Português, visitando por exemplo o cromeleque com mais de 5000 anos de história.
+  title: Portugal Alentejo Bike Tour - Top Bike Tours
+  description: No passeio de bicicleta no Alentejo, da Top Bike Tours, pode contar
+    com ciclismo em estrada com sobreiros, oliveiras, vinhas e castelos em
+    destaque na paisagem.
   keywords: "passeio em bicicleta por região vinicola em portugal, passeio de
     bicicleta no alentejo, "
   robots: INDEX
