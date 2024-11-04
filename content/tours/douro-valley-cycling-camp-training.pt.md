@@ -6,7 +6,7 @@ productcode: DOURO 04
 featured: false
 language: pt
 image: /img/specialized-diverge-e5-2.jpg
-title: Douro Valley Cycling camp Training
+title: Campo de treino de ciclismo no Douro - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -22,25 +22,23 @@ tags:
   - electric bicycle
 meta:
   description: >
-    Em bicicleta de estrada (speed) descubra a região do douro em bicicleta.
-    Vale com muito pouco transito e paisagens que só no vale do Douro existem.
-    Venha treinar nas suas férias em bicicleta
-  keywords: >-
-    tour em bicicleta de estrada no douro, douro road bike tour, bicicleta de
-    speed no douro em ferias
+    Desfrute de um campo de treino de ciclismo no Douro, com a Top Bike Tours,
+    ideal para aprimorar as suas habilidades e aproveitar paisagens
+    deslumbrantes.
+  keywords: tour em bicicleta de estrada no douro, douro road bike tour, bicicleta
+    de speed no douro em ferias
   robots: INDEX
-  title: Campo de treino de ciclismo no Douro
+  title: Campo de treino de ciclismo no Douro - Top Bike Tours
 groupSizeMax: 0
 groupSizeMin: 0
 minAge: 0
 skillLevel: 0
 distance: 0
-distanceUnit: '-'
+distanceUnit: "-"
 duration: 0
-durationUnit: '-'
+durationUnit: "-"
 difficulty: 0
 physicality: 0
-#rating: []
 itinerary: []
 gallery:
   - alt: group 1
