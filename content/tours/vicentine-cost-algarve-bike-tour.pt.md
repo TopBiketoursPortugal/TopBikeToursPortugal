@@ -6,7 +6,7 @@ productcode: VICENTINE 01
 featured: false
 language: pt
 image: /img/great-sea-views.jpg
-title: Costa Vicentina e Algarve Bike Tour
+title: Algarve e Costa Vicentina de Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -26,14 +26,13 @@ tags:
   - vicentine Coast
   - atlantic coast
 meta:
-  description: Comece em Lisboa ou em Sines neste incrível passeio de bicicleta
-    pelo sudoeste da costa de Portugal .... passeio de bicicleta selvagem,
-    natural e silencioso. Delicie-se com as deslumbrantes praias junto ao oceano
-    Atlântico.
+  description: Explore o Algarve e a Costa Vicentina de bicicleta, aproveite
+    praias deslumbrantes e trilhos desafiadores com os guias da Top Bike Tours.
+    Alojamento incluído.
   keywords: "Costa Vicentina ao Algarve bike tour, passeio bicicleta em pelo
     sudoeste de portugal, "
   robots: INDEX
-  title: Costa Vicentina e Algarve - Costa Sudoeste de Portugal
+  title: Algarve e Costa Vicentina de Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
