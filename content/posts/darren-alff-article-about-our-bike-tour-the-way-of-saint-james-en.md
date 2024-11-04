@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /blog/article-porto-to-santiago-de-compostela-darren-alff/
 showHome: true
-title: Darren Alff report bike tour The Way of Saint James
+title: Review of a Bike Tour  The Way of St James - Top Bike Tours
 language: en
 date: 2018-09-10T23:00:00.000Z
 featuredImage: /img/darren-alf-bicycle-holiday-group-to-santiago.png
@@ -12,10 +12,12 @@ categories:
 tags:
   - bloguers articles
 meta:
-  description: Darren Alff article about our bike tour The Way of Saint James
+  description: "Darren Alff, one of the most recognized bicycle touring vlogger
+    and expert, made a video about The Way of St James bike route, prepared by
+    Top Bike Tours "
   keywords: Darren Alff article about our bike tour The Way of Saint James
   robots: INDEX
-  title: Darren Alff report bike tour The Way of Saint James
+  title: Review of a Bike Tour  The Way of St James - Top Bike Tours
   language: EN
 languagePages:
   - path: /artigo de bloguer no caminho de santiago em bicicleta/
@@ -23,7 +25,7 @@ languagePages:
 ---
 # Darren Alff article about our bike tour The Way of Saint James
 
-![Darren Alff article about our bike tour The Way of Saint James](/img/darren-alf-bicycle-holiday-group-to-santiago.png "Darren Alff article about our bike tour The Way of Saint James")
+![Darren Alff article about our bike tour The Way of Saint James](/img/darren-alf-bicycle-holiday-group-to-santiago.png "Review of a Bike Tour  The Way of St James - Top Bike Tours")
 
 Read the full article in this link:
 
