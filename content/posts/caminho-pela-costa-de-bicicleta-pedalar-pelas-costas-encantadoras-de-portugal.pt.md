@@ -2,18 +2,16 @@
 templateKey: blog-post
 path: /pt/posts/caminho-pela-costa-de-bicicleta-pedalar-pelas-costas-encantadoras-de-portugal//
 showHome: false
-title: "Caminho pela costa de bicicleta: pedalar pelas costas encantadoras de
-  Portugal"
+title: Pedalar pelas Costas Portuguesas com Top Bike Tours
 language: pt
 date: 2024-01-12T10:04:13.666Z
 featuredImage: /img/image1.png
 featuredImagePosition: center center
 meta:
   description: >
-    Descubra o Caminho da Costa em Portugal de bicicleta, passando por belas
-    paisagens costeiras e vilas históricas. Planeje sua jornada com a Top Bike
-    Tours Portugal para uma experiência segura e emocionante.
-  title: Caminho da costa de Santiago de Compostela em bicicleta
+    Explore as deslumbrantes costas portuguesas de bicicleta com a Top Bike
+    Tours. Uma experiência inesquecível de beleza natural e aventura ciclística.
+  title: Pedalar pelas Costas Portuguesas com Top Bike Tours
   language: PT
   robots: INDEX
 languagePages: []
