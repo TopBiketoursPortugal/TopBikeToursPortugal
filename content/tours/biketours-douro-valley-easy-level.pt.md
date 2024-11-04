@@ -6,7 +6,7 @@ productcode: DOURO 01
 featured: false
 language: pt
 image: /img/douro.jpg
-title: Pedalar na Região Vinhateira do Alto Douro - Fácil
+title: Tours Vinícolas pelo Douro de Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -22,14 +22,13 @@ tags:
   - electric bicycle
 meta:
   description: >
-    Lembre-se de que o Douro é um vale e, apesar de o passeio ser classificado
-    como fácil, é necessário levar isso em consideração. Com certeza, com uma
-    bicicleta eléctrica, será muito fácil pedalar junto ao rio Douro. Transferes
-    incluído em nossa van para o Vale do Douro
+    Delicie-se com a tour vinícola pelo Douro de bicicleta, combinando
+    enoturismo com aventura, com a Top Bike Tours. Transferes incluído para o
+    Vale do Douro.
   keywords: Cycling Tours wine tour, douro valley bike tour, douro valley cycling
     tour, holidays in a bike in douro valley
   robots: INDEX
-  title: Cycling Tours - Douro Wine  | TOP BIKE TOURS PORTUGAL
+  title: Tours Vinícolas pelo Douro de Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
