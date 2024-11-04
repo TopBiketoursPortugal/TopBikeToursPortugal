@@ -6,7 +6,7 @@ productcode: SC 03
 featured: true
 language: pt
 image: /img/sintra-photo.jpg
-title: Do Porto a Lisboa em bicicleta
+title: Porto a Lisboa Tour em Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tags:
@@ -22,13 +22,12 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: Pedale pela Costa verde e pela Costa de Prata connosco do Porto a
-    Lisboa. Peça um orçamento. Aproveite o passeio perto da costa do Atlântico
-    com uma bicicleta híbrida, uma mountain bike ou bicicleta eléctrica. As
-    ciclovias estão disponíveis na maioria do percurso.,
+  description: Aventure-se do Porto a Lisboa com o tour de bicicleta, uma jornada
+    inesquecível pelo coração de Portugal. Uma viagem organizada por Top Bike
+    Tours, com guia.
   keywords: port a lisboa passeio de bicicleta, porto a lsibos tour em bicicleta
   robots: INDEX
-  title: Desde o Porto a Lisboa em bicicleta
+  title: Porto a Lisboa Tour em Bicicleta - Top Bike Tours
 distance: 493
 distanceUnit: Km
 duration: 13
