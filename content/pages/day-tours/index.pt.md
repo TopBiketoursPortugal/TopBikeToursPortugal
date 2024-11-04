@@ -3,18 +3,17 @@ templateKey: city-tours
 path: /passeios-bicicleta-porto/
 language: pt
 lang: pt
-title: tours diárias
+title: Veja os Passeios de Bicicleta no Porto - Top Bike Tours
 image: /img/44817961982_440e783762_o.jpg
 afterList: .
 meta:
-  description: Participe num passeio de bicicleta pela cidade do Porto ou de um
-    dia inteiro de bicicleta no Vale do Douro, nas montanhas, perto do mar ou do
-    rio. Nossos guias sabem toda a história e bons lugares para visitar na
-    cidade do Porto. Deixe-nos guiá-lo de bicicleta pela nossa cidade do Porto.
+  description: Descubra os melhores passeios de bicicleta no Porto, com ou sem
+    guia, com a Top Bike Tours, perfeitos para conhecer a cidade de forma ativa
+    e divertida.
   keywords: city tours porto portugal,passeios bicicleta porto,circuitos bicicleta
     porto,passeios guiados de bicicleta porto
   robots: INDEX
-  title: "Bike tours Porto: passeio em bicicleta pela cidade do Porto"
+  title: Veja os Passeios de Bicicleta no Porto - Top Bike Tours
 feature:
   align: center
   image: /img/44817961982_440e783762_o.jpg
