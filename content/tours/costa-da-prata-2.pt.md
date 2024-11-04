@@ -6,7 +6,7 @@ productcode: SC 02
 featured: false
 language: pt
 image: /img/praia-do-norte-nazare.jpg
-title: Costa da Prata Rota Atlântica – Sintra e Costa Azul
+title: Costa Prata - Rota Atlântica Portuguesa - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -22,17 +22,13 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: >-
-    Da Figueira da Foz a Cascais ou Lisboa de bicicleta. Pedale de bicicleta
-    perto do mar Atlântico e espere algumas subidas neste maravilhoso passeio de
-    bicicleta. Deve visitar Sintra após o seu dia de passeio de bicicleta. e
-    deguste o tradicional pastel o travesseiro.
-
-    Costa Oeste e Sintra.
+  description: Da Figueira da Foz a Cascais ou Lisboa de bicicleta. Pedale de
+    bicicleta pela Costa Prata, com a Top Bike Tours e descubra as maravilhas da
+    Rota do Atlântico!
   keywords: Cycling Tours costa da prata, costa da prata em bicicleta, costa azul
     em bicicleta, bike tour costa atlântica
   robots: INDEX
-  title: Costa da Prata rota do Atlântico – Sintra e Costa Azul
+  title: Costa Prata - Rota Atlântica Portuguesa - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
