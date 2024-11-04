@@ -2,19 +2,19 @@
 templateKey: blog-post
 path: /pt/blog/pedalar-em-portugal-o-que-saber/
 showHome: true
-title: "Pedalar em Portugal: O que saber!"
+title: "Andar De Bicicleta em Portugal: Saiba Tudo!- Top Bike Tours"
 language: pt
 date: 2020-01-15T18:06:37.897Z
 featuredImage: /img/henrique-1-1-.jpg
 featuredImagePosition: center center
 meta:
-  description: Venha pedalar em Portugal. Tudo o que saber sobre o clima, tipo de
-    terreno, melhor mês para andar de bicicleta e regiões escrito neste
-    excelente artigo feito por Henrique, nosso guia.
+  description: Venha andar de bicicleta em Portugal, com a Top Bike Tours. Tudo o
+    que saber sobre o clima, tipo de terreno, melhor mês para andar de bicicleta
+    e regiões.
   keywords: " melhor mês para andar de bicicleta em portugal,Pedalar de bicicleta
     em Portugal"
   robots: INDEX
-  title: "Pedalar em Portugal: O que saber!"
+  title: "Andar De Bicicleta em Portugal: Saiba Tudo!- Top Bike Tours"
   language: PT
 languagePages: []
 ---
