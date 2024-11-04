@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: pt/blog/o-que-e-bike-tour
+path: /pt/blog/o-que-e-bike-tour
 showHome: false
 title: O que é uma bike tour e por que razão deve fazer uma?
 language: pt
