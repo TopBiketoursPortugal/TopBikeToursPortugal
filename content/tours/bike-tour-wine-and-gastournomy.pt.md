@@ -6,7 +6,7 @@ productcode: CT 03 BIKE TOUR -Food tour | Wine & Gastournomy
 featured: false
 language: pt
 image: /img/wini-food-bike-tour.jpg
-title: Bike tour Wine and Gastournomy | Food Tour
+title: Passeio Gastronómico de Bicicleta no Porto - Top Bike Tours
 packagetype: SingleTour
 tourtype: Bike
 tags:
@@ -16,14 +16,14 @@ tags:
   - North
   - touring bicycle
 meta:
-  description: "Paisagens fenomenais e idílicas encontram-se inseridas neste
-    circuito turístico, em que a bicicleta torna-se indispensável para percorrer
-    a marginal "
+  description: Desfrute de um Passeio Gastronómico de Bicicleta no Porto com a Top
+    Bike Tours. Uma combinação perfeita de aventura, cultura e culinária
+    deliciosa.
   keywords: "Paisagens fenomenais e idílicas encontram-se inseridas neste circuito
     turístico, em que a bicicleta torna-se indispensável para percorrer a
     marginal "
   robots: INDEX
-  title: BIKE TOUR VINHO E GASTRONOMIA | TOP BIKE TOURS PORTUGAL
+  title: Passeio Gastronómico de Bicicleta no Porto - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
