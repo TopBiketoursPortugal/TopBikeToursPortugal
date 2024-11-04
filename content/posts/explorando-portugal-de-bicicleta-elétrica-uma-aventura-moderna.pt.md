@@ -2,16 +2,18 @@
 templateKey: blog-post
 path: /pt/posts/explorando-portugal-de-bicicleta-eletrica-uma-aventura-moderna//
 showHome: false
-title: "Explorando Portugal de bicicleta elétrica: uma aventura moderna"
+title: Visitar Portugal de Bicicleta - Top Bike Tours
 language: pt
 date: 2024-01-12T10:09:40.813Z
 featuredImage: /img/image2.png
 featuredImagePosition: center center
 meta:
   language: PT
-  title: Explorando Portugal de bicicleta elétrica
-  description: >2
-     Descubra a diversidade de Portugal em bike tours com bicicletas elétricas. Conecte-se com cultura e natureza de forma sustentável. Explore Lisboa de bicicleta elétrica.
+  title: Visitar Portugal de Bicicleta - Top Bike Tours
+  description: >
+    Experimente Portugal de uma forma única com a Top Bike Tours. Visitar
+    Portugal de bicicleta proporciona aventuras inesquecíves e imersas na
+    cultura.
   robots: INDEX
 languagePages: []
 ---
