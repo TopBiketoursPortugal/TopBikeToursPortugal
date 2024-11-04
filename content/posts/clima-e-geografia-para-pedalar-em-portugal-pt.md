@@ -2,16 +2,18 @@
 templateKey: blog-post
 path: /Clima-e-Geografia-para-pedalar-em-Portugal
 showHome: true
-title: Clima e Geografia para pedalar em Portugal
+title: Clima e Geografia para Pedalar em Portugal - Top Bike Tours
 language: pt
 date: 2020-02-24T18:03:05.525Z
 featuredImage: /img/mapa_final_novologo_-04-100-pixeis-1-.png
 featuredImagePosition: center center
 meta:
-  description: Clima e Geografia para pedalar em Portugal
+  description: Saiba tudo o que precisa sobre o clima e geografia para pedalar em
+    Portugal. Venha preparado para aproveitar os percursos da Top Bike Tours da
+    melhor forma!
   keywords: Clima e Geografia para pedalar em Portugal
   robots: INDEX
-  title: Clima e Geografia para pedalar em Portugal
+  title: Clima e Geografia para Pedalar em Portugal - Top Bike Tours
   language: PT
 languagePages: []
 ---
