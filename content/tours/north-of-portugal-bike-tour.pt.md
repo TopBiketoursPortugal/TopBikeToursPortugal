@@ -6,7 +6,7 @@ productcode: NORTH 01
 featured: true
 language: pt
 image: /img/ponte-de-lima.jpg
-title: Norte de Portugal e Minho Bike tour
+title: Tour pelo Minho de Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -20,14 +20,13 @@ tags:
   - electric bicycle
   - atlantic coast
 meta:
-  description: A vila mais antiga de Portugal, o mar e o rio num único bike tour!
-    Desfrute da paisagem perto dos rios Lima e Minho. No final do dia do seu
-    pedal, não perca a oportunidade de beber o famoso vinho verde oriundo da
-    região do Norte de Portugal. Bicicletas eléctricas disponível.
+  description: Explore o Minho de bicicleta, a vila mais antiga de Portugal, o mar
+    e o rio num único bike tour! Desfrute da paisagem dos rios Lima e Minho com
+    a Top Bike Tours.
   keywords: Norte e Minho Bike tour, ferias em bicicleta no norte de portugal,
     bike tour no minho, passeios em bicicleta no norte de portugal
   robots: INDEX
-  title: "Norte e Minho de Portugal Bike tour "
+  title: Tour pelo Minho de Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 1
