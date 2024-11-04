@@ -6,16 +6,16 @@ productcode: CT06
 featured: false
 language: en
 image: /img/mountain-bike-tour-porto.jpg
-title: Mountain Bike Tour Porto mountains
+title: Mountain Bike Tour in Porto - Top Bike Tours
 packagetype: SingleTour
 tourtype: Bike
 tourcategory:
   - Bike
 meta:
-  title: Mountain Bike Tour Porto | Top Bike Tours Portugal
-  description: Mountain bike tour - MTB - available all days starting in Porto
-    city,. If you are looking for some physical activity don't miss this bike
-    tour.
+  title: Mountain Bike Tour in Porto - Top Bike Tours
+  description: Explore Porto in a unique way with Top Bike Tours. Our Mountain
+    Bike Tour in Porto offers thrilling trails, breathtaking views, and an
+    unforgettable experience.
   keywords: mountain bike tour porto, mtb tour porto, mountain bicycle in porto
   robots: INDEX
 minAge: 16
