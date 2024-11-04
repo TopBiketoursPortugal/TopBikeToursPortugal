@@ -6,7 +6,7 @@ productcode: SANTIAGO 03
 featured: false
 language: pt
 image: /img/santiago1.png
-title: Bike tour O Caminho Francês até Santiago de Compostela
+title: Santiago de Compostela - Caminho Francês de Bicicleta
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -23,12 +23,13 @@ tags:
   - Spain
 meta:
   description: >
-    Comece a andar de bicicleta na França nesta aventura exigente que é muito
-    conhecida. Uma viajem inesquecível em bicicleta com muitos peregrinos...
+    Descubra a aventura de percorrer o Caminho Francês de Santiago de bicicleta
+    com a Top Bike Tours. Experiência única, paisagens deslumbrantes e cultura
+    rica
   keywords: Passeios de bicicleta guiados portugal - Santiago de Compostela,
     caminho francês
   robots: INDEX
-  title: Santiago de Compostela - Caminho Francês
+  title: Santiago de Compostela - Caminho Francês de Bicicleta
 groupSizeMax: 1
 groupSizeMin: 20
 minAge: 16
