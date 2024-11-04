@@ -6,7 +6,7 @@ productcode: SANTIAGO 02
 featured: false
 language: pt
 image: /img/santiago13.png
-title: Santiago de Compostela Caminho Central
+title: Santiago de Compostela de Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tags:
@@ -20,15 +20,13 @@ tags:
   - electric bicycle
   - Spain
 meta:
-  description: "Durante o passeio de bicicleta irá passar por estradas medievais
-    antigas, inicialmente utilizadas durante as peregrinações portuguesas a
-    Santiago de Compostela. Na Idade Média, os caminhos de Santiago de
-    Compostela eram percorridos por réis e rainhas. Actualmente, estes trilhos
-    são utilizados por peregrinos. "
+  description: Quer conhecer o caminho de Santiago de Compostela de Bicicleta?
+    Descubra o percurso da Top Bike Tours e pedale por estradas medievais
+    antigas.
   keywords: santiago de compostela em bicicleta, o caminho até santiago em
     bicicleta a começar no porto
   robots: INDEX
-  title: "Cycling Tours - Santiago de Compostela "
+  title: Santiago de Compostela de Bicicleta - Top Bike Tours
 distance: 243
 distanceUnit: Km
 duration: 8
