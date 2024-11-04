@@ -2,7 +2,7 @@
 templateKey: bikes-page
 language: pt
 path: /pt/bicicletas/
-title: Bicicletas
+title: Bicicletas Disponíveis nas Nossas Tours - Top Bike Tours
 afterEquipment: >-
   **Equipamento disponibilizado em férias de bicicleta**
 
@@ -87,11 +87,13 @@ equipment:
       **O﻿ther models and brands available all with Bosch motor**
     type: Electric Bicycles
 meta:
-  description: Aluguer de bicicletas Porto, Rent a bike porto, hire a bike porto
+  description: Para as nossas bike tours temos uma variedade de bicicletas
+    disponíveis, desde tradicionais a eléctricas. Descubra todos os percursos da
+    Top Bike Tours.
   keywords: RENT A BIKE PORTO,ALUGAR BICICLETA PORTO,HIRE A BYCICLE PORTO
     PORTUGAL,RENTAL BIKE OPORTO
   robots: INDEX
-  title: ALUGUER BICICLETAS PORTO | Top Bike Tours Portugal
+  title: Bicicletas Disponíveis nas Nossas Tours - Top Bike Tours
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg
