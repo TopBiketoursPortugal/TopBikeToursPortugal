@@ -6,7 +6,7 @@ productcode: DOURO 02
 featured: false
 language: pt
 image: /img/pinhao3.jpg
-title: Em bicicleta pelo Vale do Douro
+title: Tour Douro Vinhateiro em Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -22,15 +22,13 @@ tags:
   - electric bicycle
 meta:
   description: >
-    Pedale perto do rio Douro e nos vales do Douro e desfrute de excelentes
-    vistas sobre as quintas e os vinhedos.O Vale do Douro, classificado como
-    Património Natural, é hoje uma obra-prima da natureza, muito procurada pelas
-    vilas, casas e vinhas. Bicicletas elétricas disponíveis para facilitar o seu
-    passeio.
+    Explore o Douro Vinhateiro em bicicleta, uma experiência única entre
+    vinhedos e vistas espetaculares. Um Passeio cuidadosamente curado pela Top
+    Bike Tours.
   keywords: passeios de bicicleta no douro, tours em bicicleta no rio douro,
     ferias em bicicleta no vale do douro
   robots: INDEX
-  title: Vale do Douro em bicicleta | Top Bike Tours Portugal
+  title: Tour Douro Vinhateiro em Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
