@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/history-of-the-company/
-title: How Fold n Visit Born and History
+title: The Journey of Top Bike Tour Portugal
 language: en
 date: 2017-10-28T23:00:00.000Z
 featuredImage: /img/dahon-bicycle.png
@@ -11,10 +11,12 @@ categories:
 tags:
   - company updates
 meta:
-  description: How Fold n Visit Born and History
+  description: Learn about the incredible journey of Top Bike Tour Portugal.
+    Discover our exciting adventures, thrilling rides, and commitment to
+    excellence on every route.
   keywords: How Fold n Visit Born and History
   robots: INDEX
-  title: How Fold n Visit Born and History
+  title: The Journey of Top Bike Tour Portugal
   language: EN
 languagePages:
   - path: /historia da empresa/
