@@ -2,18 +2,17 @@
 templateKey: blog-post
 path: /pt/blog/criar-percursos-de-bicicleta-dicas-estrategias
 showHome: false
-title: "A arte de criar percursos de bicicleta: dicas e estratégias"
+title: Dicas para Criar um Percurso de Bicicleta - Top Bike Tours
 language: pt
 date: 2024-06-21T08:09:25.296Z
 featuredImage: /img/artecriarpercursos.png
 featuredImagePosition: center center
 meta:
   language: PT
-  title: Dicas para criar percursos de bicicleta – Top Bike Tours
+  title: Dicas para Criar um Percurso de Bicicleta - Top Bike Tours
   description: >
-    Aprenda a arte de criar percursos de bicicleta com a Top Bike Tours Portugal
-    e descubra as principais dicas e estratégias a incorporar no seu
-    planeamento.
+    Aprenda as melhores dicas para criar um percurso de bicicleta perfeito com a
+    Top Bike Tours. Dicas valiosas para ciclistas de todos os níveis.
   robots: INDEX
 languagePages: []
 ---
