@@ -6,7 +6,7 @@ productcode: DOURO 03
 featured: false
 language: pt
 image: /img/pinhao13-1-.jpg
-title: Trás-os-Montes & Douro international
+title: Trás-os-Montes e Alto Douro de Bicicleta - Top Bike Tours
 packagetype: PackageTour
 tourtype: Bike
 tourcategory:
@@ -21,14 +21,13 @@ tags:
   - e-bike
   - electric bicycle
 meta:
-  description: O interior português reserva-nos muitas maravilhas da natureza,
-    repletas de estórias, lendas e pratos gastronómicos. Pedale pelos antigos
-    caminhos de Portugal. bicicletas de estrada /road bikes  e bicicletas
-    eléctricas disponiveis.
+  description: Pedale por Trás-os-Montes e Alto Douro, descobrindo paisagens
+    rurais autênticas e vinhas históricas, com a Top Bike Tours. Aproveite o
+    melhor da região.
   keywords: Cycling Tours vale do douro, passeio bicicleta no douro, douro em
     bicicleta, tour de bicicleta no douro
   robots: INDEX
-  title: Cycling Tours Douro internacional - Bike tours Portugal
+  title: Trás-os-Montes e Alto Douro de Bicicleta - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
