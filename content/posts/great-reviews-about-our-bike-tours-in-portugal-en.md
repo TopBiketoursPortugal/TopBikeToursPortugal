@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 path: /blog/Bob-review-the-way-of-st-james-starting-in-porto/
-title: Great Reviews about our bike tours in Portugal
+title: Bobs' Review of our Bike Tour - Top Bike Tours
 language: en
 date: 2017-10-17T23:00:00.000Z
 featuredImage: /img/bob-review.png
@@ -13,10 +13,12 @@ tags:
   - bike holidays
   - cycling holidays
 meta:
-  description: Cycling holiday review Bob
+  description: Read Bob's detailed review of "The Way of St James" bike tour with
+    Top Bike Tours. Discover why he enjoyed and recommends our cycling
+    experience.
   keywords: Cycling holiday review Bob
   robots: INDEX
-  title: Cycling holiday review Bob
+  title: Bobs' Review of our Bike Tour - Top Bike Tours
   language: EN
 languagePages: []
 ---
@@ -24,14 +26,8 @@ languagePages: []
 
 ## Bike Tour from the city of Porto to Santiago de Compostela
 
-![Bob review about his cycling holiday](/img/bob-review.png "Bob review about his cycling holiday")
+![Bob review about his cycling holiday](/img/bob-review.png "Bobs' Review of our Bike Tour - Top Bike Tours")
 
 My wife and I have now experienced seven European bike tours in various countries. Six were guided as was this one. This tour is a notch above all the others. You are in the constant hands and service of Sergio and his carefully chosen guides. The biking can be challenging at times. We chose the basic package with the meal plan. The accommodation and meals were excellent. If you invest and trust in Sergio, you will be richly rewarded. He is truly one of a kind. If you are as lucky as we were to be matched with kind and generous fellow travellers, you too may also come away with one or more life long friends.
-
-
-
-
-
-
 
 [https://www.tripadvisor.pt/ShowUserReviews-g189180-d4105907-r532635022-Bike_tours_Portugal_City_Tours_Bike_rental_Fold_n-Porto_Porto_District\_Northern\_.html#REVIEWS](https://www.tripadvisor.pt/ShowUserReviews-g189180-d4105907-r532635022-Bike_tours_Portugal_City_Tours_Bike_rental_Fold_n-Porto_Porto_District_Northern_.html#REVIEWS){:rel="nofollow"}
