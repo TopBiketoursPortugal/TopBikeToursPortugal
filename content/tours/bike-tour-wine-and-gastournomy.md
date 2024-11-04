@@ -6,7 +6,7 @@ productcode: CT 03 BIKE TOUR - Food tour | Wine & Gastournomy
 featured: false
 language: en
 image: /img/wini-food-bike-tour.jpg
-title: Bike tour Wine and Gastournomy | Food Tour
+title: Food and Wine BIke Tour Portugal - Top Bike Tours
 packagetype: SingleTour
 tourtype: Bike
 tags:
@@ -16,11 +16,11 @@ tags:
   - North
   - touring bicycle
 meta:
-  description: This food tour includes a visit to wine caves and a meal in a
-    typical portuguese restaurant
+  description: Enjoy the best of Portugal's cuisine and wines with Top Bike Tours.
+    Our Food and Wine Tour offers a delicious and culturally rich experience.
   keywords: BIKE TOUR WINE AND GASTOURNOMY PORTO PORTUGAL,food tour
   robots: INDEX
-  title: Bike tour Wine and Gastournomy | Food Tour
+  title: Food and Wine BIke Tour Portugal - Top Bike Tours
 groupSizeMax: 1
 groupSizeMin: 1
 minAge: 16
