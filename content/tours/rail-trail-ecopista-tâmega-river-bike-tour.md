@@ -207,6 +207,7 @@ afterpricing: |-
   * Prices are based for 2 people sharing the same room;
   * Prices can suffer updates due high season, holidays or weekends
   * Beverages are not included at lunch and dinner when included in the package
+  * Tickets to visit farms and wineries not included in the price package
 
   **Extras**
 
@@ -235,7 +236,7 @@ The ride will start In Vila Real and the route will be made in a old rail trail,
 
 The views will be breathtaking...vineyards, farms and the famous Douro river in the picture.
 
-In a full day it is possible to visit 1 Farm. The plan is to cycle in the morning, lunch, visit some viewpoints and farms.
+In a full day it is possible to visit 1 Farm. The plan is to cycle in the morning, lunch, visit some viewpoints and farms (Tickets to visit farms and wineries not included in the price package).
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
 \
