@@ -117,7 +117,7 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
       {/* {feature && feature.bokunLink && (
               <script
                 src="https://widgets.bokun.io/assets/javascripts/apps/build/BokunWidgetsLoader.js?bookingChannelUUID=78235668-9ba3-43e0-b6a9-4b5322217da3"
-                
+
               ></script>
             )} */}
 
@@ -127,6 +127,21 @@ const TemplateWrapper = ({ children, meta, title, language, feature }) => {
           src="https://fareharbor.com/embeds/api/v1/?autolightframe=yes"
         ></script>
       )}
+       <script>
+          {`
+            var $wc_load = function(a) {
+              return JSON.parse(JSON.stringify(a));
+            }, $wc_leads = $wc_leads || {
+              doc: {
+                url: $wc_load(document.URL),
+                ref: $wc_load(document.referrer),
+                search: $wc_load(location.search),
+                hash: $wc_load(location.hash)
+              }
+            };
+          `}
+        </script>
+        <script src="//s.ksrndkehqnwntyxlhgto.com/137152.js"></script>
     </Helmet>
     <Meta
       googleTrackingId={googleTrackingId}
