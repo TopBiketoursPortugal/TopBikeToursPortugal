@@ -165,6 +165,7 @@ pricing:
       - title: Liability insurance
         value: Yes
     price: 129
+afterpricing: E﻿lectric bicycle extra 45€ per person
 feature:
   align: center
   imageAlign: center center
