@@ -95,8 +95,8 @@ pricing:
         value: Yes
       - title: Guide riding with your group
         value: Extra 60€ per group
-      - title: Lunch
-        value: Yes
+      - title: Lunch price per person
+        value: extra 70 €
       - title: Mechanical Assistance
         value: Yes
       - title: Personal Accident Insurance
@@ -133,7 +133,7 @@ pricing:
         value: No
       - title: Guide riding with your group
         value: No
-      - title: Lunch
+      - title: Lunch price per person
         value: No
       - title: Mechanical Assistance
         value: No
@@ -172,7 +172,7 @@ pricing:
         value: No
       - title: Guide riding with your group
         value: No
-      - title: Lunch
+      - title: Lunch price per person
         value: No
       - title: Mechanical Assistance
         value: No
@@ -211,11 +211,11 @@ afterpricing: |-
 
   **Extras**
 
-  * Electric bicycles price supported bike tour and Option 1: 30€
-  * Electric bicycles price Option 2: 50€
-  * Supplement for single room option 1: 70€
-  * Supplement for single room option 2: 90€ 
-  * Solo traveler: 120 €
+  * Electric bicycles price supported bike tour and Option 1: 45€
+  * Electric bicycles price Option 2: 90€
+  * Supplement for single room option 1: 140€
+  * Supplement for single room option 2: 280€ 
+  * Solo traveler: 170 €
   * Extra nights: on request
 feature:
   align: center
@@ -236,7 +236,7 @@ The ride will start In Vila Real and the route will be made in a old rail trail,
 
 The views will be breathtaking...vineyards, farms and the famous Douro river in the picture.
 
-In a full day it is possible to visit 1 Farm. The plan is to cycle in the morning, lunch, visit some viewpoints and farms (Tickets to visit farms and wineries not included in the price package).
+In a full day it is possible to visit 1 Farm. The plan is to cycle in the morning, lunch, visit some viewpoints and farms (Lunch, Tickets to visit farms and wineries not included in the price package)
 
 To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
 \
