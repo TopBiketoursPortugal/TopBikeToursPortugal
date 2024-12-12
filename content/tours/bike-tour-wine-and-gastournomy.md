@@ -127,7 +127,7 @@ gallery:
 pricing:
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 99
+    highSeasonPriceSupplement: 105
     package: Group price per person
     packageContents:
       - title: Bicycle and Helmet
@@ -144,10 +144,10 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 95
+    price: 105
   - bestValue: false
     discount: 0
-    highSeasonPriceSupplement: 129
+    highSeasonPriceSupplement: 139
     package: Private price per person
     packageContents:
       - title: Bicycle and Helmet
@@ -164,7 +164,7 @@ pricing:
         value: Yes
       - title: Liability insurance
         value: Yes
-    price: 129
+    price: 139
 afterpricing: E﻿lectric bicycle extra 45€ per person
 feature:
   align: center
