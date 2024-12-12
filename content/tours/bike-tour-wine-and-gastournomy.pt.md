@@ -147,7 +147,7 @@ pricing:
         value: Sim
       - title: Seguro de responsabilidade civil
         value: Sim
-    price: 95
+    price: 105
   - bestValue: false
     discount: 0
     highSeasonPriceSupplement: 100
@@ -167,7 +167,7 @@ pricing:
         value: Sim
       - title: Seguro de responsabilidade civil
         value: Sim
-    price: 129
+    price: 139
 afterpricing: Bicicleta electrica extra 45 € por pessoa
 feature:
   align: center
