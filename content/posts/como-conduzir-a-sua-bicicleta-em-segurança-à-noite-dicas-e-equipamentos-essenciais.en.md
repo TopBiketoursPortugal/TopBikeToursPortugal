@@ -4,8 +4,9 @@ path: /pt/blog/Como-conduzir-a-sua-bicicleta-em-segurança-noite-Dicas-equipamen
 showHome: false
 title: "Como conduzir a sua bicicleta em segurança à noite: Dicas e equipamentos
   essenciais"
-language: en
+language: pt
 date: 2024-12-26T12:28:04.255Z
+featuredImage: /img/night-cycling-holidais.jpg
 featuredImagePosition: center center
 meta:
   title: "Como conduzir a sua bicicleta em segurança à noite: Dicas e equipamentos
