@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: ""
+path: /pt/blog/How-to-Keep-Your-Bike-in-Perfect-Condition
 showHome: false
 title: How to Keep Your Bike in Perfect Condition | Top Bike Tours Portugal
 language: en
