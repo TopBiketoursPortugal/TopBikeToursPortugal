@@ -44,6 +44,14 @@ dates:
       - Guided bike
       tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
   - type: Date
+    date: 2025-07-13T16:00:23.489Z
+    body: "[Do Porto a Lisboa em bicicleta 8
+      dias](https://topbiketoursportugal.com/pt-porto-lisboa-bike-tour/)"
+  - type: Date
+    date: 2025-08-17T16:00:24.049Z
+    body: "[Norte de Portugal e Minho Bike
+      tour](https://topbiketoursportugal.com/pt-norte-de-portugal-bike-tour/)"
+  - type: Date
     date: 2025-09-07T09:41:36.071Z
     body: "[Caminho](https://topbiketoursportugal.com/santiago-compostela-pela-cost\
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
