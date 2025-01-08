@@ -68,6 +68,15 @@ dates:
       the  Atlantic coast easy - Guided bike
       tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
       r/)"
+  - type: Date
+    date: 2025-10-25T15:38:09.542Z
+    body: "[Vicentine Cost and Algarve Bike
+      Tour](https://topbiketoursportugal.com/south-portugal-biketour/)"
+  - type: Date
+    date: 2026-08-12T15:38:10.149Z
+    body: "[C﻿aminho de Santiago: The French
+      way](https://topbiketoursportugal.com/bike-tour-camino-de-santiago-cyclin\
+      g-french-way-leon/)"
 ---
 # Calendar
 
