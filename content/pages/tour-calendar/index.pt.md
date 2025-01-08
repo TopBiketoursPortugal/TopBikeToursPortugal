@@ -67,6 +67,15 @@ dates:
       a/)[ de Santiago -  Porto a Santiago de Compostela pela Costa do Atlantico
       - Guided bike
       tour](https://topbiketoursportugal.com/santiago-compostela-pela-costa/)"
+  - type: Date
+    date: 2025-10-25T15:39:54.263Z
+    body: "[Costa Vicentina e Algarve Bike
+      Tour](https://topbiketoursportugal.com/costa-vicentina-bike-tour/)"
+  - type: Date
+    date: 2026-08-12T15:39:55.389Z
+    body: "[C﻿aminho de Santiago: The French
+      Way](https://topbiketoursportugal.com/bike-tour-camino-de-santiago-cyclin\
+      g-french-way-leon/)"
 ---
 # Calendário
 
