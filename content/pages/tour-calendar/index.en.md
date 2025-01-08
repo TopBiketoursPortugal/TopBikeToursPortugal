@@ -45,6 +45,14 @@ dates:
       tour](https://topbiketoursportugal.com/porto-santiago-compostela-bike-tou\
       r/)"
   - type: Date
+    date: 2025-07-13T15:56:58.584Z
+    body: "[P﻿orto to Lisbon 8 day cycling
+      tour](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/)"
+  - type: Date
+    date: 2025-01-08T16:56:59.082Z
+    body: "[North of Portugal and Minho cycling
+      holiday](https://topbiketoursportugal.com/north-of-portugal-en/)"
+  - type: Date
     date: 2025-09-07T09:41:09.869Z
     body: "[The Way of St. James - Porto to Santiago de Compostela along
       the  Atlantic coast easy - Guided bike
