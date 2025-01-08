@@ -49,7 +49,7 @@ dates:
     body: "[P﻿orto to Lisbon 8 day cycling
       tour](https://topbiketoursportugal.com/porto-to-lisbon-cycling-tour--en/)"
   - type: Date
-    date: 2025-01-08T16:56:59.082Z
+    date: 2025-08-17T15:56:59.082Z
     body: "[North of Portugal and Minho cycling
       holiday](https://topbiketoursportugal.com/north-of-portugal-en/)"
   - type: Date
