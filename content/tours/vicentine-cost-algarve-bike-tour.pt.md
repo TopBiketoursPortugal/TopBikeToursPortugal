@@ -422,9 +422,9 @@ afterpricing: >-
 
   * Bicicleta Elétrica: 270€ (315 € for the 9 night package)
 
-  * Suplemento para quarto individual : LS: 480€, RS: 510€, HS: 540€, SS:570€
+  * Suplemento para quarto individual : LS: 480€, RS: 510€, HS: 540€, SS:570€ (Premium option plus 340€)
 
-  * Suplemento para quarto individual itinerário reduzido: LS: LS: 390€, RS: 420€, HS: 450€, SS.480€
+  * Suplemento para quarto individual itinerário reduzido: LS: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
 
   * Viajante único: 290 €
 
@@ -436,7 +436,7 @@ afterpricing: >-
 
   * Taxa turística não está incluída no preço do package (aproximadamente 2€ por pessoa por noite - pagos no local - em Lisboa a Taxa turística é de 4€ por pessoa por noite) 
 
-  * Ferry (barco) na travessia de rio/lago não está incluído no preço do package (aproximadamente 2€ a 10€ por pessoa) 
+  * Ferry (barco) na travessia de rio/lago não está incluído no preço do package (aproximadamente 2€ a 10€ por pessoa)
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
