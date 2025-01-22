@@ -483,9 +483,9 @@ afterpricing: >-
 
   * Electric bicycles price reduced option: 270€
 
-  * Supplement for single room: LS: 670€, RS: 760€, HS: 850€, SS:940€
+  * Supplement for single room: LS: 670€, RS: 760€, HS: 850€, SS:940€ (Premium option plus 500€)
 
-  * Supplement for single room reduced option: LS: 390€, RS: 420€, HS: 450€, SS.480€
+  * Supplement for single room reduced option: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
 
   * Solo traveler: 400 €
 
@@ -495,9 +495,9 @@ afterpricing: >-
 
   * Private group price on request
 
-  *  City taxes is not included in the price package (approximately 2€ per person per night - payable on site - in Lisbon city tax is 4€ per person per night) 
+  * City taxes is not included in the price package (approximately 2€ per person per night - payable on site - in Lisbon city tax is 4€ per person per night) 
 
-  *  Ferry (boat) in river / lake crossing is not included in price package (approximately 2€ to 10€ per person) 
+  * Ferry (boat) in river / lake crossing is not included in price package (approximately 2€ to 10€ per person)
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
