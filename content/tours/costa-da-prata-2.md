@@ -401,7 +401,7 @@ afterpricing: >-
 
   * Electric bicycles price: 315€
 
-  * Supplement for single room: LS: 445€, RS: 475€, HS: 505€, SS.535€ (Premium option plus 350€)
+  * Supplement for single room: LS: 445€, RS: 475€, HS: 505€, SS.535€ (Premium option plus 400€)
 
   * Solo traveler: 350 €
 
