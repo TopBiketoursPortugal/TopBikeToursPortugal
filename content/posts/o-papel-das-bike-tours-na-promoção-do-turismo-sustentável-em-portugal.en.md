@@ -51,11 +51,11 @@ Na época alta, podem ser contratados guias especializados em ciclismo, históri
 
 A [Top Bike Tours](https://topbiketoursportugal.com/pt/) oferece vários exemplos de como fazer turismo sustentável em Portugal através de uma bicicleta:
 
-* Costa Vicentina e Algarve Bike Tour: Percorre 378 km pelo Parque Natural do Sudoeste Alentejano.
-* Costa da Prata: Porto a Coimbra Bike Tour: Um passeio de 243 km, que leva os participantes desde o Porto até Coimbra, explorando a Costa da Prata.
-* Tour pelo Minho de Bicicleta: Um percurso de 238 km, que permite descobrir a região do Minho.
-* Tours Vinícolas pelo Douro de Bicicleta: Ao longo de 133 km, explora a região vinícola do Douro.
-* Trás-os-Montes e Alto Douro de Bicicleta: Com 369 km, explora as regiões de Trás-os-Montes e Alto Douro.
+* **Costa Vicentina e Algarve Bike Tour:** Percorre 378 km pelo Parque Natural do Sudoeste Alentejano.
+* **Costa da Prata: Porto a Coimbra Bike Tour:** Um passeio de 243 km, que leva os participantes desde o Porto até Coimbra, explorando a Costa da Prata.
+* **Tour pelo Minho de Bicicleta:** Um percurso de 238 km, que permite descobrir a região do Minho.
+* **Tours Vinícolas pelo Douro de Bicicleta:** Ao longo de 133 km, explora a região vinícola do Douro.
+* **Trás-os-Montes e Alto Douro de Bicicleta:** Com 369 km, explora as regiões de Trás-os-Montes e Alto Douro.
 
 Estes circuitos permitem reduzir emissões com viagens de bicicleta, enquanto se desfruta das maravilhas do país.
 
@@ -63,9 +63,9 @@ Estes circuitos permitem reduzir emissões com viagens de bicicleta, enquanto se
 
 A ideia de turismo sustentável em Portugal pode ser reforçada com estratégias que tornem as Bike Tours mais ecológicas:
 
-* Educação ambiental: Inclua momentos de aprendizagem sobre biodiversidade e práticas sustentáveis nas [rotas de touring](https://topbiketoursportugal.com/pt/blog/principais-rotas-de-touring-bike-ao-redor-do-mundo).
-* Planeamento cuidado: Evite áreas ambientalmente sensíveis.
-* Apoio à conservação local: Escolha Bike Tours que financiem projetos de preservação ambiental.
-* Uso consciente dos recursos: Planeie as suas rotas de forma eficiente para reduzir gastos desnecessários.
+* **Educação ambiental:** Inclua momentos de aprendizagem sobre biodiversidade e práticas sustentáveis nas [rotas de touring](https://topbiketoursportugal.com/pt/blog/principais-rotas-de-touring-bike-ao-redor-do-mundo).
+* **Planeamento cuidado:** Evite áreas ambientalmente sensíveis.
+* **Apoio à conservação local:** Escolha Bike Tours que financiem projetos de preservação ambiental.
+* **Uso consciente dos recursos:** Planeie as suas rotas de forma eficiente para reduzir gastos desnecessários.
 
 As [Bike Tours](https://topbiketoursportugal.com/pt/) em áreas naturais protegidas não só ajudam a financiar projetos de conservação, mas também valorizam as experiências de turismo consciente, promovendo um futuro mais sustentável.
