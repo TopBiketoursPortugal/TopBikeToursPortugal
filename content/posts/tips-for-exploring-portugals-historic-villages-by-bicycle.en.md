@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: blog/Tips-for-Exploring-Portugal-Historic-Villages-by-Bicycle
+path: /blog/Tips-for-Exploring-Portugal-Historic-Villages-by-Bicycle
 showHome: false
 title: Tips for Exploring Portugal's Historic Villages by Bicycle
 language: en
