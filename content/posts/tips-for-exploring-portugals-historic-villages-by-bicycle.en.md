@@ -37,11 +37,11 @@ Cycling through these villages is also a treat for the eyes, crossing hills, riv
 
 Portugal has numerous cycling routes through historic villages and monuments that are accessible by bike. Among the best known are:
 
-* Historic Villages of Portugal: Monsanto, Almeida and Belmonte stand out.
-* Schist Villages: Located between Zêzere, Serra do Açor and Serra da Lousã, with over 600 km of trails, many of them adapted for mountain biking.
-* Serra da Estrela: Places like Piódão and Linhares da Beira offer unique landscapes for cyclists.
-* Alentejo: Flatter routes in towns such as Monsaraz and Estremoz, ideal for those looking for less demanding routes.
-* Rota Vicentina: One of the wildest and most breathtaking regions of the Portuguese coast, passing through Aljezur, with its Moorish influences and its hilltop castle.
+* **Historic Villages of Portugal:** Monsanto, Almeida and Belmonte stand out.
+* **Schist Villages:** Located between Zêzere, Serra do Açor and Serra da Lousã, with over 600 km of trails, many of them adapted for mountain biking.
+* **Serra da Estrela:** Places like Piódão and Linhares da Beira offer unique landscapes for cyclists.
+* **Alentejo:** Flatter routes in towns such as Monsaraz and Estremoz, ideal for those looking for less demanding routes.
+* **Rota Vicentina:** One of the wildest and most breathtaking regions of the Portuguese coast, passing through Aljezur, with its Moorish influences and its hilltop castle.
 
 Each of these routes offers a unique experience, combining breathtaking landscapes with cultural tourism in Portugal.
 
@@ -49,19 +49,19 @@ Each of these routes offers a unique experience, combining breathtaking landscap
 
 Cultural tourism in Portugal also contributes to local economic development, especially through [Bike Tours](https://topbiketoursportugal.com/). During the high season, villages come alive with the arrival of tourists, and local communities can benefit from this dynamic.
 
-* Temporary work: Guides specializing in cycling or local history are often hired.
-* Support for local businesses: Local traders, producers and craftspeople have the opportunity to sell their products directly to tourists.
-* Accommodation and food: Tourism promotes demand for local services, creating more jobs and benefiting the economy of the regions visited (such as gastronomy).
+* **Temporary work:** Guides specializing in cycling or local history are often hired.
+* **Support for local businesses:** Local traders, producers and craftspeople have the opportunity to sell their products directly to tourists.
+* **Accommodation and food:** Tourism promotes demand for local services, creating more jobs and benefiting the economy of the regions visited (such as gastronomy).
 
 ### Practical tips for making the most of your cultural visit by bike
 
 To explore historic villages by bike, it's important to follow a few practical tips:
 
-* Planning is essential: Know the routes in advance and plan the distances to ensure you have enough time to cycle and explore.
-* Use technology: Use specific GPS apps for cyclists, with information on altimetry and route conditions.
-* Choose the right bike: For uneven terrain and cobbled streets, opt for a mountain bike.
-* Travel light: Take only what you need and wear safety equipment such as a helmet and visible clothing.
-* Prepare for the unexpected: Check the brakes, have basic tools and be aware of the weather conditions.
+* **Planning is essential:** Know the routes in advance and plan the distances to ensure you have enough time to cycle and explore.
+* **Use technology:** Use specific GPS apps for cyclists, with information on altimetry and route conditions.
+* **Choose the right bike:** For uneven terrain and cobbled streets, opt for a mountain bike.
+* **Travel light:** Take only what you need and wear safety equipment such as a helmet and visible clothing.
+* **Prepare for the unexpected:** Check the brakes, have basic tools and be aware of the weather conditions.
 
 These are simple but effective tips to ensure an unforgettable experience.
 
@@ -69,8 +69,8 @@ These are simple but effective tips to ensure an unforgettable experience.
 
 Respect is essential when cycling in historic areas:
 
-* Preserve spaces: Follow the marked trails and avoid sensitive areas.
-* Respect local communities: Interact politely and value traditions.
-* Take care of the environment: Don't litter and be a conscious traveler.
+* **Preserve spaces:** Follow the marked trails and avoid sensitive areas.
+* **Respect local communities:** Interact politely and value traditions.
+* **Take care of the environment:** Don't litter and be a conscious traveler.
 
 Exploring historical heritage sites by bike is more than an adventure; it's a way of experiencing the best that Portugal has to offer while contributing to the preservation of its legacy.
