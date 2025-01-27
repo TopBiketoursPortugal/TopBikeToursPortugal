@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-path: /glog/The-Role-of-Bicycle-Tours-in-Promoting-Sustainable-Tourism
+path: /blog/The-Role-of-Bicycle-Tours-in-Promoting-Sustainable-Tourism
 showHome: false
 title: The Role of Bike Tours in Promoting Sustainable Tourism in Portugal
 language: en
