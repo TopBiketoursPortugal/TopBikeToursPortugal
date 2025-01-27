@@ -3,7 +3,7 @@ templateKey: blog-post
 path: /blog/O-Papel-das-Bike-Tours-na Promocao-do-Turismo-Sustentavel-em-Portugal
 showHome: false
 title: O Papel das Bike Tours na Promoção do Turismo Sustentável em Portugal
-language: en
+language: pt
 date: 2025-01-27T11:42:44.110Z
 featuredImage: /img/discover-how-bike-tours-.jpg
 featuredImagePosition: center center
