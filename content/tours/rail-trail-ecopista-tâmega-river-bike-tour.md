@@ -6,15 +6,14 @@ productcode: CT 09
 featured: false
 language: en
 image: /img/bike-tour-douro-valley-photo-8.png
-title: Douro Valley full day bike tour
+title: Douro Valley Full-Day Bike Tour | Top Bike Tours Portugal
 packagetype: SingleTour
 tourtype: Bike
 meta:
-  title: Douro Valley full day bike tour
-  description: Cycle in the Douro valley trough vineyards and conquest the great
-    views of Douro river. Visit Douro wine farms and great viewpoints and take
-    photos of the cycling day to remember your bike tour. Vila Real, Régua,
-    Pinhão, Lamego and Tua are places not to miss.
+  title: Douro Valley Full-Day Bike Tour | Top Bike Tours Portugal
+  description: Experience a Douro Valley bike tour with stunning vineyard routes,
+    scenic viewpoints, and local wine farm visits in Portugal. Book your tour
+    today!
   keywords: cycle in douro, bike tours douro valley, bike tours régua, bike tours pinhão
   robots: INDEX
 minAge: 16
@@ -27,29 +26,29 @@ difficulty: 1
 mapUrl: https://www.google.com/maps/d/u/1/embed?mid=1XlRdmzP_1pcMaHZxY4GOjww5Akse-FW3
 itinerary:
   - day: "0"
-    title: Guided bike tour
-    description: "Pick up 8:30 am and estimated end ant 7 pm: Vila Real - Régua -
-      Lamego - Pinhão: 25 km, 50 km or 77 km"
+    title: Guided bike tour (full-day schedule)
+    description: "Pick up at 8:30 am and estimated end at 7 pm: Vila Real - Régua -
+      Lamego - Pinhão: 25 km, 50 km, or 77 km"
     location:
       lat: "1"
       lng: "1"
   - day: "1"
-    title: "Self guided Option 1: 8h00 Pick up in Porto district and transfer to
-      Vila Real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77
+    title: "Self-guided Option 1: 8h00 Pick up in Porto district and transfer to
+      Vila Real: Route: Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km, or 77
       km"
     location:
       lat: "1"
       lng: "1"
-    description: "Self guided Option 2: 8h00 Pick up in Porto district and transfer
+    description: "Self-guided Option 2: 8h00 Pick up in Porto district and transfer
       to Vila Real: Route: Vila Real - Régua - Lamego: 40 km"
   - day: "2"
-    title: "Self guided Option 1: Lamego - Pinhão: 35 km and Transfer back to Porto"
-    description: "Self guided Option 2: extra day in Pinhão: Route: Lamego - Pinhão: 35 km"
+    title: "Self-guided Option 1: Lamego - Pinhão: 35 km and Transfer back to Porto"
+    description: "Self-guided Option 2: extra day in Pinhão: Route: Lamego - Pinhão: 35 km"
     location:
       lat: "1"
       lng: "1"
   - day: "3"
-    title: "Self guided Option 2: Transfer back to Porto"
+    title: "Self-guided Option 2: Transfer back to Porto"
     location:
       lat: "1"
       lng: "1"
@@ -195,6 +194,8 @@ pricing:
     price: 535
     observations: ""
 afterpricing: |-
+  ## Douro Valley Bike Tour – Seasons & Pricing Observations
+
   **\*Season:**
 
   * LS - Low season: Nov 01 to Mar 25
@@ -204,10 +205,10 @@ afterpricing: |-
 
   **Observations:**
 
-  * Prices are based for 2 people sharing the same room;
-  * Prices can suffer updates due high season, holidays or weekends
+  * Prices are based on 2 people sharing the same room;
+  * Prices can suffer updates due to high season, holidays, or weekends
   * Beverages are not included at lunch and dinner when included in the package
-  * Tickets to visit farms and wineries not included in the price package
+  * Tickets to visit farms and wineries are not included in the price package
 
   **Extras**
 
@@ -215,7 +216,7 @@ afterpricing: |-
   * Electric bicycles price Option 2: 90€
   * Supplement for single room option 1: 140€
   * Supplement for single room option 2: 280€ 
-  * Solo traveler: 170 €
+  * Solo traveller: 170 €
   * Extra nights: on request
 feature:
   align: center
@@ -228,43 +229,43 @@ feature:
   image: /img/44817961982_440e783762_o.jpg
   bokunLinkText: Book now
 ---
-# **Douro Valley full day Bicycle tour**
+# **Douro Valley full day**
 
-## Know the most popular places in Douro Valley with us
+## **Discover Douro Valley cycling routes & scenic vineyards**
 
-The ride will start In Vila Real and the route will be made in a old rail trail, that is now a easy dirt track. We also have a route available for road bikes if that is the style of your group. 
+The ride will start in Vila Real and follow an old rail trail, now an easy dirt track, for a unique bike tour in Douro Valley Portugal. We also have a route available for road bikes if that is the style of your group. 
 
-The views will be breathtaking...vineyards, farms and the famous Douro river in the picture.
+The views will be breathtaking - vineyards, farms and the famous Douro River in the picture.
 
-In a full day it is possible to visit 1 Farm. The plan is to cycle in the morning, lunch, visit some viewpoints and farms (Lunch, Tickets to visit farms and wineries not included in the price package)
+In a full day, it is possible to visit 1 Farm. The plan is to cycle in the morning, have lunch, and visit some viewpoints and farms (lunch and tickets to visit farms and wineries are not included in the price package)
 
-To have a more relaxing time to explore the area 3 different options are offered in 3 different package.
+To have a more relaxing time to explore the area 3 different options are offered in 3 different packages.
 \
 \
-**Route description:**
+**Douro Valley bike tour route description:**
 
 * Routes available with 25 km, 50 km or 77 km
-* The first 22 km are going in a descent way and the rest of the route can be in a uphill till Lamedo or relatively flat till Pinhão. It is also possible to do all the route.
-* This easy bike tour can be adapted to be more challenged (difficult)
-* In Self guided the bike tour will have a moderate climb of 15 km. Book a electric bicycle to make the route very easy.
+* The first 22 km are going in a descent way and the rest of the route can be in an uphill till Lamedo or relatively flat till Pinhão. It is also possible to do all the routes.
+* This easy bike tour can be adapted to be more challenging (difficult)
+* The Self guided the bike tour will have a moderate climb of 15 km. Book a electric bicycle to make the route very easy.
   \
   \
-    **Itinerary Supported Bike tour:**
+  **Itinerary – supported Douro Valley bike tour**
   \
   **Day 1:**  Vila Real - Régua - Lamego - Pinhão: 25 km, 50 km or 77 km
   \
   \
-  **Itinerary Self guided bike tour Option 1;**
+  **Itinerary – self-guided bike tour (Option 1)**
   \
   **Day 1:** Transfer from Porto to Vila Real:
 * Vila Real - Régua - Lamego: 40 km
 * Sleep in Farm: [](https://www.casadacalcada.com/)[Hotel rural Visconde Varzea](https://www.hotelruralviscondesvarzea.com/)
   \
   **Day 2:** Lamego - Pinhão: 35 km
-* Trasnfer back to Porto
+* Transfer back to Porto
   \
   \
-    **Itinerary Self guided bike tour Option 2:**
+   **Itinerary – self-guided bike tour (Option 2)**
   \
   **Day 1:** Transfer from Porto to Vila Real:
 * Vila Real - Régua - Lamego: 40 km
