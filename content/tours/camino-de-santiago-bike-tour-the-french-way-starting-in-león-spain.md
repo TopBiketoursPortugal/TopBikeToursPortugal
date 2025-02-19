@@ -353,9 +353,9 @@ feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
   imageAlign: center
-  subtitle: Guided and unguided cycling tours Portugal
+  subtitle: Camino De Santiago guided and unguided cycling tours
   textcolor: white
-  title: Guided and unguided cycling tours Portugal
+  title: Camino De Santiago guided and unguided cycling tours
 ---
 # Camino de Santiago Bike tour
 
