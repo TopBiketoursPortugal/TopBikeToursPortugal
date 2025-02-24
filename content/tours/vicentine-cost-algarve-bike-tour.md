@@ -26,13 +26,12 @@ tags:
   - southwest bike tour
 meta:
   description: >
-    Do you wanna try cycling in Alentejo and Algarve? Check the curated tours
-    we,Top Bike Tours Portugal, created. The best cycling experiences with the
-    best guides!
+    Enjoy an unforgettable Vicentine Coast & Algarve bike tour. Cycle with local
+    experts and discover Portugal’s stunning southern landscapes.
   keywords: Vicentine Coast to Algarve cycling holiday, alentejo bike tour,
     algarve bike tour, Alentejo southwest bike tour
   robots: INDEX
-  title: Bike Tour in Vicentine Coast & Algarve - Top Bike Tours Portugal
+  title: Vicentine Coast & Algarve Bike Tours | Top Bike Tours Portugal
 groupSizeMax: 1
 groupSizeMin: -2
 minAge: 1
@@ -49,12 +48,12 @@ itinerary:
     description: "The journey starts in the city of Lisbon, Portugal's capital. This
       city has been influenced by many different cultures over the course of its
       history and it still maintains a village feeling in each historic
-      neighborhood. The wide variety of landscapes and heritage is always close
-      by, whether inj the north or south of the capital. Fado, prevalent in
+      neighbourhood. The wide variety of landscapes and heritage is always close
+      by, whether in the north or south of the capital. Fado, prevalent in
       Lisbon, is a Portuguese traditional music style and is an expression of
       what it is to be Portuguese. It has been awarded the World Heritage
       status. You can hear it at night in a fado house or in a traditional
-      neighborhood. Hotel 4 *: [Hotel Lisboa](http://www.hotellisboa.com.pt/)
+      neighbourhood. Hotel 4 *: [Hotel Lisboa](http://www.hotellisboa.com.pt/)
       [](https://www.turim-hotels.com/hoteis/-141)or Hotel 5 stars: TURIM
       Boulevard Hotel (included in premium option)"
     location:
@@ -65,13 +64,13 @@ itinerary:
     description: "Cycle through some lovely Portuguese cities, like the city of
       Montijo, strongly marked by the river. Like most of the localities of
       Ribatejo, Montijo has the tradition of the “brava” celebration, being
-      bulls an bullfights an essential characteristic of the city's parties.
+      bulls and bullfights an essential characteristic of the city's parties.
       Enter Pinhal Novo, which used to be the biggest vineyard in the country
       and, nowadays, it's an expanding urban centre. It is located near the
-      Arrabida Natural Park. Bike along the pine brushed coastline of Parque
+      Arrabida Natural Park. Bike along the pine-brushed coastline of Parque
       Natural da Arrábida. End this first journey on a ferry to the pristine
       setting of the Tróia Peninsula, unquestionably one of Portugal's best-kept
-      secrets. The peninsula's stands at the tip of a narrow spit of land
+      secrets. The peninsula stands at the tip of a narrow spit of land
       comprised mostly of white sandy beaches fringed with shifting dunes and
       emerald pine forests. Much of the territory is set within the confines of
       a nature reserve, the Reserva Natural do Estuário do Sado, a protected
@@ -91,11 +90,11 @@ itinerary:
       forest that protects Santo André is a good example of the harmonious
       respect between the protection of the environment and the industrial
       development. Cycle through Comporta, a protected nature reserve and once
-      fisherman village, now famous for its paradisiacal looking beaches, of
+      fisherman village, now famous for its paradisiacal-looking beaches, of
       great quality, and mild weather during the summer. Finishing the day you
       will be passing through the village of Melides, which dates back to the
       XIXth century. This village emerged as a small clump of fishermen and
-      farmers. Its inhabitants are mainly dedicated into farming the land and
+      farmers. Its inhabitants are mainly dedicated to farming the land and
       handcraft activities, such as pottery and the making of cork stoppers.
       Hotel 4 *: [Vila Parque Hotel](https://www.vilapark.com/) or Hotel 4
       stars: [Octant Hotels Santiago](https://www.santiago.octanthotels.com/)
@@ -106,26 +105,26 @@ itinerary:
     title: Day 3 - Troia - Vila Nova de Santo André (66 Km)
   - day: "4"
     description: "You will cycle in the direction of Milfontes. Milfontes is the
-      perfect combination of History and Nature, because it is situated on a
+      perfect combination of History and Nature because it is situated on a
       beautiful coastline and it has been a region often raided by pirates. You
       will have the opportunity to discover the city of Sines where Vasco da
       Gama was born, the Portuguese explorer and first European to reach India
       by sea, connecting the West and the Orient in the 15th century. Nowadays
-      it's remarkably known for receiving 50% of the countries’ exportations. In
-      the village of Porto Covo is one of the most sought after by locals and
+      it's remarkably known for receiving 50% of the countries’ exportations.
+      The village of Porto Covo is one of the most sought-after by locals and
       tourists. With a spacious and sheltered beach, \"Praia Grande\", it is one
-      of the busiest during the summer. Hotel 4 *: [Hotel HS
-      MIlfontes](https://hsmilfontesbeach.com/pt/) or upgrade to superior room
-      in \"Premium\" option"
+      of the busiest during the summer.Hotel 4 *: [Hotel HS
+      MIlfontes](https://hsmilfontesbeach.com/pt/) or upgrade to a superior room
+      in the \"Premium\" option"
     location:
       lat: "37.72243336"
       lng: "-8.78589749"
     title: Day 4 – Vila Nova de Santo André – Vila Nova de Mil Fontes (55 km)
   - day: "5"
     description: "Quieter than Vila Nova de Milfontes, Zambujeira do Mar attracts
-      more of a backpacker and surf crowd. Being a small sea side town on the
-      coast of Alentejo, in western Portugal, it has some lovely sandy beaches
-      and picture perfect traditional architecture, making it a small but loved
+      more backpackers and surfers. Being a small seaside town on the coast of
+      Alentejo, in western Portugal, it has some lovely sandy beaches and
+      picture-perfect traditional architecture, making it a small but loved
       destination for visitors. The town has some charming traditional
       buildings. Among the most notable ones are the fountains of Amores and
       Santa Catarina and the small, whitewashed chapel of Nossa Senhora do Mar.
@@ -137,55 +136,55 @@ itinerary:
       lng: "-8.7853986"
     title: Day 5 – VNMF – Zambujeira do Mar (40 km)
   - day: "6"
-    description: "First you will be passing by Aljezur, an attractive village that
+    description: "First, you will be passing by Aljezur, an attractive village that
       straddles a river, its western part is Moorish, with a collection of
-      cottages below a ruined 10th century hilltop castle. Vestiges of the old
+      cottages below a ruined 10th-century hilltop castle. Vestiges of the old
       harbour can be seen in the narrow alleys that give access to the Ribeira
       de Aljezur. The 40km of coastline around Aljezur offers some of the most
       pristine and scenic beaches in Europe, with the whole area of river
-      estuaries, sheer cliffs and dense marshes rich in bird and animal life. As
-      the Alentejo turns into Algarve, the last coastal settlement is Odeceixe,
-      an endearing small town with a beach classified as one of the 7 Wonders.
-      The beach presents high quality landscape and biodiversity, being able to
-      enjoy a landscape of rare and enormous beauty of the top of the cliffs. It
-      is in fact in this Natural Park, the only place in the world where you can
-      observe the storks that nest on the cliffs. Hotel 4 *: [Hotel
-      vicentina](http://www.vicentinahotel.com/) or Farm: [ Herdade do Monte do
-      Sol](https://www.herdademontedosol.com/) (included in premium option)"
+      estuaries, sheer cliffs, and dense marshes rich in bird and animal life.
+      As the Alentejo turns into the Algarve, the last coastal settlement is
+      Odeceixe, an endearing small town with a beach classified as one of the 7
+      Wonders. The beach presents a high-quality landscape and biodiversity,
+      being able to enjoy a landscape of rare and enormous beauty at the top of
+      the cliffs. It is in fact in this Natural Park, the only place in the
+      world where you can observe the storks that nest on the cliffs**.** Hotel
+      4 *: [Hotel Vicentina](http://www.vicentinahotel.com/) or Farm: [ Herdade
+      do Monte do Sol](https://www.herdademontedosol.com/) (included in premium
+      option)"
     location:
       lat: "37.3172097"
       lng: "-8.79592627"
     title: Day 6 – Zambujeira do Mar – Aljezur (45 km)
   - day: "7"
-    description: "Leaving Aljezur to enter the surf-central Carrapateira,
-      a  peaceful village with two nearby beaches with strong swells, which
-      commonly attract surfers and visitors from Lisbon. The coast along this
-      area is wild, with copper-coloured and ash-grey cliffs. Its landmarks
-      include an old fort, a church and its high reddish rock formations, that
-      look deceptively similar to Cape St. Vincent, in the southwest corner of
-      Portugal. Carrapateira was traditionally a dangerous area for sailing
-      ships. The extremely fast southbound current and the jutting headland that
-      made it a dangerous lure for shipwrecks in the past, also creates the
-      conditions which have made it a popular surfing destination in recent
-      years. Hotel [Aldeia de Pedralva](https://www.aldeiadapedralva.com/) or
-      Hotel 4 stars : [Casa fajara](https://www.casafajara.com/) (included in
-      premium option)"
+    description: "Leaving Aljezur to enter the surf-central Carrapateira, a peaceful
+      village with two nearby beaches with strong swells, which commonly attract
+      surfers and visitors from Lisbon. The coast along this area is wild, with
+      copper-coloured and ash-grey cliffs. Its landmarks include an old fort, a
+      church, and its high reddish rock formations, which look deceptively
+      similar to Cape St. Vincent, in the southwest corner of Portugal.
+      Carrapateira was traditionally a dangerous area for sailing ships. The
+      extremely fast southbound current and the jutting headland that made it a
+      dangerous lure for shipwrecks in the past also create the conditions that
+      have made it a popular surfing destination in recent years. Hotel [Aldeia
+      de Pedralva](https://www.aldeiadapedralva.com/) or Hotel 4 stars: [Casa
+      Fajara](https://www.casafajara.com/) (included in premium option)"
     location:
       lat: "37.18373374"
       lng: "-8.89505267"
     title: Day 7 – Aljezur – Carrapateira (30 km)
   - day: "8"
     description: "A region of dramatic natural scenery, comprising of raging seas,
-      towering cliffs and vast beaches, you are now cycling towards Sagres.
-      There is little of historical or architectural interest as the original
-      town bore the full brunt of the 1755 earthquake. Situated within a few
-      kilometers from Europe's most south western point, stands Cape St.
-      Vincent. The ferocious waves of the Atlantic Ocean pound the massive
-      cliffs, while high above the immensely lighthouse, a light warns ships of
-      the existence of these dangerous cliffs. The narrow streets which surround
-      the main church contain many houses typical of the old Algarve, with
-      whitewashed walls, bands of bright color, carved stonework around doors
-      and windows. Hotel 4 *: [Pousada
+      towering cliffs, and vast beaches, you are now cycling toward Sagres.
+      There is little historical or architectural interest as the original town
+      bore the full brunt of the 1755 earthquake. Situated within a few
+      kilometres from Europe's most southwestern point, stands Cape St. Vincent.
+      The ferocious waves of the Atlantic Ocean pound the massive cliffs, while
+      high above the immense lighthouse, a light warns ships of the existence of
+      these dangerous cliffs. The narrow streets that surround the main church
+      contain many houses typical of the old Algarve, with whitewashed walls,
+      bands of bright color, and carved stonework around doors and windows.
+      Hotel 4 *: [Pousada
       Sagres](https://www.pousadas.pt/en/hotel/pousada-sagres?utm_source=google\
       -my-businessde%20portas%20e%20janelas.%20Ho&utm_medium=organicsearch&utm_\
       campaign=pousada-sagres/) or Hotel 4 stars: [Memmo
@@ -198,23 +197,23 @@ itinerary:
   - day: "9"
     description: 'Lying along the bank of the Rio Bensafrim, with XVIth century
       walls enclosing the old town, we have Lagos. Lagos is a historic and
-      lively city that offers visitors glorious beaches, nightlife and a
-      charming historical center. Extending to the east of Lagos, you can found
+      lively city that offers visitors glorious beaches, nightlife, and a
+      charming historical centre. Extending to the east of Lagos, you can find
       the 4km long "Meia Praia" Beach, which is the longest sandy beach on the
       western side of the Algarve. Aside from its hedonistic appeal, Lagos has
       historical clout, having launched many naval excursions during the
       Portuguese Age of Discoveries. Located about halfway between Lagos and
       Sagres there’s a picturesque fishing village, the little village of
-      Salema. It is a paradise to those who are seeking tranquility and an
+      Salema. It is a paradise for those who are seeking tranquillity and an
       escape from the crowded areas, where biking opportunities abound. The
       village is home to a number of fishermen who still cast their nets daily
       and moor their fishing boats on the shore. Finishing off this ride,
-      blessed with both a beautiful beach and glorious climate, the "Luz" beach
-      has a welcoming and friendly atmosphere, as the town has a significant
-      permanent community of retired or emigrated expats. You’ll surely enjoy
-      having the last stop of this fulfilling trip, in this amazingly, beautiful
-      beach with lots of sights that provide a lovely and relaxing place to
-      rest. Hotel 4 *: [Tivoli
+      blessed with both a beautiful beach and a glorious climate, the "Luz"
+      beach has a welcoming and friendly atmosphere, as the town has a
+      significant permanent community of retired or emigrated expats. You’ll
+      surely enjoy having the last stop of this fulfilling trip, in this
+      amazingly, beautiful beach with lots of sights that provide a lovely and
+      relaxing place to rest. Hotel 4 *: [Tivoli
       Lagos](https://www.tivolihotels.com/en/tivoli-lagos?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)
       or Hotel 5 stars: [Cascade Wellness and Lifestyle
       Resort](https://www.cascaderesortalgarve.com/alojamento) (included in
@@ -409,6 +408,9 @@ pricing:
     price: 3279
     type: "1"
 afterpricing: >-
+  ## Tour Season & Pricing Observations
+
+
   **\*Season:**
 
 
@@ -424,70 +426,70 @@ afterpricing: >-
   **Observations:**
 
 
-  * Prices are based for 2 people sharing the same standard room;
+  * Prices are based on 2 people sharing the same standard room;
 
   * Sea view (when available) or premium rooms, price on request;
 
-  * Prices can suffer updates due high season, holidays or weekends
+  * Prices can suffer updates due to high season, holidays, or weekends
 
-  * Beverages are not included in Self Guided and Guided option when meals are booked
+  * Beverages are not included in the self Guided and Guided options when meals are booked
 
-  * Selected drinks are included in Premium package when meals are booked
+  * Selected drinks are included in the Premium package when meals are booked
 
   * If in a triple room with parents Children up to 10 years old - 35% discount. Children from 11 to 14 years old - 20% discount. Children from 15 to 17 years old - 15% discount. 
-
-  * In the option 7 nights/ 8 days, 6 light lunches are included in all packages, and 6 dinners are included only in the Guided Hiking tour Plus package
 
 
   **Extras**
 
 
-  * Electric bicycles price: 270€ (360 € for the 9 night package)
+  * Electric bicycles price: 270€ (360 € for the 9-night package)
 
   * Supplement for single room : LS: 480€, RS: 510€, HS: 540€, SS:570€ (Premium option plus 340€)
 
   * Supplement for single room reduced option: LS: 390€, RS: 420€, HS: 450€, SS.480€ (Premium option plus 250€)
 
-  * Solo traveler: 290 €
+  * Solo traveller: 290 €
 
-  * Solo traveler reduced option: 200 €
+  * Solo traveller reduced option: 200 €
 
   * Extra nights: on request
 
   * Private group price on request
 
-  * City taxes is not included in the price package (approximately 2€ per person per night - payable on site - in Lisbon city tax is 4€ per person per night) 
+  * City taxes are not included in the price package (approximately 2€ per person per night - payable on-site - in Lisbon city tax is 4€ per person per night) 
 
-  * Ferry (boat) in river / lake crossing is not included in price package (approximately 2€ to 10€ per person)
+  * Ferry (boat) in river/lake crossing is not included in the price package (approximately 2€ to 10€ per person)
 feature:
   align: center
   image: /img/furadouro-forest-in-a-bicycle.jpg
   imageAlign: center
-  subtitle: Guided and unguided cycling tours Portugal
+  subtitle: Guided and unguided cycling tours in South Portugal
   textcolor: white
-  title: Guided and unguided cycling tours Portugal
+  title: Guided and unguided cycling tours in South Portugal
 ---
 # Vicentine Coast and Algarve Bike Tour
 
-## From Lisbon or Sines to the south of Portugal through the coastline
+## **Explore the Algarve: From Lisbon or Sines to Portugal’s Southern Coastline**
 
 \
 \
-An amazing biketour through one of Europe's best preserved regions. The southeast Alentejano Natural Park includes wild beaches surrounded by imposing cliffs, small mountain ranges, cork oak groves, traditional fishing villages, typical villages, spectacular views and important geographical points, such as Cape Sardão, the Cape of São Vicente, from where the caravels left for seas never before navigated, and Ponta de Sagres.
+An amazing bike tour through one of Europe's best-preserved regions and one of the best bike tours in Algarve. The southeast Alentejano Natural Park includes wild beaches surrounded by imposing cliffs, small mountain ranges, cork oak groves, traditional fishing villages, typical villages, spectacular views, and important geographical points, such as Cape Sardão, the Cape of São Vicente, from where the caravels left for seas never before navigated, and Ponta de Sagres.
 
-January to June or October to December is our recomendation for you to do this bike tour. It can get quite hot during the summer season, and that is something you should be aware of, if you decide to cycle in July, August or September.
+We recommend you take this bike tour either between January & June or between October & December. It can get quite hot during the summer season, and that is something you should be aware of, if you decide to cycle in July, August, or September.
 
 Average temperatures in the Algarve, south of Portugal, are usually around 17ºC, and the weather is always sunny or partially sunny, as it is rare for it to rain in the southern regions, even during the winter.
 
+### \
 \
-\
-**Route description:**
+**Algarve cycle tour route description:**
 
 * Mostly flat. Some short and steep climbs, especially in the last day.
 * 40 % secondary paved roads with low traffic, 40% dirt roads near the ocean and agricultural farms.
 * 3628 meters ascent and 3637 meters descent
 
-**Intinerary:**\
+
+
+## **Vicentine Coast & Algarve bike tour itinerary**\
 \
 Day 1 – Lisbon
 

@@ -3,6 +3,8 @@ const _ = require("lodash");
 const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 // const { fmImagesToRelative } = require('gatsby-remark-relative-images')
+const EventEmitter = require("events");
+EventEmitter.defaultMaxListeners = 40;
 
 exports.createPages = ({ actions, graphql }) => {
   // console.log("Starting createPages");
@@ -87,8 +89,8 @@ exports.createPages = ({ actions, graphql }) => {
           // additional data can be passed via context
           context: {
             id,
-            language,
-          },
+            language
+          }
         });
       } catch (error) {
         // console.log(edge.node.frontmatter.templateKey);
@@ -115,8 +117,8 @@ exports.createPages = ({ actions, graphql }) => {
         path: tagPath,
         component: path.resolve(`src/templates/tags.js`),
         context: {
-          tag,
-        },
+          tag
+        }
       });
     });
   });
@@ -138,7 +140,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value
     });
 
     if (_.get(node, "frontmatter.slug")) {
@@ -175,7 +177,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       node,
       name: `contentType`,
-      value: parsedFilePath.dir,
+      value: parsedFilePath.dir
     });
 
     //add lankey to node fields
@@ -187,7 +189,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       node,
       name: `langKey`,
-      value: langKey,
+      value: langKey
     });
 
     //Create localized path
@@ -198,7 +200,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
         langKey === languages.defaultLangKey ||
         node.frontmatter.language === languages.defaultLangKey
           ? node.frontmatter.path || slug
-          : `/${langKey}${slug}/`,
+          : `/${langKey}${slug}/`
     });
   }
 };
@@ -261,7 +263,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       showHome: Boolean
       author: Author
     }
-    
+
   `;
   createTypes(typeDefs);
 };

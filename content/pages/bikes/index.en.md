@@ -2,7 +2,7 @@
 templateKey: bikes-page
 language: en
 path: /rent-bike-porto-portugal/
-title: Bikes
+title: Bike Rental Porto | E-Bike Rental | Top Bike Tours Portugal
 afterequipment: >-
   **Cycling holidays Equipment**
 
@@ -59,43 +59,43 @@ equipment:
   - description: |-
       **Trek X-Caliber 7**
 
-      * 18 gears with shimano group set
+      * 18 gears with Shimano group set
 
       **Specialized Women's Pitch Comp 27.5**
 
-      * 27 gears with shimano group set
+      * 27 gears with Shimano group set
     type: Mountain Bike - MTB
   - description: |-
       **KTM Macina electric bicycle 500 wh**
 
-      * 9 gears with shimano group set
+      * 9 gears with Shimano group set
       * Bosch electric motor
 
       **Cube Acid 500 wh electric bicycle**
 
-      * 9 gears with shimano group set
+      * 9 gears with Shimano group set
       * Bosch electric motor
 
       **Cube Touring 500 wh e-bike  Scott Sub Cross Eride 10 Unisex**
 
-      * 10 gears with shimano group set
+      * 10 gears with Shimano group set
       * Bosch electric motor
 
       **Atala B easy 9.2**
 
-      * 9 gears with shimano group set
+      * 9 gears with Shimano group set
       * Bosch electric motor
 
-      **O﻿ther models and brands available all with Bosch motor**
+      **O﻿ther models and brands are all available all with a Bosch motor**
     type: Electric Bicycles
 meta:
-  description: Don't know wich bike to chose? We offer high-quality bikes for your
-    perfect cycling journey. Chack all the bikes and tours in Top Bike Tours
-    Portugal.
+  description: "Rent a bike in Porto for self-guided or guided tours. Quality
+    bikes, expert support, & unforgettable experiences. Choose from hybrid,
+    road, or e-bikes. "
   keywords: Cycling Tours Portugal, cycling holidays in nature,bike tours, bike
     tours portugal,guided bike tours
   robots: INDEX
-  title: "Rent a Bike in Porto: Bikes Available - Top Bike Tours Portugal"
+  title: Bike Rental Porto | E-Bike Rental | Top Bike Tours Portugal
 feature:
   align: center
   image: /img/dirt-path-with-bicycles.jpg
@@ -104,8 +104,8 @@ feature:
   textcolor: white
   title: The Way of St. James - The Coast Route "easy"
 ---
-# Our Bicycles
+# **Bike Rental in Porto – Hybrid, Road & E-Bikes Available**
 
-**IMPORTANTE NOTE:**  The bicycles shown in the images below are only used in our bike tours. They are not available for rental services. **WE DO NOT RENT BICYCLES FOR LONG DISTANCES! WE WILL NOT REPLY TO ANY EMAIL REQUESTING BIKE RENTAL SERVICES**
+**IMPORTANT NOTE:**  The bicycles shown in the images below are only used in our bike tours. They are not available for rental services. **WE DO NOT RENT BICYCLES FOR LONG DISTANCES! WE WILL NOT REPLY TO ANY EMAIL REQUESTING BIKE RENTAL SERVICES**
 
-Please [contact us](https://topbiketoursportugal.com/contacts/) for a cycling holiday package.
+If you want to ride through Portugal on one of our high-quality bikes then [contact us](https://topbiketoursportugal.com/contacts/) today for a cycling holiday you’ll never forget.
